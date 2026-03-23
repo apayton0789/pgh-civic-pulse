@@ -1,0 +1,845 @@
+{
+  "pa_legislature": {
+    "session": "2025-2026 Regular Session (biennial)",
+    "session_end": "November 30, 2026",
+    "house_reconvenes": "March 23, 2026",
+    "senate_reconvenes": "March 16, 2026",
+    "budget_deadline": "June 30, 2026",
+    "primary_election": "May 19, 2026",
+    "split_control": "Democrats control House by 1 seat; Republicans control Senate",
+    "key_notes": [
+      "February-March 2026: Legislative recess for Governor's FY 2026-27 budget hearings (currently ongoing as of March 15, 2026)",
+      "Budget deadline: June 30, 2026 (FY 2026-27 budget due)",
+      "2025 budget was 135 days late (signed November 12, 2025) \u2014 transit funding was core unresolved issue",
+      "All House seats and even-numbered Senate seats up for election November 2026",
+      "Democrats control House by ONE seat; Republicans control Senate",
+      "May 19, 2026: Primary elections (candidate petitions due; deadline passed March 11, 2026)"
+    ],
+    "house_session_dates": {
+      "march": [
+        "23",
+        "24",
+        "25"
+      ],
+      "april": [
+        "13",
+        "14",
+        "15",
+        "27",
+        "28",
+        "29"
+      ],
+      "may": [
+        "4",
+        "5",
+        "6"
+      ],
+      "june": [
+        "1",
+        "2",
+        "3",
+        "8",
+        "9",
+        "10",
+        "15",
+        "16",
+        "17",
+        "22-30"
+      ],
+      "september": [
+        "28",
+        "29",
+        "30"
+      ],
+      "october": [
+        "5",
+        "6",
+        "7",
+        "19",
+        "20",
+        "21"
+      ],
+      "november": [
+        "9",
+        "10"
+      ],
+      "notes": "Next session: House reconvenes Monday March 23, 2026"
+    },
+    "senate_session_dates": {
+      "march": [
+        "16",
+        "17",
+        "18",
+        "23",
+        "24",
+        "25"
+      ],
+      "april": [
+        "20",
+        "21",
+        "22"
+      ],
+      "may": [
+        "4",
+        "5",
+        "6"
+      ],
+      "june": [
+        "1",
+        "2",
+        "3",
+        "8",
+        "9",
+        "10",
+        "22-26",
+        "29",
+        "30"
+      ],
+      "notes": "No Sept/Oct/Nov dates yet published for Senate"
+    }
+  },
+  "active_bills": [
+    {
+      "category": "Transit Funding",
+      "bill_number": "HB 1364",
+      "session": "2025-2026",
+      "title": "Public Transportation Trust Fund Transfers and Increases",
+      "short_description": "Governor Shapiro's plan to fund transit in all 67 counties. Creates Road and Bridge Project Fund, Transportation Funding Advisory Commission, authorizes CFA bonds for road/bridge projects.",
+      "status": "Passed House 107-96 on June 17, 2025. Referred to Senate Transportation Committee June 18, 2025. STALLED in Senate.",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb1364",
+      "pittsburgh_impact": "Would provide $292M in new recurring transit funding growing to $1.5B over 5 years, directly benefiting PRT.",
+      "notes": "Senate Republican leadership blocked; PRT used $106.7M in capital funds to cover operating deficit instead."
+    },
+    {
+      "category": "Transit Funding",
+      "bill_number": "HB 1523",
+      "session": "2025-2026",
+      "sponsors": [
+        "Rep. Jessica Benham (D-36)",
+        "Rep. Aerion Abney (D-19)"
+      ],
+      "title": "Transit for All PA legislative package \u2014 House companion",
+      "short_description": "Would raise dedicated, sufficient revenue for PA transit systems statewide including PRT. Part of the Transit for All PA coalition package.",
+      "status": "Introduced; House side of bipartisan transit funding package",
+      "pittsburgh_impact": "PRT funding stabilization; would address structural $100M+ annual deficit",
+      "source": "https://www.transitforallpa.org/transit-for-all-pa-statement-on-the-passage-of-the-2025-26-state-budget/"
+    },
+    {
+      "category": "Transit Funding",
+      "bill_number": "HB 1524",
+      "session": "2025-2026",
+      "sponsors": [
+        "Rep. Jessica Benham (D-36)",
+        "Rep. Aerion Abney (D-19)"
+      ],
+      "title": "Transit for All PA legislative package \u2014 House companion (2)",
+      "short_description": "Part of the five-bill Transit for All PA House package.",
+      "status": "Introduced; passed House as part of five-bill package; Senate stalled",
+      "pittsburgh_impact": "Same as HB 1523 \u2014 PRT funding"
+    },
+    {
+      "category": "Transit Funding",
+      "bill_number": "SB 795",
+      "session": "2025-2026",
+      "sponsors": [
+        "Sen. Nikil Saval (D-1)",
+        "Sen. Lindsey Williams (D-38, Allegheny)"
+      ],
+      "title": "Transit for All PA \u2014 Senate companion",
+      "short_description": "Senate version of dedicated revenue for PA transit systems.",
+      "status": "Introduced; Senate Republican leadership has not scheduled for floor vote",
+      "pittsburgh_impact": "Permanent solution to PRT's structural funding gap"
+    },
+    {
+      "category": "Transit Funding",
+      "bill_number": "SB 796",
+      "session": "2025-2026",
+      "sponsors": [
+        "Sen. Nikil Saval (D-1)",
+        "Sen. Lindsey Williams (D-38, Allegheny)"
+      ],
+      "title": "Transit for All PA \u2014 Senate companion (2)",
+      "short_description": "Companion bill in Senate for expanded transit funding.",
+      "status": "Introduced; stalled in Senate",
+      "pittsburgh_impact": "PRT funding"
+    },
+    {
+      "category": "Housing / Zoning Reform",
+      "bill_number": "HB 2185",
+      "session": "2025-2026",
+      "sponsor": "Rep. John Inglis (D-38, Allegheny)",
+      "title": "Middle Housing Zoning Reform",
+      "short_description": "Requires certain local governments to permit duplex, triplex, and quadplex housing in areas currently zoned single-family.",
+      "status": "Introduced February 2026; part of bipartisan housing package",
+      "pittsburgh_impact": "Would preempt exclusionary zoning in Pittsburgh suburbs and throughout Allegheny County",
+      "source": "https://www.governing.com/urban/bipartisan-lawmakers-seek-to-drive-pro-housing-policy-across-pennsylvania"
+    },
+    {
+      "category": "Housing / Zoning Reform",
+      "bill_number": "HB 2186",
+      "session": "2025-2026",
+      "sponsor": "Rep. John Inglis (D-38, Allegheny)",
+      "title": "ADU (Accessory Dwelling Unit) Reform",
+      "short_description": "Allows municipalities to enact 'reasonable' restrictions for ADUs rather than outright bans. Currently many PA municipalities ban ADUs.",
+      "status": "Introduced February 2026; part of bipartisan housing package",
+      "pittsburgh_impact": "Relevant to Pittsburgh's ongoing Housing Needs Assessment implementation (ADU legalization citywide)"
+    },
+    {
+      "category": "Housing / Zoning Reform",
+      "bill_number": "HB 2155",
+      "session": "2025-2026",
+      "sponsor": "Rep. Greg Scott (D-Montgomery)",
+      "title": "Parking Minimum Prohibition",
+      "short_description": "Prohibits mandatory minimum parking requirements, which drive up housing development costs.",
+      "status": "Introduced February 2026; part of bipartisan housing package",
+      "pittsburgh_impact": "Aligned with Pittsburgh's local parking reform efforts under Housing Needs Assessment"
+    },
+    {
+      "category": "Property Tax",
+      "bill_number": "Act 53 of 2024 (SB 219)",
+      "session": "2023-2024",
+      "sponsor": "Sen. Jay Costa (D-43, Allegheny)",
+      "title": "Longtime Owner Occupant Program (LOOP)",
+      "short_description": "Signed into law July 2024. Allows Pittsburgh to exempt or defer property tax increases for homeowners who have lived in their homes for 10+ years in gentrifying neighborhoods.",
+      "status": "ENACTED \u2014 signed by Gov. Shapiro July 11, 2024. Pittsburgh City Council implementing in 2025.",
+      "pittsburgh_impact": "Direct relief for longtime Pittsburgh homeowners facing rapid assessment increases in neighborhoods like Lawrenceville, East Liberty, and Squirrel Hill.",
+      "source": "https://senatorcosta.com/loop/"
+    },
+    {
+      "category": "Property Tax",
+      "bill_number": "SB 979",
+      "session": "2025-2026",
+      "sponsor": "Sen. Rosemary Brown (R-40)",
+      "title": "Reinvestment in Housing Act",
+      "short_description": "Prevents home improvements from triggering property reassessments for primary residences owned 5+ years. One-time benefit per property.",
+      "status": "Unanimously advanced by Senate Urban Affairs Committee November 2025",
+      "source": "https://www.pasenategop.com/news/brown-advances-legislation-to-encourage-home-investment-without-tax-penalty/"
+    },
+    {
+      "category": "Property Tax / School Funding",
+      "bill_number": "HB 1649",
+      "session": "2025-2026",
+      "title": "School District Property Tax Elimination",
+      "short_description": "Would eliminate school district property taxes and replace with county and school district taxes. Amends Titles 53 (Municipalities) and 72 (Taxation).",
+      "status": "Introduced June 2025; in committee",
+      "pittsburgh_impact": "Major structural change for Pittsburgh school funding model; high opposition likely",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb1649"
+    },
+    {
+      "category": "Water Quality / PWSA",
+      "bill_number": "HB 1415",
+      "session": "2025-2026",
+      "title": "PA Safe Drinking Water Act \u2014 PFAS Testing",
+      "short_description": "Amends Pennsylvania Safe Drinking Water Act to require increased PFAS testing in public water systems via Environmental Quality Board.",
+      "status": "Introduced April 2025",
+      "pittsburgh_impact": "Affects PWSA (Pittsburgh Water and Sewer Authority) testing and compliance requirements",
+      "url": "https://www.palegis.us/legislation/bills/2025/hb1415"
+    },
+    {
+      "category": "Environmental Permitting",
+      "bill_number": "Act 45 of 2025 (HB 416)",
+      "session": "2025-2026",
+      "title": "DEP Permitting Reform",
+      "short_description": "Signed November 12, 2025 as part of FY 2025-26 budget. Expands SPEED program (third-party permit reviewers), creates 30-day shot clocks for air permits, deemed-approval if DEP misses deadlines. Notably excludes Allegheny County air permits (which fall under ACHD home rule).",
+      "status": "ENACTED",
+      "pittsburgh_impact": "Expedites state permitting but Allegheny County retains its own air quality jurisdiction under ACHD. RGGI exit provisions remove greenhouse gas regulation framework.",
+      "source": "https://klehr.com/publications/key-permitting-reforms-in-pennsylvanias-2025-2026-budget/"
+    },
+    {
+      "category": "Housing / Source of Income",
+      "bill_number": "SB 1152",
+      "session": "2025-2026",
+      "sponsor": "Sen. Carolyn Comitta (D-Chester), co-sponsors",
+      "title": "Source of Income Non-Discrimination",
+      "short_description": "Prohibits landlords from refusing to accept housing vouchers (Section 8, etc.) as income. PHRC annual fair housing report highlighted this as priority.",
+      "status": "Introduced; in committee",
+      "pittsburgh_impact": "Would expand housing access for voucher holders in Pittsburgh metro"
+    },
+    {
+      "category": "Senate Bill 713",
+      "bill_number": "SB 713",
+      "session": "2025-2026",
+      "sponsor": "Sen. Frank Farry (R-6)",
+      "title": "Digital Advertising on Transit Fleets",
+      "short_description": "Permits public transportation agencies to utilize digital advertising signage on their fleets. Passed Senate Transportation Committee September 2025.",
+      "status": "Reported out of Senate Transportation Committee with amendment",
+      "pittsburgh_impact": "PRT could utilize this as a revenue stream to offset operating deficits"
+    }
+  ],
+  "governor_initiatives": {
+    "governor": "Josh Shapiro (D)",
+    "lieutenant_governor": "Austin Davis (D, Allegheny County)",
+    "key_actions": [
+      {
+        "type": "Executive Order",
+        "id": "EO 2024-03",
+        "date": "September 2024",
+        "title": "Housing Action Plan Directive",
+        "description": "Directed DCED to develop a comprehensive statewide housing plan. Led to the February 2026 Housing Action Plan release.",
+        "pittsburgh_impact": "Framework for statewide zoning reform, transit-oriented housing, and affordable housing investment"
+      },
+      {
+        "type": "Housing Action Plan",
+        "date": "February 12, 2026",
+        "title": "Pennsylvania's First-Ever Housing Action Plan",
+        "description": "Nearly 30 strategic initiatives including: $1B critical infrastructure bond fund for housing construction, limits on rental application fees, eviction record sealing, transfer-on-death deeds, Deputy Secretary for Housing at DCED, Municipalities Planning Code modernization, lot rent increase caps in manufactured home communities.",
+        "budget_ask": "$1 billion in general obligation bonds for housing and infrastructure (FY 2026-27 budget)",
+        "pittsburgh_impact": "Downtown Pittsburgh real estate conversion (800 new housing units via downtown revitalization), ADU legalization, anti-displacement protections",
+        "source": "https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-unveils-pennsylvania-s-first-ever-housing-actio"
+      },
+      {
+        "type": "Budget Proposal",
+        "date": "February 3, 2026",
+        "title": "FY 2026-27 Executive Budget",
+        "total": "$53.3 billion (5%+ increase)",
+        "key_items": [
+          "$1B housing infrastructure bond fund",
+          "Continued transit funding push (recurring $292M proposed)",
+          "No broad-based tax increases",
+          "New revenue via recreational marijuana legalization and skill game regulation",
+          "Draws $4.6B from Rainy Day Fund",
+          "Municipalities Planning Code modernization"
+        ],
+        "pittsburgh_impact": "Transit funding resolution critical for PRT long-term; housing investments; permitting reform",
+        "source": "https://senatorcosta.com/budget/"
+      },
+      {
+        "type": "Executive Order",
+        "id": "EO 2025-02",
+        "date": "October 2025",
+        "title": "Safeguarding Vaccine Access",
+        "description": "Directed PA DOH to create state safety net for vaccines following federal disruption. Less direct Pittsburgh impact.",
+        "source": "https://www.pa.gov/governor/newsroom/2025-press-releases/gov-shapiro-signs-eo-2025-02-safeguarding-pa-access-vaccines-pro"
+      },
+      {
+        "type": "Budget Action",
+        "date": "November 12, 2025",
+        "title": "FY 2025-26 Budget Signed ($50.1B)",
+        "description": "135-day late budget. Included environmental permitting reforms (Act 45), exit from RGGI, no new dedicated transit funding (Senate Republicans blocked). PRT forced to use $106.7M capital funds for operations.",
+        "pittsburgh_impact": "Failure to include transit funding = immediate PRT fiscal crisis. RGGI exit = loss of carbon pricing framework in PA.",
+        "source": "https://www.pa.gov/governor/newsroom/2025-press-releases/what-people-are-saying-about-the-2025-26-budget-governor-shapiro"
+      },
+      {
+        "type": "Administrative Action",
+        "date": "September 12, 2025",
+        "title": "PennDOT Capital Funds Approval for PRT",
+        "description": "Shapiro administration approved PRT's request to use $106.7M in capital funds to cover operating deficit, avoiding service cuts and fare increases for 2 years.",
+        "pittsburgh_impact": "Preserved PRT service through FY 2025-26 and 2026-27 budget years pending permanent fix",
+        "source": "https://www.otma-pgh.org/news/transit/penndot-approves-use-capital-assistance-funds-prt-preserve-service-and-avoid-fare-incre"
+      },
+      {
+        "type": "Allegheny County Executive Orders",
+        "notes": "Allegheny County Executive Sara Innamorato (D) \u2014 separate from state",
+        "county_eos": [
+          {
+            "date": "February 5, 2026",
+            "title": "HOUSING (Housing Outcomes through Unified Strategies, Investment, and Governance) for All"
+          },
+          {
+            "date": "August 28, 2025",
+            "title": "Strengthening Worker Protections in Allegheny County"
+          },
+          {
+            "date": "June 5, 2025",
+            "title": "Pittsburgh Job Corps Rapid Response"
+          }
+        ],
+        "source": "https://www.alleghenycounty.us/Government/County-Executive/Executive-Orders"
+      }
+    ]
+  },
+  "key_committees": [
+    {
+      "chamber": "House",
+      "name": "Local Government Committee",
+      "url": "https://www.palegis.us/house/committees/local-government",
+      "relevance": "Handles municipal and county legislation, home rule charters, intergovernmental relations. Critical for any Pittsburgh/Allegheny County-specific bills."
+    },
+    {
+      "chamber": "Senate",
+      "name": "Local Government Committee",
+      "url": "https://www.palegis.us/senate/committees/local-government",
+      "relevance": "Companion senate committee for municipal/county legislation. Sen. Amanda Cappelletti is Vice Chair (2025-26). Sen. Wayne Fontana (D-42, Allegheny) is a member.",
+      "notable_members": [
+        "Sen. Amanda Cappelletti (Vice Chair)",
+        "Sen. Wayne Fontana (D-42)"
+      ]
+    },
+    {
+      "chamber": "House",
+      "name": "Urban Affairs Committee",
+      "url": "https://www.palegis.us/house/committees/urban-affairs",
+      "relevance": "Handles housing, zoning, urban development, community development legislation."
+    },
+    {
+      "chamber": "Senate",
+      "name": "Urban Affairs & Housing Committee",
+      "url": "https://www.palegis.us/senate/committees/urban-affairs-housing",
+      "chair": "Sen. Joe Picozzi (R-5)",
+      "relevance": "Key housing and zoning legislation. Sen. Picozzi (R) has introduced housing incentive bills. Sen. Fontana (D-42, Allegheny) is a member.",
+      "notes": "Chair Picozzi has proposed grants to localities that adopt pro-housing zoning and transit-oriented development policies."
+    },
+    {
+      "chamber": "House",
+      "name": "Transportation Committee",
+      "url": "https://www.palegis.us/house/committees/transportation",
+      "relevance": "Transit funding, road/bridge programs, PRT-related legislation. HB 1364 (Public Transportation Trust Fund) originated here."
+    },
+    {
+      "chamber": "Senate",
+      "name": "Transportation Committee",
+      "url": "https://www.palegis.us/senate/committees/transportation",
+      "chair": "Sen. Judy Ward (R-30)",
+      "minority_members": [
+        "Sen. Timothy Kearney (D-26)",
+        "Sen. Nick Miller (D-14)",
+        "Sen. Nikil Saval (D-1)",
+        "Sen. Lindsey Williams (D-38, Allegheny)"
+      ],
+      "relevance": "Bottleneck for transit funding bills in 2025. SB 795/796 (Transit for All PA) awaiting action. HB 1364 (transit funding) passed House but stalled in Senate.",
+      "recent_votes": [
+        "HB 646 (motorcycle headphones) \u2014 passed 13-1",
+        "SB 205 (Act 44/89 bridge funds) \u2014 passed unanimously",
+        "Senate Resolution 89 (aviation assets assessment) \u2014 passed 9-5"
+      ]
+    },
+    {
+      "chamber": "House",
+      "name": "Appropriations Committee",
+      "url": "https://www.palegis.us/house/committees/appropriations",
+      "relevance": "Controls budget allocations including transit, housing, and environmental funding."
+    },
+    {
+      "chamber": "House",
+      "name": "Environmental Resources & Energy Committee",
+      "url": "https://www.palegis.us/house/committees/environmental-resources-and-energy",
+      "relevance": "PFAS, drinking water, DEP permitting reform, air quality legislation affecting PWSA and ACHD."
+    }
+  ],
+  "allegheny_delegation": {
+    "notes": "Allegheny County has 23 House seats and 5 Senate districts. All delegation members listed below. Democrats hold all Allegheny County Senate seats; House delegation is majority-Democratic.",
+    "sources": [
+      "https://www.pahouse.com/ACD/Members/",
+      "https://paaflcio.com/legislative-directory/allegheny-county/",
+      "https://www.pacounties.org/getmedia/c7b381ee-b0b8-4576-afc8-ce96edfdb067/PAHouseMembers2025-26-(2).pdf"
+    ],
+    "state_senators": [
+      {
+        "name": "Devlin J. Robinson",
+        "party": "R",
+        "district": 37,
+        "county": "Allegheny",
+        "email": "drobinson@pasen.gov",
+        "harrisburg_phone": "717-787-5839",
+        "district_phone": "412-785-3070"
+      },
+      {
+        "name": "Lindsey Marie Williams",
+        "party": "D",
+        "district": 38,
+        "county": "Allegheny",
+        "email": "SenatorLindseyWilliams@pasenate.com",
+        "website": "http://www.senatorlindseywilliams.com/",
+        "harrisburg_phone": "717-787-6538",
+        "district_phone": "412-364-0469",
+        "notes": "Minority member, Senate Transportation Committee. Co-sponsor of Transit for All PA (SB 795/796)."
+      },
+      {
+        "name": "Wayne D. Fontana",
+        "party": "D",
+        "district": 42,
+        "county": "Allegheny",
+        "role": "Minority Caucus Chair",
+        "email": "fontana@pasenate.com",
+        "website": "http://www.senatorfontana.com",
+        "harrisburg_phone": "717-787-5300",
+        "district_phone": "412-344-2551",
+        "committees": [
+          "Finance",
+          "Local Government",
+          "Urban Affairs & Housing",
+          "Rules & Executive Nominations",
+          "Community/Economic/Recreational Development"
+        ],
+        "notes": "Active on housing and PWSA funding. Announced $26M PENNVEST grant to PWSA in Jan 2025."
+      },
+      {
+        "name": "Jay Costa",
+        "party": "D",
+        "district": 43,
+        "county": "Allegheny",
+        "role": "Minority Floor Leader",
+        "email": "costa@pasenate.com",
+        "website": "http://www.senatorcosta.com",
+        "harrisburg_phone": "717-787-7683",
+        "district_phone": "412-241-6690",
+        "notes": "Authored LOOP Act (Act 53 of 2024) for Pittsburgh property tax relief for longtime homeowners. Vocal advocate for PRT transit funding."
+      },
+      {
+        "name": "Nick Pisciottano",
+        "party": "D",
+        "district": 45,
+        "county": "Allegheny",
+        "notes": "Replaced James Brewster for 2025-2026 session. Co-sponsor of Transit for All PA."
+      }
+    ],
+    "state_representatives": [
+      {
+        "name": "Aerion Abney",
+        "party": "D",
+        "district": 19,
+        "county": "Allegheny",
+        "role": "ACD Chair",
+        "notes": "Co-sponsor Transit for All PA (HB 1523/1524)"
+      },
+      {
+        "name": "Emily Kinkead",
+        "party": "D",
+        "district": 20,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Sara Innamorato",
+        "party": "D",
+        "district": 21,
+        "county": "Allegheny",
+        "notes": "Now Allegheny County Executive; seat may have changed"
+      },
+      {
+        "name": "Dan Frankel",
+        "party": "D",
+        "district": 23,
+        "county": "Allegheny"
+      },
+      {
+        "name": "LaTasha Mayes",
+        "party": "D",
+        "district": 24,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Brandon Markosek",
+        "party": "D",
+        "district": 25,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Dan Deasy",
+        "party": "D",
+        "district": 27,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Arvind Venkat",
+        "party": "D",
+        "district": 30,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Joe McAndrew",
+        "party": "D",
+        "district": 32,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Mandy Steele",
+        "party": "D",
+        "district": 33,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Summer Lee",
+        "party": "D",
+        "district": 34,
+        "county": "Allegheny",
+        "notes": "Now in Congress (PA-12); seat likely held by successor"
+      },
+      {
+        "name": "Matthew Gergely",
+        "party": "D",
+        "district": 35,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Jessica Benham",
+        "party": "D",
+        "district": 36,
+        "county": "Allegheny",
+        "role": "ACD Vice Chair",
+        "notes": "Co-sponsor Transit for All PA (HB 1523/1524)"
+      },
+      {
+        "name": "John Inglis",
+        "party": "D",
+        "district": 38,
+        "county": "Allegheny",
+        "notes": "Sponsored HB 2185 (duplex/triplex zoning), HB 2186 (ADU allowances), and transit-oriented housing proposal"
+      },
+      {
+        "name": "Jeremy Shaffer",
+        "party": "R",
+        "district": 28,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Natalie Mihalek Stuck",
+        "party": "R",
+        "district": 40,
+        "county": "Allegheny/Washington"
+      },
+      {
+        "name": "Dan Miller",
+        "party": "D",
+        "district": 42,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Valerie Gaydos",
+        "party": "R",
+        "district": 44,
+        "county": "Allegheny"
+      },
+      {
+        "name": "Anita Kulik",
+        "party": "D",
+        "district": 45,
+        "county": "Allegheny",
+        "notes": "Retiring 2026; 45th District open seat race underway"
+      },
+      {
+        "name": "Jason Ortitay",
+        "party": "R",
+        "district": 46,
+        "county": "Allegheny/Washington"
+      },
+      {
+        "name": "Austin Davis",
+        "party": "D",
+        "district": 35,
+        "county": "Allegheny",
+        "notes": "Now Lt. Governor; seat held by successor"
+      },
+      {
+        "name": "Andrew Kuzma",
+        "party": "R",
+        "district": 39,
+        "county": "Allegheny/Washington"
+      }
+    ]
+  },
+  "regional_bodies": [
+    {
+      "name": "Southwestern Pennsylvania Commission (SPC)",
+      "type": "Metropolitan Planning Organization (MPO) / Regional Commission",
+      "website": "https://www.spcregion.org",
+      "role": "Federally-designated regional MPO for transportation and economic development. Administers $39B+ in state and federal transportation and economic development funding through 2050. Develops Long-Range Transportation Plan, Transportation Improvement Program (TIP), and other regional plans.",
+      "coverage": "10-county region: Allegheny, Armstrong, Beaver, Butler, Fayette, Greene, Indiana, Lawrence, Washington, Westmoreland, plus City of Pittsburgh",
+      "initiatives": [
+        "2025-2028 Transportation Improvement Program (TIP) \u2014 recently completed public comment round (December 2025)",
+        "Long Range Transportation Plan (SmartMoves for a Changing Region)",
+        "2025 Regional Safety Action Plan (wrong-way crashes and safety initiatives)",
+        "Transportation Demand Management (TDM) Media Management Services RFP",
+        "CommuteInfo ridesharing program",
+        "Freight corridor planning",
+        "Active transportation (biking/walking) planning",
+        "Small business support and export assistance"
+      ],
+      "meeting_schedule": {
+        "full_commission": "Quarterly \u2014 Feb 23, Apr 27, Jun 22, 2026 (2pm RPAC, 3pm Exec Committee, 4pm Full Commission)",
+        "transportation_technical_committee_ttc": "Monthly \u2014 Mar 19, Apr 16, May 14, Jun 11, 2026 (10am)",
+        "transit_operators_committee_toc": "Monthly \u2014 Mar 11, Apr 15, May 6, Jun 10, 2026 (10am)",
+        "active_transportation_forum": "Quarterly (open to public) \u2014 Mar 3, Jun 2, 2026 (10am)",
+        "freight_forum": "Quarterly \u2014 Feb 3, May 5, 2026",
+        "planning_directors_forum": "Quarterly \u2014 Jan 12, Apr 13, 2026 (12pm)",
+        "transportation_operations_safety": "3-4x/year \u2014 Jan 8, Apr 9, 2026",
+        "source": "https://www.spcregion.org/wp-content/uploads/2025/06/2025-2026-Meeting-Sched.pdf"
+      },
+      "current_initiatives": [
+        "2025-2028 Transportation Improvement Program (TIP) \u2014 recently completed public comment round (December 2025)",
+        "Long Range Transportation Plan (SmartMoves for a Changing Region)",
+        "2025 Regional Safety Action Plan (wrong-way crashes and safety initiatives)",
+        "Transportation Demand Management (TDM) Media Management Services RFP",
+        "CommuteInfo ridesharing program",
+        "Freight corridor planning",
+        "Active transportation (biking/walking) planning",
+        "Small business support and export assistance"
+      ]
+    },
+    {
+      "name": "CONNECT (Congress of Neighboring Communities)",
+      "type": "Municipal Collaboration Network / Policy Incubator",
+      "website": "https://connectgovs.org",
+      "role": "Facilitates regional policy innovation. Municipalities share solutions to shared challenges. Acts as incubator for intergovernmental cooperation.",
+      "coverage": "",
+      "initiatives": [
+        "Climate Action Plan (adopted unanimously by member municipalities in 2022, ongoing implementation)",
+        "Public Safety & Wellbeing Working Groups: LEAD (law enforcement assisted diversion), Future of Fire",
+        "Infrastructure & Resilience Working Groups: Climate Resilience, Solar, Composting",
+        "Regional wellbeing and sustainability collaboration (2025 annual recap: continued focus on these areas)"
+      ],
+      "meeting_schedule": "Monthly member meetings (e.g., February 2026 featured Allegheny County Economic Development presentation). Schedule via connectgovs.org.",
+      "current_initiatives": [
+        "Climate Action Plan (adopted unanimously by member municipalities in 2022, ongoing implementation)",
+        "Public Safety & Wellbeing Working Groups: LEAD (law enforcement assisted diversion), Future of Fire",
+        "Infrastructure & Resilience Working Groups: Climate Resilience, Solar, Composting",
+        "Regional wellbeing and sustainability collaboration (2025 annual recap: continued focus on these areas)"
+      ]
+    },
+    {
+      "name": "Allegheny Conference on Community Development (ACCD)",
+      "type": "Regional Economic Development / Public-Private Partnership",
+      "website": "https://www.alleghenyconference.org",
+      "role": "Leading public-private partnership for regional economic development. Convenes business, government, and civic leaders. Operates Pittsburgh Regional Alliance for business attraction. Not a government body but highly influential on state and county policy.",
+      "coverage": "",
+      "priorities": [
+        "Continue AI/robotics, life sciences, and energy cluster development",
+        "Advance Downtown Pittsburgh revival (Market Square + 8th Street Block construction due April 2026)",
+        "Workforce and housing strategy alignment",
+        "NFL Draft 2026 regional showcase",
+        "Push for continued permitting and zoning streamlining",
+        "Energy and Innovation Summit (potential McCormick-led)",
+        "Modernize development processes to reduce timelines"
+      ],
+      "accomplishments": [
+        "21 major business investments secured, 18,574 jobs created/retained, $16.1B in capital investment \u2014 strongest project year in over a decade",
+        "Downtown Pittsburgh revitalization: Arts Landing, Market Square redesign, 800 new housing units via real estate conversion",
+        "Supported PA permitting reform (Act 45 of 2025, SPEED program expansion)",
+        "Supported PA exit from RGGI",
+        "Developed 'Build Now and For the Future' energy strategy for southwestern PA"
+      ]
+    },
+    {
+      "name": "Allegheny County Sanitary Authority (ALCOSAN)",
+      "type": "Regional Wastewater/Stormwater Authority",
+      "website": "https://www.alcosan.org",
+      "role": "Provides regional wastewater treatment for Allegheny County municipalities. Operates under a Modified Consent Decree with EPA and PA DEP requiring major CSO (combined sewer overflow) reduction.",
+      "coverage": "",
+      "board_meeting_schedule": {
+        "frequency": "Monthly, last Thursday of month, 4:30 PM",
+        "location": "ALCOSAN Administration Building, 3300 Preble Avenue, Pittsburgh",
+        "upcoming": [
+          "March 26, 2026",
+          "April (last Thursday)",
+          "May (last Thursday)"
+        ],
+        "zoom_available": true,
+        "youtube_live": true
+      },
+      "consent_decree": {
+        "program": "Clean Water Plan \u2014 ongoing $3B+ capital program",
+        "plant_expansion": "Expanding treatment capacity from 250 MGD to 480 MGD by end of 2026, then to 600 MGD by end of 2029/2030",
+        "major_projects": [
+          "Ohio River Tunnel (ORT) \u2014 bids opened February 26, 2026",
+          "Allegheny River Tunnel (ART) \u2014 at ~30% design; Construction Management RFQ issued early 2026",
+          "North End Plant expansion (new outfall commissioned)",
+          "Upper Allegheny consolidation sewer \u2014 bidding 2027",
+          "Regional conveyance tunnels"
+        ],
+        "grow_program": "Green Revitalization of Our Waterways \u2014 grants to municipalities for green infrastructure. 211 completed or active grants. ~$100M+ committed. Cycle 12/13 ongoing."
+      }
+    },
+    {
+      "name": "Redevelopment Authority of Allegheny County (RAAC)",
+      "type": "County Redevelopment Authority",
+      "website": "https://www.alleghenycounty.us/Projects-and-Initiatives/Economic-Development/Authorities/Redevelopment-Authority-RAAC",
+      "role": "Acquires and prepares local real estate for economic development. Manages financing from public sources. Facilitates reuse of vacant, tax-delinquent, or blighted properties in Allegheny County.",
+      "coverage": "",
+      "meeting_schedule": "All meetings start at 2:00 PM EST. Schedule available at meetings URL above."
+    },
+    {
+      "name": "Allegheny County Health Department (ACHD)",
+      "type": "County Health Department with State-Delegated Authority",
+      "website": "https://www.alleghenycounty.us/Services/Health-Department",
+      "role": "Has home-rule authority for air quality permitting in Allegheny County (excluding state SPEED program scope). Issues Title V and Non-Title V operating permits, new source permits, modifications. Enforces county air quality regulations which are more stringent than state standards in some cases.",
+      "coverage": "",
+      "initiatives": [
+        "Implementing increased fee structure for major industrial emitters",
+        "RACT III air permit determinations (NOx and VOC from major sources)",
+        "Responding to EPA delegation for federal plan emissions standards",
+        "Addressing PM2.5 nonattainment designation from DEP/EPA"
+      ],
+      "public_comment_opportunities": [
+        {
+          "status": "RECENT \u2014 likely closed",
+          "subject": "Air quality permits (specific facility not identified in source)",
+          "hearing_date": "March 9, 2026, 6:00 PM",
+          "location": "ACHD Air Quality, 836 Fulton Street, Pittsburgh, PA 15233",
+          "written_comment_deadline": "March 9, 2026, 11:59 PM",
+          "source": "https://www.alleghenycounty.us/Services/Health-Department/Legal/Public-Comment-Notices"
+        },
+        {
+          "status": "UPCOMING",
+          "subject": "Air quality permits (separate batch)",
+          "hearing_date": "April 13, 2026, 6:00 PM",
+          "location": "ACHD Air Quality, 836 Fulton Street, Pittsburgh, PA 15233",
+          "notes": "Check ACHD public comment notices page for details and registration requirement (24hr advance registration, 3-min limit)"
+        }
+      ],
+      "current_initiatives": [
+        "Implementing increased fee structure for major industrial emitters",
+        "RACT III air permit determinations (NOx and VOC from major sources)",
+        "Responding to EPA delegation for federal plan emissions standards",
+        "Addressing PM2.5 nonattainment designation from DEP/EPA"
+      ],
+      "fee_update": "Allegheny County Council voted November 2025 to significantly increase industrial air quality permit fees \u2014 U.S. Steel major source annual fee from $8,000 to $55,000; operating permit renewal from $4,000 to $20,000. First increase since 2021. Purpose: fund depleted ACHD Air Quality Program staffing."
+    }
+  ],
+  "data_sources": [
+    {
+      "name": "PA General Assembly Official Website",
+      "url": "https://www.palegis.us",
+      "description": "Primary official source. Search bills by number, keyword, sponsor, or committee. Find committee schedules, session calendars, roll call votes, and member information. Operated by the PA Legislative Data Processing Center.",
+      "features": [
+        "Bill search by number, keyword, sponsor, subject",
+        "Committee meeting schedules and archived votes",
+        "Session calendar and floor vote records",
+        "Member contact info and committee assignments",
+        "Printer's numbers (PN) to track bill versions",
+        "Downloadable member/committee data"
+      ],
+      "bill_search_url": "https://www.palegis.us/legislation/bills",
+      "committee_url": "https://www.palegis.us/house/committees",
+      "notes": "Direct robots.txt blocking of some automated access; manual browsing works."
+    },
+    {
+      "name": "LegiScan",
+      "url": "https://legiscan.com/PA",
+      "description": "Third-party bill tracking with PA-specific dashboard, full-text search, RSS feeds, email alerts, and downloadable session datasets. API available. Most-viewed and most-monitored bills ranked. Covers 2025-2026 Regular Session (2,967+ bills introduced as of mid-2025).",
+      "features": [
+        "Bill text and history tracking",
+        "Email and RSS alert subscriptions",
+        "Downloadable bulk session datasets",
+        "API access for developers",
+        "Sponsor and committee trending data"
+      ],
+      "api_url": "https://legiscan.com/legiscan-api"
+    },
+    {
+      "name": "OpenStates / Plural Policy",
+      "url": "https://openstates.org/pa/",
+      "description": "Open-source bill tracking covering PA legislative sessions. Provides structured data on bills, votes, and legislators. API available at https://v3.openstates.org/. Current 2025-2026 session tracked.",
+      "features": [
+        "RESTful API for bill and legislator data",
+        "Session browsing (2025-2026 Regular Session active)",
+        "Open data: bill status, sponsors, committee referrals"
+      ],
+      "api_docs_url": "https://docs.openstates.org/api-v3/"
+    },
+    {
+      "name": "PA Legislative Data Processing Center",
+      "url": "https://www.ldpc.state.pa.us",
+      "description": "The official state body that maintains the PA General Assembly's digital records and powers palegis.us. Legislative data available via the official GA website."
+    },
+    {
+      "name": "PA Capitol Tracker / PA Capital-Star",
+      "url": "https://www.penncapital-star.com",
+      "description": "Investigative journalism outlet covering PA legislature. Tracks key bills, budget negotiations, and Harrisburg politics with Western PA focus.",
+      "notes": "Not a formal bill tracker, but one of the best editorial sources for legislative context."
+    },
+    {
+      "name": "Ballotpedia \u2014 Pennsylvania",
+      "url": "https://ballotpedia.org/Pennsylvania",
+      "description": "Covers PA legislative sessions, member profiles, committee assignments, and elections. Useful for historical context and candidate/incumbent information."
+    }
+  ]
+}
