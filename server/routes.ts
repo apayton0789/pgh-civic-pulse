@@ -1,11 +1,14 @@
 import type { Express } from "express";
 import type { Server } from "http";
 import { storage } from "./storage";
-import type { AddressLocation, UpcomingMeeting } from "@shared/schema";
+import type { AddressLocation, UpcomingMeeting, StrategyAnswers, TranscriptAnalysis } from "@shared/schema";
 import fs from "fs";
 import path from "path";
 import { startFeedScheduler, getFeedStatus, runAllFetchers } from "./fetchers/live-feeds";
 import { getTemplates, getTemplateById, generateFeedbackLetter } from "./feedback-templates";
+import { loadAnalytics, trackPageView, trackFeatureClick, addSuggestion, getAnalyticsSummary, getSuggestions } from "./analytics";
+import { generateBriefingItems, getRecentlyChangedItems, getFeedbackItems, getAllSources, invalidateBriefingCache } from "./briefing-engine";
+import { generateDrafts } from "./draft-engine";
 
 /** Strip residual CDATA/HTML from RSS summaries */
 function cleanSummary(text: string | null): string | null {
@@ -26,6 +29,7 @@ function cleanSummary(text: string | null): string | null {
 
 export async function registerRoutes(server: Server, app: Express) {
   await seedData();
+  loadAnalytics();
 
   // Start the self-sustaining live data pipeline (runs every 30 min, zero credits)
   startFeedScheduler();
@@ -360,6 +364,114 @@ export async function registerRoutes(server: Server, app: Express) {
       }
     }
     res.status(404).json({ error: "state_radar.json not found" });
+  });
+
+  // ── Analytics (lightweight, in-memory) ──────────────────────────────
+  app.post("/api/analytics/pageview", (req, res) => {
+    const { route, sessionId } = req.body;
+    if (route && sessionId) {
+      trackPageView(route, sessionId);
+    }
+    res.json({ ok: true });
+  });
+
+  app.post("/api/analytics/event", (req, res) => {
+    const { feature, sessionId } = req.body;
+    if (feature && sessionId) {
+      trackFeatureClick(feature, sessionId);
+    }
+    res.json({ ok: true });
+  });
+
+  app.get("/api/analytics/summary", (_req, res) => {
+    res.json(getAnalyticsSummary());
+  });
+
+  // ── Suggestions ────────────────────────────────────────────────────
+  app.post("/api/suggestions", (req, res) => {
+    const { text, category } = req.body;
+    if (!text || typeof text !== "string" || text.trim().length === 0) {
+      return res.status(400).json({ error: "text is required" });
+    }
+    addSuggestion(text.trim(), category || "general");
+    res.json({ ok: true });
+  });
+
+  app.get("/api/suggestions", (_req, res) => {
+    res.json(getSuggestions());
+  });
+
+  // ── Briefing Items (new civic pulse engine) ──────────────────────────
+
+  async function getBriefingContext() {
+    const meetings = await storage.getMeetings();
+    const rawNews = await storage.getNewsItems();
+    const news = rawNews.map((n) => ({ ...n, summary: cleanSummary(n.summary) }));
+    const developments = await storage.getDevelopments();
+    // Collect transcripts
+    const transcripts = new Map<number, TranscriptAnalysis>();
+    for (const m of meetings) {
+      const t = await storage.getTranscript(m.id);
+      if (t) transcripts.set(m.id, t);
+    }
+    return { meetings, news, developments, transcripts };
+  }
+
+  app.get("/api/briefing/items", async (_req, res) => {
+    try {
+      const ctx = await getBriefingContext();
+      const { items } = generateBriefingItems(ctx.meetings, ctx.news, ctx.developments, ctx.transcripts);
+      res.json(items);
+    } catch (err) {
+      res.status(500).json({ error: (err as Error).message });
+    }
+  });
+
+  app.get("/api/briefing/changed", async (_req, res) => {
+    try {
+      const ctx = await getBriefingContext();
+      const { items } = generateBriefingItems(ctx.meetings, ctx.news, ctx.developments, ctx.transcripts);
+      res.json(getRecentlyChangedItems(items));
+    } catch (err) {
+      res.status(500).json({ error: (err as Error).message });
+    }
+  });
+
+  app.get("/api/briefing/feedback", async (_req, res) => {
+    try {
+      const ctx = await getBriefingContext();
+      const { items, feedbackOpportunities } = generateBriefingItems(ctx.meetings, ctx.news, ctx.developments, ctx.transcripts);
+      res.json({ items: getFeedbackItems(items), opportunities: feedbackOpportunities });
+    } catch (err) {
+      res.status(500).json({ error: (err as Error).message });
+    }
+  });
+
+  app.get("/api/sources", async (_req, res) => {
+    try {
+      const ctx = await getBriefingContext();
+      const { items } = generateBriefingItems(ctx.meetings, ctx.news, ctx.developments, ctx.transcripts);
+      res.json(getAllSources(items));
+    } catch (err) {
+      res.status(500).json({ error: (err as Error).message });
+    }
+  });
+
+  app.post("/api/feedback/generate-drafts", async (req, res) => {
+    try {
+      const { briefingItemId, strategy } = req.body as { briefingItemId: string; strategy: StrategyAnswers };
+      if (!briefingItemId || !strategy) {
+        return res.status(400).json({ error: "briefingItemId and strategy required" });
+      }
+      const ctx = await getBriefingContext();
+      const { items } = generateBriefingItems(ctx.meetings, ctx.news, ctx.developments, ctx.transcripts);
+      const item = items.find((i) => i.id === briefingItemId);
+      if (!item) return res.status(404).json({ error: "Briefing item not found" });
+      const drafts = generateDrafts(item, strategy);
+      res.json(drafts);
+    } catch (err) {
+      res.status(500).json({ error: (err as Error).message });
+    }
   });
 }
 

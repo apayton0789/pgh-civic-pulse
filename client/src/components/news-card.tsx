@@ -1,9 +1,7 @@
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
-import { CalendarDays, ExternalLink, MapPin, Megaphone } from "lucide-react";
-import { useState } from "react";
+import { CalendarDays, ExternalLink, MapPin } from "lucide-react";
 import type { NewsItem } from "@shared/schema";
-import { FeedbackForm } from "@/components/feedback-form";
 
 /** Strip residual CDATA/HTML from RSS summaries */
 function cleanText(text: string | null | undefined): string {
@@ -26,7 +24,6 @@ interface NewsCardProps {
 }
 
 export function NewsCard({ item, compact = false }: NewsCardProps) {
-  const [showFeedback, setShowFeedback] = useState(false);
   if (compact) {
     return (
       <div className="flex items-start gap-2 py-1.5" data-testid={`news-compact-${item.id}`}>
@@ -98,23 +95,8 @@ export function NewsCard({ item, compact = false }: NewsCardProps) {
               {item.geographicTags.join(", ")}
             </span>
           )}
-          <button
-            onClick={() => setShowFeedback(true)}
-            className="flex items-center gap-1 text-primary/70 hover:text-primary transition-colors ml-auto"
-            data-testid={`feedback-news-${item.id}`}
-          >
-            <Megaphone className="h-3.5 w-3.5" />
-            Submit Comment
-          </button>
         </div>
       </CardContent>
-
-      <FeedbackForm
-        open={showFeedback}
-        onClose={() => setShowFeedback(false)}
-        defaultCategory="general"
-        prefill={{ topic: item.headline }}
-      />
     </Card>
   );
 }

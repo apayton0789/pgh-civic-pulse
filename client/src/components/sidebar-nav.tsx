@@ -1,14 +1,13 @@
 import { useHashLocation } from "wouter/use-hash-location";
 import {
-  LayoutDashboard,
-  Map,
-  CalendarDays,
-  Newspaper,
-  FileText,
-  Construction,
+  Zap,
+  RefreshCw,
+  MessageSquare,
+  Target,
+  PenTool,
+  Eye,
+  FileSearch,
   CalendarPlus,
-  Megaphone,
-  Landmark,
   Moon,
   Sun,
   Menu,
@@ -19,15 +18,13 @@ import { PerplexityAttribution } from "@/components/PerplexityAttribution";
 import { useEffect, useState } from "react";
 
 const navItems = [
-  { path: "/", label: "Dashboard", icon: LayoutDashboard },
-  { path: "/map", label: "Map", icon: Map },
-  { path: "/meetings", label: "Meetings", icon: CalendarDays },
-  { path: "/news", label: "News", icon: Newspaper },
-  { path: "/developments", label: "Projects", icon: Construction },
+  { path: "/", label: "Today", icon: Zap },
+  { path: "/changed", label: "What Changed", icon: RefreshCw },
+  { path: "/feedback", label: "Take Action", icon: MessageSquare },
+  { path: "/draft", label: "Draft Response", icon: PenTool },
+  { path: "/monitoring", label: "Monitoring", icon: Eye },
+  { path: "/sources", label: "Source Trail", icon: FileSearch },
   { path: "/calendar", label: "Calendar", icon: CalendarPlus },
-  { path: "/engagement", label: "Engagement", icon: Megaphone },
-  { path: "/state-radar", label: "State Radar", icon: Landmark },
-  { path: "/briefing", label: "Briefing", icon: FileText },
 ];
 
 export function SidebarNav() {

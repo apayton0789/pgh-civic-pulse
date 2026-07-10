@@ -618,6 +618,7 @@ export function MeetingCard({
   const [showFeedback, setShowFeedback] = useState(false);
 
   const contentionItems = (meeting.contention as ContentionItem[] | null) || [];
+  const hasPublicComment = (meeting.publicCommentThemes && meeting.publicCommentThemes.length > 0);
 
   if (compact) {
     return (
@@ -679,14 +680,16 @@ export function MeetingCard({
                   <Share2 className="h-3.5 w-3.5" />
                   Share
                 </button>
-                <button
-                  onClick={(e) => { e.stopPropagation(); setShowFeedback(true); }}
-                  className="flex items-center gap-1 text-primary/70 hover:text-primary transition-colors"
-                  data-testid={`feedback-meeting-${meeting.id}`}
-                >
-                  <Megaphone className="h-3.5 w-3.5" />
-                  Have Your Say
-                </button>
+                {hasPublicComment && (
+                  <button
+                    onClick={(e) => { e.stopPropagation(); setShowFeedback(true); }}
+                    className="flex items-center gap-1 text-primary/70 hover:text-primary transition-colors"
+                    data-testid={`feedback-meeting-${meeting.id}`}
+                  >
+                    <Megaphone className="h-3.5 w-3.5" />
+                    Have Your Say
+                  </button>
+                )}
               </div>
             </div>
             {expandable && (

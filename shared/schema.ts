@@ -147,6 +147,98 @@ export interface GeneratedFeedback {
   generatedAt: string;
 }
 
+// Source citation — attached to any factual claim
+export interface SourceCitation {
+  id: string;
+  title: string;
+  url: string;
+  publishedDate: string;
+  retrievedDate: string;
+  quote?: string;             // exact quoted text
+  speaker?: string;           // speaker name if identifiable
+  videoTimestamp?: string;     // e.g. "14:22–14:49"
+  videoTimestampSeconds?: [number, number]; // [start, end] in seconds
+  agendaItem?: string;        // agenda/item number
+  sourceType: 'primary' | 'secondary' | 'video' | 'meeting_record' | 'government_document';
+  confidenceLevel: 'high' | 'medium' | 'low' | 'inference';
+}
+
+// Evidence bullet — one factual point with inline source refs
+export interface EvidenceBullet {
+  text: string;
+  sourceIds: string[];     // references SourceCitation.id
+  videoRef?: string;       // e.g. "[video 1, 14:22–14:49]"
+}
+
+// Research-bullet briefing item — the core unit
+export interface BriefingItem {
+  id: string;
+  headline: string;
+  governmentLevel: 'local' | 'county' | 'state' | 'regional' | 'federal';
+  topicArea: string;
+  whyItMatters: string;
+  whatChanged: string;
+  urgency: 'critical' | 'high' | 'medium' | 'low';
+  actionNeeded: string;
+  deadline?: string;
+  keyStakeholders: string[];
+  evidenceBullets: EvidenceBullet[];
+  sources: SourceCitation[];
+  videoTimestamps?: Array<{ label: string; timestamp: string; url?: string }>;
+  confidenceLevel: 'high' | 'medium' | 'low';
+
+  // Scoring for ranking
+  importanceScore: number;     // 1-10
+  urgencyScore: number;        // 1-10
+  localRelevance: number;      // 1-10
+  influenceability: number;    // 1-10 (how much a resident can affect this)
+
+  // Infographic data block
+  displayHeadline: string;
+  oneLineSummary: string;
+  categoryTag: string;
+  categoryColor: string;
+  keyStatOrQuote: string;
+  strongestSourceLabel: string;
+  strongestSourceUrl: string;
+  timestampedClipRef?: string;
+  callToAction: string;
+  infographicCaption: string;
+
+  // Metadata
+  date: string;
+  relatedMeetingId?: number;
+  relatedNewsId?: number;
+  feedbackOpportunity?: boolean;
+  feedbackDeadline?: string;
+}
+
+// Feedback opportunity workflow
+export interface FeedbackOpportunity {
+  id: string;
+  briefingItemId: string;
+  issue: string;
+  receivingBody: string;
+  bodyPower: string;          // what the body actually controls
+  whoAffected: string[];
+  likelyConsequences: string;
+  deadline: string;
+  submissionMethod: string;   // email, portal, in-person, etc.
+  submissionUrl?: string;
+  sources: SourceCitation[];
+}
+
+// Strategy prompt answers (stored in React state, not persisted)
+export interface StrategyAnswers {
+  whatMatters: string;
+  desiredOutcome: string;
+  mostAffected: string;
+  strongestFact: string;
+  strongestValue: string;
+  tone: 'collaborative' | 'firm' | 'urgent';
+  speakingAs: 'individual' | 'resident' | 'organizer' | 'direct_experience';
+}
+
 // Upcoming meetings (stored in memory, not DB)
 export interface UpcomingMeeting {
   governing_body: string;

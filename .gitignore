@@ -1,6 +1,30 @@
-node_modules
-dist
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+server/public/
+
+# System files
 .DS_Store
-server/public
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vite
 vite.config.ts.*
+
+# Archives
 *.tar.gz
+
+# Runtime data (regenerated on server start)
+analytics_data.json
+
+# Env / secrets
+.env
+.env.local
+.env.*.local

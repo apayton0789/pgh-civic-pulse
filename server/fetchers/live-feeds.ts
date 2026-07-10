@@ -17,24 +17,24 @@ import { parseRSS, type FeedItem } from "./rss-parser.js";
 import { downloadTranscript, analyzeTranscript } from "./transcript-extractor.js";
 import type { InsertNewsItem, InsertMeeting, UpcomingMeeting, TranscriptAnalysis } from "../../shared/schema.js";
 
-// ── YouTube Channel Registry ─────────────────────────────────────────
+// ── YouTube Channel Registry (using @handles, fetched via yt-dlp) ───
 const YOUTUBE_CHANNELS: Array<{
-  channelId: string;
+  handle: string;
   governingBody: string;
   defaultMeetingType: string;
 }> = [
   {
-    channelId: "UC-YfIv9wvBjGT3LMxo9hLoQ",
+    handle: "@CityChannelPittsburgh",
     governingBody: "Pittsburgh City Council",
     defaultMeetingType: "Regular Meeting",
   },
   {
-    channelId: "UCv17QrAPtF_4yYomzbB4k_w",
+    handle: "@accounciltv",
     governingBody: "Allegheny County Council",
     defaultMeetingType: "Regular Meeting",
   },
   {
-    channelId: "UCy0cypvip9THvaXB2l-ZEWw",
+    handle: "@pittsburghpublicschools",
     governingBody: "Pittsburgh Public Schools Board",
     defaultMeetingType: "Board Meeting",
   },
@@ -328,41 +328,57 @@ async function fetchWithTimeout(url: string, timeoutMs = 15000): Promise<string>
 
 // ── Core Fetcher Functions ───────────────────────────────────────────
 
-/** Fetch YouTube RSS feeds and create Meeting records */
+/** Fetch YouTube videos via yt-dlp (handles work, RSS channel_id feeds are deprecated) */
 async function fetchYouTubeMeetings(): Promise<number> {
+  const { execSync } = await import("child_process");
   let count = 0;
+
   for (const ch of YOUTUBE_CHANNELS) {
     try {
-      const xml = await fetchWithTimeout(
-        `https://www.youtube.com/feeds/videos.xml?channel_id=${ch.channelId}`
-      );
-      const feed = parseRSS(xml);
+      // Use yt-dlp to list recent videos from channel
+      const url = `https://www.youtube.com/${ch.handle}/videos`;
+      const cmd = `yt-dlp --flat-playlist --print "%(id)s\t%(title)s\t%(upload_date)s" --playlist-items 1-10 "${url}" 2>/dev/null`;
+      let output: string;
+      try {
+        output = execSync(cmd, { timeout: 30000, encoding: "utf-8" });
+      } catch {
+        console.log(`[LiveFeeds] yt-dlp failed for ${ch.handle}, skipping`);
+        continue;
+      }
 
-      // Only process videos from the last 14 days
+      const lines = output.trim().split("\n").filter(Boolean);
       const cutoff = new Date();
-      cutoff.setDate(cutoff.getDate() - 14);
+      cutoff.setDate(cutoff.getDate() - 21); // 3 weeks lookback
 
-      for (const item of feed.items) {
-        const pubDate = new Date(item.pubDate);
-        if (pubDate < cutoff) continue;
+      for (const line of lines) {
+        const [videoId, title, uploadDate] = line.split("\t");
+        if (!videoId || !title) continue;
 
-        const parsed = parseYouTubeTitle(item.title, ch.governingBody, ch.defaultMeetingType);
+        const ytUrl = `https://www.youtube.com/watch?v=${videoId}`;
+
+        const parsed = parseYouTubeTitle(title, ch.governingBody, ch.defaultMeetingType);
+        if (!parsed.date && uploadDate && uploadDate !== "NA") {
+          // Format: YYYYMMDD → YYYY-MM-DD
+          parsed.date = `${uploadDate.slice(0, 4)}-${uploadDate.slice(4, 6)}-${uploadDate.slice(6, 8)}`;
+        }
         if (!parsed.date) {
-          // If we couldn't extract a date from the title, use the publish date
-          parsed.date = pubDate.toISOString().split("T")[0];
+          parsed.date = new Date().toISOString().split("T")[0];
         }
 
+        // Skip old videos
+        if (new Date(parsed.date) < cutoff) continue;
+
         const meeting: InsertMeeting = {
-          externalId: `yt-${item.guid}`,
+          externalId: `yt-${videoId}`,
           governingBody: parsed.governingBody,
           meetingType: parsed.meetingType,
           date: parsed.date,
-          youtubeUrl: item.link,
-          title: `${parsed.governingBody} ${parsed.meetingType} — ${item.title}`,
+          youtubeUrl: ytUrl,
+          title: `${parsed.governingBody} ${parsed.meetingType} — ${title}`,
           keyTopics: [],
           billsMentioned: [],
           summaryBullets: [],
-          geographicTags: extractGeoTags(item.title),
+          geographicTags: extractGeoTags(title),
           contention: [],
           publicCommentThemes: [],
           addressLocations: [],

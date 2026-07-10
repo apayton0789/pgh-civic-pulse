@@ -1,6 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
 import { KpiCard } from "@/components/kpi-card";
-import { ActivityMapComponent } from "@/components/activity-map";
 import { FeedStatus } from "@/components/feed-status";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -11,6 +10,8 @@ import {
   MapPin,
   Clock,
   AlertTriangle,
+  Landmark,
+  TrendingUp,
 } from "lucide-react";
 import type { Meeting, ContentionItem } from "@shared/schema";
 import type { NewsItem } from "@shared/schema";
@@ -48,7 +49,10 @@ function shortBodyLabel(body: string): string {
   if (l.includes("housing") || l.includes("hacp")) return "HACP";
   if (l.includes("port authority") || l.includes("regional transit")) return "Transit";
   if (l.includes("water") || l.includes("pwsa")) return "PWSA";
-  return body.split("(")[0].trim().split(" ").slice(0, 2).join(" ");
+  // Shorten remaining long names
+  const short = body.split("(")[0].trim();
+  if (short.length > 15) return short.split(" ").slice(0, 2).join(" ");
+  return short;
 }
 
 export default function Dashboard() {
@@ -87,7 +91,24 @@ export default function Dashboard() {
   // Unique governing bodies
   const uniqueBodies = new Set(meetings.map((m) => m.governingBody)).size;
 
-  // Recent activity feed: mix meetings and news, sort by date desc, take 8
+  // Governing bodies breakdown
+  const bodyBreakdown: Record<string, number> = {};
+  for (const m of meetings) {
+    const label = shortBodyLabel(m.governingBody);
+    bodyBreakdown[label] = (bodyBreakdown[label] || 0) + 1;
+  }
+  const sortedBodies = Object.entries(bodyBreakdown)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8);
+
+  // Top active neighborhoods
+  const topAreas = geoActivity
+    ? Object.entries(geoActivity)
+        .sort((a, b) => b[1].count - a[1].count)
+        .slice(0, 8)
+    : [];
+
+  // Recent activity feed: mix meetings and news, sort by date desc, take 10
   const activityFeed = [
     ...meetings.map((m) => ({
       id: `m-${m.id}`,
@@ -107,7 +128,7 @@ export default function Dashboard() {
     })),
   ]
     .sort((a, b) => b.date.localeCompare(a.date))
-    .slice(0, 8);
+    .slice(0, 10);
 
   return (
     <div className="space-y-4 p-4" data-testid="dashboard-page">
@@ -152,22 +173,67 @@ export default function Dashboard() {
           description="Across meetings"
         />
         <KpiCard
-          title="Geo Areas"
-          value={geoAreaCount}
-          icon={MapPin}
-          description="With activity"
+          title="Bodies Tracked"
+          value={uniqueBodies}
+          icon={Landmark}
+          description="Governing bodies"
         />
       </div>
 
-      {/* Split View: Mini Map + Activity Feed */}
+      {/* Split View: Governing Bodies + Recent Activity */}
       <div className="grid lg:grid-cols-2 gap-2 sm:gap-3">
-        {/* Mini Map */}
+        {/* Governing Bodies Breakdown */}
         <Card>
           <CardHeader className="py-3 px-4">
-            <CardTitle className="text-sm font-semibold">Neighborhood Activity</CardTitle>
+            <CardTitle className="text-sm font-semibold flex items-center gap-2">
+              <Landmark className="h-4 w-4" />
+              Meetings by Governing Body
+            </CardTitle>
           </CardHeader>
-          <CardContent className="p-0 pb-2 px-2">
-            <ActivityMapComponent mini className="h-[280px]" />
+          <CardContent className="px-4 pb-3">
+            <div className="space-y-2">
+              {sortedBodies.map(([label, count]) => {
+                const maxCount = sortedBodies[0]?.[1] || 1;
+                return (
+                  <div key={label} className="flex items-center gap-3">
+                    <span className="text-xs font-medium w-24 text-right shrink-0 text-foreground/80 truncate">
+                      {label}
+                    </span>
+                    <div className="flex-1 bg-muted/50 rounded-full h-2.5 overflow-hidden">
+                      <div
+                        className="h-full bg-primary/60 rounded-full transition-all"
+                        style={{ width: `${Math.max(4, (count / maxCount) * 100)}%` }}
+                      />
+                    </div>
+                    <span className="text-xs text-muted-foreground font-mono w-6 text-right">
+                      {count}
+                    </span>
+                  </div>
+                );
+              })}
+              {sortedBodies.length === 0 && (
+                <p className="text-xs text-muted-foreground text-center py-4">
+                  No meetings loaded yet
+                </p>
+              )}
+            </div>
+
+            {/* Active neighborhoods */}
+            {topAreas.length > 0 && (
+              <div className="mt-4 pt-3 border-t">
+                <p className="text-xs font-semibold text-muted-foreground flex items-center gap-1.5 mb-2">
+                  <TrendingUp className="h-3 w-3" />
+                  Most Active Areas
+                </p>
+                <div className="flex flex-wrap gap-1.5">
+                  {topAreas.map(([area, data]) => (
+                    <Badge key={area} variant="outline" className="text-xs px-2 py-0.5">
+                      {area} <span className="ml-1 text-muted-foreground/60">{data.count}</span>
+                    </Badge>
+                  ))}
+                </div>
+              </div>
+            )}
           </CardContent>
         </Card>
 
@@ -177,7 +243,7 @@ export default function Dashboard() {
             <CardTitle className="text-sm font-semibold flex items-center gap-2">
               <Clock className="h-4 w-4" />
               Recent Activity
-              <Badge variant="outline" className="text-[10px] px-1.5 py-0 ml-auto">
+              <Badge variant="outline" className="text-xs px-2 py-0.5 ml-auto">
                 {uniqueBodies} bodies tracked
               </Badge>
             </CardTitle>
