@@ -474,6 +474,12 @@ async function fetchEngagePGH(): Promise<number> {
 
 /** Fetch transcripts for meetings that have YouTube URLs but no transcript yet */
 async function fetchTranscripts(): Promise<number> {
+  // Skip when running in an environment (like GitHub Actions) where YouTube
+  // blocks caption downloads. The UI still links each meeting to YouTube's
+  // built-in transcript panel.
+  if (process.env.SKIP_TRANSCRIPTS === "1") {
+    return 0;
+  }
   let count = 0;
   const meetings = await storage.getMeetings();
   

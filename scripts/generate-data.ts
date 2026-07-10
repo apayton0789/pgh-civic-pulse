@@ -140,19 +140,14 @@ async function main() {
   // 1. Seed initial data
   await seedData();
 
-  // 2. Run live fetchers (YouTube via yt-dlp, RSS news, EngagePGH, transcripts)
-  // Loop until no more transcripts remain to be processed — each call handles ~5.
-  console.log("[generate-data] Running live fetchers...");
+  // 2. Run live fetchers (YouTube discovery + RSS news + EngagePGH).
+  // We skip transcript processing here because YouTube blocks caption downloads
+  // from cloud IPs. Instead, meeting cards will link users directly to the
+  // video's built-in transcript on YouTube, and we tag by keywords from titles.
+  console.log("[generate-data] Running live fetchers (transcripts skipped — linked out to YouTube)");
+  process.env.SKIP_TRANSCRIPTS = "1";
   const firstResult = await runAllFetchers();
-  console.log("[generate-data] Initial fetch:", firstResult);
-
-  // Additional cycles process the transcript backlog for freshly-discovered videos.
-  const MAX_TRANSCRIPT_CYCLES = 12;
-  for (let cycle = 1; cycle <= MAX_TRANSCRIPT_CYCLES; cycle++) {
-    const r = await runAllFetchers();
-    console.log(`[generate-data] Transcript cycle ${cycle}: processed ${r.transcriptsProcessed}`);
-    if (r.transcriptsProcessed === 0) break;
-  }
+  console.log("[generate-data] Fetch complete:", firstResult);
 
   // 3. Gather context for the briefing engine
   const meetings = await storage.getMeetings();

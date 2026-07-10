@@ -303,6 +303,32 @@ function BriefingItemCard({ item, rank }: { item: BriefingItem; rank: number }) 
           </div>
         </div>
 
+        {/* Watch on YouTube — prominent CTA for meetings with video */}
+        {hasVideo && (() => {
+          const videoSrc = item.sources.find(s => s.sourceType === "video");
+          if (!videoSrc?.url) return null;
+          return (
+            <a
+              href={videoSrc.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 rounded-md bg-red-50 border border-red-200 hover:bg-red-100 dark:bg-red-900/20 dark:border-red-800/50 dark:hover:bg-red-900/30 px-3 py-2 transition-colors group"
+              data-testid={`video-cta-${item.id}`}
+            >
+              <Video className="h-4 w-4 text-red-600 dark:text-red-400 shrink-0" />
+              <div className="flex-1 min-w-0">
+                <p className="text-sm font-medium text-red-700 dark:text-red-300">
+                  Watch on YouTube — full transcript available
+                </p>
+                <p className="text-xs text-red-600/70 dark:text-red-400/70">
+                  Click “Show transcript” in the description panel on YouTube
+                </p>
+              </div>
+              <ExternalLink className="h-4 w-4 text-red-600 dark:text-red-400 shrink-0 opacity-70 group-hover:opacity-100" />
+            </a>
+          );
+        })()}
+
         {/* Always-visible sources */}
         <div className="rounded-md border bg-muted/20 px-3 py-2">
           <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-1.5">

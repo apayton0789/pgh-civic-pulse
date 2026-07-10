@@ -13,6 +13,44 @@ import type {
 function getToday(): string { return new Date().toISOString().slice(0, 10); }
 function getYesterday(): string { return new Date(Date.now() - 86400000).toISOString().slice(0, 10); }
 
+/** Keyword patterns for tagging meetings/news by topic without a transcript.
+ *  Runs against title + any available text. */
+const KEYWORD_TAGS: Array<{ pattern: RegExp; tag: string }> = [
+  { pattern: /\b(budget|fiscal|appropriation|deficit|surplus|millage|revenue)\b/i, tag: "Budget" },
+  { pattern: /\b(zoning|variance|conditional use|overlay|rezoning)\b/i, tag: "Zoning" },
+  { pattern: /\b(housing|tenant|landlord|eviction|affordable|rent|homeless)\b/i, tag: "Housing" },
+  { pattern: /\b(transit|bus|light rail|prt|port authority|route|fare|ridership)\b/i, tag: "Transit" },
+  { pattern: /\b(police|officer|law enforcement|shotspotter|patrol|crime)\b/i, tag: "Public Safety" },
+  { pattern: /\b(water|sewer|stormwater|pwsa|paving|infrastructure|bridge)\b/i, tag: "Infrastructure" },
+  { pattern: /\b(school|education|teacher|student|curriculum|superintendent)\b/i, tag: "Education" },
+  { pattern: /\b(ice|immigration|non.?cooperation|sanctuary)\b/i, tag: "Immigration" },
+  { pattern: /\b(climate|environment|green|emissions|air quality|pollut)\b/i, tag: "Climate" },
+  { pattern: /\b(develop|redevelop|construction|demolition|urban)\b/i, tag: "Development" },
+  { pattern: /\b(park|recreation|playground|trail|greenway)\b/i, tag: "Parks & Rec" },
+  { pattern: /\b(public hearing|public comment|community input|community meeting)\b/i, tag: "Public Input" },
+  { pattern: /\b(proclamation|ceremonial|honor|award|recognition)\b/i, tag: "Ceremonial" },
+  { pattern: /\b(vote|resolution|ordinance|bill|legislation)\b/i, tag: "Legislation" },
+  { pattern: /\b(nfl|draft|stadium|arena|sports)\b/i, tag: "Sports & Events" },
+  { pattern: /\b(art|cultural|library|museum)\b/i, tag: "Arts & Culture" },
+  { pattern: /\b(health|hospital|clinic|mental|behavioral)\b/i, tag: "Health" },
+];
+
+function extractKeywordTags(text: string): string[] {
+  const found = new Set<string>();
+  for (const { pattern, tag } of KEYWORD_TAGS) {
+    if (pattern.test(text)) found.add(tag);
+  }
+  return [...found];
+}
+
+/** Build a YouTube transcript URL that opens the built-in transcript panel */
+function youtubeTranscriptUrl(videoUrl: string): string {
+  // YouTube's built-in transcript opens via the info panel. The reliable
+  // pattern is to link to the video with a hint. Users click "Show transcript"
+  // in the description panel.
+  return videoUrl;
+}
+
 function msToTimestamp(ms: number): string {
   const totalSec = Math.floor(ms / 1000);
   const h = Math.floor(totalSec / 3600);
@@ -272,6 +310,20 @@ export function generateBriefingItems(
       evidenceBullets.push({
         text: `Debate: ${c.topic}${c.vote_split ? ` — Vote: ${c.vote_split}` : ''}${c.description ? `. ${c.description}` : ''}`,
         sourceIds: [recordSrcId],
+      });
+    }
+
+    // 7. Title-based keyword tags (works even without a transcript)
+    const titleTags = extractKeywordTags(meeting.title);
+    if (titleTags.length > 0 && evidenceBullets.length < 2) {
+      // Only add title-based evidence if we don't already have rich transcript content
+      evidenceBullets.push({
+        text: `Topics from title: ${titleTags.join(", ")}. Full discussion available in the video recording.`,
+        sourceIds: meeting.youtubeUrl ? [videoSrcId] : [recordSrcId],
+      });
+      evidenceBullets.push({
+        text: `To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.`,
+        sourceIds: meeting.youtubeUrl ? [videoSrcId] : [recordSrcId],
       });
     }
 
