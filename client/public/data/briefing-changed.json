@@ -1,97 +1,5 @@
 [
   {
-    "id": "meeting-27",
-    "headline": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
-    "governmentLevel": "local",
-    "topicArea": "City Governance",
-    "whyItMatters": "Pittsburgh City Council addressed Grant, Development, Housing — decisions affect Pittsburgh residents.",
-    "whatChanged": "actions include: Proclamation: City Council based on the cumulative; Presentation: what types of organizations; Grant: usic] neighborhood economic development gra.",
-    "urgency": "medium",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh City Council",
-      "Grant",
-      "Development"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "🏛️ Proclamation: City Council based on the cumulative scores",
-        "sourceIds": [
-          "src-meeting-27-video"
-        ]
-      },
-      {
-        "text": "🎤 Presentation: what types of organizations",
-        "sourceIds": [
-          "src-meeting-27-video"
-        ]
-      },
-      {
-        "text": "💬 Grant: usic] neighborhood economic development grant, also known as NED",
-        "sourceIds": [
-          "src-meeting-27-video"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-meeting-27-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-10",
-        "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-10",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "City Channel Pittsburgh"
-      },
-      {
-        "id": "src-meeting-27-record",
-        "title": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
-        "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-10",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Regular Meeting"
-      }
-    ],
-    "videoTimestamps": [
-      {
-        "label": "[music] >> Thank you for your interest in the city of Pittsb",
-        "timestamp": "0:07–0:37",
-        "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg&t=7"
-      },
-      {
-        "label": "receive updates on changes to the grant which are being impl",
-        "timestamp": "0:37–1:07",
-        "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg&t=37"
-      },
-      {
-        "label": "Grant, or CDBG. This is money the city of Pittsburgh receive",
-        "timestamp": "1:07–1:38",
-        "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg&t=67"
-      }
-    ],
-    "confidenceLevel": "high",
-    "importanceScore": 6,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
-    "oneLineSummary": "Key actions: Proclamation: City Council based on the cumulative scores; Presentation: what types of organizations; Grant: usic] neighborhood economic development grant, also k",
-    "categoryTag": "City Governance",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "Topics: Grant, Development, Housing",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-10",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
-    "timestampedClipRef": "[music] >> Thank you for your interest in the city of Pittsb [0:07–0:37]",
-    "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedMeetingId": 27,
-    "feedbackOpportunity": false
-  },
-  {
     "id": "news-46",
     "headline": "Recording captures CMU president’s dilemma, thinking on controversial Trump visit",
     "governmentLevel": "local",
@@ -1601,7 +1509,7 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#611b0e0f080f06211108151512031413060911004f060e17",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#ec96838285828bac9c8598989f8e999e8b849c8dc28b839a",
         "publishedDate": "2026-07-10",
         "retrievedDate": "2026-07-10",
         "sourceType": "government_document",
@@ -1619,7 +1527,7 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing the application for a new multi-unit apartment building",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#611b0e0f080f06211108151512031413060911004f060e17",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#ec96838285828bac9c8598989f8e999e8b849c8dc28b839a",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
     "date": "2026-07-10",
@@ -2519,6 +2427,59 @@
     "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-09",
     "date": "2026-07-09",
     "relatedNewsId": 45,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "meeting-27",
+    "headline": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
+    "governmentLevel": "local",
+    "topicArea": "City Governance",
+    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
+    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-07-10.",
+    "urgency": "low",
+    "actionNeeded": "Watch recording for full proceedings.",
+    "keyStakeholders": [
+      "Pittsburgh City Council"
+    ],
+    "evidenceBullets": [],
+    "sources": [
+      {
+        "id": "src-meeting-27-video",
+        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-10",
+        "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
+        "publishedDate": "2026-07-10",
+        "retrievedDate": "2026-07-10",
+        "sourceType": "video",
+        "confidenceLevel": "high",
+        "speaker": "City Channel Pittsburgh"
+      },
+      {
+        "id": "src-meeting-27-record",
+        "title": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
+        "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
+        "publishedDate": "2026-07-10",
+        "retrievedDate": "2026-07-10",
+        "sourceType": "meeting_record",
+        "confidenceLevel": "high",
+        "agendaItem": "Regular Meeting"
+      }
+    ],
+    "confidenceLevel": "low",
+    "importanceScore": 5,
+    "urgencyScore": 2,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
+    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-07-10.",
+    "categoryTag": "City Governance",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Pittsburgh City Council",
+    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-10",
+    "strongestSourceUrl": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
+    "callToAction": "Attend next Pittsburgh City Council meeting",
+    "infographicCaption": "Pittsburgh City Council — 2026-07-10",
+    "date": "2026-07-10",
+    "relatedMeetingId": 27,
     "feedbackOpportunity": false
   },
   {

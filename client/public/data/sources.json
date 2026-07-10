@@ -1,25 +1,5 @@
 [
   {
-    "id": "src-meeting-27-video",
-    "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-10",
-    "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
-    "publishedDate": "2026-07-10",
-    "retrievedDate": "2026-07-10",
-    "sourceType": "video",
-    "confidenceLevel": "high",
-    "speaker": "City Channel Pittsburgh"
-  },
-  {
-    "id": "src-meeting-27-record",
-    "title": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
-    "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
-    "publishedDate": "2026-07-10",
-    "retrievedDate": "2026-07-10",
-    "sourceType": "meeting_record",
-    "confidenceLevel": "high",
-    "agendaItem": "Regular Meeting"
-  },
-  {
     "id": "src-news-46",
     "title": "Recording captures CMU president’s dilemma, thinking on controversial Trump visit",
     "url": "https://www.publicsource.org/cmu-president-trump-visit-recording/",
@@ -440,7 +420,7 @@
   {
     "id": "src-dev-22",
     "title": "In Progress",
-    "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#611b0e0f080f06211108151512031413060911004f060e17",
+    "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#ec96838285828bac9c8598989f8e999e8b849c8dc28b839a",
     "publishedDate": "2026-07-10",
     "retrievedDate": "2026-07-10",
     "sourceType": "government_document",
@@ -837,6 +817,26 @@
     "sourceType": "secondary",
     "confidenceLevel": "medium",
     "quote": "Whether it's Cantonese pork belly, Puerto Rican pasteles or Italian-American chicken parm, Pittsburgh chefs say preserving a tradition often means allowing it to change. The post Pittsburgh’s immigran"
+  },
+  {
+    "id": "src-meeting-27-video",
+    "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-10",
+    "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
+    "publishedDate": "2026-07-10",
+    "retrievedDate": "2026-07-10",
+    "sourceType": "video",
+    "confidenceLevel": "high",
+    "speaker": "City Channel Pittsburgh"
+  },
+  {
+    "id": "src-meeting-27-record",
+    "title": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
+    "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
+    "publishedDate": "2026-07-10",
+    "retrievedDate": "2026-07-10",
+    "sourceType": "meeting_record",
+    "confidenceLevel": "high",
+    "agendaItem": "Regular Meeting"
   },
   {
     "id": "src-meeting-31-video",
