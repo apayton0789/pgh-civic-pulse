@@ -92,6 +92,44 @@ interface Json3Event {
   segs?: Array<{ utf8?: string; tOffsetMs?: number }>;
 }
 
+/** Fetch captions directly from YouTube's public timedtext endpoint
+ *  as a fallback when yt-dlp is blocked by YouTube's cloud-IP throttling. */
+async function fetchTimedTextDirect(videoId: string, outputPath: string): Promise<boolean> {
+  const json3Path = `${outputPath}.en.json3`;
+  // First, get the list of caption tracks
+  const listUrl = `https://www.youtube.com/api/timedtext?type=list&v=${videoId}`;
+  try {
+    // Try direct English auto-generated captions (most common format)
+    const attempts = [
+      `https://www.youtube.com/api/timedtext?lang=en&v=${videoId}&kind=asr&fmt=json3`,
+      `https://www.youtube.com/api/timedtext?lang=en&v=${videoId}&fmt=json3`,
+    ];
+    for (const url of attempts) {
+      const res = await fetch(url, {
+        headers: {
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        },
+      });
+      if (!res.ok) continue;
+      const body = await res.text();
+      // Empty body or non-JSON means no captions at this URL
+      if (!body || body.length < 20) continue;
+      try {
+        const parsed = JSON.parse(body);
+        if (parsed?.events && Array.isArray(parsed.events)) {
+          fs.writeFileSync(json3Path, body);
+          return true;
+        }
+      } catch {
+        // not JSON — keep trying
+      }
+    }
+  } catch {
+    // network error — fall through
+  }
+  return false;
+}
+
 export async function downloadTranscript(videoUrl: string): Promise<string | null> {
   if (!fs.existsSync(TRANSCRIPT_DIR)) {
     fs.mkdirSync(TRANSCRIPT_DIR, { recursive: true });
@@ -108,6 +146,7 @@ export async function downloadTranscript(videoUrl: string): Promise<string | nul
     return parseJson3ToText(json3Path).text;
   }
 
+  // Attempt 1: yt-dlp (works reliably outside cloud IPs)
   try {
     execSync(
       `yt-dlp --skip-download --write-auto-subs --sub-lang en --sub-format json3 -o "${outputPath}" "${videoUrl}" 2>/dev/null`,
@@ -117,11 +156,22 @@ export async function downloadTranscript(videoUrl: string): Promise<string | nul
     if (fs.existsSync(json3Path)) {
       return parseJson3ToText(json3Path).text;
     }
-    return null;
-  } catch (err) {
-    console.error(`[Transcript] Failed to download for ${videoId}:`, (err as Error).message);
-    return null;
+  } catch {
+    // fall through to direct fetch
   }
+
+  // Attempt 2: direct YouTube timedtext endpoint (works from cloud IPs)
+  try {
+    const ok = await fetchTimedTextDirect(videoId, outputPath);
+    if (ok && fs.existsSync(json3Path)) {
+      return parseJson3ToText(json3Path).text;
+    }
+  } catch (err) {
+    console.error(`[Transcript] Direct fetch failed for ${videoId}:`, (err as Error).message);
+  }
+
+  console.error(`[Transcript] No captions available for ${videoId} via any method`);
+  return null;
 }
 
 function parseJson3ToText(filePath: string): { text: string; segments: TimedSegment[]; speakerChanges: number; totalDurationMs: number } {
