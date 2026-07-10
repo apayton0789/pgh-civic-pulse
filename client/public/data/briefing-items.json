@@ -2293,7 +2293,7 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#ec96838285828bac9c8598989f8e999e8b849c8dc28b839a",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#611b0e0f080f06211108151512031413060911004f060e17",
         "publishedDate": "2026-07-10",
         "retrievedDate": "2026-07-10",
         "sourceType": "government_document",
@@ -2311,7 +2311,57 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing the application for a new multi-unit apartment building",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#ec96838285828bac9c8598989f8e999e8b849c8dc28b839a",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#611b0e0f080f06211108151512031413060911004f060e17",
+    "callToAction": "Stay informed",
+    "infographicCaption": "Under Review — Pittsburgh",
+    "date": "2026-07-10",
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "dev-23",
+    "headline": "In Progress",
+    "governmentLevel": "local",
+    "topicArea": "Development",
+    "whyItMatters": "This development project affects the physical character and land use of Pittsburgh neighborhoods.",
+    "whatChanged": "The Department of City Planning is reviewing the application for a new multi-unit apartment building in the Uptown Eco-Innovation District",
+    "urgency": "medium",
+    "actionNeeded": "Monitor project status for public engagement opportunities.",
+    "keyStakeholders": [
+      "EngagePGH",
+      "Uptown",
+      "PITTSBURGH"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "The Department of City Planning is reviewing the application for a new multi-unit apartment building in the Uptown Eco-Innovation District",
+        "sourceIds": [
+          "src-dev-23"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-dev-23",
+        "title": "In Progress",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#d1abbebfb8bfb691a1b8a5a5a2b3a4a3b6b9a1b0ffb6bea7",
+        "publishedDate": "2026-07-10",
+        "retrievedDate": "2026-07-10",
+        "sourceType": "government_document",
+        "confidenceLevel": "high"
+      }
+    ],
+    "confidenceLevel": "high",
+    "importanceScore": 5,
+    "urgencyScore": 4,
+    "localRelevance": 8,
+    "influenceability": 4,
+    "displayHeadline": "In Progress",
+    "oneLineSummary": "The Department of City Planning is reviewing the application for a new multi-unit apartment building in the Uptown Eco-I",
+    "categoryTag": "Development",
+    "categoryColor": "#eab308",
+    "keyStatOrQuote": "The Department of City Planning is reviewing the application for a new multi-unit apartment building",
+    "strongestSourceLabel": "EngagePGH",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#d1abbebfb8bfb691a1b8a5a5a2b3a4a3b6b9a1b0ffb6bea7",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
     "date": "2026-07-10",
