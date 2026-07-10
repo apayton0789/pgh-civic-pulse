@@ -64,6 +64,72 @@
     "feedbackOpportunity": false
   },
   {
+    "id": "meeting-19",
+    "headline": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 7/9/26",
+    "governmentLevel": "local",
+    "topicArea": "City Governance",
+    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
+    "whatChanged": "Pittsburgh City Council held Public Hearing on 2026-07-09.",
+    "urgency": "low",
+    "actionNeeded": "Watch recording for full proceedings.",
+    "keyStakeholders": [
+      "Pittsburgh City Council"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Topics from title: Public Input. Full discussion available in the video recording.",
+        "sourceIds": [
+          "src-meeting-19-video"
+        ]
+      },
+      {
+        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
+        "sourceIds": [
+          "src-meeting-19-video"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-meeting-19-video",
+        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-09",
+        "url": "https://www.youtube.com/watch?v=uocFuBWsgoY",
+        "publishedDate": "2026-07-09",
+        "retrievedDate": "2026-07-10",
+        "sourceType": "video",
+        "confidenceLevel": "high",
+        "speaker": "City Channel Pittsburgh"
+      },
+      {
+        "id": "src-meeting-19-record",
+        "title": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 7/9/26",
+        "url": "https://www.youtube.com/watch?v=uocFuBWsgoY",
+        "publishedDate": "2026-07-09",
+        "retrievedDate": "2026-07-10",
+        "sourceType": "meeting_record",
+        "confidenceLevel": "high",
+        "agendaItem": "Public Hearing"
+      }
+    ],
+    "confidenceLevel": "low",
+    "importanceScore": 5,
+    "urgencyScore": 2,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 7/9/26",
+    "oneLineSummary": "Pittsburgh City Council Public Hearing on 2026-07-09.",
+    "categoryTag": "City Governance",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Pittsburgh City Council",
+    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-09",
+    "strongestSourceUrl": "https://www.youtube.com/watch?v=uocFuBWsgoY",
+    "callToAction": "Attend next Pittsburgh City Council meeting",
+    "infographicCaption": "Pittsburgh City Council — 2026-07-09",
+    "date": "2026-07-09",
+    "relatedMeetingId": 19,
+    "feedbackOpportunity": false
+  },
+  {
     "id": "news-47",
     "headline": "Liberty Avenue shows how Bloomfield changed — and where it could go next",
     "governmentLevel": "local",
@@ -1509,7 +1575,7 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#dca6b3b2b5b2bb9cacb5a8a8afbea9aebbb4acbdf2bbb3aa",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#b5cfdadbdcdbd2f5c5dcc1c1c6d7c0c7d2ddc5d49bd2dac3",
         "publishedDate": "2026-07-10",
         "retrievedDate": "2026-07-10",
         "sourceType": "government_document",
@@ -1527,57 +1593,7 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing the application for a new multi-unit apartment building",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#dca6b3b2b5b2bb9cacb5a8a8afbea9aebbb4acbdf2bbb3aa",
-    "callToAction": "Stay informed",
-    "infographicCaption": "Under Review — Pittsburgh",
-    "date": "2026-07-10",
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "dev-23",
-    "headline": "In Progress",
-    "governmentLevel": "local",
-    "topicArea": "Development",
-    "whyItMatters": "This development project affects the physical character and land use of Pittsburgh neighborhoods.",
-    "whatChanged": "The Department of City Planning is reviewing the application for a new multi-unit apartment building in the Uptown Eco-Innovation District",
-    "urgency": "medium",
-    "actionNeeded": "Monitor project status for public engagement opportunities.",
-    "keyStakeholders": [
-      "EngagePGH",
-      "Uptown",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "The Department of City Planning is reviewing the application for a new multi-unit apartment building in the Uptown Eco-Innovation District",
-        "sourceIds": [
-          "src-dev-23"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-dev-23",
-        "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#eb91848582858cab9b829f9f98899e998c839b8ac58c849d",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-10",
-        "sourceType": "government_document",
-        "confidenceLevel": "high"
-      }
-    ],
-    "confidenceLevel": "high",
-    "importanceScore": 5,
-    "urgencyScore": 4,
-    "localRelevance": 8,
-    "influenceability": 4,
-    "displayHeadline": "In Progress",
-    "oneLineSummary": "The Department of City Planning is reviewing the application for a new multi-unit apartment building in the Uptown Eco-I",
-    "categoryTag": "Development",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "The Department of City Planning is reviewing the application for a new multi-unit apartment building",
-    "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#eb91848582858cab9b829f9f98899e998c839b8ac58c849d",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#b5cfdadbdcdbd2f5c5dcc1c1c6d7c0c7d2ddc5d49bd2dac3",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
     "date": "2026-07-10",
@@ -1783,11 +1799,11 @@
   },
   {
     "id": "news-29",
-    "headline": "Pittsburgh region under flood watch, with rainfall rates up to 2 inches per hour possible",
+    "headline": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
     "governmentLevel": "local",
     "topicArea": "General",
     "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Pittsburgh region under flood watch, with rainfall rates up to 2 inches per hour possible",
+    "whatChanged": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
     "urgency": "low",
     "actionNeeded": "Stay informed about this development.",
     "keyStakeholders": [
@@ -1796,7 +1812,7 @@
     ],
     "evidenceBullets": [
       {
-        "text": "Pittsburgh region under flood watch, with rainfall rates up to 2 inches per hour possible",
+        "text": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
         "sourceIds": [
           "src-news-29"
         ]
@@ -1805,7 +1821,7 @@
     "sources": [
       {
         "id": "src-news-29",
-        "title": "Pittsburgh region under flood watch, with rainfall rates up to 2 inches per hour possible",
+        "title": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
         "url": "https://www.post-gazette.com/news/weather-news/2026/07/10/pittsburgh-weather-flood-watch-rain/stories/202607100041",
         "publishedDate": "2026-07-10",
         "retrievedDate": "2026-07-10",
@@ -1818,8 +1834,8 @@
     "urgencyScore": 3,
     "localRelevance": 6,
     "influenceability": 3,
-    "displayHeadline": "Pittsburgh region under flood watch, with rainfall rates up to 2 inches per hour possible",
-    "oneLineSummary": "Pittsburgh region under flood watch, with rainfall rates up to 2 inches per hour possible",
+    "displayHeadline": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
+    "oneLineSummary": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
     "categoryTag": "General",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
@@ -2795,59 +2811,6 @@
     "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-10",
     "date": "2026-07-10",
     "relatedMeetingId": 35,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-19",
-    "headline": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 7/9/26",
-    "governmentLevel": "local",
-    "topicArea": "City Governance",
-    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Public Hearing on 2026-07-09.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh City Council"
-    ],
-    "evidenceBullets": [],
-    "sources": [
-      {
-        "id": "src-meeting-19-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-09",
-        "url": "https://www.youtube.com/watch?v=uocFuBWsgoY",
-        "publishedDate": "2026-07-09",
-        "retrievedDate": "2026-07-10",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "City Channel Pittsburgh"
-      },
-      {
-        "id": "src-meeting-19-record",
-        "title": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 7/9/26",
-        "url": "https://www.youtube.com/watch?v=uocFuBWsgoY",
-        "publishedDate": "2026-07-09",
-        "retrievedDate": "2026-07-10",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Public Hearing"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 7/9/26",
-    "oneLineSummary": "Pittsburgh City Council Public Hearing on 2026-07-09.",
-    "categoryTag": "City Governance",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-09",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=uocFuBWsgoY",
-    "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-07-09",
-    "date": "2026-07-09",
-    "relatedMeetingId": 19,
     "feedbackOpportunity": false
   }
 ]
