@@ -602,14 +602,20 @@ export function generateBriefingItems(
   }
 
   // Sort: recency-first with strong preference for video/meeting-sourced items
+  // Bug fix: a video source alone is not evidence — require at least 2 evidence
+  // bullets before granting the video boost. Items with zero evidence bullets
+  // are penalized instead of rewarded.
   const now = Date.now();
   function sortScore(item: BriefingItem): number {
     const quality = item.importanceScore * 0.2 + item.urgencyScore * 0.2 + item.localRelevance * 0.15 + item.influenceability * 0.15;
     const daysOld = Math.max(0, (now - new Date(item.date).getTime()) / (1000 * 60 * 60 * 24));
     const recency = daysOld <= 1 ? 10 : daysOld <= 3 ? 8 : daysOld <= 7 ? 5 : daysOld <= 14 ? 3 : daysOld <= 30 ? 1 : 0;
-    const hasVideo = item.sources.some(s => s.sourceType === 'video') ? 5 : 0;
+    const hasVideoSource = item.sources.some(s => s.sourceType === 'video');
+    const hasSubstantiveEvidence = item.evidenceBullets.length >= 2;
+    const videoBoost = hasVideoSource && hasSubstantiveEvidence ? 5 : 0;
     const hasTranscriptAnalysis = item.evidenceBullets.length >= 3 ? 3 : 0;
-    return quality + recency + hasVideo + hasTranscriptAnalysis;
+    const noEvidencePenalty = item.evidenceBullets.length === 0 ? -3 : 0;
+    return quality + recency + videoBoost + hasTranscriptAnalysis + noEvidencePenalty;
   }
   items.sort((a, b) => sortScore(b) - sortScore(a));
 

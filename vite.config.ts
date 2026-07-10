@@ -12,9 +12,12 @@ export default defineConfig({
     },
   },
   root: path.resolve(import.meta.dirname, "client"),
-  base: "./",
+  // GitHub Pages serves this repo at https://apayton0789.github.io/pgh-civic-pulse/
+  base: "/pgh-civic-pulse/",
   build: {
-    outDir: path.resolve(import.meta.dirname, "dist/public"),
+    // Repo-root dist/ so the deploy-pages workflow can upload it directly as
+    // the Pages artifact.
+    outDir: path.resolve(import.meta.dirname, "dist"),
     emptyOutDir: true,
   },
   server: {

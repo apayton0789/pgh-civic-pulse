@@ -18,7 +18,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { SourceTrailPanel } from "@/components/source-trail-panel";
 import { Target, PenTool, Loader2, Copy, Check } from "lucide-react";
 import type { BriefingItem, StrategyAnswers } from "@shared/schema";
-import { apiRequest } from "@/lib/queryClient";
+import { generateDrafts } from "@/lib/draft-generator";
 
 interface DraftResult {
   positionSummary: string;
@@ -89,10 +89,6 @@ export default function DevelopPosition(props: Record<string, any>) {
 
   const { data: items = [], isLoading } = useQuery<BriefingItem[]>({
     queryKey: ["/api/briefing/items"],
-    queryFn: async () => {
-      const res = await apiRequest("GET", "/api/briefing/items");
-      return res.json();
-    },
   });
 
   const item = itemId ? items.find((i) => i.id === itemId) : null;
@@ -139,11 +135,9 @@ export default function DevelopPosition(props: Record<string, any>) {
 
   const generateMutation = useMutation({
     mutationFn: async () => {
-      const res = await apiRequest("POST", "/api/feedback/generate-drafts", {
-        briefingItemId: item?.id,
-        strategy: answers,
-      });
-      return res.json() as Promise<DraftResult>;
+      if (!item) throw new Error("No briefing item selected");
+      // Runs entirely client-side now — ported from server/draft-engine.ts
+      return generateDrafts(item, answers) as DraftResult;
     },
     onSuccess: (data) => {
       setDrafts(data);

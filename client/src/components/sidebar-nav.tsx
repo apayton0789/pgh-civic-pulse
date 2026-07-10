@@ -15,6 +15,7 @@ import {
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PerplexityAttribution } from "@/components/PerplexityAttribution";
+import { GetUpdatesButton } from "@/components/get-updates-button";
 import { useEffect, useState } from "react";
 
 const navItems = [
@@ -104,6 +105,11 @@ export function SidebarNav() {
           );
         })}
       </nav>
+
+      {/* Get Updates (triggers the GitHub Actions data refresh) */}
+      <div className="px-3 py-2 border-t border-sidebar-border">
+        <GetUpdatesButton />
+      </div>
 
       {/* Dark mode toggle */}
       <div className="px-3 py-2 border-t border-sidebar-border">

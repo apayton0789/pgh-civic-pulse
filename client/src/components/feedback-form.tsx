@@ -1,6 +1,5 @@
 import { useState } from "react";
-import { useQuery } from "@tanstack/react-query";
-import { apiRequest } from "@/lib/queryClient";
+import { getTemplates, generateFeedbackLetter } from "@/lib/feedback-templates";
 import {
   Dialog,
   DialogContent,
@@ -40,9 +39,7 @@ export function FeedbackForm({ open, onClose, defaultCategory, prefill }: Feedba
   const [generating, setGenerating] = useState(false);
   const [copied, setCopied] = useState(false);
 
-  const { data: templates = [] } = useQuery<FeedbackTemplate[]>({
-    queryKey: ["/api/feedback/templates"],
-  });
+  const templates: FeedbackTemplate[] = getTemplates();
 
   const reset = () => {
     setStep("select");
@@ -71,15 +68,11 @@ export function FeedbackForm({ open, onClose, defaultCategory, prefill }: Feedba
     setStep("questions");
   };
 
-  const handleGenerate = async () => {
+  const handleGenerate = () => {
     if (!selectedTemplate) return;
     setGenerating(true);
     try {
-      const res = await apiRequest("POST", "/api/feedback/generate", {
-        templateId: selectedTemplate.id,
-        answers,
-      });
-      const data: GeneratedFeedback = await res.json();
+      const data: GeneratedFeedback = generateFeedbackLetter(selectedTemplate.id, answers);
       setGenerated(data);
       setStep("preview");
     } catch (err) {

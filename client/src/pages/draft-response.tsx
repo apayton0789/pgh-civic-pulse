@@ -9,7 +9,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Skeleton } from "@/components/ui/skeleton";
 import { PenTool, Loader2, Copy, Check, MessageSquare } from "lucide-react";
 import type { BriefingItem, StrategyAnswers } from "@shared/schema";
-import { apiRequest } from "@/lib/queryClient";
+import { generateDrafts } from "@/lib/draft-generator";
 
 interface DraftResult {
   positionSummary: string;
@@ -60,10 +60,6 @@ export default function DraftResponse() {
 
   const { data: feedbackData, isLoading } = useQuery<{ items: BriefingItem[] }>({
     queryKey: ["/api/briefing/feedback"],
-    queryFn: async () => {
-      const res = await apiRequest("GET", "/api/briefing/feedback");
-      return res.json();
-    },
   });
 
   const feedbackItems = feedbackData?.items || [];
@@ -71,11 +67,10 @@ export default function DraftResponse() {
 
   const generateMutation = useMutation({
     mutationFn: async (itemId: string) => {
-      const res = await apiRequest("POST", "/api/feedback/generate-drafts", {
-        briefingItemId: itemId,
-        strategy: DEFAULT_STRATEGY,
-      });
-      return res.json() as Promise<DraftResult>;
+      const target = feedbackItems.find((i) => i.id === itemId);
+      if (!target) throw new Error("Briefing item not found");
+      // Runs entirely client-side now — ported from server/draft-engine.ts
+      return generateDrafts(target, DEFAULT_STRATEGY) as DraftResult;
     },
     onSuccess: (data) => setDrafts(data),
   });

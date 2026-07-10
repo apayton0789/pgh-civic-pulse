@@ -3,6 +3,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/u
 import { Button } from "@/components/ui/button";
 import { Copy, Mail, Check, ExternalLink } from "lucide-react";
 import { useState } from "react";
+import type { Meeting, NewsItem, Development } from "@shared/schema";
 
 interface ShareDialogProps {
   type: string;
@@ -16,17 +17,54 @@ interface ShareData {
   type: string;
 }
 
+/**
+ * Share summaries used to be built server-side by GET /api/share/:type/:id.
+ * That logic is now ported here and runs client-side against the static
+ * meetings.json / news.json / developments.json files.
+ */
+function buildShareData(
+  type: string,
+  id: number,
+  meetings: Meeting[],
+  news: NewsItem[],
+  developments: Development[]
+): ShareData | null {
+  if (type === "meeting") {
+    const meeting = meetings.find((m) => m.id === id);
+    if (!meeting) return null;
+    const summary = `\ud83d\udccb ${meeting.governingBody} \u2014 ${meeting.meetingType} (${meeting.date})\n\n${meeting.title}\n\nKey Topics:\n${(meeting.keyTopics || []).map((t) => `\u2022 ${t}`).join("\n")}\n\nView full details on PGH Civic Pulse`;
+    return { summary, title: meeting.title, type: "meeting" };
+  }
+  if (type === "news") {
+    const item = news.find((n) => n.id === id);
+    if (!item) return null;
+    const summary = `\ud83d\udcf0 ${item.headline}\n\nSource: ${item.source} (${item.date})\n\n${item.summary || ""}\n\nView full details on PGH Civic Pulse`;
+    return { summary, title: item.headline, type: "news" };
+  }
+  if (type === "development") {
+    const dev = developments.find((d) => d.id === id);
+    if (!dev) return null;
+    const summary = `\ud83c\udfd7\ufe0f ${dev.title}\n\nStatus: ${dev.status || "Active"}\nType: ${dev.projectType || "Development"}\n\n${dev.description}\n\n${dev.commentDeadline ? `\u26a0\ufe0f Comment Deadline: ${dev.commentDeadline}` : ""}\n\nView full details on PGH Civic Pulse`;
+    return { summary, title: dev.title, type: "development" };
+  }
+  return null;
+}
+
 export function ShareDialog({ type, id, onClose }: ShareDialogProps) {
   const [copied, setCopied] = useState(false);
 
-  const { data: shareData, isLoading } = useQuery<ShareData>({
-    queryKey: ["/api/share", type, id],
-    queryFn: async () => {
-      const res = await fetch(`/api/share/${type}/${id}`);
-      if (!res.ok) throw new Error("Failed to fetch share data");
-      return res.json();
-    },
+  const { data: meetings = [], isLoading: loadingMeetings } = useQuery<Meeting[]>({
+    queryKey: ["/api/meetings"],
   });
+  const { data: news = [], isLoading: loadingNews } = useQuery<NewsItem[]>({
+    queryKey: ["/api/news"],
+  });
+  const { data: developments = [], isLoading: loadingDevs } = useQuery<Development[]>({
+    queryKey: ["/api/developments"],
+  });
+
+  const isLoading = loadingMeetings || loadingNews || loadingDevs;
+  const shareData = isLoading ? undefined : buildShareData(type, id, meetings, news, developments);
 
   const handleCopy = async () => {
     if (!shareData) return;

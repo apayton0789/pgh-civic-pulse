@@ -29,7 +29,11 @@ import { apiRequest } from "@/lib/queryClient";
 const INITIAL_SHOW = 15;
 
 function compositeScore(item: BriefingItem): number {
+  // Bug fix: a video source alone is not evidence — only grant the video
+  // boost if there are at least 2 evidence bullets backing it up. Items
+  // with zero evidence bullets are penalized instead of rewarded.
   const hasVideo = item.sources.some(s => s.sourceType === "video");
+  const hasSubstantiveEvidence = item.evidenceBullets.length >= 2;
   const hasTranscriptAnalysis = item.evidenceBullets.length >= 3;
   const qualityScore =
     item.importanceScore * 0.2 +
@@ -48,11 +52,12 @@ function compositeScore(item: BriefingItem): number {
     : daysOld <= 30 ? 1
     : 0;
 
-  // Video + transcript analysis strongly preferred
-  const videoBoost = hasVideo ? 5 : 0;
+  // Video + transcript analysis strongly preferred, but only when backed by evidence
+  const videoBoost = hasVideo && hasSubstantiveEvidence ? 5 : 0;
   const transcriptBoost = hasTranscriptAnalysis ? 3 : 0;
+  const noEvidencePenalty = item.evidenceBullets.length === 0 ? -3 : 0;
 
-  return qualityScore + recencyBoost + videoBoost + transcriptBoost;
+  return qualityScore + recencyBoost + videoBoost + transcriptBoost + noEvidencePenalty;
 }
 
 function urgencyBadgeClass(urgency: BriefingItem["urgency"]) {
