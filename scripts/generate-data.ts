@@ -141,9 +141,18 @@ async function main() {
   await seedData();
 
   // 2. Run live fetchers (YouTube via yt-dlp, RSS news, EngagePGH, transcripts)
+  // Loop until no more transcripts remain to be processed — each call handles ~5.
   console.log("[generate-data] Running live fetchers...");
-  const fetchResult = await runAllFetchers();
-  console.log("[generate-data] Fetch result:", fetchResult);
+  const firstResult = await runAllFetchers();
+  console.log("[generate-data] Initial fetch:", firstResult);
+
+  // Additional cycles process the transcript backlog for freshly-discovered videos.
+  const MAX_TRANSCRIPT_CYCLES = 12;
+  for (let cycle = 1; cycle <= MAX_TRANSCRIPT_CYCLES; cycle++) {
+    const r = await runAllFetchers();
+    console.log(`[generate-data] Transcript cycle ${cycle}: processed ${r.transcriptsProcessed}`);
+    if (r.transcriptsProcessed === 0) break;
+  }
 
   // 3. Gather context for the briefing engine
   const meetings = await storage.getMeetings();

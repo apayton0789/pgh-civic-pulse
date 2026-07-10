@@ -10,6 +10,11 @@ on:
       - '.github/workflows/deploy-pages.yml'
       - 'package.json'
       - 'vite.config.ts'
+  # Auto-deploy after Refresh Data workflow finishes so bot commits go live
+  workflow_run:
+    workflows: ["Refresh Data"]
+    types: [completed]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
