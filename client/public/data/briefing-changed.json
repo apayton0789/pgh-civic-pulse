@@ -1,130 +1,201 @@
 [
   {
-    "id": "news-46",
-    "headline": "Recording captures CMU president’s dilemma, thinking on controversial Trump visit",
+    "id": "news-26",
+    "headline": "Man fatally stabbed in neck in Turtle Creek Saturday night",
     "governmentLevel": "local",
-    "topicArea": "Education",
-    "whyItMatters": "This development affects the Education sector in Pittsburgh.",
-    "whatChanged": "In audio of a Carnegie Mellon staff council meeting a year ago, university President Farnam Jahanian called the administration in D.C. “toxic” and characterized students as naive while detailing his efforts to protect the school by painting The Fence. The post Recording captures CMU president’s dile",
-    "urgency": "medium",
-    "actionNeeded": "Stay informed about this development.",
+    "topicArea": "Public Safety",
+    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
+    "whatChanged": "Man fatally stabbed in neck in Turtle Creek Saturday night",
+    "urgency": "high",
+    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
     "keyStakeholders": [
-      "PublicSource",
-      "Oakland",
-      "PITTSBURGH"
+      "Pittsburgh Post-Gazette",
+      "TURTLE CREEK"
     ],
     "evidenceBullets": [
       {
-        "text": "In audio of a Carnegie Mellon staff council meeting a year ago, university President Farnam Jahanian called the administration in D.C.",
+        "text": "Man fatally stabbed in neck in Turtle Creek Saturday night",
         "sourceIds": [
-          "src-news-46"
-        ]
-      },
-      {
-        "text": "“toxic” and characterized students as naive while detailing his efforts to protect the school by painting The Fence.",
-        "sourceIds": [
-          "src-news-46"
-        ]
-      },
-      {
-        "text": "The post Recording captures CMU president’s dilemma, thinking on controversial Trump visit appeared first on Pittsburgh&#039;s Public Source.",
-        "sourceIds": [
-          "src-news-46"
+          "src-news-26"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-46",
-        "title": "Recording captures CMU president’s dilemma, thinking on controversial Trump visit",
-        "url": "https://www.publicsource.org/cmu-president-trump-visit-recording/",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
+        "id": "src-news-26",
+        "title": "Man fatally stabbed in neck in Turtle Creek Saturday night",
+        "url": "https://www.post-gazette.com/news/crime-courts/2026/07/12/turtle-creek-stabbing-homicide-stewart-st/stories/202607120085",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "In audio of a Carnegie Mellon staff council meeting a year ago, university President Farnam Jahanian called the administration in D.C. “toxic” and characterized students as naive while detailing his e"
+        "confidenceLevel": "medium"
       }
     ],
     "confidenceLevel": "medium",
-    "importanceScore": 6,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 5,
-    "displayHeadline": "Recording captures CMU president’s dilemma, thinking on controversial Trump visit",
-    "oneLineSummary": "In audio of a Carnegie Mellon staff council meeting a year ago, university President Farnam Jahanian called the administ",
-    "categoryTag": "Education",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "In audio of a Carnegie Mellon staff council meeting a year ago, university President Farnam Jahanian",
-    "strongestSourceLabel": "PublicSource — 2026-07-10",
-    "strongestSourceUrl": "https://www.publicsource.org/cmu-president-trump-visit-recording/",
+    "importanceScore": 8,
+    "urgencyScore": 8,
+    "localRelevance": 8,
+    "influenceability": 3,
+    "displayHeadline": "Man fatally stabbed in neck in Turtle Creek Saturday night",
+    "oneLineSummary": "Man fatally stabbed in neck in Turtle Creek Saturday night",
+    "categoryTag": "Public Safety",
+    "categoryColor": "#f97316",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-12",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/crime-courts/2026/07/12/turtle-creek-stabbing-homicide-stewart-st/stories/202607120085",
     "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 46,
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-12",
+    "date": "2026-07-12",
+    "relatedNewsId": 26,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-47",
-    "headline": "Liberty Avenue shows how Bloomfield changed — and where it could go next",
+    "id": "news-28",
+    "headline": "George Washington's friendly fire battlefield grows while researchers try to confirm mass burial of soldiers",
     "governmentLevel": "local",
-    "topicArea": "Development",
-    "whyItMatters": "This development affects the Development sector in Pittsburgh.",
-    "whatChanged": "How shifting demographics, stalled development and new businesses are reshaping Bloomfield’s main corridor. The post Liberty Avenue shows how Bloomfield changed — and where it could go next appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the ",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
+    "topicArea": "Public Safety",
+    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
+    "whatChanged": "George Washington's friendly fire battlefield grows while researchers try to confirm mass burial of soldiers",
+    "urgency": "high",
+    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
     "keyStakeholders": [
-      "PublicSource",
-      "Bloomfield",
-      "PITTSBURGH"
+      "Pittsburgh Post-Gazette"
     ],
     "evidenceBullets": [
       {
-        "text": "How shifting demographics, stalled development and new businesses are reshaping Bloomfield’s main corridor.",
+        "text": "George Washington's friendly fire battlefield grows while researchers try to confirm mass burial of soldiers",
         "sourceIds": [
-          "src-news-47"
-        ]
-      },
-      {
-        "text": "The post Liberty Avenue shows how Bloomfield changed — and where it could go next appeared first on Pittsburgh&#039;s Public Source.",
-        "sourceIds": [
-          "src-news-47"
-        ]
-      },
-      {
-        "text": "PublicSource is a nonprofit news organization serving the Pittsburgh region.",
-        "sourceIds": [
-          "src-news-47"
+          "src-news-28"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-47",
-        "title": "Liberty Avenue shows how Bloomfield changed — and where it could go next",
-        "url": "https://www.publicsource.org/liberty-bloomfield-pittsburgh-changing-from-italian-roots/",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
+        "id": "src-news-28",
+        "title": "George Washington's friendly fire battlefield grows while researchers try to confirm mass burial of soldiers",
+        "url": "https://www.post-gazette.com/life/recreation/2026/07/12/george-washington-battlefield-ligonier/stories/202607080068",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "How shifting demographics, stalled development and new businesses are reshaping Bloomfield’s main corridor. The post Liberty Avenue shows how Bloomfield changed — and where it could go next appeared f"
+        "confidenceLevel": "medium"
       }
     ],
     "confidenceLevel": "medium",
-    "importanceScore": 4,
+    "importanceScore": 8,
+    "urgencyScore": 8,
+    "localRelevance": 8,
+    "influenceability": 3,
+    "displayHeadline": "George Washington's friendly fire battlefield grows while researchers try to confirm mass burial of soldiers",
+    "oneLineSummary": "George Washington's friendly fire battlefield grows while researchers try to confirm mass burial of soldiers",
+    "categoryTag": "Public Safety",
+    "categoryColor": "#f97316",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-12",
+    "strongestSourceUrl": "https://www.post-gazette.com/life/recreation/2026/07/12/george-washington-battlefield-ligonier/stories/202607080068",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-12",
+    "date": "2026-07-12",
+    "relatedNewsId": 28,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-31",
+    "headline": "Man wounded in overnight Duquesne shooting",
+    "governmentLevel": "local",
+    "topicArea": "Public Safety",
+    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
+    "whatChanged": "Man wounded in overnight Duquesne shooting",
+    "urgency": "high",
+    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "DUQUESNE"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Man wounded in overnight Duquesne shooting",
+        "sourceIds": [
+          "src-news-31"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-31",
+        "title": "Man wounded in overnight Duquesne shooting",
+        "url": "https://www.post-gazette.com/news/crime-courts/2026/07/11/man-wounded-duquesne-shooting/stories/202607110047",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 8,
+    "urgencyScore": 8,
+    "localRelevance": 8,
+    "influenceability": 3,
+    "displayHeadline": "Man wounded in overnight Duquesne shooting",
+    "oneLineSummary": "Man wounded in overnight Duquesne shooting",
+    "categoryTag": "Public Safety",
+    "categoryColor": "#f97316",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-12",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/crime-courts/2026/07/11/man-wounded-duquesne-shooting/stories/202607110047",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-12",
+    "date": "2026-07-12",
+    "relatedNewsId": 31,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-27",
+    "headline": "Sweeping housing bill with roots in Pittsburgh area has now become law — without Trump's signature",
+    "governmentLevel": "local",
+    "topicArea": "Development/Housing",
+    "whyItMatters": "This development affects the Development/Housing sector in Pittsburgh.",
+    "whatChanged": "Sweeping housing bill with roots in Pittsburgh area has now become law — without Trump's signature",
+    "urgency": "medium",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "PITTSBURGH"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Sweeping housing bill with roots in Pittsburgh area has now become law — without Trump's signature",
+        "sourceIds": [
+          "src-news-27"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-27",
+        "title": "Sweeping housing bill with roots in Pittsburgh area has now become law — without Trump's signature",
+        "url": "https://www.post-gazette.com/local/region/2026/07/12/affordable-housing-bill-law-pittsburgh/stories/202607120064",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 7,
     "urgencyScore": 3,
     "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Liberty Avenue shows how Bloomfield changed — and where it could go next",
-    "oneLineSummary": "How shifting demographics, stalled development and new businesses are reshaping Bloomfield’s main corridor. The post Lib",
-    "categoryTag": "Development",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "How shifting demographics, stalled development and new businesses are reshaping Bloomfield’s main co",
-    "strongestSourceLabel": "PublicSource — 2026-07-10",
-    "strongestSourceUrl": "https://www.publicsource.org/liberty-bloomfield-pittsburgh-changing-from-italian-roots/",
+    "influenceability": 6,
+    "displayHeadline": "Sweeping housing bill with roots in Pittsburgh area has now become law — without Trump's signature",
+    "oneLineSummary": "Sweeping housing bill with roots in Pittsburgh area has now become law — without Trump's signature",
+    "categoryTag": "Development/Housing",
+    "categoryColor": "#eab308",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-12",
+    "strongestSourceUrl": "https://www.post-gazette.com/local/region/2026/07/12/affordable-housing-bill-law-pittsburgh/stories/202607120064",
     "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 47,
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-12",
+    "date": "2026-07-12",
+    "relatedNewsId": 27,
     "feedbackOpportunity": false
   },
   {
@@ -160,8 +231,8 @@
         "id": "src-dev-1",
         "title": "Kelly Street Rezoning",
         "url": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Proposed by URA; rezoning from R1D-L to UI; future multiunit residential building planned; requires Planning Commission and City Council hearings; Development Activities Meeting held with Homewood Com"
@@ -181,7 +252,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Kelly Street / Formosa Way (parcels 125-G-18 area)",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -218,8 +289,8 @@
         "id": "src-dev-2",
         "title": "Lower Hill District Housing RFP",
         "url": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "6.82 acres URA-owned land; public comment period open March 12 – April 7, 2026; URA Board vote on April 9, 2026; also includes Bedford Dwellings/Hill District mixed-income housing project (Trek Develo"
@@ -239,7 +310,7 @@
     "strongestSourceUrl": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
     "callToAction": "Stay informed",
     "infographicCaption": "Open for Comment — Lower Hill District, Block A and Block C",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-04-07"
   },
@@ -275,8 +346,8 @@
         "id": "src-dev-3",
         "title": "Pittsburgh Comprehensive Plan",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Two-year planning process; community-led engagement with consultant team; guided by 'Just Transition' and climate justice principles; covers 8 themes: welcoming community, safe city, youth, economic o"
@@ -296,7 +367,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -331,8 +402,8 @@
         "id": "src-dev-4",
         "title": "Implementing the Housing Needs Assessment – Zoning Reforms",
         "url": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Minimum lot size legislation 2025-1579 passed and in effect citywide; future phases include comprehensive residential zoning code overhaul; inclusionary zoning (IZ) overlay currently active in Lawrenc"
@@ -352,7 +423,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -387,8 +458,8 @@
         "id": "src-dev-5",
         "title": "Mayor O'Connor Permitting Process Reform & Zoning Code Overhaul",
         "url": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Announced March 9, 2026; executive order issued on mayor's first day requiring 60-day departmental review; first comprehensive zoning code rewrite in decades; Phase 1 actions being implemented Q1-Q2 2"
@@ -408,7 +479,7 @@
     "strongestSourceUrl": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -444,8 +515,8 @@
         "id": "src-dev-6",
         "title": "California Ave. Bridge Rehabilitation Project",
         "url": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Bridge built 1928; eligible for National Register of Historic Places (Criterion C); community meeting held July 24, 2025; federal FHWA and PennDOT District 11-0 cooperation; consultants: MS Consultant"
@@ -465,7 +536,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — California Avenue (Robert McAfee Bridge)",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -501,8 +572,8 @@
         "id": "src-dev-7",
         "title": "Frankstown Avenue Signal Improvements",
         "url": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Federal CMAQ grant of ~$4.3 million; construction began January 2026; 9 intersections in scope; part of 2022 Homewood Mobility Plan; DOMI lead; signal replacements at Murtland, Lang, Homewood, Collier"
@@ -522,7 +593,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Frankstown Avenue, Murtland Ave to Blackadore St",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -558,8 +629,8 @@
         "id": "src-dev-8",
         "title": "Liberty Avenue Highway Safety Improvement Project",
         "url": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "HSIP (Federal Highway Safety Improvement Program) funded; full signal replacement at 6 intersections; new signal at 27th St; RRFB conversion at 17th St; part of Strip District Mobility Plan; also coor"
@@ -579,7 +650,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Liberty Avenue, Strip District (17th St to 32nd St)",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -615,8 +686,8 @@
         "id": "src-dev-9",
         "title": "Brighton Heights, California & Termon Intersection Improvement",
         "url": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "9 crashes 2020-2024 (4 serious injury, 1 pedestrian injury); PRT Route 13 serves this intersection (~32 boardings/weekday); dominant crash type: 'angle' (turning/yielding behavior); project will produ"
@@ -636,7 +707,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Brighton Heights Blvd / California Ave / Termon Ave",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -672,8 +743,8 @@
         "id": "src-dev-10",
         "title": "Penn Plaza Block B (Pennley Park South)",
         "url": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Developer: LG Realty Advisors, Inc.; privately-owned development (City role is zoning compliance review and engagement facilitation); Block A (Whole Foods) completed 2022; Block C (Enright Park renova"
@@ -693,7 +764,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Penn Plaza site, East Liberty",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -729,8 +800,8 @@
         "id": "src-dev-11",
         "title": "Bloomfield Bridge Rehabilitation",
         "url": "https://engage.pittsburghpa.gov/bloomfield-bridge",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Largest deck-area bridge in Pittsburgh; spans East Busway and railroad lines; emergency maintenance (expansion joint seals) completed fall 2025; full rehabilitation in planning phase; DOMI lead; work "
@@ -750,7 +821,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/bloomfield-bridge",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Bloomfield Bridge (Bloomfield neighborhood)",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -786,8 +857,8 @@
         "id": "src-dev-12",
         "title": "Serpentine Drive Wall Repair & Access Conversion",
         "url": "https://engage.pittsburghpa.gov/serpentine-drive",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Wall collapsed in 2019; ~265 feet of masonry wall replacement/repair; architectural treatment to replicate original stone masonry aesthetics; proposes closure to motor vehicles permanently; 60-day pub"
@@ -807,7 +878,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/serpentine-drive",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Serpentine Drive, Schenley Park",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -843,8 +914,8 @@
         "id": "src-dev-13",
         "title": "Warrington Recreation Center Renovation",
         "url": "https://engage.pittsburghpa.gov/warrington-recreation-center",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Funded by Redevelopment Assistance Capital Program (RACP) grants and local dollars; key features: recording studio, elevator (ADA), new playground, outdoor basketball court; Department of Public Works"
@@ -864,7 +935,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/warrington-recreation-center",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Warrington Recreation Center",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -899,8 +970,8 @@
         "id": "src-dev-14",
         "title": "Vision Zero – Traffic Safety Program",
         "url": "https://engage.pittsburghpa.gov/vision-zero",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Formally adopted 2024; Mayor Gainey's 2024 budget nearly doubled traffic safety capital investment; sub-programs include: Neighborhood Traffic Calming, Safe Routes to School, Automated Red Light Enfor"
@@ -920,7 +991,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vision-zero",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -956,8 +1027,8 @@
         "id": "src-dev-15",
         "title": "Vending Program Rules & Regulations",
         "url": "https://engage.pittsburghpa.gov/vending-program",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Legislation passed November 18, 2025; signed by Mayor Gainey November 19, 2025; Ordinances 34 and 35; amended Zoning Code and Chapter 719 (Vendors and Peddlers); final rules/regulations publication ta"
@@ -977,7 +1048,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vending-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Citywide",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-03-12"
   },
@@ -1013,8 +1084,8 @@
         "id": "src-dev-16",
         "title": "Historic Preservation Program",
         "url": "https://engage.pittsburghpa.gov/historic-preservation-program",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Guided by PreservePGH (2012); ongoing Architectural Inventory Project (surveys since 2014); new design guidelines contract approved March 2026 for Mexican War Streets and Manchester Historic Districts"
@@ -1034,7 +1105,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/historic-preservation-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -1070,8 +1141,8 @@
         "id": "src-dev-17",
         "title": "South Side Park Project",
         "url": "https://engage.pittsburghpa.gov/south-side-park-project",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Phase 1 ongoing; stormwater r-tanks installed in coordination with Pittsburgh Water (PWSA); public art project funded by Percent for Art program; City Council Resolution 2026-0177 authorized Pittsburg"
@@ -1091,7 +1162,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/south-side-park-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — South Side Park",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -1126,8 +1197,8 @@
         "id": "src-dev-18",
         "title": "Safe Routes to School Program",
         "url": "https://engage.pittsburghpa.gov/safe-routes-to-school",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Ongoing annual program; DOMI lead; combines engineering improvements (crosswalks, signage, sidewalks) with education and encouragement; part of Vision Zero safe systems approach; updated January 2026"
@@ -1147,7 +1218,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/safe-routes-to-school",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide (school corridors)",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -1182,8 +1253,8 @@
         "id": "src-dev-19",
         "title": "Pittsburgh Regional Disparity Study",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Citywide procurement disparity analysis; examines race, ethnicity, and gender-based disparities in city contracting; will inform MBE/WBE program policies; findings will guide equitable contracting req"
@@ -1203,7 +1274,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -1239,8 +1310,8 @@
         "id": "src-dev-20",
         "title": "Allegheny Riverfront Park Restoration",
         "url": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Total project cost: $6.3 million; partners: Riverlife, City of Pittsburgh, Pittsburgh Cultural Trust; designer: Michael Van Valkenburgh Associates + LaQuatra Bonci Associates; construction anticipated"
@@ -1260,7 +1331,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Allegheny Riverfront Park (between 6th, 7th, and 9th Street Bridges)",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -1296,8 +1367,8 @@
         "id": "src-dev-21",
         "title": "Westinghouse Park Master Plan",
         "url": "https://engage.pittsburghpa.gov/westinghouse-park",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "10.2-acre park; partnership between Westinghouse Park 2nd Century Coalition and Point Breeze North Development Corporation; funded by URA Neighborhood Initiative program grant and private funder; fina"
@@ -1317,7 +1388,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/westinghouse-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Westinghouse Park",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "feedbackOpportunity": false
   },
   {
@@ -1346,9 +1417,9 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#42382d2c2b2c2502322b363631203730252a32236c252d34",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#542e3b3a3d3a3314243d202027362126333c24357a333b22",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "government_document",
         "confidenceLevel": "high"
       }
@@ -1364,28 +1435,77 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing the application for a new multi-unit apartment building",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#42382d2c2b2c2502322b363631203730252a32236c252d34",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#542e3b3a3d3a3314243d202027362126333c24357a333b22",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-29",
+    "headline": "Commentary: In the months after 7 Catholic churches are closed, those left behind grapple with what it means",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Commentary: In the months after 7 Catholic churches are closed, those left behind grapple with what it means",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Commentary: In the months after 7 Catholic churches are closed, those left behind grapple with what it means",
+        "sourceIds": [
+          "src-news-29"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-29",
+        "title": "Commentary: In the months after 7 Catholic churches are closed, those left behind grapple with what it means",
+        "url": "https://www.post-gazette.com/news/faith-religion/2026/07/12/st-joseph-the-worker-parish-catholic-church-closings/stories/202606280011",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Commentary: In the months after 7 Catholic churches are closed, those left behind grapple with what it means",
+    "oneLineSummary": "Commentary: In the months after 7 Catholic churches are closed, those left behind grapple with what it means",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-12",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/faith-religion/2026/07/12/st-joseph-the-worker-parish-catholic-church-closings/stories/202606280011",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-12",
+    "date": "2026-07-12",
+    "relatedNewsId": 29,
     "feedbackOpportunity": false
   },
   {
     "id": "news-30",
-    "headline": "Shaler man charged with threatening to kill member of Congress, carry out mass shootings",
+    "headline": "Big Boy the mammoth locomotive stops in little Leetsdale on its way back home",
     "governmentLevel": "local",
-    "topicArea": "Public Safety",
-    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
-    "whatChanged": "Shaler man charged with threatening to kill member of Congress, carry out mass shootings",
-    "urgency": "high",
-    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Big Boy the mammoth locomotive stops in little Leetsdale on its way back home",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
     "keyStakeholders": [
       "Pittsburgh Post-Gazette",
-      "SHALER"
+      "LEETSDALE"
     ],
     "evidenceBullets": [
       {
-        "text": "Shaler man charged with threatening to kill member of Congress, carry out mass shootings",
+        "text": "Big Boy the mammoth locomotive stops in little Leetsdale on its way back home",
         "sourceIds": [
           "src-news-30"
         ]
@@ -1394,34 +1514,233 @@
     "sources": [
       {
         "id": "src-news-30",
-        "title": "Shaler man charged with threatening to kill member of Congress, carry out mass shootings",
-        "url": "https://www.post-gazette.com/news/crime-courts/2026/07/10/shaler-threats-federal-indictment/stories/202607100057",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
+        "title": "Big Boy the mammoth locomotive stops in little Leetsdale on its way back home",
+        "url": "https://www.post-gazette.com/news/transportation/2026/07/11/big-boy-the-mammoth-locomotive-stops-in-little-leetsdale-on-its-way-back-home/stories/202607110049",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
     ],
     "confidenceLevel": "medium",
-    "importanceScore": 8,
-    "urgencyScore": 8,
-    "localRelevance": 8,
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
     "influenceability": 3,
-    "displayHeadline": "Shaler man charged with threatening to kill member of Congress, carry out mass shootings",
-    "oneLineSummary": "Shaler man charged with threatening to kill member of Congress, carry out mass shootings",
-    "categoryTag": "Public Safety",
-    "categoryColor": "#f97316",
+    "displayHeadline": "Big Boy the mammoth locomotive stops in little Leetsdale on its way back home",
+    "oneLineSummary": "Big Boy the mammoth locomotive stops in little Leetsdale on its way back home",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
     "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/crime-courts/2026/07/10/shaler-threats-federal-indictment/stories/202607100057",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-12",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/transportation/2026/07/11/big-boy-the-mammoth-locomotive-stops-in-little-leetsdale-on-its-way-back-home/stories/202607110049",
     "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-12",
+    "date": "2026-07-12",
     "relatedNewsId": 30,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-26",
+    "id": "news-33",
+    "headline": "Pennsylvania lawmakers’ budget deal hinges on accounting trick to please all sides",
+    "governmentLevel": "local",
+    "topicArea": "Government/Budget",
+    "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
+    "whatChanged": "Pennsylvania lawmakers’ budget deal hinges on accounting trick to please all sides",
+    "urgency": "high",
+    "actionNeeded": "Contact your elected officials if this policy affects you directly.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Pennsylvania lawmakers’ budget deal hinges on accounting trick to please all sides",
+        "sourceIds": [
+          "src-news-33"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-33",
+        "title": "Pennsylvania lawmakers’ budget deal hinges on accounting trick to please all sides",
+        "url": "https://www.post-gazette.com/news/state/2026/07/11/lawmakers-harrisburg-capitol-pennsylvania-budget-shapiro/stories/202607110046",
+        "publishedDate": "2026-07-11",
+        "retrievedDate": "2026-07-12",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 7,
+    "urgencyScore": 6,
+    "localRelevance": 6,
+    "influenceability": 5,
+    "displayHeadline": "Pennsylvania lawmakers’ budget deal hinges on accounting trick to please all sides",
+    "oneLineSummary": "Pennsylvania lawmakers’ budget deal hinges on accounting trick to please all sides",
+    "categoryTag": "Government/Budget",
+    "categoryColor": "#f97316",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-11",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/state/2026/07/11/lawmakers-harrisburg-capitol-pennsylvania-budget-shapiro/stories/202607110046",
+    "callToAction": "Contact your representative",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-11",
+    "date": "2026-07-11",
+    "relatedNewsId": 33,
+    "feedbackOpportunity": true
+  },
+  {
+    "id": "news-32",
+    "headline": "United by intrigue and inconvenience, Pittsburghers begin 25 days without the Squirrel Hill Tunnel",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "United by intrigue and inconvenience, Pittsburghers begin 25 days without the Squirrel Hill Tunnel",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "Squirrel Hill",
+      "PITTSBURGH"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "United by intrigue and inconvenience, Pittsburghers begin 25 days without the Squirrel Hill Tunnel",
+        "sourceIds": [
+          "src-news-32"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-32",
+        "title": "United by intrigue and inconvenience, Pittsburghers begin 25 days without the Squirrel Hill Tunnel",
+        "url": "https://www.post-gazette.com/news/transportation/2026/07/11/commercial-bridge-closure-day-1/stories/202607110044",
+        "publishedDate": "2026-07-11",
+        "retrievedDate": "2026-07-12",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "United by intrigue and inconvenience, Pittsburghers begin 25 days without the Squirrel Hill Tunnel",
+    "oneLineSummary": "United by intrigue and inconvenience, Pittsburghers begin 25 days without the Squirrel Hill Tunnel",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-11",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/transportation/2026/07/11/commercial-bridge-closure-day-1/stories/202607110044",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-11",
+    "date": "2026-07-11",
+    "relatedNewsId": 32,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-34",
+    "headline": "Coroner identifies man killed in North Huntingdon accident involving a motorcycle",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Coroner identifies man killed in North Huntingdon accident involving a motorcycle",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Coroner identifies man killed in North Huntingdon accident involving a motorcycle",
+        "sourceIds": [
+          "src-news-34"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-34",
+        "title": "Coroner identifies man killed in North Huntingdon accident involving a motorcycle",
+        "url": "https://www.post-gazette.com/local/westmoreland/2026/07/11/north-huntingdon-fatal-motorcycle-accident-malts-ln-rt-30/stories/202607110033",
+        "publishedDate": "2026-07-11",
+        "retrievedDate": "2026-07-12",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Coroner identifies man killed in North Huntingdon accident involving a motorcycle",
+    "oneLineSummary": "Coroner identifies man killed in North Huntingdon accident involving a motorcycle",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-11",
+    "strongestSourceUrl": "https://www.post-gazette.com/local/westmoreland/2026/07/11/north-huntingdon-fatal-motorcycle-accident-malts-ln-rt-30/stories/202607110033",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-11",
+    "date": "2026-07-11",
+    "relatedNewsId": 34,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-35",
+    "headline": "Woman, 60, killed in vehicle accident in West Mifflin",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Woman, 60, killed in vehicle accident in West Mifflin",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "WEST MIFFLIN"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Woman, 60, killed in vehicle accident in West Mifflin",
+        "sourceIds": [
+          "src-news-35"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-35",
+        "title": "Woman, 60, killed in vehicle accident in West Mifflin",
+        "url": "https://www.post-gazette.com/local/south/2026/07/11/west-mifflin-fatal-accident-lebanon-church-rd-buttermilk-hollow/stories/202607110032",
+        "publishedDate": "2026-07-11",
+        "retrievedDate": "2026-07-12",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Woman, 60, killed in vehicle accident in West Mifflin",
+    "oneLineSummary": "Woman, 60, killed in vehicle accident in West Mifflin",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-11",
+    "strongestSourceUrl": "https://www.post-gazette.com/local/south/2026/07/11/west-mifflin-fatal-accident-lebanon-church-rd-buttermilk-hollow/stories/202607110032",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-11",
+    "date": "2026-07-11",
+    "relatedNewsId": 35,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-36",
     "headline": "Letter to the editor: Ban dangerous herbicide in Pa.",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1436,17 +1755,17 @@
       {
         "text": "Letter to the editor: Ban dangerous herbicide in Pa.",
         "sourceIds": [
-          "src-news-26"
+          "src-news-36"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-26",
+        "id": "src-news-36",
         "title": "Letter to the editor: Ban dangerous herbicide in Pa.",
         "url": "https://www.post-gazette.com/local/2026/07/11/paraquat-herbicide-parkinsons-disease/stories/202607110001",
         "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "retrievedDate": "2026-07-12",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
@@ -1466,553 +1785,7 @@
     "callToAction": "Read the full report",
     "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-11",
     "date": "2026-07-11",
-    "relatedNewsId": 26,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-36",
-    "headline": "Moms share birth stories as Allegheny County's comment period for parental leave proposal nears closure",
-    "governmentLevel": "local",
-    "topicArea": "Government",
-    "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-    "whatChanged": "Moms share birth stories as Allegheny County's comment period for parental leave proposal nears closure",
-    "urgency": "high",
-    "actionNeeded": "Contact your elected officials if this policy affects you directly.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "ALLEGHENY"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Moms share birth stories as Allegheny County's comment period for parental leave proposal nears closure",
-        "sourceIds": [
-          "src-news-36"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-36",
-        "title": "Moms share birth stories as Allegheny County's comment period for parental leave proposal nears closure",
-        "url": "https://www.post-gazette.com/news/health/2026/07/10/allegheny-county-paid-parental-leave-1/stories/202607120030",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 7,
-    "urgencyScore": 6,
-    "localRelevance": 6,
-    "influenceability": 5,
-    "displayHeadline": "Moms share birth stories as Allegheny County's comment period for parental leave proposal nears closure",
-    "oneLineSummary": "Moms share birth stories as Allegheny County's comment period for parental leave proposal nears closure",
-    "categoryTag": "Government",
-    "categoryColor": "#f97316",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/health/2026/07/10/allegheny-county-paid-parental-leave-1/stories/202607120030",
-    "callToAction": "Contact your representative",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
     "relatedNewsId": 36,
-    "feedbackOpportunity": true
-  },
-  {
-    "id": "news-28",
-    "headline": "Pitt raises tuition for a 6th straight year, and housing costs are also going up",
-    "governmentLevel": "local",
-    "topicArea": "Development/Housing",
-    "whyItMatters": "This development affects the Development/Housing sector in Pittsburgh.",
-    "whatChanged": "Pitt raises tuition for a 6th straight year, and housing costs are also going up",
-    "urgency": "medium",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Pitt raises tuition for a 6th straight year, and housing costs are also going up",
-        "sourceIds": [
-          "src-news-28"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-28",
-        "title": "Pitt raises tuition for a 6th straight year, and housing costs are also going up",
-        "url": "https://www.post-gazette.com/news/education/2026/07/10/pitt-tuition-2026/stories/202607100063",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 7,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 6,
-    "displayHeadline": "Pitt raises tuition for a 6th straight year, and housing costs are also going up",
-    "oneLineSummary": "Pitt raises tuition for a 6th straight year, and housing costs are also going up",
-    "categoryTag": "Development/Housing",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/education/2026/07/10/pitt-tuition-2026/stories/202607100063",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 28,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-34",
-    "headline": "Tuition-free? Slippery Rock, IUP and PennWest among the schools set to waive costs for certain students",
-    "governmentLevel": "local",
-    "topicArea": "Education",
-    "whyItMatters": "This development affects the Education sector in Pittsburgh.",
-    "whatChanged": "Tuition-free? Slippery Rock, IUP and PennWest among the schools set to waive costs for certain students",
-    "urgency": "medium",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Tuition-free? Slippery Rock, IUP and PennWest among the schools set to waive costs for certain students",
-        "sourceIds": [
-          "src-news-34"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-34",
-        "title": "Tuition-free? Slippery Rock, IUP and PennWest among the schools set to waive costs for certain students",
-        "url": "https://www.post-gazette.com/news/education/2026/07/10/passhe-pledge-tuition-waive-slippery-rock-iup-pennwest/stories/202607090058",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 6,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 5,
-    "displayHeadline": "Tuition-free? Slippery Rock, IUP and PennWest among the schools set to waive costs for certain students",
-    "oneLineSummary": "Tuition-free? Slippery Rock, IUP and PennWest among the schools set to waive costs for certain students",
-    "categoryTag": "Education",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/education/2026/07/10/passhe-pledge-tuition-waive-slippery-rock-iup-pennwest/stories/202607090058",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 34,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-27",
-    "headline": "123 years ago, a pastor and runaway slave was buried in Homewood Cemetery. He finally got a headstone.",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "123 years ago, a pastor and runaway slave was buried in Homewood Cemetery. He finally got a headstone.",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "Homewood",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "123 years ago, a pastor and runaway slave was buried in Homewood Cemetery. He finally got a headstone.",
-        "sourceIds": [
-          "src-news-27"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-27",
-        "title": "123 years ago, a pastor and runaway slave was buried in Homewood Cemetery. He finally got a headstone.",
-        "url": "https://www.post-gazette.com/local/city/2026/07/10/rev-robert-simon-laws-homewood-cemetery/stories/202607100071",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "123 years ago, a pastor and runaway slave was buried in Homewood Cemetery. He finally got a headstone.",
-    "oneLineSummary": "123 years ago, a pastor and runaway slave was buried in Homewood Cemetery. He finally got a headstone.",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/local/city/2026/07/10/rev-robert-simon-laws-homewood-cemetery/stories/202607100071",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 27,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-29",
-    "headline": "Breaking down the schedule for the 25-day Parkway East closure to replace the Commercial Street Bridge",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Breaking down the schedule for the 25-day Parkway East closure to replace the Commercial Street Bridge",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Breaking down the schedule for the 25-day Parkway East closure to replace the Commercial Street Bridge",
-        "sourceIds": [
-          "src-news-29"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-29",
-        "title": "Breaking down the schedule for the 25-day Parkway East closure to replace the Commercial Street Bridge",
-        "url": "https://www.post-gazette.com/news/transportation/2026/07/10/parkway-east-closure-construction-schedule/stories/202607100066",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Breaking down the schedule for the 25-day Parkway East closure to replace the Commercial Street Bridge",
-    "oneLineSummary": "Breaking down the schedule for the 25-day Parkway East closure to replace the Commercial Street Bridge",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/transportation/2026/07/10/parkway-east-closure-construction-schedule/stories/202607100066",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 29,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-31",
-    "headline": "Brandon McGinley: Finding hope for America's future in Friendship (the neighborhood)",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Brandon McGinley: Finding hope for America's future in Friendship (the neighborhood)",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Brandon McGinley: Finding hope for America's future in Friendship (the neighborhood)",
-        "sourceIds": [
-          "src-news-31"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-31",
-        "title": "Brandon McGinley: Finding hope for America's future in Friendship (the neighborhood)",
-        "url": "https://www.post-gazette.com/local/city/2026/07/10/declaration-independence-history-patriotism-america-250-tea-party/stories/202607120056",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Brandon McGinley: Finding hope for America's future in Friendship (the neighborhood)",
-    "oneLineSummary": "Brandon McGinley: Finding hope for America's future in Friendship (the neighborhood)",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/local/city/2026/07/10/declaration-independence-history-patriotism-america-250-tea-party/stories/202607120056",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 31,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-32",
-    "headline": "While the Parkway East is closed for bridge replacement, these other road projects will also be completed",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "While the Parkway East is closed for bridge replacement, these other road projects will also be completed",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "While the Parkway East is closed for bridge replacement, these other road projects will also be completed",
-        "sourceIds": [
-          "src-news-32"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-32",
-        "title": "While the Parkway East is closed for bridge replacement, these other road projects will also be completed",
-        "url": "https://www.post-gazette.com/news/transportation/2026/07/10/parkway-east-commercial-street-construction/stories/202607090060",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "While the Parkway East is closed for bridge replacement, these other road projects will also be completed",
-    "oneLineSummary": "While the Parkway East is closed for bridge replacement, these other road projects will also be completed",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/transportation/2026/07/10/parkway-east-commercial-street-construction/stories/202607090060",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 32,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-33",
-    "headline": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
-        "sourceIds": [
-          "src-news-33"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-33",
-        "title": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
-        "url": "https://www.post-gazette.com/news/weather-news/2026/07/10/pittsburgh-weather-flood-watch-rain/stories/202607100041",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
-    "oneLineSummary": "Parts of Pittsburgh region under flash flood warning, with rainfall rates up to 3 inches per hour possible",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/weather-news/2026/07/10/pittsburgh-weather-flood-watch-rain/stories/202607100041",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 33,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-35",
-    "headline": "Letter to the editor: Choose Nailers over Naples",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Letter to the editor: Choose Nailers over Naples",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Letter to the editor: Choose Nailers over Naples",
-        "sourceIds": [
-          "src-news-35"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-35",
-        "title": "Letter to the editor: Choose Nailers over Naples",
-        "url": "https://www.post-gazette.com/local/2026/07/10/wheeling-nailers-everblades-hoffman-penguins/stories/202607100002",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Letter to the editor: Choose Nailers over Naples",
-    "oneLineSummary": "Letter to the editor: Choose Nailers over Naples",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/local/2026/07/10/wheeling-nailers-everblades-hoffman-penguins/stories/202607100002",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 35,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-37",
-    "headline": "Bees and gardeners will be buzzing at the Shaler Garden Club’s annual tour",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Bees and gardeners will be buzzing at the Shaler Garden Club’s annual tour",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "SHALER"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Bees and gardeners will be buzzing at the Shaler Garden Club’s annual tour",
-        "sourceIds": [
-          "src-news-37"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-37",
-        "title": "Bees and gardeners will be buzzing at the Shaler Garden Club’s annual tour",
-        "url": "https://www.post-gazette.com/life/garden/2026/07/10/shaler-garden-club-north-hills-library-great-gardens-tour/stories/202607100040",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Bees and gardeners will be buzzing at the Shaler Garden Club’s annual tour",
-    "oneLineSummary": "Bees and gardeners will be buzzing at the Shaler Garden Club’s annual tour",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/life/garden/2026/07/10/shaler-garden-club-north-hills-library-great-gardens-tour/stories/202607100040",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 37,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-38",
-    "headline": "Buying Here: Modern home with backyard pool in Lawrenceville priced at $949,900",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Buying Here: Modern home with backyard pool in Lawrenceville priced at $949,900",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "Lawrenceville",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Buying Here: Modern home with backyard pool in Lawrenceville priced at $949,900",
-        "sourceIds": [
-          "src-news-38"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-38",
-        "title": "Buying Here: Modern home with backyard pool in Lawrenceville priced at $949,900",
-        "url": "https://www.post-gazette.com/life/buying-here/2026/07/10/buying-here-lawrenceville-banner-way-pool-pittsburgh-real-estate/stories/202607100003",
-        "publishedDate": "2026-07-10",
-        "retrievedDate": "2026-07-11",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Buying Here: Modern home with backyard pool in Lawrenceville priced at $949,900",
-    "oneLineSummary": "Buying Here: Modern home with backyard pool in Lawrenceville priced at $949,900",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-07-10",
-    "strongestSourceUrl": "https://www.post-gazette.com/life/buying-here/2026/07/10/buying-here-lawrenceville-banner-way-pool-pittsburgh-real-estate/stories/202607100003",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-07-10",
-    "date": "2026-07-10",
-    "relatedNewsId": 38,
     "feedbackOpportunity": false
   },
   {
@@ -2021,7 +1794,7 @@
     "governmentLevel": "local",
     "topicArea": "City Governance",
     "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-07-11.",
+    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-07-12.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2031,10 +1804,10 @@
     "sources": [
       {
         "id": "src-meeting-27-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-11",
+        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-12",
         "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "City Channel Pittsburgh"
@@ -2043,8 +1816,8 @@
         "id": "src-meeting-27-record",
         "title": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
         "url": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Regular Meeting"
@@ -2056,15 +1829,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh City Council Regular Meeting — 2026 Neighborhood Economic Development Grant Application Information Session",
-    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-07-11.",
+    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-07-12.",
     "categoryTag": "City Governance",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-11",
+    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-07-12",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=InMnCpBm5Eg",
     "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-07-11",
-    "date": "2026-07-11",
+    "infographicCaption": "Pittsburgh City Council — 2026-07-12",
+    "date": "2026-07-12",
     "relatedMeetingId": 27,
     "feedbackOpportunity": false
   },
@@ -2074,7 +1847,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-11.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-12.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2084,10 +1857,10 @@
     "sources": [
       {
         "id": "src-meeting-31-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
         "url": "https://www.youtube.com/watch?v=JCQF5oL4N7E",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2096,8 +1869,8 @@
         "id": "src-meeting-31-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — 2026 Summer Food Service Program - Kick off Press Event",
         "url": "https://www.youtube.com/watch?v=JCQF5oL4N7E",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2109,15 +1882,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — 2026 Summer Food Service Program - Kick off Press Event",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-11.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-12.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=JCQF5oL4N7E",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-11",
-    "date": "2026-07-11",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-12",
+    "date": "2026-07-12",
     "relatedMeetingId": 31,
     "feedbackOpportunity": false
   },
@@ -2127,7 +1900,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-11.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-12.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2137,10 +1910,10 @@
     "sources": [
       {
         "id": "src-meeting-32-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
         "url": "https://www.youtube.com/watch?v=u1Fhr7CDhds",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2149,8 +1922,8 @@
         "id": "src-meeting-32-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — Pittsburgh Brashear 2026 Commencement",
         "url": "https://www.youtube.com/watch?v=u1Fhr7CDhds",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2162,15 +1935,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Pittsburgh Brashear 2026 Commencement",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-11.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-12.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=u1Fhr7CDhds",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-11",
-    "date": "2026-07-11",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-12",
+    "date": "2026-07-12",
     "relatedMeetingId": 32,
     "feedbackOpportunity": false
   },
@@ -2180,7 +1953,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-11.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-12.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2190,10 +1963,10 @@
     "sources": [
       {
         "id": "src-meeting-33-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
         "url": "https://www.youtube.com/watch?v=u43k4aV4aEo",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2202,8 +1975,8 @@
         "id": "src-meeting-33-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — \"For the First Time, I’m Going to Get Emotional\" -  A Graduate’s Powerful Reflection",
         "url": "https://www.youtube.com/watch?v=u43k4aV4aEo",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2215,15 +1988,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — \"For the First Time, I’m Going to Get Emotional\" -  A Graduate’s Powerful Reflection",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-11.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-12.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=u43k4aV4aEo",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-11",
-    "date": "2026-07-11",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-12",
+    "date": "2026-07-12",
     "relatedMeetingId": 33,
     "feedbackOpportunity": false
   },
@@ -2233,7 +2006,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-11.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-12.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2243,10 +2016,10 @@
     "sources": [
       {
         "id": "src-meeting-34-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
         "url": "https://www.youtube.com/watch?v=_XQQELqOa_o",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2255,8 +2028,8 @@
         "id": "src-meeting-34-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — Pittsburgh CAPA 2026 Commencement",
         "url": "https://www.youtube.com/watch?v=_XQQELqOa_o",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2268,15 +2041,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Pittsburgh CAPA 2026 Commencement",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-11.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-12.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=_XQQELqOa_o",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-11",
-    "date": "2026-07-11",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-12",
+    "date": "2026-07-12",
     "relatedMeetingId": 34,
     "feedbackOpportunity": false
   },
@@ -2286,7 +2059,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-11.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-07-12.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2296,10 +2069,10 @@
     "sources": [
       {
         "id": "src-meeting-35-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
         "url": "https://www.youtube.com/watch?v=9zrHR7kur9g",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2308,8 +2081,8 @@
         "id": "src-meeting-35-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — Pittsburgh Sci-Tech 2026 Commencement",
         "url": "https://www.youtube.com/watch?v=9zrHR7kur9g",
-        "publishedDate": "2026-07-11",
-        "retrievedDate": "2026-07-11",
+        "publishedDate": "2026-07-12",
+        "retrievedDate": "2026-07-12",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2321,15 +2094,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Pittsburgh Sci-Tech 2026 Commencement",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-11.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-07-12.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-11",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-07-12",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=9zrHR7kur9g",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-11",
-    "date": "2026-07-11",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-07-12",
+    "date": "2026-07-12",
     "relatedMeetingId": 35,
     "feedbackOpportunity": false
   }
