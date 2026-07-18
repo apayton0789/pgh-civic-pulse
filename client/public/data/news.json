@@ -1,7 +1,115 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260718lindsey-graham-founding-fathers-churchil",
+    "headline": "Brandon McGinley: No one really knows what they're doing",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-18",
+    "url": "https://www.post-gazette.com/local/city/2026/07/18/lindsey-graham-founding-fathers-churchill/stories/202607170005",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260718afghan-allies-rubio-talibanstories2026071800",
+    "headline": "Letter to the editor: Respect America’s Afghan allies",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-18",
+    "url": "https://www.post-gazette.com/local/2026/07/18/afghan-allies-rubio-taliban/stories/202607180001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260718duquesne-mckeesport-school-mergestor",
+    "headline": "How a Duquesne-McKeesport school merger could help — or hurt — the cities and schools",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-18",
+    "url": "https://www.post-gazette.com/news/education/2026/07/18/duquesne-mckeesport-school-merge/stories/202607180016",
+    "summary": null,
+    "geographicTags": [
+      "MCKEESPORT",
+      "DUQUESNE"
+    ],
+    "category": "Education",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260717conlin-dunlap-abigail-gardner-a",
+    "headline": "Tensions between Allegheny County executive's office, KDKA radio host reach public tipping point",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-18",
+    "url": "https://www.post-gazette.com/news/politics-local/2026/07/17/conlin-dunlap-abigail-gardner-allegheny-county/stories/202607170067",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260717pittsburgh-wildfire-smoke-weather",
+    "headline": "How the Pittsburgh region coped with hazardous air quality from wildfire smoke — and what's next",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-17",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/07/17/pittsburgh-wildfire-smoke-weather/stories/202607170066",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Public Safety",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260717pennwest-utah-valley-jon-andersonsto",
+    "headline": "PennWest president to lead Utah university where Charlie Kirk was murdered",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-17",
+    "url": "https://www.post-gazette.com/news/education/2026/07/17/pennwest-utah-valley-jon-anderson/stories/202607170060",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260717penn-state-tuition-increase-bendapud",
+    "headline": "Penn State raises tuition for University Park students, while giving President Bendapudi a performance bonus",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-17",
+    "url": "https://www.post-gazette.com/news/education/2026/07/17/penn-state-tuition-increase-bendapudi-bonus/stories/202607170052",
+    "summary": null,
+    "geographicTags": [],
+    "category": "State/Regional",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260717shaler-robert-hlovchie-trial-upda",
+    "headline": "Federal judge won't release Shaler man who threatened mass shootings ahead of trial",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-17",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/07/17/shaler-robert-hlovchie-trial-update/stories/202607170051",
+    "summary": null,
+    "geographicTags": [
+      "SHALER"
+    ],
+    "category": "Public Safety",
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260717air-quality-health-effectsstories202607",
+    "headline": "What to know about the health impacts of wildfire smoke",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-17",
+    "url": "https://www.post-gazette.com/news/health/2026/07/17/air-quality-health-effects/stories/202607170047",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 34
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260717pittsburgh-wildfire-smokestories2",
-    "headline": "Wildfire smoke in Pittsburgh is causing dangerous air quality and prompting closures around the region",
+    "headline": "Wildfire smoke in Pittsburgh is causing dangerous air quality and prompted closures and cancellations",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-07-17",
     "url": "https://www.post-gazette.com/news/weather-news/2026/07/17/pittsburgh-wildfire-smoke/stories/202607170041",
@@ -10,7 +118,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 26
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260717us-steel-nippon-air-qualitysto",
@@ -21,7 +129,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260717walk-fame-star-pittsburgh-keaton-clementstri",
@@ -32,7 +140,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 28
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260717buying-here-foster-square-north-si",
@@ -43,7 +151,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260717social-media-sextortionstories202607130",
@@ -54,22 +162,35 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 39
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1334872",
+    "headline": "Public Source wins Pennsylvania&#8217;s top investigative journalism prize",
+    "source": "PublicSource",
+    "date": "2026-07-17",
+    "url": "https://www.publicsource.org/public-source-wins-awards-2026-pittsburgh/",
+    "summary": "Honors for the Pittsburgh newsroom’s examination of a local company’s efforts in Australia cap an awards season that has also brought recognition of neighborhood-level zines and more. The post Public Source wins Pennsylvania&#8217;s top investigative journalism prize appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 46
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334848",
-    "headline": "Smoke brings warnings, cancellations in Allegheny County, Pittsburgh",
+    "headline": "Allegheny County, Pittsburgh nix Friday events, but smoke may clear Saturday",
     "source": "PublicSource",
     "date": "2026-07-17",
     "url": "https://www.publicsource.org/smoke-southwestern-pennsylvania-pittsburgh-allegheny-county-air-quality/",
-    "summary": "Air tainted by wildfires, which moved into the region Thursday, has made outdoor activity hazardous across Pennsylvania. The post Smoke brings warnings, cancellations in Allegheny County, Pittsburgh appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "summary": "Air tainted by wildfires, which moved into the region Thursday, has made outdoor activity hazardous across Pennsylvania. The county asked industrial polluters to reduce activity. The post Allegheny County, Pittsburgh nix Friday events, but smoke may clear Saturday appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
     "geographicTags": [
       "PITTSBURGH",
       "ROSS",
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334531",
@@ -82,7 +203,7 @@
       "PITTSBURGH"
     ],
     "category": "Development/Housing",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260716pennsylvania-newsmedia-as",
@@ -93,7 +214,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 31
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260716pittsburgh-police-horse-spiritstories202",
@@ -106,7 +227,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 32
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260716pittsburgh-weather-wildfire-smoke",
@@ -119,7 +240,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 33
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifedrinks20260716helltown-brewing-strip-district-taproom",
@@ -133,7 +254,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 34
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260716schwebel-baking-company-c",
@@ -144,7 +265,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260716pittsburgh-fire-truck-lawsuitsstories202",
@@ -158,100 +279,7 @@
       "ROSS"
     ],
     "category": "Public Safety",
-    "id": 36
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260716commercial-street-bridge-parkwa",
-    "headline": "After delay, Commercial Street Bridge comes tumbling down",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/news/transportation/2026/07/16/commercial-street-bridge-parkway-east/stories/202607160039",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260716reimagine-appalachia-jobs",
-    "headline": "Reimagining Appalachia: Is the future of manufacturing hiding — and ready to re-emerge — here in Pittsburgh?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/business/career-workplace/2026/07/16/reimagine-appalachia-jobs-pittsburgh-hazelwood-green/stories/202607090048",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260716national-science-foundation-reti",
-    "headline": "With $160 million in new government funding, WVU partners with Pitt and CMU to develop industrial energy innovation hub",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/07/16/national-science-foundation-reti-engine-wvu-pitt-cmu/stories/202607150065",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260716allegheny-county-pension-crisis-funding-",
-    "headline": "Brandon McGinley: How Pittsburgh escaped pension hell, and the lessons for Allegheny County",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/local/city/2026/07/16/allegheny-county-pension-crisis-funding-ratio-peduto-innamorato/stories/202607160002",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH",
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260716hov-lanes-parkway-north-studystories20260716",
-    "headline": "Letter to the editor: No need to study HOV lanes",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/local/2026/07/16/hov-lanes-parkway-north-study/stories/202607160001",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifegarden20260716adios-agave-americana-century-plant-phi",
-    "headline": "Adios agave! Glass ceiling can’t hold this plant at Phipps Conservatory",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/life/garden/2026/07/16/adios-agave-americana-century-plant-phipps-conservatory-pittsburgh/stories/202607160015",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Education",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260716new-disability-commission-pastories2026",
-    "headline": "Meet the southwestern Pa. members of Shapiro’s new disability commission",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/news/health/2026/07/16/new-disability-commission-pa/stories/202607190017",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260715commercial-street-bridge-implos",
-    "headline": "Explosive demolition of Commercial Street Bridge postponed",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/news/transportation/2026/07/15/commercial-street-bridge-implosion-delayed-parkway-east/stories/202607150066",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 44
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334813",
@@ -265,7 +293,7 @@
       "BRADDOCK"
     ],
     "category": "General",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334789",
@@ -279,7 +307,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334774",
@@ -292,7 +320,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334781",
@@ -308,20 +336,7 @@
       "DUQUESNE"
     ],
     "category": "Education",
-    "id": 51
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260715code-red-pittsburgh-pennsylvanias",
-    "headline": "Pittsburgh under Code Red air quality alert as wildfire smoke moves in",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-15",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/07/15/code-red-pittsburgh-pennsylvania/stories/202607150068",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Public Safety",
-    "id": 45
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334686",
@@ -334,7 +349,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334739",
@@ -349,7 +364,7 @@
       "CARNEGIE"
     ],
     "category": "General",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334741",
@@ -363,20 +378,6 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1334723",
-    "headline": "Report: Pa. faces a choice to limit gambling addiction quickly or preserve revenue",
-    "source": "PublicSource",
-    "date": "2026-07-14",
-    "url": "https://www.publicsource.org/pennsylvania-online-casino-gambling-addiction-epidemic-report/",
-    "summary": "Pennsylvania’s nation-leading online gambling industry brings in billions, but also contributes to a growing addiction problem, according to a report to legislators. Should the state collect data, or take prompt measures that could curb revenue? The post Report: Pa. faces a choice to limit gambling addiction quickly or preserve revenue appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to rea",
-    "geographicTags": [
-      "PITTSBURGH",
-      "RESERVE"
-    ],
-    "category": "Government/Budget",
     "id": 55
   },
   {
