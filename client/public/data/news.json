@@ -1,5 +1,53 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260719old-growth-forests-southwestern-pasto",
+    "headline": "‘New’ old-growth forests in southwestern Pa. offer much more than monster trees",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-19",
+    "url": "https://www.post-gazette.com/life/outdoors/2026/07/19/old-growth-forests-southwestern-pa/stories/202607170042",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260718hydraulic-fluid-spill-allegheny-riversto",
+    "headline": "Spill of hydraulic fluid in Allegheny River contained, Lower Burrell fire chief says",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-19",
+    "url": "https://www.post-gazette.com/local/city/2026/07/18/hydraulic-fluid-spill-allegheny-river/stories/202607180037",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Public Safety",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260718picklesburgh-attendance-2026stories20260",
+    "headline": "Through rain and wildfire smoke, Picklesburgh 2026 draws smaller crowds",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-18",
+    "url": "https://www.post-gazette.com/local/city/2026/07/18/picklesburgh-attendance-2026/stories/202607180035",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260718pittsburgh-weather-wildfire-smoke",
+    "headline": "As wildfire smoke moves out of Pittsburgh region, chance for severe weather Saturday arrives",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-07-18",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/07/18/pittsburgh-weather-wildfire-smoke-sever-weather-update/stories/202607180029",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Public Safety",
+    "id": 29
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260718lindsey-graham-founding-fathers-churchil",
     "headline": "Brandon McGinley: No one really knows what they're doing",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +56,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 30
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260718afghan-allies-rubio-talibanstories2026071800",
@@ -19,7 +67,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260718duquesne-mckeesport-school-mergestor",
@@ -33,7 +81,7 @@
       "DUQUESNE"
     ],
     "category": "Education",
-    "id": 28
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260717conlin-dunlap-abigail-gardner-a",
@@ -46,7 +94,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 29
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260717pittsburgh-wildfire-smoke-weather",
@@ -59,7 +107,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 30
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260717pennwest-utah-valley-jon-andersonsto",
@@ -70,7 +118,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260717penn-state-tuition-increase-bendapud",
@@ -81,7 +129,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 32
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260717shaler-robert-hlovchie-trial-upda",
@@ -94,7 +142,7 @@
       "SHALER"
     ],
     "category": "Public Safety",
-    "id": 33
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260717air-quality-health-effectsstories202607",
@@ -105,7 +153,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 34
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260717pittsburgh-wildfire-smokestories2",
@@ -118,7 +166,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 35
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260717us-steel-nippon-air-qualitysto",
@@ -129,7 +177,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260717walk-fame-star-pittsburgh-keaton-clementstri",
@@ -140,7 +188,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260717buying-here-foster-square-north-si",
@@ -151,7 +199,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 38
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260717social-media-sextortionstories202607130",
@@ -162,7 +210,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 39
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334872",
@@ -214,7 +262,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 40
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260716pittsburgh-police-horse-spiritstories202",
@@ -225,58 +273,6 @@
     "summary": null,
     "geographicTags": [
       "PITTSBURGH"
-    ],
-    "category": "Public Safety",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260716pittsburgh-weather-wildfire-smoke",
-    "headline": "Pittsburgh facing 'emergency' air quality conditions as wildfire smoke blankets Western Pa.",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/07/16/pittsburgh-weather-wildfire-smoke-1/stories/202607160061",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Public Safety",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifedrinks20260716helltown-brewing-strip-district-taproom",
-    "headline": "Helltown Brewing to close its Strip District taproom as development reshapes Penn Avenue",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/life/drinks/2026/07/16/helltown-brewing-strip-district-taproom/stories/202607160044",
-    "summary": null,
-    "geographicTags": [
-      "Strip District",
-      "PITTSBURGH"
-    ],
-    "category": "Development",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260716schwebel-baking-company-c",
-    "headline": "Talks with potential buyer for Schwebel’s have ‘come to a close’",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/business/career-workplace/2026/07/16/schwebel-baking-company-closure/stories/202607160041",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260716pittsburgh-fire-truck-lawsuitsstories202",
-    "headline": "Spiking fire truck prices are threatening fleets across the country, including Pittsburgh",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-16",
-    "url": "https://www.post-gazette.com/local/city/2026/07/16/pittsburgh-fire-truck-lawsuits/stories/202607160042",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH",
-      "ROSS"
     ],
     "category": "Public Safety",
     "id": 45
