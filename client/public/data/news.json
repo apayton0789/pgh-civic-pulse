@@ -1,5 +1,89 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260802mckeesport-robber-shotstories2026",
+    "headline": "Man shot multiple times while trying to rob another in McKeesport, police say",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-02",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/02/mckeesport-robber-shot/stories/202608020064",
+    "summary": null,
+    "geographicTags": [
+      "MCKEESPORT"
+    ],
+    "category": "Public Safety",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260802spotted-lanternfly-pennsylvania-alleg",
+    "headline": "Allegheny County again leads Pennsylvania in spotted lanternfly reports. So where are they?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-02",
+    "url": "https://www.post-gazette.com/life/outdoors/2026/08/02/spotted-lanternfly-pennsylvania-allegheny/stories/202607310047",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260802esplanade-pittsburgh-residents",
+    "headline": "As Pittsburgh's Esplanade rises, Manchester residents fear history repeating itself",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-02",
+    "url": "https://www.post-gazette.com/business/development/2026/08/02/esplanade-pittsburgh-residents/stories/202607290081",
+    "summary": null,
+    "geographicTags": [
+      "Manchester",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260801beechview-pittsburgh-folk-festivalstorie",
+    "headline": "Folk festival rekindles city's melting pot heritage",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-01",
+    "url": "https://www.post-gazette.com/local/city/2026/08/01/beechview-pittsburgh-folk-festival/stories/202608010052",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalnorth20260801north-park-cyclist-struckstories2026080",
+    "headline": "Cyclist struck by vehicle in North Park",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-01",
+    "url": "https://www.post-gazette.com/local/north/2026/08/01/north-park-cyclist-struck/stories/202608010054",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260801webster-ave-pittsburgh-gunfire-da",
+    "headline": "Several rounds of gunfire damage apartments, vehicles late Friday evening",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-01",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/01/webster-ave-pittsburgh-gunfire-damage-apartments-cars/stories/202608010043",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260801aliquippa-man-new-brighton-child-",
+    "headline": "Beaver County man accused of sexually assaulting middle school girl now facing child pornography charges",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-01",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/01/aliquippa-man-new-brighton-child-abuse-charges/stories/202608010039",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Education",
+    "id": 32
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260801artificial-intelligence-pittsburgh-abund",
     "headline": "Brandon McGinley: Beyond abundance: One surprising way Pittsburgh may be poised for the future",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +94,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 26
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260801stacy-garrity-trump-election-josh-shapirosto",
@@ -21,7 +105,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 27
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260801carnegie-mellon-fence-investigations",
@@ -36,7 +120,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260731heritage-valley-whistl",
@@ -47,7 +131,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260731great-allegheny-passage-closurestorie",
@@ -60,7 +144,7 @@
       "ALLEGHENY"
     ],
     "category": "General",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260731measles-outbreak-pennsylvaniastories202",
@@ -73,7 +157,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260731westinghouse-public-companysto",
@@ -84,7 +168,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Business",
-    "id": 32
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessmoney20260731wegmans-cranberry-groundbreaking-dat",
@@ -98,7 +182,7 @@
       "CRANBERRY"
     ],
     "category": "General",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260731childhood-vaccincation-pennsylvania-schools-",
@@ -109,22 +193,21 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 34
+    "id": 41
   },
   {
-    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260731strip-district-downtown-pittsb",
-    "headline": "Can the Strip District's evolution also bolster Downtown Pittsburgh?",
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260731pittsburgh-regional-transit-uni",
+    "headline": "PRT wants to extend the University Line to Squirrel Hill. The planning has begun as it waits for more funding.",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/business/development/2026/07/31/strip-district-downtown-pittsburgh/stories/202607300053",
+    "url": "https://www.post-gazette.com/news/transportation/2026/07/31/pittsburgh-regional-transit-university-line/stories/202607300069",
     "summary": null,
     "geographicTags": [
-      "Downtown",
-      "Strip District",
+      "Squirrel Hill",
       "PITTSBURGH"
     ],
-    "category": "General",
-    "id": 35
+    "category": "Development",
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260731pittsburgh-bloomfield-bridge-li",
@@ -139,21 +222,22 @@
       "LIBERTY"
     ],
     "category": "General",
-    "id": 36
+    "id": 43
   },
   {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260731pittsburgh-regional-transit-uni",
-    "headline": "PRT wants to extend the University Line to Squirrel Hill. The planning has begun as it waits for more funding.",
+    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260731strip-district-downtown-pittsb",
+    "headline": "Can the Strip District's evolution also bolster Downtown Pittsburgh?",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/news/transportation/2026/07/31/pittsburgh-regional-transit-university-line/stories/202607300069",
+    "url": "https://www.post-gazette.com/business/development/2026/07/31/strip-district-downtown-pittsburgh/stories/202607300053",
     "summary": null,
     "geographicTags": [
-      "Squirrel Hill",
+      "Downtown",
+      "Strip District",
       "PITTSBURGH"
     ],
-    "category": "Development",
-    "id": 37
+    "category": "General",
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260731westinghouse-atom-smasher-fore",
@@ -166,21 +250,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260731buying-here-devonshire-st-solar-pa",
-    "headline": "Buying Here: Restored Shadyside mansion has solar panels, charging stations and a $3.39M price tag",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/life/buying-here/2026/07/31/buying-here-devonshire-st-solar-panels-charging-stations-pittsburgh/stories/202607310003",
-    "summary": null,
-    "geographicTags": [
-      "Shadyside",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 39
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335744",
@@ -198,91 +268,16 @@
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335172",
-    "headline": "I found myself on stage. My generation shouldn’t forget the arts.",
+    "headline": "I found myself on stage. Gen Z shouldn’t forget the arts.",
     "source": "PublicSource",
     "date": "2026-07-31",
     "url": "https://www.publicsource.org/pittsburgh-youth-theater-bring-love-understanding/",
-    "summary": "I found myself on the road from reader to writer to actor. In a time of rising materialism and artificial intelligence, young people should embrace the humanities and the empathy they bring. The post I found myself on stage. My generation shouldn’t forget the arts. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "summary": "I found myself on the road from reader to writer to actor. In a time of rising materialism and artificial intelligence, young people should embrace the humanities and the empathy they bring. The post I found myself on stage. Gen Z shouldn’t forget the arts. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
     "geographicTags": [
       "PITTSBURGH"
     ],
     "category": "General",
     "id": 47
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260730ge-vernova-pittsburgh-new-jobs",
-    "headline": "GE Vernova says 700 new manufacturing jobs are coming to the Pittsburgh region",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-30",
-    "url": "https://www.post-gazette.com/business/powersource/2026/07/30/ge-vernova-pittsburgh-new-jobs/stories/202607300068",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomliferecreation20260730science-of-speed-kamin-science-cent",
-    "headline": "New 'Science of Speed' exhibit at the Kamin Science Center offers an immersive look at racing, 40 mph karts and all",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-30",
-    "url": "https://www.post-gazette.com/life/recreation/2026/07/30/science-of-speed-kamin-science-center/stories/202607300064",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260730pennsylvania-state-grant-collegessto",
-    "headline": "Maximum state grant for Pennsylvania college students reaches an all-time high",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-30",
-    "url": "https://www.post-gazette.com/news/education/2026/07/30/pennsylvania-state-grant-colleges/stories/202607300050",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260730pittsburgh-public-schools-chief-of-s",
-    "headline": "Pittsburgh Public Schools' chief of staff resigns amid assault allegations",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-30",
-    "url": "https://www.post-gazette.com/news/education/2026/07/30/pittsburgh-public-schools-chief-of-staff-resigns-amid-assault-allegations/stories/202607300052",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Education",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260730pittsburgh-ai-hellbender-hazelwo",
-    "headline": "Pittsburgh AI startup inks 10-year lease at Hazelwood Green",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-30",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/07/30/pittsburgh-ai-hellbender-hazelwood-green/stories/202607300049",
-    "summary": null,
-    "geographicTags": [
-      "Hazelwood",
-      "PITTSBURGH"
-    ],
-    "category": "Business",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260730allegheny-county-pension-stephen-zappala",
-    "headline": "Brandon McGinley: Allegheny County pension plan suffers from too many cooks",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-30",
-    "url": "https://www.post-gazette.com/local/city/2026/07/30/allegheny-county-pension-stephen-zappala-sara-innamorato/stories/202607270028",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335292",
