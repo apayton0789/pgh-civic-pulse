@@ -1,5 +1,97 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260803strip-district-pittsburgh-shootin",
+    "headline": "Woman shot and killed in the Strip District",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-03",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/03/strip-district-pittsburgh-shooting/stories/202608030023",
+    "summary": null,
+    "geographicTags": [
+      "Strip District",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260803pittsburgh-wabash-tunnel-emerge",
+    "headline": "Pittsburgh's troubled Wabash Tunnel to close for 2 weeks for lighting repairs",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-03",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/03/pittsburgh-wabash-tunnel-emergency-repairs/stories/202608020046",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260803pittsburgh-land-bank-federal-fu",
+    "headline": "Loss of federal aid threatens the Pittsburgh Land Bank's future",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-03",
+    "url": "https://www.post-gazette.com/news/politics-local/2026/08/03/pittsburgh-land-bank-federal-funding/stories/202607310043",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesspittsburgh-company-news20260803bicycle-heaven-mus",
+    "headline": "How one discarded bicycle grew into Pittsburgh's Bicycle Heaven",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-03",
+    "url": "https://www.post-gazette.com/business/pittsburgh-company-news/2026/08/03/bicycle-heaven-museum-pittsburgh/stories/202608020066",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifefood20260803butterfat-hand-crafted-gelato-sorbetto-pi",
+    "headline": "Butterfat brings hand-crafted gelato and sorbetto to East Allegheny",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-03",
+    "url": "https://www.post-gazette.com/life/food/2026/08/03/butterfat-hand-crafted-gelato-sorbetto-pittsburgh-east-allegheny/stories/202607290064",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1335714",
+    "headline": "Showdown over short-term rental rules in Pittsburgh looms",
+    "source": "PublicSource",
+    "date": "2026-08-03",
+    "url": "https://www.publicsource.org/pittsburgh-short-term-rentals-vote/",
+    "summary": "Both Pittsburgh City Council and the Planning Commission are expected to vote on proposed new rules for Airbnbs and the like after Labor Day. Operators worry that too much regulation could hurt tourism and livelihoods. The post Showdown over short-term rental rules in Pittsburgh looms appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Development",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260802pittsburgh-weather-forecast-6stor",
+    "headline": "Storms could bring localized flooding, severe weather to Pittsburgh region",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-02",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/08/02/pittsburgh-weather-forecast-6/stories/202608020065",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 31
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260802mckeesport-robber-shotstories2026",
     "headline": "Man shot multiple times while trying to rob another in McKeesport, police say",
     "source": "Pittsburgh Post-Gazette",
@@ -10,20 +102,7 @@
       "MCKEESPORT"
     ],
     "category": "Public Safety",
-    "id": 26
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260802spotted-lanternfly-pennsylvania-alleg",
-    "headline": "Allegheny County again leads Pennsylvania in spotted lanternfly reports. So where are they?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-02",
-    "url": "https://www.post-gazette.com/life/outdoors/2026/08/02/spotted-lanternfly-pennsylvania-allegheny/stories/202607310047",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 27
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260802esplanade-pittsburgh-residents",
@@ -37,7 +116,20 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260802spotted-lanternfly-pennsylvania-alleg",
+    "headline": "Allegheny County again leads Pennsylvania in spotted lanternfly reports. So where are they?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-02",
+    "url": "https://www.post-gazette.com/life/outdoors/2026/08/02/spotted-lanternfly-pennsylvania-allegheny/stories/202607310047",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260801beechview-pittsburgh-folk-festivalstorie",
@@ -48,7 +140,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalnorth20260801north-park-cyclist-struckstories2026080",
@@ -59,7 +151,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260801webster-ave-pittsburgh-gunfire-da",
@@ -70,7 +162,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 31
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260801aliquippa-man-new-brighton-child-",
@@ -81,7 +173,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 32
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260801artificial-intelligence-pittsburgh-abund",
@@ -94,7 +186,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 33
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260801stacy-garrity-trump-election-josh-shapirosto",
@@ -105,7 +197,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 34
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260801carnegie-mellon-fence-investigations",
@@ -120,7 +212,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 35
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260731heritage-valley-whistl",
@@ -131,7 +223,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260731great-allegheny-passage-closurestorie",
@@ -144,7 +236,7 @@
       "ALLEGHENY"
     ],
     "category": "General",
-    "id": 37
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260731measles-outbreak-pennsylvaniastories202",
@@ -157,7 +249,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 38
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260731westinghouse-public-companysto",
@@ -168,88 +260,6 @@
     "summary": null,
     "geographicTags": [],
     "category": "Business",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20260731wegmans-cranberry-groundbreaking-dat",
-    "headline": "Wegmans firms up opening date for Cranberry location, its first in the Pittsburgh area",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/business/money/2026/07/31/wegmans-cranberry-groundbreaking-date/stories/202607310034",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH",
-      "CRANBERRY"
-    ],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260731childhood-vaccincation-pennsylvania-schools-",
-    "headline": "Letter to the editor: Vaccines are key to childhood health",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/local/2026/07/31/childhood-vaccincation-pennsylvania-schools-measles/stories/202607270002",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260731pittsburgh-regional-transit-uni",
-    "headline": "PRT wants to extend the University Line to Squirrel Hill. The planning has begun as it waits for more funding.",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/news/transportation/2026/07/31/pittsburgh-regional-transit-university-line/stories/202607300069",
-    "summary": null,
-    "geographicTags": [
-      "Squirrel Hill",
-      "PITTSBURGH"
-    ],
-    "category": "Development",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260731pittsburgh-bloomfield-bridge-li",
-    "headline": "Pittsburgh gets final funding to improve Bloomfield Bridge-Liberty Avenue intersection",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/news/transportation/2026/07/31/pittsburgh-bloomfield-bridge-liberty-avenue-intersection/stories/202607300066",
-    "summary": null,
-    "geographicTags": [
-      "Bloomfield",
-      "PITTSBURGH",
-      "LIBERTY"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260731strip-district-downtown-pittsb",
-    "headline": "Can the Strip District's evolution also bolster Downtown Pittsburgh?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/business/development/2026/07/31/strip-district-downtown-pittsburgh/stories/202607300053",
-    "summary": null,
-    "geographicTags": [
-      "Downtown",
-      "Strip District",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260731westinghouse-atom-smasher-fore",
-    "headline": "The Westinghouse atom smasher, a relic of Pittsburgh's bygone era, may rise again",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-07-31",
-    "url": "https://www.post-gazette.com/business/powersource/2026/07/31/westinghouse-atom-smasher-forest-hills-pittsburgh/stories/202607310007",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
     "id": 45
   },
   {
@@ -264,7 +274,7 @@
       "ALLEGHENY"
     ],
     "category": "Infrastructure/Transit",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335172",
@@ -277,7 +287,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335292",
@@ -291,7 +301,7 @@
       "ROSS"
     ],
     "category": "Public Safety",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335179",
@@ -304,7 +314,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335250",
@@ -317,7 +327,7 @@
       "PITTSBURGH"
     ],
     "category": "Development/Housing",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335057",
@@ -332,7 +342,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335192",
@@ -345,20 +355,6 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 52
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1335098",
-    "headline": "Allegheny County’s paid parental leave proposal: 13 questions answered",
-    "source": "PublicSource",
-    "date": "2026-07-27",
-    "url": "https://www.publicsource.org/allegheny-county-paid-parental-leave-proposal-questions/",
-    "summary": "Paid parental leave has proved healthy for families, but its economic effects are less studied. Here are the details on Allegheny County's proposal, experiences elsewhere and research on the benefit. The post Allegheny County’s paid parental leave proposal: 13 questions answered appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "ALLEGHENY"
-    ],
-    "category": "Government",
     "id": 53
   },
   {
