@@ -1,5 +1,70 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260809duquesne-mckeesport-school-meetingst",
+    "headline": "Duquesne residents want their voices heard regarding potential school merger with McKeesport",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-09",
+    "url": "https://www.post-gazette.com/news/education/2026/08/09/duquesne-mckeesport-school-meeting/stories/202608070058",
+    "summary": null,
+    "geographicTags": [
+      "MCKEESPORT",
+      "DUQUESNE"
+    ],
+    "category": "Education",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260809clairton-coke-works-explosion-",
+    "headline": "A year after deadly Clairton Coke Works explosion, heartache and trauma linger",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-09",
+    "url": "https://www.post-gazette.com/business/powersource/2026/08/09/clairton-coke-works-explosion-victims/stories/202608090040",
+    "summary": null,
+    "geographicTags": [
+      "CLAIRTON"
+    ],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260809african-lion-cub-pittsburgh-zoostorie",
+    "headline": "Pittsburgh Zoo lion cub, its resident spicy firecracker, loves Reddi-wip and her father’s mane",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-09",
+    "url": "https://www.post-gazette.com/life/outdoors/2026/08/09/african-lion-cub-pittsburgh-zoo/stories/202608070056",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Public Safety",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260808reggae-festival-cafe-momentum-fundraiser",
+    "headline": "Reggae festival draws hundreds Downtown, raises money for charity",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-08",
+    "url": "https://www.post-gazette.com/local/city/2026/08/08/reggae-festival-cafe-momentum-fundraiser/stories/202608080041",
+    "summary": null,
+    "geographicTags": [
+      "Downtown",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260808western-pa-flooding-thunderstorms",
+    "headline": "Friday thunderstorms cause flooding in parts of Western Pennsylvania",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-08",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/08/08/western-pa-flooding-thunderstorms-weather-forecast-pittsburgh/stories/202608080032",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260808commercial-street-bridge-parkway-east-union-",
     "headline": "Letter to the editor: Workers deserve bridge credit",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +73,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessmoney20260808closing-cost-pittsburgh-real-estate-",
@@ -21,7 +86,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 27
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260808pittsburgh-vision-impairment-cvi-christ",
@@ -34,7 +99,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260807great-allegheny-passage-closure-updat",
@@ -47,7 +112,7 @@
       "ALLEGHENY"
     ],
     "category": "General",
-    "id": 29
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260807pittsburgh-dogwalker-slur-flynn-parklet-gay-",
@@ -60,7 +125,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 30
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260807pittsburgh-financesstories202608070060",
@@ -73,7 +138,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 31
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260807pennsylvania-pfas-forever-chemicalsstori",
@@ -84,7 +149,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260807pennsylvania-budget-teaching-artist-residenc",
@@ -95,7 +160,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 33
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260807rodi-road-penn-hills-penndot-up",
@@ -108,7 +173,7 @@
       "PENN HILLS"
     ],
     "category": "General",
-    "id": 34
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260807amazon-homer-city-data-centers",
@@ -119,7 +184,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260807allegheny-county-jail-legionellastories",
@@ -132,7 +197,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 36
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20260807dave-mccormick-pa-investment-s",
@@ -143,7 +208,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260807teen-takeover-service-fdr-wpastories20260807",
@@ -154,7 +219,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 38
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260807hs-bar-and-grill-penn-hills-shoot",
@@ -167,7 +232,7 @@
       "PENN HILLS"
     ],
     "category": "Public Safety",
-    "id": 39
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260807buying-here-blue-house-bloomfield-",
@@ -178,7 +243,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 40
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336234",
@@ -218,66 +283,6 @@
     ],
     "category": "General",
     "id": 48
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260806nih-grants-university-pittsburghstor",
-    "headline": "So far, terminated NIH grants have cost University of Pittsburgh $40 million",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-06",
-    "url": "https://www.post-gazette.com/news/education/2026/08/06/nih-grants-university-pittsburgh/stories/202608060065",
-    "summary": null,
-    "geographicTags": [
-      "Oakland",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260806trump-butler-assassination-atte",
-    "headline": "Years after attempted assassination of Donald Trump, Butler mayor struggles to bring focus back to community needs",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-06",
-    "url": "https://www.post-gazette.com/news/politics-local/2026/08/06/trump-butler-assassination-attempt-mayors-violence/stories/202608060057",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260806allegheny-river-data-center-dam-hydroelectri",
-    "headline": "Letter to the editor: Use river power for data centers",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-06",
-    "url": "https://www.post-gazette.com/local/2026/08/06/allegheny-river-data-center-dam-hydroelectricity/stories/202608060041",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260806pittsburgh-weather-rain-flooding-",
-    "headline": "Slow-moving storms and flooding could grip Pittsburgh for the 'foreseeable future'",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-06",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/08/06/pittsburgh-weather-rain-flooding-2/stories/202608060053",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260806pitt-cmu-research-alzheimers-diseasesto",
-    "headline": "‘One piece of this puzzle’: Pitt-CMU collaboration makes novel discovery about Alzheimer’s disease",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-06",
-    "url": "https://www.post-gazette.com/news/health/2026/08/06/pitt-cmu-research-alzheimers-disease/stories/202608040042",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335895",
