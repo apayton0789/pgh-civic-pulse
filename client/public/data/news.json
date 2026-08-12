@@ -1,5 +1,162 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260812pittsburgh-red-light-camerassto",
+    "headline": "Pittsburgh begins using red light enforcement cameras in Point Breeze, Beechview",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-12",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/12/pittsburgh-red-light-cameras/stories/202608120030",
+    "summary": null,
+    "geographicTags": [
+      "Point Breeze",
+      "Beechview",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260812allegheny-county-pension-innamorato-zappalas",
+    "headline": "Letter to the editor: DA’s pension inquiry is needed",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-12",
+    "url": "https://www.post-gazette.com/local/2026/08/12/allegheny-county-pension-innamorato-zappala/stories/202608120001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260812rare-disease-rk-mellon-pittsburghstorie",
+    "headline": "RK Mellon Foundation pledges $25M to launch rare disease therapy hub in Pittsburgh",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-12",
+    "url": "https://www.post-gazette.com/news/health/2026/08/12/rare-disease-rk-mellon-pittsburgh/stories/202608120010",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifedining20260812african-markets-pittsburghstories202608",
+    "headline": "Specializing in the foodways of Africa, these 6 Pittsburgh-area markets offer a bevy of ingredients to inspire your next meal",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-12",
+    "url": "https://www.post-gazette.com/life/dining/2026/08/12/african-markets-pittsburgh/stories/202608160003",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336347",
+    "headline": "Federal safety agency issues final report into 2025 blast that killed 2 at Clairton steel plant",
+    "source": "PublicSource",
+    "date": "2026-08-12",
+    "url": "https://www.publicsource.org/clairton-coke-works-explosion-health-report-safety/",
+    "summary": "The blast occurred after a gas valve being flushed with pressurized water ruptured, according to the U.S. Chemical Safety and Hazard Investigation Board. The post Federal safety agency issues final report into 2025 blast that killed 2 at Clairton steel plant appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "CLAIRTON"
+    ],
+    "category": "Public Safety",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336320",
+    "headline": "ICE considering buying immigrant detention facilities, other options to maintain capacity in Pa.",
+    "source": "PublicSource",
+    "date": "2026-08-12",
+    "url": "https://www.publicsource.org/ice-considering-buying-immigrant-detention-facilities-other-options-to-maintain-capacity-in-pa/",
+    "summary": "The federal agency, which currently runs the Moshannon Valley Processing Center through a contract with Clearfield County and a private owner, may try to buy the facility when the agreement expires next month. The post ICE considering buying immigrant detention facilities, other options to maintain capacity in Pa. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Government",
+    "id": 47
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336341",
+    "headline": "Stowe residents came to fight a data center. Township officials say none is planned.",
+    "source": "PublicSource",
+    "date": "2026-08-12",
+    "url": "https://www.publicsource.org/stowe-commissioners-say-no-data-center-planned/",
+    "summary": "A zoning change, social media posts and gaps in township communication helped fuel months of confusion over a large industrial site along the Ohio River. The post Stowe residents came to fight a data center. Township officials say none is planned. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "STOWE",
+      "OHIO"
+    ],
+    "category": "Development",
+    "id": 48
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260811school-vaccinations-allegheny-county-he",
+    "headline": "As school year nears and measles cases rise, Allegheny County Health Department urges vaccinations",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-11",
+    "url": "https://www.post-gazette.com/news/health/2026/08/11/school-vaccinations-allegheny-county-health-department/stories/202608110056",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Education",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260811mount-washington-church-demolitionstorie",
+    "headline": "As demolition of fire-damaged Mount Washington church stalls, neighbors are left waiting",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-11",
+    "url": "https://www.post-gazette.com/local/city/2026/08/11/mount-washington-church-demolition/stories/202608110053",
+    "summary": null,
+    "geographicTags": [
+      "Mount Washington",
+      "PITTSBURGH"
+    ],
+    "category": "Public Safety",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260811sherwin-williams-beaver-county-air",
+    "headline": "Sherwin-Williams fined by state, must make changes at Beaver County plant over air quality violations",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-11",
+    "url": "https://www.post-gazette.com/news/environment/2026/08/11/sherwin-williams-beaver-county-air-quality-dep/stories/202608110040",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Government",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260811pittsburgh-weather-flooding-1stor",
+    "headline": "Pittsburgh under flood watch as heavy rain slowly moves across the region",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-11",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/08/11/pittsburgh-weather-flooding-1/stories/202608110039",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH",
+      "ROSS"
+    ],
+    "category": "General",
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260811students-ai-ppg-future-workforce",
+    "headline": "Students showcasing their artificial intelligence creations are imagining, and shaping, a new world",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-11",
+    "url": "https://www.post-gazette.com/business/tech-news/2026/08/11/students-ai-ppg-future-workforce/stories/202608070061",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 34
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260811bob-oconnor-first-tee-schenley-park-golf-cou",
     "headline": "Letter to the editor: What’s best for The Bob?",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +165,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260811ice-pennsylvania-detention-cent",
@@ -19,7 +176,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260811where-and-when-to-watch-solar-ecl",
@@ -32,7 +189,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260811saving-monarch-butterflies-waystation",
@@ -43,7 +200,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260811cooking-with-care-upper-st-clair-high",
@@ -54,7 +211,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260810castle-shannon-brian-shelleby-ars",
@@ -67,7 +224,7 @@
       "CASTLE SHANNON"
     ],
     "category": "General",
-    "id": 31
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336095",
@@ -81,7 +238,7 @@
       "CRANBERRY"
     ],
     "category": "Government",
-    "id": 46
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260810us-steel-clairton-coke-works-e",
@@ -94,7 +251,7 @@
       "CLAIRTON"
     ],
     "category": "General",
-    "id": 32
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260810duquesne-shooting-arrest-clairton",
@@ -108,7 +265,7 @@
       "DUQUESNE"
     ],
     "category": "Public Safety",
-    "id": 33
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260810nfl-draft-pittsburgh-economyst",
@@ -121,7 +278,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 34
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260810clairton-double-murder-getaway-dr",
@@ -134,7 +291,7 @@
       "CLAIRTON"
     ],
     "category": "General",
-    "id": 35
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260810mary-joan-coultas-sister-la-rochest",
@@ -145,88 +302,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260810pittsburgh-weather-flash-flooding",
-    "headline": "Relentless thunderstorms could cause ‘very serious’ flooding in parts of Pittsburgh region",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-10",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/08/10/pittsburgh-weather-flash-flooding-thunderstorms/stories/202608100020",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260810wvu-medicine-fulton-co",
-    "headline": "WVU Medicine signs deal to incorporate rural Fulton County hospital",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-10",
-    "url": "https://www.post-gazette.com/business/healthcare-business/2026/08/10/wvu-medicine-fulton-county-medical-center/stories/202608100017",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260810lion-cub-name-pittsburgh-zoostories20",
-    "headline": "Pittsburgh Zoo’s new lion cub makes her debut — and is officially named",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-10",
-    "url": "https://www.post-gazette.com/life/outdoors/2026/08/10/lion-cub-name-pittsburgh-zoo/stories/202608100016",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260810fire-truck-price-gouging-private-equitystori",
-    "headline": "Letter to the editor: Private equity problems",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-10",
-    "url": "https://www.post-gazette.com/local/2026/08/10/fire-truck-price-gouging-private-equity/stories/202608060042",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260810people-on-the-move-aug-10",
-    "headline": "People on the Move: Aug. 10, 2026",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-10",
-    "url": "https://www.post-gazette.com/business/career-workplace/2026/08/10/people-on-the-move-aug-10-202/stories/202608090036",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewssocial-services20260810pennsylvania-municipal-service",
-    "headline": "Small-town Pennsylvania turns to philanthropy to help support municipal services",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-10",
-    "url": "https://www.post-gazette.com/news/social-services/2026/08/10/pennsylvania-municipal-services/stories/202608090066",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260810university-of-pittsburgh-joan-gabels",
-    "headline": "How Pitt is pushing through higher education headwinds as Gabel heads into Year 4 as chancellor",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-10",
-    "url": "https://www.post-gazette.com/news/education/2026/08/10/university-of-pittsburgh-joan-gabel/stories/202608060051",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Education",
-    "id": 43
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336224",
@@ -240,31 +316,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 47
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalsouth20260809homestead-waterfront-superhero-eventsto",
-    "headline": "Superheroes take over the Waterfront",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-09",
-    "url": "https://www.post-gazette.com/local/south/2026/08/09/homestead-waterfront-superhero-event/stories/202608090068",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Infrastructure",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260809pittsburgh-weather-forecast-week-",
-    "headline": "Pittsburgh region gets a brief break from storms before active weather returns",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-09",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/08/09/pittsburgh-weather-forecast-week-august-9th/stories/202608090063",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 45
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336234",
@@ -277,7 +329,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 48
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336077",
@@ -290,7 +342,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 49
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335543",
@@ -303,7 +355,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 50
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1335895",
@@ -319,7 +371,7 @@
       "ALLEGHENY"
     ],
     "category": "General",
-    "id": 51
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336133",
@@ -333,35 +385,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 52
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336111",
-    "headline": "DA drops charges against Springdale man forcefully arrested at council meeting",
-    "source": "PublicSource",
-    "date": "2026-08-05",
-    "url": "https://www.publicsource.org/springdale-charges-dropped-rosenmund-council-meeting-arrest/",
-    "summary": "William “Danny” Rosenmund was tackled to the ground by multiple police officers during an April 21 meeting and was charged with felony aggravated assault. The post DA drops charges against Springdale man forcefully arrested at council meeting appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "SPRINGDALE"
-    ],
-    "category": "Public Safety",
-    "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1335366",
-    "headline": "Foundation of HOPE opens doors for those leaving Allegheny County Jail",
-    "source": "PublicSource",
-    "date": "2026-08-05",
-    "url": "https://www.publicsource.org/foundation-of-hope-opens-doors-allegheny-jail/",
-    "summary": "“I keep staring at my cell, cell 124,” DuJuan Williamson said while holding back tears. He told the crowd of about 25 men in green uniforms to “keep going” despite the hardships that incarceration brings. The post Foundation of HOPE opens doors for those leaving Allegheny County Jail appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 54
+    "id": 55
   },
   {
     "externalId": "news_1",
