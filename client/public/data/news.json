@@ -1,5 +1,94 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260814teen-takeover-violence-programsstories202608",
+    "headline": "Letter to the editor: Kids just want to have fun",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-14",
+    "url": "https://www.post-gazette.com/local/2026/08/14/teen-takeover-violence-programs/stories/202608140002",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260814bob-oconnor-first-tee-schenley-park-golf",
+    "headline": "Brandon McGinley: Does golf belong in Schenley Park?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-14",
+    "url": "https://www.post-gazette.com/local/city/2026/08/14/bob-oconnor-first-tee-schenley-park-golf-course/stories/202608070001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260814highland-park-mellon-st-pittsburgh",
+    "headline": "Buying Here: 1908 Highland Park house has 'so much charm and character' and an $849K price tag",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-14",
+    "url": "https://www.post-gazette.com/life/buying-here/2026/08/14/highland-park-mellon-st-pittsburgh-for-sale/stories/202608140004",
+    "summary": null,
+    "geographicTags": [
+      "Highland Park",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336297",
+    "headline": "How Homewood is sustaining itself after decades of disinvestment",
+    "source": "PublicSource",
+    "date": "2026-08-14",
+    "url": "https://www.publicsource.org/homewood-pittsburgh-community-endures/",
+    "summary": "In Homewood, business challenges, hidden history and a music tradition show what it takes for a community to endure. The post How Homewood is sustaining itself after decades of disinvestment appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "Homewood",
+      "PITTSBURGH"
+    ],
+    "category": "Infrastructure/Transit",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260813wegmans-breaks-ground-cranberr",
+    "headline": "Wegmans breaks ground in Cranberry",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-13",
+    "url": "https://www.post-gazette.com/business/development/2026/08/13/wegmans-breaks-ground-cranberry/stories/202608130048",
+    "summary": null,
+    "geographicTags": [
+      "CRANBERRY"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260813gray-swan-ai-artificial-intellig",
+    "headline": "Pittsburgh artificial intelligence security firm quadruples footprint and promises to double workforce",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-13",
+    "url": "https://www.post-gazette.com/business/tech-news/2026/08/13/gray-swan-ai-artificial-intelligence-security-bakery-square/stories/202608130043",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsscience20260813mike-fincke-retires-from-nasastories20",
+    "headline": "Mike Fincke, longtime astronaut from Pittsburgh area, retires from NASA. But he has a new mission.",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-13",
+    "url": "https://www.post-gazette.com/news/science/2026/08/13/mike-fincke-retires-from-nasa/stories/202608130049",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 31
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260813ebola-congo-global-health-foreign-aidstories",
     "headline": "Letter to the editor: U.S. funds protect global health",
     "source": "Pittsburgh Post-Gazette",
@@ -8,18 +97,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260813pennsylvania-ecoli-fecal-bacteria-",
-    "headline": "‘Potentially unsafe levels’ of E. coli found in hundreds of Pennsylvania waterways, group says",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/news/environment/2026/08/13/pennsylvania-ecoli-fecal-bacteria-rivers/stories/202608120052",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Infrastructure",
-    "id": 27
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260813allegheny-county-911-dispatchers-mental",
@@ -32,7 +110,32 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 28
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260813obituary-herbert-weiss-bakery-brent",
+    "headline": "Obituary: Herbert Weiss, grew up on a North Side farm and then ran a bakery in the South Hills",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-13",
+    "url": "https://www.post-gazette.com/news/obituaries/2026/08/13/obituary-herbert-weiss-bakery-brentwood/stories/202608130027",
+    "summary": null,
+    "geographicTags": [
+      "North Side",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 34
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260813pennsylvania-ecoli-fecal-bacteria-",
+    "headline": "‘Potentially unsafe levels’ of E. coli found in hundreds of Pennsylvania waterways, group says",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-13",
+    "url": "https://www.post-gazette.com/news/environment/2026/08/13/pennsylvania-ecoli-fecal-bacteria-rivers/stories/202608120052",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Infrastructure",
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260813charleroi-glass-plant-corelles",
@@ -43,7 +146,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaemusic20260813peaceful-forest-kato-family-pittsburgh-jap",
@@ -56,7 +159,7 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260813slice-out-hunger-jesse-wisinski-the-b",
@@ -67,7 +170,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336262",
@@ -80,11 +183,11 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260812pittsburgh-ura-covid-money-audi",
-    "headline": "Audit of Pittsburgh's COVID relief spending flags lack of documentation",
+    "headline": "Audit of Pittsburgh’s COVID relief spending flags lack of documentation",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-08-12",
     "url": "https://www.post-gazette.com/news/politics-local/2026/08/12/pittsburgh-ura-covid-money-audit-american-rescue-plan-act/stories/202608120049",
@@ -93,7 +196,7 @@
       "PITTSBURGH"
     ],
     "category": "Government/Budget",
-    "id": 32
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260812pa-property-reassessments-count",
@@ -104,7 +207,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260812pittsburgh-shooting-northview-hei",
@@ -115,7 +218,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 34
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260812point-park-university-pittsburgh-bra",
@@ -126,7 +229,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260812pittsburgh-red-light-camerassto",
@@ -141,7 +244,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 36
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260812allegheny-county-pension-innamorato-zappalas",
@@ -152,7 +255,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260812rare-disease-rk-mellon-pittsburghstorie",
@@ -165,20 +268,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifedining20260812african-markets-pittsburghstories202608",
-    "headline": "Specializing in the foodways of Africa, these 6 Pittsburgh-area markets offer a bevy of ingredients to inspire your next meal",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-12",
-    "url": "https://www.post-gazette.com/life/dining/2026/08/12/african-markets-pittsburgh/stories/202608160003",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 39
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336366",
@@ -192,7 +282,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336347",
@@ -206,7 +296,7 @@
       "CLAIRTON"
     ],
     "category": "Public Safety",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336320",
@@ -219,7 +309,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336341",
@@ -234,81 +324,7 @@
       "OHIO"
     ],
     "category": "Development",
-    "id": 50
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260811school-vaccinations-allegheny-county-he",
-    "headline": "As school year nears and measles cases rise, Allegheny County Health Department urges vaccinations",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-11",
-    "url": "https://www.post-gazette.com/news/health/2026/08/11/school-vaccinations-allegheny-county-health-department/stories/202608110056",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Education",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260811mount-washington-church-demolitionstorie",
-    "headline": "As demolition of fire-damaged Mount Washington church stalls, neighbors are left waiting",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-11",
-    "url": "https://www.post-gazette.com/local/city/2026/08/11/mount-washington-church-demolition/stories/202608110053",
-    "summary": null,
-    "geographicTags": [
-      "Mount Washington",
-      "PITTSBURGH"
-    ],
-    "category": "Public Safety",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260811sherwin-williams-beaver-county-air",
-    "headline": "Sherwin-Williams fined by state, must make changes at Beaver County plant over air quality violations",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-11",
-    "url": "https://www.post-gazette.com/news/environment/2026/08/11/sherwin-williams-beaver-county-air-quality-dep/stories/202608110040",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260811pittsburgh-weather-flooding-1stor",
-    "headline": "Pittsburgh under flood watch as heavy rain slowly moves across the region",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-11",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/08/11/pittsburgh-weather-flooding-1/stories/202608110039",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH",
-      "ROSS"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260811students-ai-ppg-future-workforce",
-    "headline": "Students showcasing their artificial intelligence creations are imagining, and shaping, a new world",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-11",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/08/11/students-ai-ppg-future-workforce/stories/202608070061",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260811bob-oconnor-first-tee-schenley-park-golf-cou",
-    "headline": "Letter to the editor: What’s best for The Bob?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-11",
-    "url": "https://www.post-gazette.com/local/2026/08/11/bob-oconnor-first-tee-schenley-park-golf-course-squirrel-hill/stories/202608110003",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 45
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336095",
@@ -322,7 +338,7 @@
       "CRANBERRY"
     ],
     "category": "Government",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336224",
@@ -336,7 +352,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336234",
@@ -349,33 +365,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336077",
-    "headline": "Pittsburgh’s Chinatown is gone, but its history showed me that I belong here",
-    "source": "PublicSource",
-    "date": "2026-08-07",
-    "url": "https://www.publicsource.org/pittsburghs-chinatown-history-shows-i-belong/",
-    "summary": "For the first few years that I lived in Pittsburgh, I didn't think there was much of an Asian population whatsoever. I've since learned far more about the city and sought out more cultural diversity — though, per 2025 Census data, only around 6.2% of city occupants are Asian. But there was something about learning that many of Pittsburgh's first-ever Chinese occupants were from the same tiny city my family came from that made me feel incredibly connected to its roots. The post Pittsburgh’s China",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
     "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1335543",
-    "headline": "If 9/11 changed you, we’d like to know about it",
-    "source": "PublicSource",
-    "date": "2026-08-07",
-    "url": "https://www.publicsource.org/pittsburgh-public-source-911-essay-submission/",
-    "summary": "The 2001 terrorist attacks led to a dramatic change in America’s direction. How did they affect you? The post If 9/11 changed you, we’d like to know about it appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 55
   },
   {
     "externalId": "news_1",
