@@ -1,5 +1,88 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260816clairton-coke-works-allegheny-coun",
+    "headline": "The Clairton Coke Works explosion reignited Mon Valley air quality concerns. What does it mean for future generations?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-16",
+    "url": "https://www.post-gazette.com/news/environment/2026/08/16/clairton-coke-works-allegheny-county-air-quality/stories/202608160054",
+    "summary": null,
+    "geographicTags": [
+      "CLAIRTON"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260816pennsylvania-turnpike-fire-aleg",
+    "headline": "After Allegheny Mountain Tunnel fire, Pennsylvania Turnpike makes safety changes",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-16",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/16/pennsylvania-turnpike-fire-alegheny-mountain-tunnel/stories/202608160049",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Public Safety",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260816centralia-pennsylvania-coal-minestories2",
+    "headline": "Still burning: Centralia’s strange attraction 64 years after mine fire created a ghost town",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-16",
+    "url": "https://www.post-gazette.com/news/state/2026/08/16/centralia-pennsylvania-coal-mine/stories/202608160028",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifegarden20260816garlic-festival-shim-pittsburghstories2",
+    "headline": "Garlic ice cream? Try some and buy some stinkers at this new festival",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-16",
+    "url": "https://www.post-gazette.com/life/garden/2026/08/16/garlic-festival-shim-pittsburgh/stories/202608160046",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260815outdoor-recreation-pittsburghstories2",
+    "headline": "Outdoors for all: More people are outdoors, but what are they not doing?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-15",
+    "url": "https://www.post-gazette.com/life/outdoors/2026/08/15/outdoor-recreation-pittsburgh/stories/202608150036",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260815monnessen-school-district-school-del",
+    "headline": "Monessen delays start of school year after 'fungal growth' found in water-damaged building",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-15",
+    "url": "https://www.post-gazette.com/news/education/2026/08/15/monnessen-school-district-school-delay/stories/202608150029",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Education",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260815pittsburgh-weather-flood-watch-1s",
+    "headline": "Pittsburgh under flood watch through end of the weekend, with several inches of rain possible",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-15",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/08/15/pittsburgh-weather-flood-watch-1/stories/202608150027",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 32
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260815duquesne-university-david-dauseystor",
     "headline": "New Duquesne president says university is in 'position of strength'",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +93,7 @@
       "DUQUESNE"
     ],
     "category": "General",
-    "id": 26
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsfaith-religion20260815pittsburgh-diocese-traditional-",
@@ -24,7 +107,7 @@
       "ALIQUIPPA"
     ],
     "category": "General",
-    "id": 27
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260814beaver-falls-high-school-chargess",
@@ -35,18 +118,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 28
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260814switch-data-center-pitt-race-big",
-    "headline": "Developer submits plans for data center campus at former Beaver County race track",
+    "headline": "Developer submits plans for data center campus at former Beaver County racetrack",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-08-14",
     "url": "https://www.post-gazette.com/business/tech-news/2026/08/14/switch-data-center-pitt-race-big-beaver-borough/stories/202608140069",
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260814allegheny-county-ballot-questio",
@@ -59,7 +142,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifedrinks20260814penn-brewery-bankruptcystories202608140",
@@ -70,7 +153,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260814westmoreland-county-voter-fraudst",
@@ -81,7 +164,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260814pittsburgh-police-shooting-lincol",
@@ -94,7 +177,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260814woodland-hills-terri-lawsonstories20",
@@ -105,7 +188,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 34
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260814hit-and-run-mckees-rocks-kennedy-",
@@ -116,7 +199,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260814teen-takeover-violence-programsstories202608",
@@ -127,7 +210,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260814bob-oconnor-first-tee-schenley-park-golf",
@@ -138,7 +221,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260814highland-park-mellon-st-pittsburgh",
@@ -152,7 +235,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336297",
@@ -167,94 +250,6 @@
     ],
     "category": "Infrastructure/Transit",
     "id": 46
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260813wegmans-breaks-ground-cranberr",
-    "headline": "Wegmans breaks ground in Cranberry",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/business/development/2026/08/13/wegmans-breaks-ground-cranberry/stories/202608130048",
-    "summary": null,
-    "geographicTags": [
-      "CRANBERRY"
-    ],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260813gray-swan-ai-artificial-intellig",
-    "headline": "Pittsburgh artificial intelligence security firm quadruples footprint and promises to double workforce",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/08/13/gray-swan-ai-artificial-intelligence-security-bakery-square/stories/202608130043",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsscience20260813mike-fincke-retires-from-nasastories20",
-    "headline": "Mike Fincke, longtime astronaut from Pittsburgh area, retires from NASA. But he has a new mission.",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/news/science/2026/08/13/mike-fincke-retires-from-nasa/stories/202608130049",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260813ebola-congo-global-health-foreign-aidstories",
-    "headline": "Letter to the editor: U.S. funds protect global health",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/local/2026/08/13/ebola-congo-global-health-foreign-aid/stories/202608130001",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260813allegheny-county-911-dispatchers-mental",
-    "headline": "Allegheny County 911 dispatchers are confronting a mental health crisis — their own",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/news/health/2026/08/13/allegheny-county-911-dispatchers-mental-health-suicide/stories/202608120036",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260813obituary-herbert-weiss-bakery-brent",
-    "headline": "Obituary: Herbert Weiss, grew up on a North Side farm and then ran a bakery in the South Hills",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/news/obituaries/2026/08/13/obituary-herbert-weiss-bakery-brentwood/stories/202608130027",
-    "summary": null,
-    "geographicTags": [
-      "North Side",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260813pennsylvania-ecoli-fecal-bacteria-",
-    "headline": "‘Potentially unsafe levels’ of E. coli found in hundreds of Pennsylvania waterways, group says",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-13",
-    "url": "https://www.post-gazette.com/news/environment/2026/08/13/pennsylvania-ecoli-fecal-bacteria-rivers/stories/202608120052",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Infrastructure",
-    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336262",
