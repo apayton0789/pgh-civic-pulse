@@ -1,7 +1,74 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260823murrays-avenue-market-kos",
+    "headline": "Everything will be kosher in this new Squirrel Hill market after a monthslong beef",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-23",
+    "url": "https://www.post-gazette.com/business/career-workplace/2026/08/23/murrays-avenue-market-kosher-pittsburgh/stories/202608230050",
+    "summary": null,
+    "geographicTags": [
+      "Squirrel Hill",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260823pittsburgh-public-schools-closures-1",
+    "headline": "Thousands of Pittsburgh Public Schools students gear up for the final first day at closing schools",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-23",
+    "url": "https://www.post-gazette.com/news/education/2026/08/23/pittsburgh-public-schools-closures-1/stories/202608200046",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Education",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260822pittsburgh-black-men-wellness-day-healt",
+    "headline": "Pittsburgh’s third Black Men’s Wellness Day draws crowds for free screenings, health advice and a 5K run/walk",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-22",
+    "url": "https://www.post-gazette.com/news/health/2026/08/22/pittsburgh-black-men-wellness-day-health/stories/202608220043",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260822downtown-pittsburgh-blvd-of-the",
+    "headline": "Pittsburgh wants to create a ‘grand’ Boulevard of the Allies",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-22",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/22/downtown-pittsburgh-blvd-of-the-allies-grant/stories/202608220041",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260822pittsburgh-weather-forecast-today",
+    "headline": "Forecast calls for severe storms later today; forces cancellation of Squirrel Hill Night Market",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-22",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/08/22/pittsburgh-weather-forecast-today-august-22-2026/stories/202608220040",
+    "summary": null,
+    "geographicTags": [
+      "Squirrel Hill",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 30
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260822gloria-forouzan-pittsburgh-civic-hi",
-    "headline": "Gloria Forouzan, 'a doer' who quietly helped build Pittsburgh's civic life, dies at 71",
+    "headline": "Gloria Forouzan, ‘a doer’ who quietly helped build Pittsburgh’s civic life, dies at 71",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-08-22",
     "url": "https://www.post-gazette.com/news/obituaries/2026/08/22/gloria-forouzan-pittsburgh-civic-historian-arts/stories/202608190035",
@@ -10,7 +77,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 26
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260821tristan-taylor-east-hills-homicid",
@@ -21,7 +88,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalwestmoreland20260821westmoreland-county-prison-warde",
@@ -32,7 +99,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 28
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260821brandon-dukes-butler-special-el",
@@ -43,7 +110,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 29
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260821west-mifflin-fatal-crashstories20",
@@ -56,7 +123,7 @@
       "WEST MIFFLIN"
     ],
     "category": "General",
-    "id": 30
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260821child-mauled-dogs-lebanon-countystories2",
@@ -67,7 +134,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 31
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260821data-cards-plane-helicopter-pennsylvania-air",
@@ -78,18 +145,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260821josh-shapiro-data-centers-pastories20260",
-    "headline": "Brandon McGinley: The politics of Josh Shapiro's transformation on data centers",
+    "headline": "Brandon McGinley: The politics of Josh Shapiro’s transformation on data centers",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-08-21",
     "url": "https://www.post-gazette.com/local/city/2026/08/21/josh-shapiro-data-centers-pa/stories/202608210004",
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 33
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspittsburgh-company-news20260821zara-ross-park-mal",
@@ -102,7 +169,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 34
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260821great-allegheny-passage-trail-closure-up",
@@ -115,7 +182,7 @@
       "ALLEGHENY"
     ],
     "category": "General",
-    "id": 35
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260821pittsburgh-internatioanl-airpor",
@@ -128,7 +195,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 36
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260821pennsylvania-data-centers-ndasto",
@@ -139,7 +206,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260821buying-here-harrison-st-lawrencevi",
@@ -153,7 +220,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336516",
@@ -181,11 +248,11 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 39
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260820pittsburgh-finances-search-warr",
-    "headline": "Investigation into Pittsburgh's finances shows 'millions of dollars' appear to be missing, DA says",
+    "headline": "Investigation into Pittsburgh’s finances shows ‘millions of dollars’ appear to be missing, DA says",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-08-20",
     "url": "https://www.post-gazette.com/news/politics-local/2026/08/20/pittsburgh-finances-search-warrant/stories/202608200062",
@@ -194,68 +261,6 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260820pennwest-california-homicide-karo",
-    "headline": "Mother and son charged in murder of 18-year-old PennWest California student",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-20",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/20/pennwest-california-homicide-karoline-heintz/stories/202608200055",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260820pennsylvania-state-trooper-helicopter-pl",
-    "headline": "Investigators probe a dramatic midair crash in Carlisle as a landing plane hits hovering police helicopter",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-20",
-    "url": "https://www.post-gazette.com/news/state/2026/08/20/pennsylvania-state-trooper-helicopter-plane-crash-pilot-killed-carlisle/stories/202608200054",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260820college-move-in-pitt-chatham-duquesn",
-    "headline": "Thousands of new students are moving into Pittsburgh — but keeping them here has been an elusive goal",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-20",
-    "url": "https://www.post-gazette.com/news/education/2026/08/20/college-move-in-pitt-chatham-duquesne/stories/202608190053",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260820pittsburgh-rain-flash-flood-warni",
-    "headline": "Pittsburgh under flood warning as another round of heavy rain hits region",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-20",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/08/20/pittsburgh-rain-flash-flood-warning-updates/stories/202608200045",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260820homewood-homicide-arrest-pittsbur",
-    "headline": "Police: Homewood man shot and killed another man in front of his house, then went back to bed",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-20",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/20/homewood-homicide-arrest-pittsburgh-police/stories/202608200044",
-    "summary": null,
-    "geographicTags": [
-      "Homewood",
-      "PITTSBURGH"
-    ],
-    "category": "Public Safety",
     "id": 45
   },
   {
