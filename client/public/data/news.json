@@ -1,5 +1,114 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260824pittsburgh-water-main-break-cha",
+    "headline": "Large water main break causes road to buckle in the West End",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/24/pittsburgh-water-main-break-chartiers-steuben/stories/202608240024",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Infrastructure",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260824people-on-the-move-8-24-2",
+    "headline": "People on the Move: 8/24/26",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/business/career-workplace/2026/08/24/people-on-the-move-8-24-26/stories/202608230057",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260824pennsylvania-region-names-bordersstories",
+    "headline": "Why Pennsylvanians care so dang much about regional names and borders",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/news/state/2026/08/24/pennsylvania-region-names-borders/stories/202608240002",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260824homer-city-coal-indiana-county-b",
+    "headline": "An economic boom may pull Indiana County internet access into the future",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/business/tech-news/2026/08/24/homer-city-coal-indiana-county-broadband-affordability/stories/202608190047",
+    "summary": null,
+    "geographicTags": [
+      "INDIANA"
+    ],
+    "category": "Government",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260824pittsburgh-regional-transit-imp",
+    "headline": "Numbers boost: Pittsburgh Regional Transit ridership up 5%",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/24/pittsburgh-regional-transit-improved-ridership/stories/202608210057",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Infrastructure/Transit",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20260824pittsburgh-price-of-living-comfortab",
+    "headline": "The price of living comfortably in Pittsburgh is getting steep",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/business/money/2026/08/24/pittsburgh-price-of-living-comfortably/stories/202608230053",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260823karoline-heintz-vigilstories20260",
+    "headline": "Hundreds honor murdered PennWest California student Karoline Heintz at vigil",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/23/karoline-heintz-vigil/stories/202608230089",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336537",
+    "headline": "Pittsburgh’s summer of teen restrictions raises transparency questions",
+    "source": "PublicSource",
+    "date": "2026-08-24",
+    "url": "https://www.publicsource.org/pittsburgh-teen-restrictions-transparency/",
+    "summary": "Fears of “teen takeovers” changed access to some public spaces for Pittsburgh’s youth this summer. City officials are tight-lipped about how these decisions were made. The post Pittsburgh’s summer of teen restrictions raises transparency questions appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifelifestyle20260823pittsburgh-world-square-2026stories2",
+    "headline": "Pittsburgh celebrates its global communities at World Square",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-23",
+    "url": "https://www.post-gazette.com/life/lifestyle/2026/08/23/pittsburgh-world-square-2026/stories/202608230086",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 33
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260823murrays-avenue-market-kos",
     "headline": "Everything will be kosher in this new Squirrel Hill market after a monthslong beef",
     "source": "Pittsburgh Post-Gazette",
@@ -11,7 +120,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 26
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260823pittsburgh-public-schools-closures-1",
@@ -24,7 +133,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 27
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260822pittsburgh-black-men-wellness-day-healt",
@@ -37,7 +146,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260822downtown-pittsburgh-blvd-of-the",
@@ -50,7 +159,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 29
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260822pittsburgh-weather-forecast-today",
@@ -64,7 +173,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 30
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260822gloria-forouzan-pittsburgh-civic-hi",
@@ -77,7 +186,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 31
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260821tristan-taylor-east-hills-homicid",
@@ -88,7 +197,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalwestmoreland20260821westmoreland-county-prison-warde",
@@ -99,18 +208,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 33
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260821brandon-dukes-butler-special-el",
-    "headline": "Democrat Brandon Dukes tried to stay off his phone during Butler County's special election. Then the calls began.",
+    "headline": "Democrat Brandon Dukes tried to stay off his phone during Butler County’s special election. Then the calls began.",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-08-21",
     "url": "https://www.post-gazette.com/news/politics-state/2026/08/21/brandon-dukes-butler-special-election/stories/202608210054",
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 34
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260821west-mifflin-fatal-crashstories20",
@@ -123,7 +232,7 @@
       "WEST MIFFLIN"
     ],
     "category": "General",
-    "id": 35
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260821child-mauled-dogs-lebanon-countystories2",
@@ -134,7 +243,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 36
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260821data-cards-plane-helicopter-pennsylvania-air",
@@ -145,82 +254,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260821josh-shapiro-data-centers-pastories20260",
-    "headline": "Brandon McGinley: The politics of Josh Shapiro’s transformation on data centers",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-21",
-    "url": "https://www.post-gazette.com/local/city/2026/08/21/josh-shapiro-data-centers-pa/stories/202608210004",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesspittsburgh-company-news20260821zara-ross-park-mal",
-    "headline": "Zara slated to open first Pittsburgh location",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-21",
-    "url": "https://www.post-gazette.com/business/pittsburgh-company-news/2026/08/21/zara-ross-park-mall-opening/stories/202608210035",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260821great-allegheny-passage-trail-closure-up",
-    "headline": "2-mile stretch of Great Allegheny Passage trail closed indefinitely amid landslide threat",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-21",
-    "url": "https://www.post-gazette.com/local/city/2026/08/21/great-allegheny-passage-trail-closure-update/stories/202608210036",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260821pittsburgh-internatioanl-airpor",
-    "headline": "Pittsburgh International Airport launches another new experience for passengers looking to kill time",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-21",
-    "url": "https://www.post-gazette.com/news/transportation/2026/08/21/pittsburgh-internatioanl-airport-gameway-lounge/stories/202608200053",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260821pennsylvania-data-centers-ndasto",
-    "headline": "Data center developers are pushing Pennsylvania officials to sign secrecy agreements. At least some are saying yes.",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-21",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/08/21/pennsylvania-data-centers-nda/stories/202608210009",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260821buying-here-harrison-st-lawrencevi",
-    "headline": "Buying Here: 1900 Lawrenceville rowhouse with all new interior priced at $414,900",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-21",
-    "url": "https://www.post-gazette.com/life/buying-here/2026/08/21/buying-here-harrison-st-lawrenceville-rowhouse-tax-abatement/stories/202608210003",
-    "summary": null,
-    "geographicTags": [
-      "Lawrenceville",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336516",
@@ -234,34 +268,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 46
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260820south-side-east-carson-nuisance-b",
-    "headline": "As Pittsburgh rape suspect is arrested in New York, DA takes aim at South Side bar where victim drank before assault",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-20",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/20/south-side-east-carson-nuisance-bar/stories/202608200065",
-    "summary": null,
-    "geographicTags": [
-      "South Side",
-      "PITTSBURGH"
-    ],
-    "category": "Public Safety",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260820pittsburgh-finances-search-warr",
-    "headline": "Investigation into Pittsburgh’s finances shows ‘millions of dollars’ appear to be missing, DA says",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-20",
-    "url": "https://www.post-gazette.com/news/politics-local/2026/08/20/pittsburgh-finances-search-warrant/stories/202608200062",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 45
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336501",
@@ -274,7 +281,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336486",
@@ -287,7 +294,7 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336485",
@@ -301,7 +308,7 @@
       "ALLEGHENY"
     ],
     "category": "Public Safety",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336463",
@@ -314,7 +321,7 @@
       "PITTSBURGH"
     ],
     "category": "Health",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336458",
@@ -328,7 +335,7 @@
       "ELIZABETH"
     ],
     "category": "Development",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336430",
@@ -341,7 +348,7 @@
       "PITTSBURGH"
     ],
     "category": "Government/Budget",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336431",
@@ -355,20 +362,6 @@
       "ALLEGHENY"
     ],
     "category": "Government/Budget",
-    "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336370",
-    "headline": "Dormont housing proposal draws debate — and AI-assisted misinformation",
-    "source": "PublicSource",
-    "date": "2026-08-17",
-    "url": "https://www.publicsource.org/dormont-housing-debate-ai-misinformation/",
-    "summary": "In Dormont, officials are considering a major redevelopment around the Red Line station that could bring 180 apartments, including affordable housing, to what is now a park-and-ride. Like many large development proposals, it has drawn competing visions for the borough just south of Pittsburgh. Supporters see an opportunity to add housing near public transit as [&#8230;] The post Dormont housing proposal draws debate — and AI-assisted misinformation appeared first on Pittsburgh&#039;s Public Sour",
-    "geographicTags": [
-      "PITTSBURGH",
-      "DORMONT"
-    ],
-    "category": "Development",
     "id": 54
   },
   {
