@@ -1,5 +1,95 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260826pittsburgh-firefighters-girls-fire-ca",
+    "headline": "‘Girls on Fire’: This camp shows teens what it takes to be a firefighter",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-26",
+    "url": "https://www.post-gazette.com/life/goodness/2026/08/26/pittsburgh-firefighters-girls-fire-camp/stories/202609060002",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336653",
+    "headline": "Caught between a river, a water project and a railroad, a marina community tries to hang on",
+    "source": "PublicSource",
+    "date": "2026-08-26",
+    "url": "https://www.publicsource.org/diamond-beach-marina-lock-way-road-access/",
+    "summary": "Thomas Grubbs woke up on a Monday, checked the group chat and felt it in his stomach. \"Oh, I'm actually trapped,\" he said. \"Like, I can't leave.\" His 50-foot houseboat floats in an Allegheny River marina that’s feeling pinched by a railroad and the water authority. The post Caught between a river, a water project and a railroad, a marina community tries to hang on appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visi",
+    "geographicTags": [
+      "PITTSBURGH",
+      "ALLEGHENY"
+    ],
+    "category": "General",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260825pennsylvania-measles-deaths-lancaster-c",
+    "headline": "‘It’s all hands on deck’ as Pennsylvania records first 2 measles deaths in more than 3 decades",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-25",
+    "url": "https://www.post-gazette.com/news/health/2026/08/25/pennsylvania-measles-deaths-lancaster-county/stories/202608250056",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260825allegheny-county-council-data-cent",
+    "headline": "Allegheny County Council proposes bill to ban data centers from using county property",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-25",
+    "url": "https://www.post-gazette.com/news/environment/2026/08/25/allegheny-county-council-data-centers-ban/stories/202608250051",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260825south-side-capos-nuisane-barsstor",
+    "headline": "DA offers troubled South Side bar another chance as community groups urge its shutdown",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-25",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/25/south-side-capos-nuisane-bars/stories/202608250054",
+    "summary": null,
+    "geographicTags": [
+      "South Side",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260825pittsburgh-regional-transit-pub",
+    "headline": "Public weighs in on proposed changes to Pittsburgh Regional Transit routes",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-25",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/25/pittsburgh-regional-transit-public-hearing/stories/202608250036",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Infrastructure/Transit",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260825east-pittsburgh-shooting-alleghen",
+    "headline": "Man killed in East Pittsburgh shooting",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-25",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/25/east-pittsburgh-shooting-allegheny-county/stories/202608250029",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH",
+      "EAST PITTSBURGH"
+    ],
+    "category": "Public Safety",
+    "id": 31
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260825cranberry-butler-dukes-timko-special-ele",
     "headline": "Brandon McGinley: Has Cranberry changed for good?",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +100,7 @@
       "CRANBERRY"
     ],
     "category": "General",
-    "id": 26
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260825pennsylvania-data-centers-elect",
@@ -23,7 +113,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 27
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifedining20260825okane-downtown-opal-group-sushi-pittsbu",
@@ -37,7 +127,20 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 34
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336774",
+    "headline": "What Shapiro’s new data center order does — and doesn’t — force developers to do",
+    "source": "PublicSource",
+    "date": "2026-08-25",
+    "url": "https://www.publicsource.org/data-centers-josh-shapiro-pennsylvania-regulation/",
+    "summary": "The new order isn’t a moratorium, but it does make it much harder for developers to build data centers without following strict standards. The post What Shapiro’s new data center order does — and doesn’t — force developers to do appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Development",
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336649",
@@ -50,7 +153,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 46
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336744",
@@ -64,7 +167,18 @@
       "SPRINGDALE"
     ],
     "category": "Public Safety",
-    "id": 47
+    "id": 49
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260824amtrak-pennsylvanian-pittsburgh",
+    "headline": "Amtrak’s Pennsylvanian to begin second daily trip to Harrisburg in November",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-24",
+    "url": "https://www.post-gazette.com/news/transportation/2026/08/24/amtrak-pennsylvanian-pittsburgh-harrisburg-1/stories/202608240046",
+    "summary": null,
+    "geographicTags": [],
+    "category": "State/Regional",
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260824steve-irwin-democrat-primary-forg",
@@ -77,7 +191,7 @@
       "CHESWICK"
     ],
     "category": "General",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260824monroeville-fatal-dui-crashstorie",
@@ -90,7 +204,7 @@
       "PENN HILLS"
     ],
     "category": "General",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260824highmark-health-q2-ope",
@@ -101,7 +215,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260824venetoulis-executive-editor-stan-wischno",
@@ -112,7 +226,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260824giraldo-named-highmark",
@@ -123,7 +237,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260824pittsburgh-water-main-break-cha",
@@ -134,7 +248,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Infrastructure",
-    "id": 34
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260824people-on-the-move-8-24-2",
@@ -145,7 +259,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260824homer-city-coal-indiana-county-b",
@@ -158,7 +272,7 @@
       "INDIANA"
     ],
     "category": "Government",
-    "id": 36
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260824pennsylvania-region-names-bordersstories",
@@ -169,7 +283,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260824pittsburgh-regional-transit-imp",
@@ -182,31 +296,7 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20260824pittsburgh-price-of-living-comfortab",
-    "headline": "The price of living comfortably in Pittsburgh is getting steep",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-24",
-    "url": "https://www.post-gazette.com/business/money/2026/08/24/pittsburgh-price-of-living-comfortably/stories/202608230053",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260823karoline-heintz-vigilstories20260",
-    "headline": "Hundreds honor murdered PennWest California student Karoline Heintz at vigil",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-24",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/23/karoline-heintz-vigil/stories/202608230089",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 40
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336537",
@@ -219,73 +309,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 48
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifelifestyle20260823pittsburgh-world-square-2026stories2",
-    "headline": "Pittsburgh celebrates its global communities at World Square",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-23",
-    "url": "https://www.post-gazette.com/life/lifestyle/2026/08/23/pittsburgh-world-square-2026/stories/202608230086",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260823murrays-avenue-market-kos",
-    "headline": "Everything will be kosher in this new Squirrel Hill market after a monthslong beef",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-23",
-    "url": "https://www.post-gazette.com/business/career-workplace/2026/08/23/murrays-avenue-market-kosher-pittsburgh/stories/202608230050",
-    "summary": null,
-    "geographicTags": [
-      "Squirrel Hill",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260823pittsburgh-public-schools-closures-1",
-    "headline": "Thousands of Pittsburgh Public Schools students gear up for the final first day at closing schools",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-23",
-    "url": "https://www.post-gazette.com/news/education/2026/08/23/pittsburgh-public-schools-closures-1/stories/202608200046",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Education",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260822pittsburgh-black-men-wellness-day-healt",
-    "headline": "Pittsburgh’s third Black Men’s Wellness Day draws crowds for free screenings, health advice and a 5K run/walk",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-22",
-    "url": "https://www.post-gazette.com/news/health/2026/08/22/pittsburgh-black-men-wellness-day-health/stories/202608220043",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260822downtown-pittsburgh-blvd-of-the",
-    "headline": "Pittsburgh wants to create a ‘grand’ Boulevard of the Allies",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-22",
-    "url": "https://www.post-gazette.com/news/transportation/2026/08/22/downtown-pittsburgh-blvd-of-the-allies-grant/stories/202608220041",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 45
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336516",
@@ -299,7 +323,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 49
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336501",
@@ -312,7 +336,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 50
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336486",
@@ -325,7 +349,7 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 51
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336485",
@@ -339,33 +363,6 @@
       "ALLEGHENY"
     ],
     "category": "Public Safety",
-    "id": 52
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336463",
-    "headline": "As patients turn to AI, Pittsburgh&#8217;s mental health providers adapt",
-    "source": "PublicSource",
-    "date": "2026-08-19",
-    "url": "https://www.publicsource.org/pittsburgh-mental-health-ai-chatbots/",
-    "summary": "The use of AI chatbots for mental health support is growing faster than research and professional guidance. Some local providers are embracing the technology alongside patients, while others remain cautious. The post As patients turn to AI, Pittsburgh&#8217;s mental health providers adapt appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Health",
-    "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336458",
-    "headline": "Elizabeth Township punts gas well permit decision until September",
-    "source": "PublicSource",
-    "date": "2026-08-18",
-    "url": "https://www.publicsource.org/elizabeth-township-delays-fracking-decision/",
-    "summary": "“I have a lot of concern about how this affects long-term development of the population here in Elizabeth Township,” Elizabeth resident Kathy Anderson said. “We seem to be shrinking. I’m not thinking oil and gas infrastructure will be a draw for new residents or new development or new housing.” The post Elizabeth Township punts gas well permit decision until September appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "ELIZABETH"
-    ],
-    "category": "Development",
     "id": 54
   },
   {
