@@ -1,5 +1,153 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20260828shapiro-kennedy-measles-outbre",
+    "headline": "Political feud between Gov. Shapiro and Robert F. Kennedy Jr. erupts into high-stakes battle over vaccine safety",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/news/politics-nation/2026/08/28/shapiro-kennedy-measles-outbreak-deaths/stories/202608280067",
+    "summary": null,
+    "geographicTags": [],
+    "category": "State/Regional",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260828capos-south-side-zappala-avoids-s",
+    "headline": "Troubled South Side bar Capo's signs agreement with DA to avoid shutdown",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/28/capos-south-side-zappala-avoids-shutdown/stories/202608280066",
+    "summary": null,
+    "geographicTags": [
+      "South Side",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260828windy-buchanan-penny-doe-clarion-",
+    "headline": "After 36 years as Clarion County's 'Penny Doe,' a mystery victim is identified",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/28/windy-buchanan-penny-doe-clarion-county/stories/202608270066",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Government",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260828pennsylvania-state-police-fatal-aircraft",
+    "headline": "Pennsylvania State Police hadn’t had a fatal aircraft crash in 37 years — until last week",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/news/state/2026/08/28/pennsylvania-state-police-fatal-aircraft-crash-carlisle/stories/202608280064",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260828harrisburg-judge-shot-pit-bull-puppystories2",
+    "headline": "Pennsylvania AG closes investigation into Harrisburg judge who shot pit bull puppy",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/local/2026/08/28/harrisburg-judge-shot-pit-bull-puppy/stories/202608280063",
+    "summary": null,
+    "geographicTags": [],
+    "category": "State/Regional",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260828jefferson-county-man-convicted-pittsburg",
+    "headline": "Jefferson County man convicted in Pittsburgh of COVID-relief fraud in scheme netting over $500K",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/news/state/2026/08/28/jefferson-county-man-convicted-pittsburgh-covid-relief-fraud/stories/202608280059",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Government",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260828upmc-q2-income-drop-re",
+    "headline": "Fewer hospital admissions blamed for 30.3% drop in Q2 income at UPMC",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/business/healthcare-business/2026/08/28/upmc-q2-income-drop-revenue/stories/202608280053",
+    "summary": null,
+    "geographicTags": [
+      "Oakland",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260828sen-dave-mccormick-trump-brandon-mcginley-co",
+    "headline": "Letter to the editor: Don’t whitewash McCormick’s record",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/local/2026/08/28/sen-dave-mccormick-trump-brandon-mcginley-column/stories/202608280005",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260828midland-school-district-beaver-count",
+    "headline": "Beaver County's Midland school district, the 2nd-smallest in the state, aims to be 'mighty'",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/news/education/2026/08/28/midland-school-district-beaver-county/stories/202608280013",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Education",
+    "id": 34
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20260828dbr-wealth-manager-pittsburgh-aspens",
+    "headline": "Pittsburgh wealth manager sets its sights on Colorado",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/business/money/2026/08/28/dbr-wealth-manager-pittsburgh-aspen/stories/202608280014",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 35
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260828buying-here-piatt-place-downtown-p",
+    "headline": "Buying Here: Downtown condo with a waterfall and terrace priced at $1.95M",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-28",
+    "url": "https://www.post-gazette.com/life/buying-here/2026/08/28/buying-here-piatt-place-downtown-pittsburgh-condo/stories/202608280003",
+    "summary": null,
+    "geographicTags": [
+      "Downtown",
+      "PITTSBURGH"
+    ],
+    "category": "Infrastructure",
+    "id": 36
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1336792",
+    "headline": "What Germany’s ‘school cone’ tradition can teach us about childhood literacy",
+    "source": "PublicSource",
+    "date": "2026-08-28",
+    "url": "https://www.publicsource.org/german-tradition-pittsburgh-early-childhood-literacy/",
+    "summary": "As reading rates plummet, Pittsburgh needs concerted investment in improving literacy for our youngest children. The post What Germany’s ‘school cone’ tradition can teach us about childhood literacy appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "PLUM"
+    ],
+    "category": "Education",
+    "id": 46
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260827shaun-scott-homicide-trial-maleek",
     "headline": "Wilkinsburg man already found guilty of one 2022 murder convicted in second case",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +158,7 @@
       "WILKINSBURG"
     ],
     "category": "General",
-    "id": 26
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260827jerry-sandusky-penn-state-football-priso",
@@ -21,7 +169,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Infrastructure/Transit",
-    "id": 27
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260827steel-center-technical-school-reopen",
@@ -32,7 +180,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 28
+    "id": 39
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomaemusic20260827forever-young-bob-dylan-documentary-joe-gr",
+    "headline": "Documentary captures Bob Dylan tribute by Joe Grushecky and Billy Price",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-08-27",
+    "url": "https://www.post-gazette.com/ae/music/2026/08/27/forever-young-bob-dylan-documentary-joe-grushecky-billy-price-lindsay-theater/stories/202608270049",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260827puc-complaint-sharon-r",
@@ -43,7 +202,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260827crosstown-boulevard-cap-park-interstate-down",
@@ -54,7 +213,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260827ohio-economic-development-jobs-cleveland",
@@ -68,7 +227,7 @@
       "OHIO"
     ],
     "category": "General",
-    "id": 31
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260827artist-josh-hoffman-plein-air-paintin",
@@ -79,7 +238,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336811",
@@ -93,141 +252,18 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 46
+    "id": 47
   },
   {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260826penn-hills-homicide-eugene-cooper",
-    "headline": "Allegheny County police searching for ‘armed and dangerous’ suspect in Penn Hills homicide",
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260826lancaster-pennsylvania-measles-outbreak",
+    "headline": "In Lancaster, some saw Pennsylvania’s deadly measles outbreak coming as opinions on vaccines shifted",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/26/penn-hills-homicide-eugene-cooper/stories/202608260056",
-    "summary": null,
-    "geographicTags": [
-      "PENN HILLS",
-      "ALLEGHENY"
-    ],
-    "category": "Public Safety",
-    "id": 33
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260826capos-east-carson-street-injuncti",
-    "headline": "Zappala to troubled South Side bar: Clean up or shut down",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/08/26/capos-east-carson-street-injunction-closure/stories/202608260054",
-    "summary": null,
-    "geographicTags": [
-      "South Side",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 34
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260826college-student-killed-police-pennsylvan",
-    "headline": "Father says college student was killed by police near Philadelphia after he went to wrong house",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/state/2026/08/26/college-student-killed-police-pennsylvania-wrong-house-philadelphia/stories/202608260052",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 35
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260826pennsylvania-measles-outbreak-westmorel",
-    "headline": "Pa. reports nearly 100 new measles cases in past week, including the first in Westmoreland County",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/health/2026/08/26/pennsylvania-measles-outbreak-westmoreland-county/stories/202608260050",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 36
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260826first-commonwealth-bank-union-",
-    "headline": "As some companies downsize in Downtown, First Commonwealth Bank renews lease at Union Trust Building",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/business/development/2026/08/26/first-commonwealth-bank-union-trust-building/stories/202608250042",
-    "summary": null,
-    "geographicTags": [
-      "Downtown",
-      "PITTSBURGH"
-    ],
-    "category": "Development",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260826pennsylvania-measles-outbreakstories202",
-    "headline": "What to know about the Pennsylvania measles outbreak and keeping yourself safe",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/health/2026/08/26/pennsylvania-measles-outbreak/stories/202608260040",
+    "url": "https://www.post-gazette.com/news/health/2026/08/26/lancaster-pennsylvania-measles-outbreak/stories/202608260057",
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260826vaccines-public-health-measles-investigation",
-    "headline": "Letter to the editor: Grateful for vaccines",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/local/2026/08/26/vaccines-public-health-measles-investigation-pennsylvania/stories/202608260051",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260826penn-state-branch-campus-dubois-clea",
-    "headline": "A rural community welcomes Penn State students back for the last time",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/education/2026/08/26/penn-state-branch-campus-dubois-clearfield/stories/202608250055",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260826measles-allegheny-county-pennsylvaniast",
-    "headline": "What Pittsburgh-area physicians and hospital systems are advising after Pa. reported 2 measles deaths",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/health/2026/08/26/measles-allegheny-county-pennsylvania/stories/202608260035",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260826bill-hillgrove-pittsburgh-surgerystorie",
-    "headline": "Legendary Pittsburgh broadcaster Bill Hillgrove rebuilds after double-bypass surgery",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/news/health/2026/08/26/bill-hillgrove-pittsburgh-surgery/stories/202608300031",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Development",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260826pittsburgh-firefighters-girls-fire-ca",
-    "headline": "‘Girls on Fire’: This camp shows teens what it takes to be a firefighter",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-26",
-    "url": "https://www.post-gazette.com/life/goodness/2026/08/26/pittsburgh-firefighters-girls-fire-camp/stories/202609060002",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 43
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1316546",
@@ -240,7 +276,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336653",
@@ -254,31 +290,7 @@
       "ALLEGHENY"
     ],
     "category": "General",
-    "id": 48
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260825pennsylvania-measles-deaths-lancaster-c",
-    "headline": "‘It’s all hands on deck’ as Pennsylvania records first 2 measles deaths in more than 3 decades",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-25",
-    "url": "https://www.post-gazette.com/news/health/2026/08/25/pennsylvania-measles-deaths-lancaster-county/stories/202608250056",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsenvironment20260825allegheny-county-council-data-cent",
-    "headline": "Allegheny County Council proposes bill to ban data centers from using county property",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-08-25",
-    "url": "https://www.post-gazette.com/news/environment/2026/08/25/allegheny-county-council-data-centers-ban/stories/202608250051",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 45
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336774",
@@ -291,7 +303,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336649",
@@ -304,7 +316,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336744",
@@ -318,7 +330,7 @@
       "SPRINGDALE"
     ],
     "category": "Public Safety",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336537",
@@ -331,20 +343,6 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 52
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336516",
-    "headline": "How anti-SNAP rhetoric is doing real damage",
-    "source": "PublicSource",
-    "date": "2026-08-21",
-    "url": "https://www.publicsource.org/snap-restrictions-hurt-allegheny-county-households/",
-    "summary": "Since the “One Big Beautiful Bill” imposed new restrictions on SNAP enrollment last summer, some 19,000 in Allegheny County have dropped off the program. Most are working households struggling to make ends meet. The post How anti-SNAP rhetoric is doing real damage appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "ALLEGHENY"
-    ],
-    "category": "Government",
     "id": 53
   },
   {
