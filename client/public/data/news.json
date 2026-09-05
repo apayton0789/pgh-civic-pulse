@@ -1,7 +1,77 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlocalregion20260905steel-city-youth-football-league-fight",
+    "headline": "Pittsburgh area youth football league hands down punishments following coaches' brawl",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-05",
+    "url": "https://www.post-gazette.com/local/region/2026/09/05/steel-city-youth-football-league-fight-punishment/stories/202609050038",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260905pennsylvania-measles-outbreak-early-vac",
+    "headline": "At the center of Pa.’s measles outbreak, those closest to the most vulnerable feel ‘helpless’",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-05",
+    "url": "https://www.post-gazette.com/news/health/2026/09/05/pennsylvania-measles-outbreak-early-vaccinations/stories/202609040045",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260904jerry-sandusky-sex-abuse-penn-state-foot",
+    "headline": "Jerry Sandusky defense team says plan to drop victim’s sex abuse recantation is strategic",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-04",
+    "url": "https://www.post-gazette.com/news/state/2026/09/04/jerry-sandusky-sex-abuse-penn-state-football/stories/202609040068",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Infrastructure/Transit",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260904pittsburgh-finances-o-connor-ga",
+    "headline": "'In the dark': How secret spending decisions left Pittsburgh's finances on the brink of a crisis",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-04",
+    "url": "https://www.post-gazette.com/news/politics-local/2026/09/04/pittsburgh-finances-o-connor-gainey/stories/202609040058",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Government/Budget",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260904union-labor-day-homer-city-ama",
+    "headline": "Homer City plant’s redevelopment now fueled by 1,800 contractors and tradespeople",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-04",
+    "url": "https://www.post-gazette.com/business/powersource/2026/09/04/union-labor-day-homer-city-amazon-data-center-workforce/stories/202609040054",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Development",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260904fetterman-report-disgrace-penns",
+    "headline": "Pa. Dems blast Sen. Fetterman as a ‘disgrace’ and ‘pathetic’ following scathing report",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-04",
+    "url": "https://www.post-gazette.com/news/politics-state/2026/09/04/fetterman-report-disgrace-pennsylvania-democrats/stories/202609040048",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 31
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260904autonomy-pittsburgh-center-of-th",
-    "headline": "Tech leaders to pitch Pittsburgh as the 'center of the universe' for autonomy during fed transportation visits",
+    "headline": "Tech leaders to pitch Pittsburgh as the ‘center of the universe’ for autonomy during fed transportation visits",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-09-04",
     "url": "https://www.post-gazette.com/business/tech-news/2026/09/04/autonomy-pittsburgh-center-of-the-universe-for-autonomy-national-highway-traffic/stories/202609030045",
@@ -10,7 +80,7 @@
       "PITTSBURGH"
     ],
     "category": "Business",
-    "id": 26
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260904pitt-student-beats-cancer-in-8-months-s",
@@ -21,7 +91,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260904sheriff-kevin-kraus-allegheny-cou",
@@ -34,18 +104,20 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 28
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260904weather-pittsburgh-severe-storms-",
-    "headline": "More severe weather is expected in southwestern Pa. as closings and cancellations roll in",
+    "headline": "Flood and thunderstorm watches called off as Pittsburgh area gets a break following a '1 in 100 year event'",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-09-04",
     "url": "https://www.post-gazette.com/news/weather-news/2026/09/04/weather-pittsburgh-severe-storms-sept-4/stories/202609040030",
     "summary": null,
-    "geographicTags": [],
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
     "category": "General",
-    "id": 29
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260904buying-here-victorian-house-ingram",
@@ -56,7 +128,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260903pittsburgh-weather-thunderstorms-",
@@ -70,7 +142,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 31
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337010",
@@ -107,7 +179,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260903highmark-health-fire-trucks-pit",
@@ -120,7 +192,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 33
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260903godfather-state-college-agostino-abbatie",
@@ -131,7 +203,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 34
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260903ahn-heritage-valley-nu",
@@ -144,7 +216,7 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 35
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260903orlando-williams-philip-griffin-h",
@@ -158,7 +230,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 36
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260903bill-king-pitt-professor-informatio",
@@ -169,7 +241,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260903nonprofit-economy-new-sun-rising-riverwi",
@@ -182,7 +254,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260903queen-for-a-day-mary-gray-twilight-wi",
@@ -193,21 +265,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifefood20260903second-story-spirits-lawrencevillestories",
-    "headline": "Second Story Spirits bringing craft cordials and a new bar to Lawrenceville",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/life/food/2026/09/03/second-story-spirits-lawrenceville/stories/202608270050",
-    "summary": null,
-    "geographicTags": [
-      "Lawrenceville",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 40
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336993",
@@ -223,6 +281,20 @@
     "id": 48
   },
   {
+    "externalId": "rss-httpswwwpublicsourceorgp1335073",
+    "headline": "Open call: Turn your curiosity about people and places into a zine",
+    "source": "PublicSource",
+    "date": "2026-09-03",
+    "url": "https://www.publicsource.org/open-call-for-pittsburgh-zines/",
+    "summary": "Your zine could end up on display at the Children’s Museum of Pittsburgh and Carnegie Library of Pittsburgh or published by Public Source. The post Open call: Turn your curiosity about people and places into a zine appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "CARNEGIE"
+    ],
+    "category": "General",
+    "id": 49
+  },
+  {
     "externalId": "rss-httpswwwpublicsourceorgp1336941",
     "headline": "PRT’s bus route ‘refresh’ could have short shelf life, unless state steps up",
     "source": "PublicSource",
@@ -233,64 +305,7 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 49
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260902oconnor-pittsburgh-budget-defic",
-    "headline": "‘We are sounding the alarm’: Mayor says the city’s financial picture is far more dire than previously known",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-02",
-    "url": "https://www.post-gazette.com/news/politics-local/2026/09/02/oconnor-pittsburgh-budget-deficit-projection/stories/202609020077",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260902daniel-kelly-dorian-serrano-nekye",
-    "headline": "Mother details ‘unimaginable’ pain of losing her son as Clairton man pleads guilty to 2 murders",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-02",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/09/02/daniel-kelly-dorian-serrano-nekye-smith-pitcairn-montour-trail/stories/202609020061",
-    "summary": null,
-    "geographicTags": [
-      "CLAIRTON"
-    ],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260902pa-measles-outbreak-updatestories202609",
-    "headline": "Measles cases in Pa. surpass 500, second-highest in the nation",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-02",
-    "url": "https://www.post-gazette.com/news/health/2026/09/02/pa-measles-outbreak-update/stories/202609020065",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260902youth-coaches-suspended-brawl-football-game-",
-    "headline": "Area youth coaches suspended after viral video shows brawl at football game",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-02",
-    "url": "https://www.post-gazette.com/local/2026/09/02/youth-coaches-suspended-brawl-football-game-carlynton-keystone-oaks/stories/202609020059",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government/Budget",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260902penn-state-drug-case-cocaine-state-colle",
-    "headline": "Judge, prosecutor bat down ‘judicial impropriety’ concerns by Penn State drug case defendant",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-02",
-    "url": "https://www.post-gazette.com/news/state/2026/09/02/penn-state-drug-case-cocaine-state-college/stories/202609020058",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 45
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336915",
@@ -303,7 +318,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336853",
@@ -318,7 +333,7 @@
       "WALL"
     ],
     "category": "Development",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336887",
@@ -331,7 +346,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336720",
@@ -344,7 +359,7 @@
       "PITTSBURGH"
     ],
     "category": "Development/Housing",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336808",
@@ -358,7 +373,7 @@
       "FORWARD"
     ],
     "category": "General",
-    "id": 54
+    "id": 55
   },
   {
     "externalId": "news_1",
