@@ -1,5 +1,67 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260906measles-outbreak-pennsylvania-lancaster",
+    "headline": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-06",
+    "url": "https://www.post-gazette.com/news/health/2026/09/06/measles-outbreak-pennsylvania-lancaster-county-mennonite-amish/stories/202609040042",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260906labor-day-closings-pittsburghstories2026",
+    "headline": "Labor Day closings 2026",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-06",
+    "url": "https://www.post-gazette.com/local/city/2026/09/06/labor-day-closings-pittsburgh/stories/202609040044",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalsouth20260905north-braddock-man-shot-domestic-distur",
+    "headline": "North Braddock man shot in domestic disturbance",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-05",
+    "url": "https://www.post-gazette.com/local/south/2026/09/05/north-braddock-man-shot-domestic-disturbance/stories/202609050045",
+    "summary": null,
+    "geographicTags": [
+      "BRADDOCK",
+      "NORTH BRADDOCK"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260905pittsburgh-labor-day-festivals-ribs-soul",
+    "headline": "Downtown and on the North Shore, thousands celebrate the end-of-summer festivals, the start of football season — or maybe just dry weather",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-05",
+    "url": "https://www.post-gazette.com/local/city/2026/09/05/pittsburgh-labor-day-festivals-ribs-soul-food-pitt-football/stories/202609050044",
+    "summary": null,
+    "geographicTags": [
+      "Downtown",
+      "North Side",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260905storm-road-closures-penndot-wes",
+    "headline": "PennDOT announces parts of roads in Westmoreland, Washington counties are closed after storms",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-05",
+    "url": "https://www.post-gazette.com/news/transportation/2026/09/05/storm-road-closures-penndot-westmoreland-washington-county/stories/202609050039",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocalregion20260905steel-city-youth-football-league-fight",
     "headline": "Pittsburgh area youth football league hands down punishments following coaches' brawl",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +72,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 26
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260905pennsylvania-measles-outbreak-early-vac",
@@ -21,7 +83,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260904jerry-sandusky-sex-abuse-penn-state-foot",
@@ -32,7 +94,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Infrastructure/Transit",
-    "id": 28
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260904pittsburgh-finances-o-connor-ga",
@@ -45,7 +107,7 @@
       "PITTSBURGH"
     ],
     "category": "Government/Budget",
-    "id": 29
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260904union-labor-day-homer-city-ama",
@@ -56,7 +118,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Development",
-    "id": 30
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260904fetterman-report-disgrace-penns",
@@ -67,7 +129,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260904autonomy-pittsburgh-center-of-th",
@@ -80,7 +142,7 @@
       "PITTSBURGH"
     ],
     "category": "Business",
-    "id": 32
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260904pitt-student-beats-cancer-in-8-months-s",
@@ -91,7 +153,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260904sheriff-kevin-kraus-allegheny-cou",
@@ -104,7 +166,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 34
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260904weather-pittsburgh-severe-storms-",
@@ -117,7 +179,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 35
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260904buying-here-victorian-house-ingram",
@@ -128,7 +190,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260903pittsburgh-weather-thunderstorms-",
@@ -142,7 +204,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 37
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337010",
@@ -179,7 +241,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 38
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260903highmark-health-fire-trucks-pit",
@@ -192,7 +254,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 39
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260903godfather-state-college-agostino-abbatie",
@@ -203,68 +265,6 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260903ahn-heritage-valley-nu",
-    "headline": "Court filing: Pittsburgh-area nurse investigated for suspected narcotic abuse",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/business/healthcare-business/2026/09/03/ahn-heritage-valley-nurse-nolan-d-chismire/stories/202609030039",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Infrastructure/Transit",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260903orlando-williams-philip-griffin-h",
-    "headline": "Police arrest suspect in 2025 Hill District murder",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/09/03/orlando-williams-philip-griffin-homicide/stories/202609030049",
-    "summary": null,
-    "geographicTags": [
-      "Hill District",
-      "PITTSBURGH"
-    ],
-    "category": "Public Safety",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260903bill-king-pitt-professor-informatio",
-    "headline": "Obituary: William Richard ‘Bill’ King, Pitt professor and early leader in information systems",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/news/obituaries/2026/09/03/bill-king-pitt-professor-information-systems/stories/202609020016",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260903nonprofit-economy-new-sun-rising-riverwi",
-    "headline": "Brandon McGinley: Can Pittsburgh be saved by the (non)profit motive?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/local/city/2026/09/03/nonprofit-economy-new-sun-rising-riverwise-wolovich/stories/202609030002",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260903queen-for-a-day-mary-gray-twilight-wi",
-    "headline": "Retired nurse is ‘Queen for a Day’ as she celebrates her 101st birthday",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/life/goodness/2026/09/03/queen-for-a-day-mary-gray-twilight-wish-foundation/stories/202609030003",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
     "id": 45
   },
   {
@@ -360,20 +360,6 @@
     ],
     "category": "Development/Housing",
     "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336808",
-    "headline": "The library was there when she needed it. Now, she’s paying it forward.",
-    "source": "PublicSource",
-    "date": "2026-08-30",
-    "url": "https://www.publicsource.org/love-your-library-september-allegheny-county-carnegie-library-pittsburgh-donate-reading/",
-    "summary": "At first, it was just a fun experiment. In 2024, avid reader Brittany Mihalko Bozak started tracking how much money she was saving by borrowing books from the library instead of purchasing them for her personal collection.&#160; The number kept climbing.&#160; By the fall, Brittany realized she&#8217;d saved hundreds of dollars. Eventually, those savings would [&#8230;] The post The library was there when she needed it. Now, she’s paying it forward. appeared first on Pittsburgh&#039;s Public Sou",
-    "geographicTags": [
-      "PITTSBURGH",
-      "FORWARD"
-    ],
-    "category": "General",
-    "id": 55
   },
   {
     "externalId": "news_1",
