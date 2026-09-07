@@ -1,5 +1,64 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260907people-on-the-move-9-7-26",
+    "headline": "People on the Move: 9/7/26",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-07",
+    "url": "https://www.post-gazette.com/business/career-workplace/2026/09/07/people-on-the-move-9-7-26/stories/202609060032",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260907tradtional-latin-mass-bishop-eckman-titus-al",
+    "headline": "Letter to the editor: Mass confusion",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-07",
+    "url": "https://www.post-gazette.com/local/2026/09/07/tradtional-latin-mass-bishop-eckman-titus-aliquippa/stories/202609070002",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260907pittsburgh-deutschtown-east-oh",
+    "headline": "East Ohio Street is changing, even booming. Residents and business owners hope the new can lift all",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-07",
+    "url": "https://www.post-gazette.com/business/development/2026/09/07/pittsburgh-deutschtown-east-ohio-street-revival-gentrification/stories/202609020037",
+    "summary": null,
+    "geographicTags": [
+      "OHIO"
+    ],
+    "category": "Infrastructure/Transit",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewssept1120260907sept-11-2001-attacks-journalists-memori",
+    "headline": "25 years later, journalists reflect on the ‘responsibility to tell the news’ during the 9/11 attacks",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-07",
+    "url": "https://www.post-gazette.com/news/sept11/2026/09/07/sept-11-2001-attacks-journalists-memories-coverage/stories/202609060001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalwashington20260906pennsylvania-trolley-museum-street",
+    "headline": "Off the Beaten Path: Pittsburgh's streetcar past keeps rolling at Pennsylvania Trolley Museum",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-06",
+    "url": "https://www.post-gazette.com/local/washington/2026/09/06/pennsylvania-trolley-museum-streetcar-washington-pennsylvania/stories/202609060087",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 30
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260906measles-outbreak-pennsylvania-lancaster",
     "headline": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +67,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260906labor-day-closings-pittsburghstories2026",
@@ -19,7 +78,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalsouth20260905north-braddock-man-shot-domestic-distur",
@@ -33,7 +92,7 @@
       "NORTH BRADDOCK"
     ],
     "category": "General",
-    "id": 28
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260905pittsburgh-labor-day-festivals-ribs-soul",
@@ -48,7 +107,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 29
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260905storm-road-closures-penndot-wes",
@@ -59,7 +118,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalregion20260905steel-city-youth-football-league-fight",
@@ -72,7 +131,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 31
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260905pennsylvania-measles-outbreak-early-vac",
@@ -83,7 +142,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20260904jerry-sandusky-sex-abuse-penn-state-foot",
@@ -94,7 +153,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Infrastructure/Transit",
-    "id": 33
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260904pittsburgh-finances-o-connor-ga",
@@ -107,7 +166,7 @@
       "PITTSBURGH"
     ],
     "category": "Government/Budget",
-    "id": 34
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260904union-labor-day-homer-city-ama",
@@ -118,7 +177,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Development",
-    "id": 35
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260904fetterman-report-disgrace-penns",
@@ -129,7 +188,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260904autonomy-pittsburgh-center-of-th",
@@ -142,7 +201,7 @@
       "PITTSBURGH"
     ],
     "category": "Business",
-    "id": 37
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260904pitt-student-beats-cancer-in-8-months-s",
@@ -153,7 +212,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 38
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260904sheriff-kevin-kraus-allegheny-cou",
@@ -166,7 +225,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 39
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260904weather-pittsburgh-severe-storms-",
@@ -179,32 +238,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260904buying-here-victorian-house-ingram",
-    "headline": "Buying Here: Renovated 1887 house in Ingram is priced at $399,900",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-04",
-    "url": "https://www.post-gazette.com/life/buying-here/2026/09/04/buying-here-victorian-house-ingram-flip-hodgson-ave/stories/202609040002",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260903pittsburgh-weather-thunderstorms-",
-    "headline": "Severe storms bring flooding, downed trees and power lines across Pittsburgh region",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-04",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/09/03/pittsburgh-weather-thunderstorms-flooding/stories/202609030066",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH",
-      "ROSS"
-    ],
-    "category": "General",
-    "id": 42
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337010",
@@ -231,41 +265,6 @@
     ],
     "category": "General",
     "id": 47
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260903jerry-sandusky-state-college-penn-state-",
-    "headline": "Jerry Sandusky's lawyers want to put off accuser's recantation hearing in a bid for a new trial",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/news/state/2026/09/03/jerry-sandusky-state-college-penn-state-football/stories/202609030064",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260903highmark-health-fire-trucks-pit",
-    "headline": "Pittsburgh will use Highmark Health donation to buy 13 new fire trucks",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/news/politics-local/2026/09/03/highmark-health-fire-trucks-pittsburgh-nonprofits/stories/202609030052",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Public Safety",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260903godfather-state-college-agostino-abbatie",
-    "headline": "PSU drug case witness: Self-described ‘Godfather’ of State College was a high-stakes gambler",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-03",
-    "url": "https://www.post-gazette.com/news/state/2026/09/03/godfather-state-college-agostino-abbatiello-penn-state-cocaine/stories/202609030051",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336993",
@@ -347,19 +346,6 @@
     ],
     "category": "Education",
     "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336720",
-    "headline": "The risk of eviction may be higher than you think. Here’s what you should know.",
-    "source": "PublicSource",
-    "date": "2026-08-31",
-    "url": "https://www.publicsource.org/eviction-in-pennsylvania-what-you-need-to-know/",
-    "summary": "Last year, landlords statewide filed more than 100,000 cases that can lead to eviction, including nearly 13,600 in and around Pittsburgh. For struggling tenants, asking the right questions, getting accurate answers and tapping resources can keep a bad situation from getting worse. The post The risk of eviction may be higher than you think. Here’s what you should know. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Development/Housing",
-    "id": 54
   },
   {
     "externalId": "news_1",
