@@ -1,5 +1,177 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260910prt-hearing-bus-route-changesst",
+    "headline": "Advocates air concerns after final meeting on proposed PRT bus route changes",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-10",
+    "url": "https://www.post-gazette.com/news/transportation/2026/09/10/prt-hearing-bus-route-changes/stories/202609100046",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Infrastructure/Transit",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260910project-phoenix-shippingpoint-da",
+    "headline": "A massive data center breaks ground near former coal plant campus in Beaver County",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-10",
+    "url": "https://www.post-gazette.com/business/tech-news/2026/09/10/project-phoenix-shippingpoint-data-center-beaver-county-aligned/stories/202609100040",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Government",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260910data-center-pennsylvania-jobsstories20260910",
+    "headline": "Letter to the editor: Data centers are no good",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-10",
+    "url": "https://www.post-gazette.com/local/2026/09/10/data-center-pennsylvania-jobs/stories/202609100001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsnation20260910fbi-pittsburgh-flight-93-artifactsstori",
+    "headline": "At FBI Pittsburgh, Flight 93 artifacts are a solemn reminder ahead of 9/11 commemoration",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-10",
+    "url": "https://www.post-gazette.com/news/nation/2026/09/10/fbi-pittsburgh-flight-93-artifacts/stories/202609090058",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomliferecreation20260910striped-skunk-sisters-national-avia",
+    "headline": "Striped skunk sisters make their debut at National Aviary",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-10",
+    "url": "https://www.post-gazette.com/life/recreation/2026/09/10/striped-skunk-sisters-national-aviary-pittsburgh/stories/202609040063",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20260909fetterman-gop-midterm-conventi",
+    "headline": "Sen. John Fetterman speaks via video at GOP midterm convention",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-10",
+    "url": "https://www.post-gazette.com/news/politics-nation/2026/09/09/fetterman-gop-midterm-convention/stories/202609090072",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337070",
+    "headline": "You may be trusting your pet’s health to private equity — and not even know it",
+    "source": "PublicSource",
+    "date": "2026-09-10",
+    "url": "https://www.publicsource.org/veterinarians-vets-private-equity-pittsburgh/",
+    "summary": "Vet care costs have far outpaced inflation over the last 10 years, as corporate owners consolidate practices. Do profit incentives also impact care? The post You may be trusting your pet’s health to private equity — and not even know it appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Health",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260909pittsburgh-colleges-free-speech-fire",
+    "headline": "How did Pittsburgh colleges fare in this year's free speech ranking?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-09",
+    "url": "https://www.post-gazette.com/news/education/2026/09/09/pittsburgh-colleges-free-speech-fire-pitt-cmu-duquesne/stories/202609090067",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH",
+      "RANKIN"
+    ],
+    "category": "General",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewssocial-services20260909allegheny-county-addiction-rec",
+    "headline": "Allegheny County unveils plan to expand addiction treatment and care coordination",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-09",
+    "url": "https://www.post-gazette.com/news/social-services/2026/09/09/allegheny-county-addiction-recovery-treatment/stories/202609090064",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20260909pennsylvania-coroner-infants-measles-out",
+    "headline": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-09",
+    "url": "https://www.post-gazette.com/news/state/2026/09/09/pennsylvania-coroner-infants-measles-outbreak/stories/202609090070",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 34
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260909upmc-union-bargaining-",
+    "headline": "UPMC to double length of parental leave in 2027",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-09",
+    "url": "https://www.post-gazette.com/business/healthcare-business/2026/09/09/upmc-union-bargaining-parental-leave/stories/202609090063",
+    "summary": null,
+    "geographicTags": [
+      "Oakland",
+      "PITTSBURGH"
+    ],
+    "category": "Development/Housing",
+    "id": 35
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260909venetoulis-institute-post-gazette-commun",
+    "headline": "Brandon McGinley: Post-Gazette listening tour will give Pittsburghers the mic",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-09",
+    "url": "https://www.post-gazette.com/local/city/2026/09/09/venetoulis-institute-post-gazette-community-session/stories/202609090016",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 36
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifefood20260909new-food-acrisure-stadium-pittsburgh-stee",
+    "headline": "Tuck into a Pittsburgh twist on pigs in a blanket and other new eats at Acrisure Stadium",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-09",
+    "url": "https://www.post-gazette.com/life/food/2026/09/09/new-food-acrisure-stadium-pittsburgh-steelers/stories/202609090041",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 37
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260909rialto-street-lowrie-street-bri",
+    "headline": "Rialto Street, one of the steepest streets in Pittsburgh, to close for two months for work on Lowrie Street Bridge",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-09",
+    "url": "https://www.post-gazette.com/news/transportation/2026/09/09/rialto-street-lowrie-street-bridge-abutments/stories/202609090043",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 38
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260909schenley-park-oconnor-golf-course-first-tees",
     "headline": "Letter to the editor: Don’t shrink Schenley",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +180,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifedrinks20260909ready-to-drink-cocktails-lucky-sign-wig",
@@ -19,7 +191,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260908homewood-homicide-pittsburghstori",
@@ -33,7 +205,36 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 41
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337182",
+    "headline": "Las Palmas owner’s son: Federal agents demand he ‘get out of the way’ as Beechview immigration enforcement heightens",
+    "source": "PublicSource",
+    "date": "2026-09-09",
+    "url": "https://www.publicsource.org/beechview-las-palmas-ice-enforcement-continues/",
+    "summary": "A Tuesday encounter between apparent federal agents and Latino Pittsburgh’s signature grocery store brought renewed tensions Wednesday, scaring customers but bringing out advocates for immigrants. The post Las Palmas owner’s son: Federal agents demand he ‘get out of the way’ as Beechview immigration enforcement heightens appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "Beechview",
+      "PITTSBURGH"
+    ],
+    "category": "Development/Housing",
+    "id": 47
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337126",
+    "headline": "ICE agreement nixed by Stowe commissioners — again",
+    "source": "PublicSource",
+    "date": "2026-09-09",
+    "url": "https://www.publicsource.org/stowe-township-287g-ice-agreement-rescinded/",
+    "summary": "The Ohio Valley township northwest of Pittsburgh has had an on-again, off-again partnership with federal immigration enforcement, but has participated in no ICE operations and faced public opposition. The post ICE agreement nixed by Stowe commissioners — again appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "STOWE",
+      "OHIO"
+    ],
+    "category": "General",
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337020",
@@ -47,7 +248,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 46
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260908arson-jeffrey-rotunda-north-sides",
@@ -60,7 +261,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 29
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifedining20260908tinas-bar-bloomfield-vegetarian-menusto",
@@ -71,7 +272,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337035",
@@ -84,7 +285,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 47
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337061",
@@ -98,7 +299,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 48
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337038",
@@ -111,7 +312,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 49
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336927",
@@ -124,7 +325,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 50
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomliferecreation20260907labor-day-point-state-park-pittsbur",
@@ -135,7 +336,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260907labor-day-unions-workforce-9-11-paid-par",
@@ -148,162 +349,6 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 32
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260907people-on-the-move-9-7-26",
-    "headline": "People on the Move: 9/7/26",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-07",
-    "url": "https://www.post-gazette.com/business/career-workplace/2026/09/07/people-on-the-move-9-7-26/stories/202609060032",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 33
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260907tradtional-latin-mass-bishop-eckman-titus-al",
-    "headline": "Letter to the editor: Mass confusion",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-07",
-    "url": "https://www.post-gazette.com/local/2026/09/07/tradtional-latin-mass-bishop-eckman-titus-aliquippa/stories/202609070002",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 34
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260907ai-automatic-license-plate-read",
-    "headline": "Pa. lawmakers and police tussle over Flock cameras as use of the technology grows",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-07",
-    "url": "https://www.post-gazette.com/news/politics-state/2026/09/07/ai-automatic-license-plate-readers-cameras-surveillance-police-pennsylvania/stories/202609020083",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 35
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20260907pittsburgh-deutschtown-east-oh",
-    "headline": "East Ohio Street is changing, even booming. Residents and business owners hope the new can lift all",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-07",
-    "url": "https://www.post-gazette.com/business/development/2026/09/07/pittsburgh-deutschtown-east-ohio-street-revival-gentrification/stories/202609020037",
-    "summary": null,
-    "geographicTags": [
-      "OHIO"
-    ],
-    "category": "Infrastructure/Transit",
-    "id": 36
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewssept1120260907sept-11-2001-attacks-journalists-memori",
-    "headline": "25 years later, journalists reflect on the ‘responsibility to tell the news’ during the 9/11 attacks",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-07",
-    "url": "https://www.post-gazette.com/news/sept11/2026/09/07/sept-11-2001-attacks-journalists-memories-coverage/stories/202609060001",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalwashington20260906pennsylvania-trolley-museum-street",
-    "headline": "Off the Beaten Path: Pittsburgh’s streetcar past keeps rolling at Pennsylvania Trolley Museum",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-06",
-    "url": "https://www.post-gazette.com/local/washington/2026/09/06/pennsylvania-trolley-museum-streetcar-washington-pennsylvania/stories/202609060087",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260906measles-outbreak-pennsylvania-lancaster",
-    "headline": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-06",
-    "url": "https://www.post-gazette.com/news/health/2026/09/06/measles-outbreak-pennsylvania-lancaster-county-mennonite-amish/stories/202609040042",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260906labor-day-closings-pittsburghstories2026",
-    "headline": "Labor Day closings 2026",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-06",
-    "url": "https://www.post-gazette.com/local/city/2026/09/06/labor-day-closings-pittsburgh/stories/202609040044",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalsouth20260905north-braddock-man-shot-domestic-distur",
-    "headline": "North Braddock man shot in domestic disturbance",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-05",
-    "url": "https://www.post-gazette.com/local/south/2026/09/05/north-braddock-man-shot-domestic-disturbance/stories/202609050045",
-    "summary": null,
-    "geographicTags": [
-      "BRADDOCK",
-      "NORTH BRADDOCK"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260905pittsburgh-labor-day-festivals-ribs-soul",
-    "headline": "Downtown and on the North Shore, thousands celebrate the end-of-summer festivals, the start of football season — or maybe just dry weather",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-05",
-    "url": "https://www.post-gazette.com/local/city/2026/09/05/pittsburgh-labor-day-festivals-ribs-soul-food-pitt-football/stories/202609050044",
-    "summary": null,
-    "geographicTags": [
-      "Downtown",
-      "North Side",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260905storm-road-closures-penndot-wes",
-    "headline": "PennDOT announces parts of roads in Westmoreland, Washington counties are closed after storms",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-05",
-    "url": "https://www.post-gazette.com/news/transportation/2026/09/05/storm-road-closures-penndot-westmoreland-washington-county/stories/202609050039",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalregion20260905steel-city-youth-football-league-fight",
-    "headline": "Pittsburgh area youth football league hands down punishments following coaches' brawl",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-05",
-    "url": "https://www.post-gazette.com/local/region/2026/09/05/steel-city-youth-football-league-fight-punishment/stories/202609050038",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260905pennsylvania-measles-outbreak-early-vac",
-    "headline": "At the center of Pa.’s measles outbreak, those closest to the most vulnerable feel ‘helpless’",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-05",
-    "url": "https://www.post-gazette.com/news/health/2026/09/05/pennsylvania-measles-outbreak-early-vaccinations/stories/202609040045",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
     "id": 45
   },
   {
@@ -317,7 +362,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 51
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1336966",
@@ -330,46 +375,6 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 52
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336993",
-    "headline": "Upper Burrell residents decry transparency as data center progresses despite moratorium and a lawsuit",
-    "source": "PublicSource",
-    "date": "2026-09-03",
-    "url": "https://www.publicsource.org/upper-burrell-data-center-transparency-backlash/",
-    "summary": "Since passing a moratorium on new data center developments in May, Upper Burrell commissioners have approved a land development plan for TECfusions. The post Upper Burrell residents decry transparency as data center progresses despite moratorium and a lawsuit appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Development",
-    "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1335073",
-    "headline": "Open call: Turn your curiosity about people and places into a zine",
-    "source": "PublicSource",
-    "date": "2026-09-03",
-    "url": "https://www.publicsource.org/open-call-for-pittsburgh-zines/",
-    "summary": "Your zine could end up on display at the Children’s Museum of Pittsburgh and Carnegie Library of Pittsburgh or published by Public Source. The post Open call: Turn your curiosity about people and places into a zine appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "CARNEGIE"
-    ],
-    "category": "General",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1336941",
-    "headline": "PRT’s bus route ‘refresh’ could have short shelf life, unless state steps up",
-    "source": "PublicSource",
-    "date": "2026-09-03",
-    "url": "https://www.publicsource.org/prt-2028-service-cuts-funding-crisis/",
-    "summary": "“At the end of the day, the system needs investment from Harrisburg,\" said PRT Board member state Sen. Lindsey Williams, D-West View. \"We can’t run the system off ridership rates alone. It’s too expensive.” The post PRT’s bus route ‘refresh’ could have short shelf life, unless state steps up appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Infrastructure/Transit",
     "id": 55
   },
   {
