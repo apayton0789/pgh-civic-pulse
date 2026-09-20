@@ -1,175 +1,11 @@
 [
   {
-    "id": "news-26",
-    "headline": "Man in critical condition following shooting in Homestead",
-    "governmentLevel": "local",
-    "topicArea": "Public Safety",
-    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
-    "whatChanged": "Man in critical condition following shooting in Homestead",
-    "urgency": "high",
-    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "HOMESTEAD"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Man in critical condition following shooting in Homestead",
-        "sourceIds": [
-          "src-news-26"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-26",
-        "title": "Man in critical condition following shooting in Homestead",
-        "url": "https://www.post-gazette.com/news/crime-courts/2026/09/19/shooting-homestead-amity-street/stories/202609190040",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 8,
-    "urgencyScore": 8,
-    "localRelevance": 8,
-    "influenceability": 3,
-    "displayHeadline": "Man in critical condition following shooting in Homestead",
-    "oneLineSummary": "Man in critical condition following shooting in Homestead",
-    "categoryTag": "Public Safety",
-    "categoryColor": "#f97316",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-19",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/crime-courts/2026/09/19/shooting-homestead-amity-street/stories/202609190040",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
-    "date": "2026-09-19",
-    "relatedNewsId": 26,
-    "feedbackOpportunity": false
-  },
-  {
     "id": "news-46",
-    "headline": "A new grocer is moving into Squirrel Hill. Its rival says the deal isn’t kosher.",
-    "governmentLevel": "local",
-    "topicArea": "Infrastructure/Transit",
-    "whyItMatters": "This development affects the Infrastructure/Transit sector in Pittsburgh.",
-    "whatChanged": "What began as a deal to buy the neighborhood's signature kosher store ended without a sale — and the prospect of a rival business. A rabbinical tribunal is now tasked with finding resolution. The post A new grocer is moving into Squirrel Hill. Its rival says the deal isn’t kosher. appeared first on ",
-    "urgency": "medium",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "Squirrel Hill",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "What began as a deal to buy the neighborhood's signature kosher store ended without a sale — and the prospect of a rival business.",
-        "sourceIds": [
-          "src-news-46"
-        ]
-      },
-      {
-        "text": "A rabbinical tribunal is now tasked with finding resolution.",
-        "sourceIds": [
-          "src-news-46"
-        ]
-      },
-      {
-        "text": "The post A new grocer is moving into Squirrel Hill.",
-        "sourceIds": [
-          "src-news-46"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-46",
-        "title": "A new grocer is moving into Squirrel Hill. Its rival says the deal isn’t kosher.",
-        "url": "https://www.publicsource.org/squirrel-hill-kosher-jewish-community-pittsburgh-business/",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "What began as a deal to buy the neighborhood's signature kosher store ended without a sale — and the prospect of a rival business. A rabbinical tribunal is now tasked with finding resolution. The post"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 6,
-    "urgencyScore": 5,
-    "localRelevance": 6,
-    "influenceability": 5,
-    "displayHeadline": "A new grocer is moving into Squirrel Hill. Its rival says the deal isn’t kosher.",
-    "oneLineSummary": "What began as a deal to buy the neighborhood's signature kosher store ended without a sale — and the prospect of a rival",
-    "categoryTag": "Infrastructure/Transit",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "What began as a deal to buy the neighborhood's signature kosher store ended without a sale — and the",
-    "strongestSourceLabel": "PublicSource — 2026-09-18",
-    "strongestSourceUrl": "https://www.publicsource.org/squirrel-hill-kosher-jewish-community-pittsburgh-business/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 46,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-31",
-    "headline": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
-    "governmentLevel": "local",
-    "topicArea": "Government",
-    "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-    "whatChanged": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
-    "urgency": "high",
-    "actionNeeded": "Contact your elected officials if this policy affects you directly.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "ALLEGHENY"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
-        "sourceIds": [
-          "src-news-31"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-31",
-        "title": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
-        "url": "https://www.post-gazette.com/news/politics-local/2026/09/19/mike-embrescia-allegheny-county-party/stories/202609180060",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 7,
-    "urgencyScore": 6,
-    "localRelevance": 6,
-    "influenceability": 5,
-    "displayHeadline": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
-    "oneLineSummary": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
-    "categoryTag": "Government",
-    "categoryColor": "#f97316",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-19",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/politics-local/2026/09/19/mike-embrescia-allegheny-county-party/stories/202609180060",
-    "callToAction": "Contact your representative",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
-    "date": "2026-09-19",
-    "relatedNewsId": 31,
-    "feedbackOpportunity": true
-  },
-  {
-    "id": "news-47",
-    "headline": "Public Source at 15: Responding to big news in real time",
+    "headline": "Public Source at 15: Showing up in our communities",
     "governmentLevel": "local",
     "topicArea": "General",
     "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Responding to big news in real time appeared first on Pittsburgh&#039;s P",
+    "whatChanged": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Showing up in our communities appeared first on Pittsburgh&#039;s Public ",
     "urgency": "low",
     "actionNeeded": "Stay informed about this development.",
     "keyStakeholders": [
@@ -181,29 +17,29 @@
       {
         "text": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward.",
         "sourceIds": [
-          "src-news-47"
+          "src-news-46"
         ]
       },
       {
-        "text": "The post Public Source at 15: Responding to big news in real time appeared first on Pittsburgh&#039;s Public Source.",
+        "text": "The post Public Source at 15: Showing up in our communities appeared first on Pittsburgh&#039;s Public Source.",
         "sourceIds": [
-          "src-news-47"
+          "src-news-46"
         ]
       },
       {
         "text": "PublicSource is a nonprofit news organization serving the Pittsburgh region.",
         "sourceIds": [
-          "src-news-47"
+          "src-news-46"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-47",
-        "title": "Public Source at 15: Responding to big news in real time",
+        "id": "src-news-46",
+        "title": "Public Source at 15: Showing up in our communities",
         "url": "https://www.publicsource.org/public-source-at-15/",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The"
@@ -214,80 +50,17 @@
     "urgencyScore": 3,
     "localRelevance": 6,
     "influenceability": 3,
-    "displayHeadline": "Public Source at 15: Responding to big news in real time",
+    "displayHeadline": "Public Source at 15: Showing up in our communities",
     "oneLineSummary": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in t",
     "categoryTag": "General",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the worl",
-    "strongestSourceLabel": "PublicSource — 2026-09-18",
+    "strongestSourceLabel": "PublicSource — 2026-09-19",
     "strongestSourceUrl": "https://www.publicsource.org/public-source-at-15/",
     "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 47,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-48",
-    "headline": "I look fine, but dealing with chronic illness is my full-time job",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "I may never find a doctor who can make all of my illnesses disappear. Chronic illness rarely offers that kind of neat ending. But I have found people who remind me that healing isn't only measured by normal lab values. The post I look fine, but dealing with chronic illness is my full-time job appear",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "I may never find a doctor who can make all of my illnesses disappear.",
-        "sourceIds": [
-          "src-news-48"
-        ]
-      },
-      {
-        "text": "Chronic illness rarely offers that kind of neat ending.",
-        "sourceIds": [
-          "src-news-48"
-        ]
-      },
-      {
-        "text": "But I have found people who remind me that healing isn't only measured by normal lab values.",
-        "sourceIds": [
-          "src-news-48"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-48",
-        "title": "I look fine, but dealing with chronic illness is my full-time job",
-        "url": "https://www.publicsource.org/pots-long-covid-navigating-invisible-illnesses/",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "I may never find a doctor who can make all of my illnesses disappear. Chronic illness rarely offers that kind of neat ending. But I have found people who remind me that healing isn't only measured by "
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "I look fine, but dealing with chronic illness is my full-time job",
-    "oneLineSummary": "I may never find a doctor who can make all of my illnesses disappear. Chronic illness rarely offers that kind of neat en",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "I may never find a doctor who can make all of my illnesses disappear. Chronic illness rarely offers ",
-    "strongestSourceLabel": "PublicSource — 2026-09-18",
-    "strongestSourceUrl": "https://www.publicsource.org/pots-long-covid-navigating-invisible-illnesses/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 48,
+    "infographicCaption": "PublicSource — 2026-09-19",
+    "date": "2026-09-19",
+    "relatedNewsId": 46,
     "feedbackOpportunity": false
   },
   {
@@ -323,8 +96,8 @@
         "id": "src-dev-1",
         "title": "Kelly Street Rezoning",
         "url": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Proposed by URA; rezoning from R1D-L to UI; future multiunit residential building planned; requires Planning Commission and City Council hearings; Development Activities Meeting held with Homewood Com"
@@ -344,7 +117,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Kelly Street / Formosa Way (parcels 125-G-18 area)",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -381,8 +154,8 @@
         "id": "src-dev-2",
         "title": "Lower Hill District Housing RFP",
         "url": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "6.82 acres URA-owned land; public comment period open March 12 – April 7, 2026; URA Board vote on April 9, 2026; also includes Bedford Dwellings/Hill District mixed-income housing project (Trek Develo"
@@ -402,7 +175,7 @@
     "strongestSourceUrl": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
     "callToAction": "Stay informed",
     "infographicCaption": "Open for Comment — Lower Hill District, Block A and Block C",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-04-07"
   },
@@ -438,8 +211,8 @@
         "id": "src-dev-3",
         "title": "Pittsburgh Comprehensive Plan",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Two-year planning process; community-led engagement with consultant team; guided by 'Just Transition' and climate justice principles; covers 8 themes: welcoming community, safe city, youth, economic o"
@@ -459,7 +232,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -494,8 +267,8 @@
         "id": "src-dev-4",
         "title": "Implementing the Housing Needs Assessment – Zoning Reforms",
         "url": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Minimum lot size legislation 2025-1579 passed and in effect citywide; future phases include comprehensive residential zoning code overhaul; inclusionary zoning (IZ) overlay currently active in Lawrenc"
@@ -515,7 +288,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -550,8 +323,8 @@
         "id": "src-dev-5",
         "title": "Mayor O'Connor Permitting Process Reform & Zoning Code Overhaul",
         "url": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Announced March 9, 2026; executive order issued on mayor's first day requiring 60-day departmental review; first comprehensive zoning code rewrite in decades; Phase 1 actions being implemented Q1-Q2 2"
@@ -571,7 +344,7 @@
     "strongestSourceUrl": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -607,8 +380,8 @@
         "id": "src-dev-6",
         "title": "California Ave. Bridge Rehabilitation Project",
         "url": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Bridge built 1928; eligible for National Register of Historic Places (Criterion C); community meeting held July 24, 2025; federal FHWA and PennDOT District 11-0 cooperation; consultants: MS Consultant"
@@ -628,7 +401,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — California Avenue (Robert McAfee Bridge)",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -664,8 +437,8 @@
         "id": "src-dev-7",
         "title": "Frankstown Avenue Signal Improvements",
         "url": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Federal CMAQ grant of ~$4.3 million; construction began January 2026; 9 intersections in scope; part of 2022 Homewood Mobility Plan; DOMI lead; signal replacements at Murtland, Lang, Homewood, Collier"
@@ -685,7 +458,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Frankstown Avenue, Murtland Ave to Blackadore St",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -721,8 +494,8 @@
         "id": "src-dev-8",
         "title": "Liberty Avenue Highway Safety Improvement Project",
         "url": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "HSIP (Federal Highway Safety Improvement Program) funded; full signal replacement at 6 intersections; new signal at 27th St; RRFB conversion at 17th St; part of Strip District Mobility Plan; also coor"
@@ -742,7 +515,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Liberty Avenue, Strip District (17th St to 32nd St)",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -778,8 +551,8 @@
         "id": "src-dev-9",
         "title": "Brighton Heights, California & Termon Intersection Improvement",
         "url": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "9 crashes 2020-2024 (4 serious injury, 1 pedestrian injury); PRT Route 13 serves this intersection (~32 boardings/weekday); dominant crash type: 'angle' (turning/yielding behavior); project will produ"
@@ -799,7 +572,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Brighton Heights Blvd / California Ave / Termon Ave",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -835,8 +608,8 @@
         "id": "src-dev-10",
         "title": "Penn Plaza Block B (Pennley Park South)",
         "url": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Developer: LG Realty Advisors, Inc.; privately-owned development (City role is zoning compliance review and engagement facilitation); Block A (Whole Foods) completed 2022; Block C (Enright Park renova"
@@ -856,7 +629,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Penn Plaza site, East Liberty",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -892,8 +665,8 @@
         "id": "src-dev-11",
         "title": "Bloomfield Bridge Rehabilitation",
         "url": "https://engage.pittsburghpa.gov/bloomfield-bridge",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Largest deck-area bridge in Pittsburgh; spans East Busway and railroad lines; emergency maintenance (expansion joint seals) completed fall 2025; full rehabilitation in planning phase; DOMI lead; work "
@@ -913,7 +686,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/bloomfield-bridge",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Bloomfield Bridge (Bloomfield neighborhood)",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -949,8 +722,8 @@
         "id": "src-dev-12",
         "title": "Serpentine Drive Wall Repair & Access Conversion",
         "url": "https://engage.pittsburghpa.gov/serpentine-drive",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Wall collapsed in 2019; ~265 feet of masonry wall replacement/repair; architectural treatment to replicate original stone masonry aesthetics; proposes closure to motor vehicles permanently; 60-day pub"
@@ -970,7 +743,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/serpentine-drive",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Serpentine Drive, Schenley Park",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1006,8 +779,8 @@
         "id": "src-dev-13",
         "title": "Warrington Recreation Center Renovation",
         "url": "https://engage.pittsburghpa.gov/warrington-recreation-center",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Funded by Redevelopment Assistance Capital Program (RACP) grants and local dollars; key features: recording studio, elevator (ADA), new playground, outdoor basketball court; Department of Public Works"
@@ -1027,7 +800,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/warrington-recreation-center",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Warrington Recreation Center",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1062,8 +835,8 @@
         "id": "src-dev-14",
         "title": "Vision Zero – Traffic Safety Program",
         "url": "https://engage.pittsburghpa.gov/vision-zero",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Formally adopted 2024; Mayor Gainey's 2024 budget nearly doubled traffic safety capital investment; sub-programs include: Neighborhood Traffic Calming, Safe Routes to School, Automated Red Light Enfor"
@@ -1083,7 +856,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vision-zero",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1119,8 +892,8 @@
         "id": "src-dev-15",
         "title": "Vending Program Rules & Regulations",
         "url": "https://engage.pittsburghpa.gov/vending-program",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Legislation passed November 18, 2025; signed by Mayor Gainey November 19, 2025; Ordinances 34 and 35; amended Zoning Code and Chapter 719 (Vendors and Peddlers); final rules/regulations publication ta"
@@ -1140,7 +913,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vending-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Citywide",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-03-12"
   },
@@ -1176,8 +949,8 @@
         "id": "src-dev-16",
         "title": "Historic Preservation Program",
         "url": "https://engage.pittsburghpa.gov/historic-preservation-program",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Guided by PreservePGH (2012); ongoing Architectural Inventory Project (surveys since 2014); new design guidelines contract approved March 2026 for Mexican War Streets and Manchester Historic Districts"
@@ -1197,7 +970,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/historic-preservation-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1233,8 +1006,8 @@
         "id": "src-dev-17",
         "title": "South Side Park Project",
         "url": "https://engage.pittsburghpa.gov/south-side-park-project",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Phase 1 ongoing; stormwater r-tanks installed in coordination with Pittsburgh Water (PWSA); public art project funded by Percent for Art program; City Council Resolution 2026-0177 authorized Pittsburg"
@@ -1254,7 +1027,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/south-side-park-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — South Side Park",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1289,8 +1062,8 @@
         "id": "src-dev-18",
         "title": "Safe Routes to School Program",
         "url": "https://engage.pittsburghpa.gov/safe-routes-to-school",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Ongoing annual program; DOMI lead; combines engineering improvements (crosswalks, signage, sidewalks) with education and encouragement; part of Vision Zero safe systems approach; updated January 2026"
@@ -1310,7 +1083,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/safe-routes-to-school",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide (school corridors)",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1345,8 +1118,8 @@
         "id": "src-dev-19",
         "title": "Pittsburgh Regional Disparity Study",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Citywide procurement disparity analysis; examines race, ethnicity, and gender-based disparities in city contracting; will inform MBE/WBE program policies; findings will guide equitable contracting req"
@@ -1366,7 +1139,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1402,8 +1175,8 @@
         "id": "src-dev-20",
         "title": "Allegheny Riverfront Park Restoration",
         "url": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Total project cost: $6.3 million; partners: Riverlife, City of Pittsburgh, Pittsburgh Cultural Trust; designer: Michael Van Valkenburgh Associates + LaQuatra Bonci Associates; construction anticipated"
@@ -1423,7 +1196,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Allegheny Riverfront Park (between 6th, 7th, and 9th Street Bridges)",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1459,8 +1232,8 @@
         "id": "src-dev-21",
         "title": "Westinghouse Park Master Plan",
         "url": "https://engage.pittsburghpa.gov/westinghouse-park",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "10.2-acre park; partnership between Westinghouse Park 2nd Century Coalition and Point Breeze North Development Corporation; funded by URA Neighborhood Initiative program grant and private funder; fina"
@@ -1480,7 +1253,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/westinghouse-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Westinghouse Park",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
@@ -1509,9 +1282,9 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#6d17020304030a2d1d0419191e0f181f0a051d0c430a021b",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#463c29282f282106362f323235243334212e362768212930",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "government_document",
         "confidenceLevel": "high"
       }
@@ -1527,40 +1300,90 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing a proposal for a new mixed-use building in the Central ",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#6d17020304030a2d1d0419191e0f181f0a051d0c430a021b",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#463c29282f282106362f323235243334212e362768212930",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
-    "date": "2026-09-19",
+    "date": "2026-09-20",
     "feedbackOpportunity": false
   },
   {
-    "id": "news-38",
-    "headline": "2 men charged in July shooting that killed Clairton teen, unborn child",
+    "id": "news-27",
+    "headline": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
     "governmentLevel": "local",
-    "topicArea": "Public Safety",
-    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
-    "whatChanged": "2 men charged in July shooting that killed Clairton teen, unborn child",
-    "urgency": "high",
-    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
+    "topicArea": "Business",
+    "whyItMatters": "This development affects the Business sector in Pittsburgh.",
+    "whatChanged": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
     "keyStakeholders": [
       "Pittsburgh Post-Gazette",
-      "CLAIRTON"
+      "PITTSBURGH"
     ],
     "evidenceBullets": [
       {
-        "text": "2 men charged in July shooting that killed Clairton teen, unborn child",
+        "text": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
         "sourceIds": [
-          "src-news-38"
+          "src-news-27"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-38",
-        "title": "2 men charged in July shooting that killed Clairton teen, unborn child",
-        "url": "https://www.post-gazette.com/news/crime-courts/2026/09/18/clairton-homicide-arrest-duquesne-feud/stories/202609180053",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
+        "id": "src-news-27",
+        "title": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
+        "url": "https://www.post-gazette.com/business/tech-news/2026/09/20/ai-horizons-summit-pittsburgh-shapiro/stories/202609200061",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 5,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
+    "oneLineSummary": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
+    "categoryTag": "Business",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-20",
+    "strongestSourceUrl": "https://www.post-gazette.com/business/tech-news/2026/09/20/ai-horizons-summit-pittsburgh-shapiro/stories/202609200061",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-20",
+    "date": "2026-09-20",
+    "relatedNewsId": 27,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-32",
+    "headline": "Man stable after shooting in Turtle Creek",
+    "governmentLevel": "local",
+    "topicArea": "Public Safety",
+    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
+    "whatChanged": "Man stable after shooting in Turtle Creek",
+    "urgency": "high",
+    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "TURTLE CREEK"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Man stable after shooting in Turtle Creek",
+        "sourceIds": [
+          "src-news-32"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-32",
+        "title": "Man stable after shooting in Turtle Creek",
+        "url": "https://www.post-gazette.com/news/crime-courts/2026/09/19/shooting-turtle-creek-penn-ave/stories/202609190042",
+        "publishedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
@@ -1570,21 +1393,369 @@
     "urgencyScore": 8,
     "localRelevance": 8,
     "influenceability": 3,
-    "displayHeadline": "2 men charged in July shooting that killed Clairton teen, unborn child",
-    "oneLineSummary": "2 men charged in July shooting that killed Clairton teen, unborn child",
+    "displayHeadline": "Man stable after shooting in Turtle Creek",
+    "oneLineSummary": "Man stable after shooting in Turtle Creek",
     "categoryTag": "Public Safety",
     "categoryColor": "#f97316",
     "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/crime-courts/2026/09/18/clairton-homicide-arrest-duquesne-feud/stories/202609180053",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-19",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/crime-courts/2026/09/19/shooting-turtle-creek-penn-ave/stories/202609190042",
     "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 38,
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
+    "date": "2026-09-19",
+    "relatedNewsId": 32,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-27",
+    "id": "news-33",
+    "headline": "Man in critical condition following shooting in Homestead",
+    "governmentLevel": "local",
+    "topicArea": "Public Safety",
+    "whyItMatters": "Public safety issues require immediate community awareness and potential action.",
+    "whatChanged": "Man in critical condition following shooting in Homestead",
+    "urgency": "high",
+    "actionNeeded": "Stay informed and report relevant information to appropriate authorities.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "HOMESTEAD"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Man in critical condition following shooting in Homestead",
+        "sourceIds": [
+          "src-news-33"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-33",
+        "title": "Man in critical condition following shooting in Homestead",
+        "url": "https://www.post-gazette.com/news/crime-courts/2026/09/19/shooting-homestead-amity-street/stories/202609190040",
+        "publishedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 8,
+    "urgencyScore": 8,
+    "localRelevance": 8,
+    "influenceability": 3,
+    "displayHeadline": "Man in critical condition following shooting in Homestead",
+    "oneLineSummary": "Man in critical condition following shooting in Homestead",
+    "categoryTag": "Public Safety",
+    "categoryColor": "#f97316",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-19",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/crime-courts/2026/09/19/shooting-homestead-amity-street/stories/202609190040",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
+    "date": "2026-09-19",
+    "relatedNewsId": 33,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-26",
+    "headline": "Double-digit increases await Pennsylvania Obamacare enrollees",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Double-digit increases await Pennsylvania Obamacare enrollees",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Double-digit increases await Pennsylvania Obamacare enrollees",
+        "sourceIds": [
+          "src-news-26"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-26",
+        "title": "Double-digit increases await Pennsylvania Obamacare enrollees",
+        "url": "https://www.post-gazette.com/business/healthcare-business/2026/09/20/obamacare-pennsylvania-2027-highmark-upmc/stories/202609200086",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Double-digit increases await Pennsylvania Obamacare enrollees",
+    "oneLineSummary": "Double-digit increases await Pennsylvania Obamacare enrollees",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-20",
+    "strongestSourceUrl": "https://www.post-gazette.com/business/healthcare-business/2026/09/20/obamacare-pennsylvania-2027-highmark-upmc/stories/202609200086",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-20",
+    "date": "2026-09-20",
+    "relatedNewsId": 26,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-28",
+    "headline": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "Oakland",
+      "CARNEGIE"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
+        "sourceIds": [
+          "src-news-28"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-28",
+        "title": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
+        "url": "https://www.post-gazette.com/news/education/2026/09/20/carnegie-mellon-free-speech/stories/202609180065",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
+    "oneLineSummary": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-20",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/education/2026/09/20/carnegie-mellon-free-speech/stories/202609180065",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-20",
+    "date": "2026-09-20",
+    "relatedNewsId": 28,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-29",
+    "headline": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "PITTSBURGH"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+        "sourceIds": [
+          "src-news-29"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-29",
+        "title": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+        "url": "https://www.post-gazette.com/business/powersource/2026/09/20/natural-gas-power-plants-pittsburgh/stories/202609200058",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+    "oneLineSummary": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-20",
+    "strongestSourceUrl": "https://www.post-gazette.com/business/powersource/2026/09/20/natural-gas-power-plants-pittsburgh/stories/202609200058",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-20",
+    "date": "2026-09-20",
+    "relatedNewsId": 29,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-30",
+    "headline": "A tiny frequent flyer logs 30,000 miles flying back and forth from Costa Rica to Western Pa.",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "A tiny frequent flyer logs 30,000 miles flying back and forth from Costa Rica to Western Pa.",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "A tiny frequent flyer logs 30,000 miles flying back and forth from Costa Rica to Western Pa.",
+        "sourceIds": [
+          "src-news-30"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-30",
+        "title": "A tiny frequent flyer logs 30,000 miles flying back and forth from Costa Rica to Western Pa.",
+        "url": "https://www.post-gazette.com/life/outdoors/2026/09/20/chestnut-sided-warbler-powdermill/stories/202609160053",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "A tiny frequent flyer logs 30,000 miles flying back and forth from Costa Rica to Western Pa.",
+    "oneLineSummary": "A tiny frequent flyer logs 30,000 miles flying back and forth from Costa Rica to Western Pa.",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-20",
+    "strongestSourceUrl": "https://www.post-gazette.com/life/outdoors/2026/09/20/chestnut-sided-warbler-powdermill/stories/202609160053",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-20",
+    "date": "2026-09-20",
+    "relatedNewsId": 30,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-38",
+    "headline": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
+    "governmentLevel": "local",
+    "topicArea": "Government",
+    "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
+    "whatChanged": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
+    "urgency": "high",
+    "actionNeeded": "Contact your elected officials if this policy affects you directly.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette",
+      "ALLEGHENY"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
+        "sourceIds": [
+          "src-news-38"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-38",
+        "title": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
+        "url": "https://www.post-gazette.com/news/politics-local/2026/09/19/mike-embrescia-allegheny-county-party/stories/202609180060",
+        "publishedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 7,
+    "urgencyScore": 6,
+    "localRelevance": 6,
+    "influenceability": 5,
+    "displayHeadline": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
+    "oneLineSummary": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
+    "categoryTag": "Government",
+    "categoryColor": "#f97316",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-19",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/politics-local/2026/09/19/mike-embrescia-allegheny-county-party/stories/202609180060",
+    "callToAction": "Contact your representative",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
+    "date": "2026-09-19",
+    "relatedNewsId": 38,
+    "feedbackOpportunity": true
+  },
+  {
+    "id": "news-31",
+    "headline": "Mass and mini-golf are both offerings at a Catholic music festival, FestPGH",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Mass and mini-golf are both offerings at a Catholic music festival, FestPGH",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "Pittsburgh Post-Gazette"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Mass and mini-golf are both offerings at a Catholic music festival, FestPGH",
+        "sourceIds": [
+          "src-news-31"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-31",
+        "title": "Mass and mini-golf are both offerings at a Catholic music festival, FestPGH",
+        "url": "https://www.post-gazette.com/news/faith-religion/2026/09/19/catholic-music-festival-festpgh/stories/202609190051",
+        "publishedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Mass and mini-golf are both offerings at a Catholic music festival, FestPGH",
+    "oneLineSummary": "Mass and mini-golf are both offerings at a Catholic music festival, FestPGH",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-19",
+    "strongestSourceUrl": "https://www.post-gazette.com/news/faith-religion/2026/09/19/catholic-music-festival-festpgh/stories/202609190051",
+    "callToAction": "Read the full report",
+    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
+    "date": "2026-09-19",
+    "relatedNewsId": 31,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-34",
     "headline": "Young peregrine falcon dies weeks after being found injured in Oakland",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1601,17 +1772,17 @@
       {
         "text": "Young peregrine falcon dies weeks after being found injured in Oakland",
         "sourceIds": [
-          "src-news-27"
+          "src-news-34"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-27",
+        "id": "src-news-34",
         "title": "Young peregrine falcon dies weeks after being found injured in Oakland",
         "url": "https://www.post-gazette.com/life/outdoors/2026/09/19/injured-peregrine-falcon-dies-oakland/stories/202609190039",
         "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
@@ -1631,11 +1802,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
     "date": "2026-09-19",
-    "relatedNewsId": 27,
+    "relatedNewsId": 34,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-28",
+    "id": "news-35",
     "headline": "City expands its deer management program, which begins on Saturday",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1650,17 +1821,17 @@
       {
         "text": "City expands its deer management program, which begins on Saturday",
         "sourceIds": [
-          "src-news-28"
+          "src-news-35"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-28",
+        "id": "src-news-35",
         "title": "City expands its deer management program, which begins on Saturday",
         "url": "https://www.post-gazette.com/life/outdoors/2026/09/19/city-deer-management-program-expanded/stories/202609190038",
         "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
@@ -1680,11 +1851,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
     "date": "2026-09-19",
-    "relatedNewsId": 28,
+    "relatedNewsId": 35,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-29",
+    "id": "news-36",
     "headline": "'It's a community': Regional masters swim league celebrates 50 years",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1699,17 +1870,17 @@
       {
         "text": "'It's a community': Regional masters swim league celebrates 50 years",
         "sourceIds": [
-          "src-news-29"
+          "src-news-36"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-29",
+        "id": "src-news-36",
         "title": "'It's a community': Regional masters swim league celebrates 50 years",
         "url": "https://www.post-gazette.com/news/health/2026/09/19/ymca-allegheny-mountain-masters-swimming-league/stories/202609200027",
         "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
@@ -1729,11 +1900,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
     "date": "2026-09-19",
-    "relatedNewsId": 29,
+    "relatedNewsId": 36,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-30",
+    "id": "news-37",
     "headline": "Work begins soon to reimagine Smithfield Street in Downtown Pittsburgh",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1750,17 +1921,17 @@
       {
         "text": "Work begins soon to reimagine Smithfield Street in Downtown Pittsburgh",
         "sourceIds": [
-          "src-news-30"
+          "src-news-37"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-30",
+        "id": "src-news-37",
         "title": "Work begins soon to reimagine Smithfield Street in Downtown Pittsburgh",
         "url": "https://www.post-gazette.com/news/transportation/2026/09/19/smithfield-street-downtown-pittsburgh-construction/stories/202609200062",
         "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
@@ -1780,11 +1951,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
     "date": "2026-09-19",
-    "relatedNewsId": 30,
+    "relatedNewsId": 37,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-32",
+    "id": "news-39",
     "headline": "Once known for luxury closeouts, Today's Home is taking a new path",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1799,17 +1970,17 @@
       {
         "text": "Once known for luxury closeouts, Today's Home is taking a new path",
         "sourceIds": [
-          "src-news-32"
+          "src-news-39"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-32",
+        "id": "src-news-39",
         "title": "Once known for luxury closeouts, Today's Home is taking a new path",
         "url": "https://www.post-gazette.com/business/career-workplace/2026/09/19/luxury-furniture-todays-home-greentree/stories/202609200042",
         "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "retrievedDate": "2026-09-20",
         "sourceType": "secondary",
         "confidenceLevel": "medium"
       }
@@ -1829,503 +2000,7 @@
     "callToAction": "Read the full report",
     "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-19",
     "date": "2026-09-19",
-    "relatedNewsId": 32,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-33",
-    "headline": "Penn State Shenango campus will continue serving educational needs after closure",
-    "governmentLevel": "local",
-    "topicArea": "Education",
-    "whyItMatters": "This development affects the Education sector in Pittsburgh.",
-    "whatChanged": "Penn State Shenango campus will continue serving educational needs after closure",
-    "urgency": "medium",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Penn State Shenango campus will continue serving educational needs after closure",
-        "sourceIds": [
-          "src-news-33"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-33",
-        "title": "Penn State Shenango campus will continue serving educational needs after closure",
-        "url": "https://www.post-gazette.com/news/education/2026/09/18/penn-state-shenango-campus-closure-future-sharon/stories/202609180074",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 6,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 5,
-    "displayHeadline": "Penn State Shenango campus will continue serving educational needs after closure",
-    "oneLineSummary": "Penn State Shenango campus will continue serving educational needs after closure",
-    "categoryTag": "Education",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/education/2026/09/18/penn-state-shenango-campus-closure-future-sharon/stories/202609180074",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 33,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-34",
-    "headline": "UPMC enters agreement with DOJ to cease pediatric gender-affirming care",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "UPMC enters agreement with DOJ to cease pediatric gender-affirming care",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "Oakland",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "UPMC enters agreement with DOJ to cease pediatric gender-affirming care",
-        "sourceIds": [
-          "src-news-34"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-34",
-        "title": "UPMC enters agreement with DOJ to cease pediatric gender-affirming care",
-        "url": "https://www.post-gazette.com/news/health/2026/09/18/gender-care-upmc-doj/stories/202609180071",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "UPMC enters agreement with DOJ to cease pediatric gender-affirming care",
-    "oneLineSummary": "UPMC enters agreement with DOJ to cease pediatric gender-affirming care",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/health/2026/09/18/gender-care-upmc-doj/stories/202609180071",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 34,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-35",
-    "headline": "Could commercial flights soon return to Arnold Palmer Regional Airport?",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Could commercial flights soon return to Arnold Palmer Regional Airport?",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Could commercial flights soon return to Arnold Palmer Regional Airport?",
-        "sourceIds": [
-          "src-news-35"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-35",
-        "title": "Could commercial flights soon return to Arnold Palmer Regional Airport?",
-        "url": "https://www.post-gazette.com/news/transportation/2026/09/18/arnold-palmer-regional-airport-grant/stories/202609180070",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Could commercial flights soon return to Arnold Palmer Regional Airport?",
-    "oneLineSummary": "Could commercial flights soon return to Arnold Palmer Regional Airport?",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/transportation/2026/09/18/arnold-palmer-regional-airport-grant/stories/202609180070",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 35,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-36",
-    "headline": "Brandon McGinley: Can Pittsburgh win back those who've left?",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Brandon McGinley: Can Pittsburgh win back those who've left?",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Brandon McGinley: Can Pittsburgh win back those who've left?",
-        "sourceIds": [
-          "src-news-36"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-36",
-        "title": "Brandon McGinley: Can Pittsburgh win back those who've left?",
-        "url": "https://www.post-gazette.com/local/city/2026/09/18/pittsburgh-tomorrow-homecoming-heuck-diaspora-population/stories/202609200047",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Brandon McGinley: Can Pittsburgh win back those who've left?",
-    "oneLineSummary": "Brandon McGinley: Can Pittsburgh win back those who've left?",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/local/city/2026/09/18/pittsburgh-tomorrow-homecoming-heuck-diaspora-population/stories/202609200047",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 36,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-37",
-    "headline": "At Pittsburgh summit, Fetterman compares AI race to Manhattan Project and knocks regulation concerns",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "At Pittsburgh summit, Fetterman compares AI race to Manhattan Project and knocks regulation concerns",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "At Pittsburgh summit, Fetterman compares AI race to Manhattan Project and knocks regulation concerns",
-        "sourceIds": [
-          "src-news-37"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-37",
-        "title": "At Pittsburgh summit, Fetterman compares AI race to Manhattan Project and knocks regulation concerns",
-        "url": "https://www.post-gazette.com/news/politics-nation/2026/09/18/fetterman-ai-horizons-summit-pittsburgh/stories/202609180054",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "At Pittsburgh summit, Fetterman compares AI race to Manhattan Project and knocks regulation concerns",
-    "oneLineSummary": "At Pittsburgh summit, Fetterman compares AI race to Manhattan Project and knocks regulation concerns",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/politics-nation/2026/09/18/fetterman-ai-horizons-summit-pittsburgh/stories/202609180054",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 37,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-39",
-    "headline": "Repeated heavy downpours are flooding Western Pa., giving residents little time to recover",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Repeated heavy downpours are flooding Western Pa., giving residents little time to recover",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Repeated heavy downpours are flooding Western Pa., giving residents little time to recover",
-        "sourceIds": [
-          "src-news-39"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-39",
-        "title": "Repeated heavy downpours are flooding Western Pa., giving residents little time to recover",
-        "url": "https://www.post-gazette.com/news/weather-news/2026/09/18/pittsburgh-severe-weather-flooding/stories/202609170086",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Repeated heavy downpours are flooding Western Pa., giving residents little time to recover",
-    "oneLineSummary": "Repeated heavy downpours are flooding Western Pa., giving residents little time to recover",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/weather-news/2026/09/18/pittsburgh-severe-weather-flooding/stories/202609170086",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
     "relatedNewsId": 39,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-40",
-    "headline": "Letter to the editor: Good science requires patience",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Letter to the editor: Good science requires patience",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Letter to the editor: Good science requires patience",
-        "sourceIds": [
-          "src-news-40"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-40",
-        "title": "Letter to the editor: Good science requires patience",
-        "url": "https://www.post-gazette.com/local/2026/09/18/science-public-health-vaccine-trust/stories/202609180001",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Letter to the editor: Good science requires patience",
-    "oneLineSummary": "Letter to the editor: Good science requires patience",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/local/2026/09/18/science-public-health-vaccine-trust/stories/202609180001",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 40,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-41",
-    "headline": "Urchin baits are funny-looking, but bass seem to love 'em — and so do anglers",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Urchin baits are funny-looking, but bass seem to love 'em — and so do anglers",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Urchin baits are funny-looking, but bass seem to love 'em — and so do anglers",
-        "sourceIds": [
-          "src-news-41"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-41",
-        "title": "Urchin baits are funny-looking, but bass seem to love 'em — and so do anglers",
-        "url": "https://www.post-gazette.com/life/outdoors/2026/09/18/urchin-baits-bass-fishing-lures-fulks-custom-cranks-burgettstown/stories/202609210009",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Urchin baits are funny-looking, but bass seem to love 'em — and so do anglers",
-    "oneLineSummary": "Urchin baits are funny-looking, but bass seem to love 'em — and so do anglers",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/life/outdoors/2026/09/18/urchin-baits-bass-fishing-lures-fulks-custom-cranks-burgettstown/stories/202609210009",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 41,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-42",
-    "headline": "Virginia Correa, who oversaw automation of Carnegie Library",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Virginia Correa, who oversaw automation of Carnegie Library",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "CARNEGIE"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Virginia Correa, who oversaw automation of Carnegie Library",
-        "sourceIds": [
-          "src-news-42"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-42",
-        "title": "Virginia Correa, who oversaw automation of Carnegie Library",
-        "url": "https://www.post-gazette.com/news/obituaries/2026/09/18/virginia-correa-obituary-carnegie-library-automation-university-pittsburgh/stories/202609170055",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Virginia Correa, who oversaw automation of Carnegie Library",
-    "oneLineSummary": "Virginia Correa, who oversaw automation of Carnegie Library",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/news/obituaries/2026/09/18/virginia-correa-obituary-carnegie-library-automation-university-pittsburgh/stories/202609170055",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 42,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-43",
-    "headline": "Buying Here: Fox Chapel townhome with an elevator priced at $1.25 million",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Buying Here: Fox Chapel townhome with an elevator priced at $1.25 million",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "Pittsburgh Post-Gazette",
-      "FOX CHAPEL"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Buying Here: Fox Chapel townhome with an elevator priced at $1.25 million",
-        "sourceIds": [
-          "src-news-43"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-43",
-        "title": "Buying Here: Fox Chapel townhome with an elevator priced at $1.25 million",
-        "url": "https://www.post-gazette.com/life/buying-here/2026/09/18/buying-here-the-trillium-fox-chapel-townhome-elevator/stories/202609180002",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Buying Here: Fox Chapel townhome with an elevator priced at $1.25 million",
-    "oneLineSummary": "Buying Here: Fox Chapel townhome with an elevator priced at $1.25 million",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-    "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-09-18",
-    "strongestSourceUrl": "https://www.post-gazette.com/life/buying-here/2026/09/18/buying-here-the-trillium-fox-chapel-townhome-elevator/stories/202609180002",
-    "callToAction": "Read the full report",
-    "infographicCaption": "Pittsburgh Post-Gazette — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedNewsId": 43,
     "feedbackOpportunity": false
   },
   {
@@ -2334,7 +2009,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-19.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-20.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2344,10 +2019,10 @@
     "sources": [
       {
         "id": "src-meeting-30-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
         "url": "https://www.youtube.com/watch?v=lgGwRER7qUI",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2356,8 +2031,8 @@
         "id": "src-meeting-30-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — South Region Changes",
         "url": "https://www.youtube.com/watch?v=lgGwRER7qUI",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2369,15 +2044,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — South Region Changes",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-19.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-20.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=lgGwRER7qUI",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-19",
-    "date": "2026-09-19",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-20",
+    "date": "2026-09-20",
     "relatedMeetingId": 30,
     "feedbackOpportunity": false
   },
@@ -2387,7 +2062,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-19.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-20.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2397,10 +2072,10 @@
     "sources": [
       {
         "id": "src-meeting-31-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
         "url": "https://www.youtube.com/watch?v=M7-EuU_6xo0",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2409,8 +2084,8 @@
         "id": "src-meeting-31-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — East Region Changes",
         "url": "https://www.youtube.com/watch?v=M7-EuU_6xo0",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2422,15 +2097,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — East Region Changes",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-19.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-20.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=M7-EuU_6xo0",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-19",
-    "date": "2026-09-19",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-20",
+    "date": "2026-09-20",
     "relatedMeetingId": 31,
     "feedbackOpportunity": false
   },
@@ -2440,7 +2115,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-19.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-20.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2450,10 +2125,10 @@
     "sources": [
       {
         "id": "src-meeting-32-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
         "url": "https://www.youtube.com/watch?v=BswksSDK7y4",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2462,8 +2137,8 @@
         "id": "src-meeting-32-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — Central Region Changes",
         "url": "https://www.youtube.com/watch?v=BswksSDK7y4",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2475,15 +2150,15 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Central Region Changes",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-19.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-20.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=BswksSDK7y4",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-19",
-    "date": "2026-09-19",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-20",
+    "date": "2026-09-20",
     "relatedMeetingId": 32,
     "feedbackOpportunity": false
   },
@@ -2493,7 +2168,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-19.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-09-20.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -2503,10 +2178,10 @@
     "sources": [
       {
         "id": "src-meeting-33-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
         "url": "https://www.youtube.com/watch?v=YrsjIAo7oh0",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -2515,8 +2190,8 @@
         "id": "src-meeting-33-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — West Region Changes",
         "url": "https://www.youtube.com/watch?v=YrsjIAo7oh0",
-        "publishedDate": "2026-09-19",
-        "retrievedDate": "2026-09-19",
+        "publishedDate": "2026-09-20",
+        "retrievedDate": "2026-09-20",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -2528,69 +2203,16 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — West Region Changes",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-19.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-09-20.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-19",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-09-20",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=YrsjIAo7oh0",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-19",
-    "date": "2026-09-19",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-09-20",
+    "date": "2026-09-20",
     "relatedMeetingId": 33,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-19",
-    "headline": "Pittsburgh City Council Regular Meeting — Bureau of Fire Promotion Ceremony - 9/18/26",
-    "governmentLevel": "local",
-    "topicArea": "City Governance",
-    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-09-18.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh City Council"
-    ],
-    "evidenceBullets": [],
-    "sources": [
-      {
-        "id": "src-meeting-19-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-09-18",
-        "url": "https://www.youtube.com/watch?v=vYauLgtGy4c",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "City Channel Pittsburgh"
-      },
-      {
-        "id": "src-meeting-19-record",
-        "title": "Pittsburgh City Council Regular Meeting — Bureau of Fire Promotion Ceremony - 9/18/26",
-        "url": "https://www.youtube.com/watch?v=vYauLgtGy4c",
-        "publishedDate": "2026-09-18",
-        "retrievedDate": "2026-09-19",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Regular Meeting"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh City Council Regular Meeting — Bureau of Fire Promotion Ceremony - 9/18/26",
-    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-09-18.",
-    "categoryTag": "City Governance",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-09-18",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=vYauLgtGy4c",
-    "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-09-18",
-    "date": "2026-09-18",
-    "relatedMeetingId": 19,
     "feedbackOpportunity": false
   }
 ]

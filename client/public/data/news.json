@@ -1,5 +1,92 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260920obamacare-pennsylvania",
+    "headline": "Double-digit increases await Pennsylvania Obamacare enrollees",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-20",
+    "url": "https://www.post-gazette.com/business/healthcare-business/2026/09/20/obamacare-pennsylvania-2027-highmark-upmc/stories/202609200086",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260920ai-horizons-summit-pittsburgh-sh",
+    "headline": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-20",
+    "url": "https://www.post-gazette.com/business/tech-news/2026/09/20/ai-horizons-summit-pittsburgh-shapiro/stories/202609200061",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Business",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260920carnegie-mellon-free-speechstories20",
+    "headline": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-20",
+    "url": "https://www.post-gazette.com/news/education/2026/09/20/carnegie-mellon-free-speech/stories/202609180065",
+    "summary": null,
+    "geographicTags": [
+      "Oakland",
+      "CARNEGIE",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260920natural-gas-power-plants-pitts",
+    "headline": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-20",
+    "url": "https://www.post-gazette.com/business/powersource/2026/09/20/natural-gas-power-plants-pittsburgh/stories/202609200058",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260920chestnut-sided-warbler-powdermillstor",
+    "headline": "A tiny frequent flyer logs 30,000 miles flying back and forth from Costa Rica to Western Pa.",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-20",
+    "url": "https://www.post-gazette.com/life/outdoors/2026/09/20/chestnut-sided-warbler-powdermill/stories/202609160053",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsfaith-religion20260919catholic-music-festival-festpgh",
+    "headline": "Mass and mini-golf are both offerings at a Catholic music festival, FestPGH",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-19",
+    "url": "https://www.post-gazette.com/news/faith-religion/2026/09/19/catholic-music-festival-festpgh/stories/202609190051",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260919shooting-turtle-creek-penn-avesto",
+    "headline": "Man stable after shooting in Turtle Creek",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-19",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/09/19/shooting-turtle-creek-penn-ave/stories/202609190042",
+    "summary": null,
+    "geographicTags": [
+      "TURTLE CREEK"
+    ],
+    "category": "Public Safety",
+    "id": 32
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260919shooting-homestead-amity-streetst",
     "headline": "Man in critical condition following shooting in Homestead",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +97,7 @@
       "HOMESTEAD"
     ],
     "category": "Public Safety",
-    "id": 26
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260919injured-peregrine-falcon-dies-oakland",
@@ -24,7 +111,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 27
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260919city-deer-management-program-expanded",
@@ -35,7 +122,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 28
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260919ymca-allegheny-mountain-masters-swimmin",
@@ -46,7 +133,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260919smithfield-street-downtown-pitt",
@@ -60,7 +147,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260919mike-embrescia-allegheny-county",
@@ -73,7 +160,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260919luxury-furniture-todays-h",
@@ -84,7 +171,21 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 39
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337302",
+    "headline": "Public Source at 15: Showing up in our communities",
+    "source": "PublicSource",
+    "date": "2026-09-19",
+    "url": "https://www.publicsource.org/public-source-at-15/",
+    "summary": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Showing up in our communities appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "FORWARD"
+    ],
+    "category": "General",
+    "id": 46
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260918penn-state-shenango-campus-closure-f",
@@ -95,7 +196,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260918gender-care-upmc-dojstories202609180071",
@@ -109,7 +210,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 34
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260918arnold-palmer-regional-airport-",
@@ -120,7 +221,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260918pittsburgh-tomorrow-homecoming-heuck-dia",
@@ -133,7 +234,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 36
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20260918fetterman-ai-horizons-summit-p",
@@ -146,7 +247,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 37
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260918clairton-homicide-arrest-duquesne",
@@ -159,66 +260,7 @@
       "CLAIRTON"
     ],
     "category": "Public Safety",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260918pittsburgh-severe-weather-floodin",
-    "headline": "Repeated heavy downpours are flooding Western Pa., giving residents little time to recover",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/09/18/pittsburgh-severe-weather-flooding/stories/202609170086",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20260918science-public-health-vaccine-truststories20",
-    "headline": "Letter to the editor: Good science requires patience",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/local/2026/09/18/science-public-health-vaccine-trust/stories/202609180001",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260918urchin-baits-bass-fishing-lures-fulks",
-    "headline": "Urchin baits are funny-looking, but bass seem to love 'em — and so do anglers",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/life/outdoors/2026/09/18/urchin-baits-bass-fishing-lures-fulks-custom-cranks-burgettstown/stories/202609210009",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20260918virginia-correa-obituary-carnegie-l",
-    "headline": "Virginia Correa, who oversaw automation of Carnegie Library",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/news/obituaries/2026/09/18/virginia-correa-obituary-carnegie-library-automation-university-pittsburgh/stories/202609170055",
-    "summary": null,
-    "geographicTags": [
-      "CARNEGIE"
-    ],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20260918buying-here-the-trillium-fox-chape",
-    "headline": "Buying Here: Fox Chapel townhome with an elevator priced at $1.25 million",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/life/buying-here/2026/09/18/buying-here-the-trillium-fox-chapel-townhome-elevator/stories/202609180002",
-    "summary": null,
-    "geographicTags": [
-      "FOX CHAPEL"
-    ],
-    "category": "General",
-    "id": 43
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337494",
@@ -232,20 +274,6 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 46
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1337302",
-    "headline": "Public Source at 15: Responding to big news in real time",
-    "source": "PublicSource",
-    "date": "2026-09-18",
-    "url": "https://www.publicsource.org/public-source-at-15/",
-    "summary": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Responding to big news in real time appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "FORWARD"
-    ],
-    "category": "General",
     "id": 47
   },
   {
@@ -260,32 +288,6 @@
     ],
     "category": "General",
     "id": 48
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260917david-dausey-duquesne-inaugurationst",
-    "headline": "New Duquesne president offers inspiration to other first-generation students",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-17",
-    "url": "https://www.post-gazette.com/news/education/2026/09/17/david-dausey-duquesne-inauguration/stories/202609170088",
-    "summary": null,
-    "geographicTags": [
-      "DUQUESNE"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsfaith-religion20260917eradicate-hate-summit-political",
-    "headline": "Rise in political violence takes center stage at Pittsburgh's Eradicate Hate summit",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-17",
-    "url": "https://www.post-gazette.com/news/faith-religion/2026/09/17/eradicate-hate-summit-political-violence-1/stories/202609170084",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337414",
