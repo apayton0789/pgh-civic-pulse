@@ -1,5 +1,106 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260921flooding-western-pennsylvania-lul",
+    "headline": "Western Pa. flood watch extended through Wednesday morning",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-21",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/09/21/flooding-western-pennsylvania-lull-forecast-cools-washington-county-heavy-rains/stories/202609210034",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260921people-on-the-move-9-21-2",
+    "headline": "People on the Move: 9/21/26",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-21",
+    "url": "https://www.post-gazette.com/business/career-workplace/2026/09/21/people-on-the-move-9-21-26/stories/202609200053",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20260921us-steel-thomson-plant-clean-airstories20260",
+    "headline": "Letter to the editor: Let the Steel City’s legacy continue",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-21",
+    "url": "https://www.post-gazette.com/local/2026/09/21/us-steel-thomson-plant-clean-air/stories/202609200051",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalregion20260921johnstown-pennsylvania-distressed-shop",
+    "headline": "Pennsylvania mall owner eyes rebirth of distressed shopping center",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-21",
+    "url": "https://www.post-gazette.com/local/region/2026/09/21/johnstown-pennsylvania-distressed-shopping-mall/stories/202609200097",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260921fetterman-primary-2028stories20",
+    "headline": "Sen. John Fetterman is facing a likely 2028 primary challenge without a clear political home",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-21",
+    "url": "https://www.post-gazette.com/news/politics-state/2026/09/21/fetterman-primary-2028/stories/202609180055",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20260921pittsburgh-ice-287g-arrestssto",
+    "headline": "As ICE reaches deeper into Western Pa. communities, a backlash grows",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-21",
+    "url": "https://www.post-gazette.com/news/politics-nation/2026/09/21/pittsburgh-ice-287g-arrests/stories/202609170078",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337345",
+    "headline": "From ‘screaming into the void’ to quicker turnarounds, Pittsburgh permitting is being transformed",
+    "source": "PublicSource",
+    "date": "2026-09-21",
+    "url": "https://www.publicsource.org/pittsburgh-building-permits-faster-under-oconnor/",
+    "summary": "Data analyzed by Pittsburgh’s Public Source suggests that Mayor O’Connor’s pledge to streamline the bureaucracy involved in construction and development has shortened wait times. The post From ‘screaming into the void’ to quicker turnarounds, Pittsburgh permitting is being transformed appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Development",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifedining20260920penn-brewery-pittsburgh-oktoberfeststor",
+    "headline": "Penn Brewery celebrates Oktoberfest — and a new chapter",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-20",
+    "url": "https://www.post-gazette.com/life/dining/2026/09/20/penn-brewery-pittsburgh-oktoberfest/stories/202609200095",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260920pittsburgh-flood-watch-1stories20",
+    "headline": "Parts of Western Pa. battered by flooding again as region braces for another wet week",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-20",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/09/20/pittsburgh-flood-watch-1/stories/202609200096",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 33
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260920obamacare-pennsylvania",
     "headline": "Double-digit increases await Pennsylvania Obamacare enrollees",
     "source": "Pittsburgh Post-Gazette",
@@ -8,20 +109,20 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 34
   },
   {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260920ai-horizons-summit-pittsburgh-sh",
-    "headline": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
+    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260920natural-gas-power-plants-pitts",
+    "headline": "These Pittsburgh-area projects could double Pa.’s power capacity. Will they happen?",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-09-20",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/09/20/ai-horizons-summit-pittsburgh-shapiro/stories/202609200061",
+    "url": "https://www.post-gazette.com/business/powersource/2026/09/20/natural-gas-power-plants-pittsburgh/stories/202609200058",
     "summary": null,
     "geographicTags": [
       "PITTSBURGH"
     ],
-    "category": "Business",
-    "id": 27
+    "category": "General",
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260920carnegie-mellon-free-speechstories20",
@@ -36,20 +137,20 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 36
   },
   {
-    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20260920natural-gas-power-plants-pitts",
-    "headline": "These Pittsburgh-area projects could double Pa.'s power capacity. Will they happen?",
+    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20260920ai-horizons-summit-pittsburgh-sh",
+    "headline": "Will AI save or destroy us? At Pittsburgh summit, tech leaders shift between hope and despair",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-09-20",
-    "url": "https://www.post-gazette.com/business/powersource/2026/09/20/natural-gas-power-plants-pittsburgh/stories/202609200058",
+    "url": "https://www.post-gazette.com/business/tech-news/2026/09/20/ai-horizons-summit-pittsburgh-shapiro/stories/202609200061",
     "summary": null,
     "geographicTags": [
       "PITTSBURGH"
     ],
-    "category": "General",
-    "id": 29
+    "category": "Business",
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260920chestnut-sided-warbler-powdermillstor",
@@ -60,7 +161,22 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 38
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337302",
+    "headline": "Public Source at 15: Impact close to home and across the globe",
+    "source": "PublicSource",
+    "date": "2026-09-20",
+    "url": "https://www.publicsource.org/public-source-at-15/",
+    "summary": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Impact close to home and across the globe appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "ROSS",
+      "FORWARD"
+    ],
+    "category": "General",
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsfaith-religion20260919catholic-music-festival-festpgh",
@@ -71,7 +187,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260919shooting-turtle-creek-penn-avesto",
@@ -84,7 +200,7 @@
       "TURTLE CREEK"
     ],
     "category": "Public Safety",
-    "id": 32
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260919shooting-homestead-amity-streetst",
@@ -97,7 +213,7 @@
       "HOMESTEAD"
     ],
     "category": "Public Safety",
-    "id": 33
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260919injured-peregrine-falcon-dies-oakland",
@@ -111,7 +227,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 34
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20260919city-deer-management-program-expanded",
@@ -122,18 +238,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20260919ymca-allegheny-mountain-masters-swimmin",
-    "headline": "'It's a community': Regional masters swim league celebrates 50 years",
+    "headline": "‘It’s a community’: Regional masters swim league celebrates 50 years",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-09-19",
     "url": "https://www.post-gazette.com/news/health/2026/09/19/ymca-allegheny-mountain-masters-swimming-league/stories/202609200027",
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260919smithfield-street-downtown-pitt",
@@ -147,119 +263,6 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260919mike-embrescia-allegheny-county",
-    "headline": "Why Mike Embrescia, Allegheny County's former top GOP official, became a Democrat",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-19",
-    "url": "https://www.post-gazette.com/news/politics-local/2026/09/19/mike-embrescia-allegheny-county-party/stories/202609180060",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260919luxury-furniture-todays-h",
-    "headline": "Once known for luxury closeouts, Today's Home is taking a new path",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-19",
-    "url": "https://www.post-gazette.com/business/career-workplace/2026/09/19/luxury-furniture-todays-home-greentree/stories/202609200042",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1337302",
-    "headline": "Public Source at 15: Showing up in our communities",
-    "source": "PublicSource",
-    "date": "2026-09-19",
-    "url": "https://www.publicsource.org/public-source-at-15/",
-    "summary": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Showing up in our communities appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "FORWARD"
-    ],
-    "category": "General",
-    "id": 46
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260918penn-state-shenango-campus-closure-f",
-    "headline": "Penn State Shenango campus will continue serving educational needs after closure",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/news/education/2026/09/18/penn-state-shenango-campus-closure-future-sharon/stories/202609180074",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Education",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20260918gender-care-upmc-dojstories202609180071",
-    "headline": "UPMC enters agreement with DOJ to cease pediatric gender-affirming care",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/news/health/2026/09/18/gender-care-upmc-doj/stories/202609180071",
-    "summary": null,
-    "geographicTags": [
-      "Oakland",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20260918arnold-palmer-regional-airport-",
-    "headline": "Could commercial flights soon return to Arnold Palmer Regional Airport?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/news/transportation/2026/09/18/arnold-palmer-regional-airport-grant/stories/202609180070",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20260918pittsburgh-tomorrow-homecoming-heuck-dia",
-    "headline": "Brandon McGinley: Can Pittsburgh win back those who've left?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/local/city/2026/09/18/pittsburgh-tomorrow-homecoming-heuck-diaspora-population/stories/202609200047",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20260918fetterman-ai-horizons-summit-p",
-    "headline": "At Pittsburgh summit, Fetterman compares AI race to Manhattan Project and knocks regulation concerns",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/news/politics-nation/2026/09/18/fetterman-ai-horizons-summit-pittsburgh/stories/202609180054",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260918clairton-homicide-arrest-duquesne",
-    "headline": "2 men charged in July shooting that killed Clairton teen, unborn child",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-18",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/09/18/clairton-homicide-arrest-duquesne-feud/stories/202609180053",
-    "summary": null,
-    "geographicTags": [
-      "CLAIRTON"
-    ],
-    "category": "Public Safety",
     "id": 45
   },
   {
@@ -274,7 +277,7 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337355",
@@ -287,7 +290,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337414",
@@ -300,7 +303,7 @@
       "PITTSBURGH"
     ],
     "category": "Health",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337462",
@@ -314,7 +317,7 @@
       "ALLEGHENY"
     ],
     "category": "Infrastructure/Transit",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337460",
@@ -328,7 +331,7 @@
       "ALLEGHENY"
     ],
     "category": "Education",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337448",
@@ -341,7 +344,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337434",
@@ -354,7 +357,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337394",
@@ -366,20 +369,6 @@
     "geographicTags": [
       "PITTSBURGH",
       "ALLEGHENY"
-    ],
-    "category": "Education",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1337366",
-    "headline": "Elizabeth Township OKs fracked wells near a school despite resident concern",
-    "source": "PublicSource",
-    "date": "2026-09-15",
-    "url": "https://www.publicsource.org/elizabeth-township-eqt-wells-approval/",
-    "summary": "Commissioners also said they’ve been approached about a data center development, providing few details but promising a public information session. The post Elizabeth Township OKs fracked wells near a school despite resident concern appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "ELIZABETH"
     ],
     "category": "Education",
     "id": 55
