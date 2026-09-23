@@ -1,7 +1,93 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlocaleast20260923penn-hills-house-fire-wilson-drivestorie",
+    "headline": "Person dies in Penn Hills fire",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-23",
+    "url": "https://www.post-gazette.com/local/east/2026/09/23/penn-hills-house-fire-wilson-drive/stories/202609230032",
+    "summary": null,
+    "geographicTags": [
+      "PENN HILLS"
+    ],
+    "category": "Public Safety",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomaeart-architecture20260923artist-josias-figueirido-zynka-",
+    "headline": "Spanish artist builds a dream world where technology and tradition play",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-23",
+    "url": "https://www.post-gazette.com/ae/art-architecture/2026/09/23/artist-josias-figueirido-zynka-gallery-sharpsburg/stories/202609220031",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Development",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260923baker-trail-ultra-50-mile-marathon-mi",
+    "headline": "Ankle and knee surgeries can’t stop N.Y. marathoner who loves to run in Western Pa.",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-23",
+    "url": "https://www.post-gazette.com/life/goodness/2026/09/23/baker-trail-ultra-50-mile-marathon-miriam-fein/stories/202609140052",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337302",
+    "headline": "Public Source at 15: Building civic capacity from the ground up",
+    "source": "PublicSource",
+    "date": "2026-09-23",
+    "url": "https://www.publicsource.org/public-source-at-15/",
+    "summary": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Building civic capacity from the ground up appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "FORWARD"
+    ],
+    "category": "Development",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337571",
+    "headline": "Pittsburgh doesn’t use Flock cameras – but license plate readers are already here",
+    "source": "PublicSource",
+    "date": "2026-09-23",
+    "url": "https://www.publicsource.org/pittsburgh-flock-cameras-license-plate-readers/",
+    "summary": "Automatic license plate readers long predate the backlash to Flock's ascendancy, and have operated in Pittsburgh for decades. The city doesn't contract with Flock but some private retailers do. The post Pittsburgh doesn’t use Flock cameras – but license plate readers are already here appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 47
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1337478",
+    "headline": "Western Pennsylvania can’t solve its biggest problems until we fix who government listens to",
+    "source": "PublicSource",
+    "date": "2026-09-23",
+    "url": "https://www.publicsource.org/voter-dollars-campaign-finance-pennsylvania/",
+    "summary": "Big money shapes who gets heard long before Election Day. Voter Dollars could give everyday Pennsylvanians a bigger voice in who represents them. The post Western Pennsylvania can’t solve its biggest problems until we fix who government listens to appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Government",
+    "id": 48
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260922penn-state-cocaine-godfather-tria",
+    "headline": "Accused ‘Godfather’ of Penn State cocaine trafficking ring wants trial as soon as possible",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-09-22",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/09/22/penn-state-cocaine-godfather-trial/stories/202609220046",
+    "summary": null,
+    "geographicTags": [],
+    "category": "State/Regional",
+    "id": 29
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260922flood-watch-likely-to-expire-tues",
-    "headline": "Flood watch likely to expire Tuesday morning for Allegheny County, with a dry week ahead",
+    "headline": "Flood watch expires for Allegheny County, with a dry rest of the week ahead",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-09-22",
     "url": "https://www.post-gazette.com/news/weather-news/2026/09/22/flood-watch-likely-to-expire-tuesday-morning-for-allegheny-county-dry-week-ahead/stories/202609220026",
@@ -10,7 +96,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 26
+    "id": 30
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260922fetterman-mccormick-trumpstories202609220001",
@@ -21,7 +107,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsfaith-religion20260922st-anthony-chapel-troy-hill-vat",
@@ -34,7 +120,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20260922diabetes-association-walk-childrens-hosp",
@@ -47,7 +133,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 29
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20260922sto-rox-school-district-budgetstorie",
@@ -58,7 +144,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifegoodness20260922pittsburgh-nonprofits-grants-margueri",
@@ -71,7 +157,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 31
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessmoney20260922western-pennsylvania-home-heating-oi",
@@ -82,7 +168,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspittsburgh-company-news20260922chobani-lehigh-val",
@@ -93,21 +179,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1337302",
-    "headline": "Public Source at 15: Transparency matters",
-    "source": "PublicSource",
-    "date": "2026-09-22",
-    "url": "https://www.publicsource.org/public-source-at-15/",
-    "summary": "Every day for 15 days, we’re sharing notable impacts, reflections on how our newsroom — and the world — has changed in the last decade and a half, and what we’re thinking about as we look forward. The post Public Source at 15: Transparency matters appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "FORWARD"
-    ],
-    "category": "General",
-    "id": 46
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337521",
@@ -120,7 +192,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 47
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20260921narcotics-firearms-seized-traffic",
@@ -133,7 +205,7 @@
       "ALLEGHENY"
     ],
     "category": "Public Safety",
-    "id": 34
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20260921pittsburgh-finances-gainey-sear",
@@ -146,7 +218,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 35
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260921flooding-western-pennsylvania-lul",
@@ -157,7 +229,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20260921people-on-the-move-9-21-2",
@@ -168,7 +240,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20260921us-steel-thomson-plant-clean-airstories20260",
@@ -179,7 +251,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 38
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalregion20260921johnstown-pennsylvania-distressed-shop",
@@ -190,7 +262,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 39
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20260921fetterman-primary-2028stories20",
@@ -201,7 +273,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 40
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20260921pittsburgh-ice-287g-arrestssto",
@@ -212,7 +284,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 41
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337558",
@@ -226,7 +298,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 48
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337345",
@@ -239,55 +311,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 49
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifedining20260920penn-brewery-pittsburgh-oktoberfeststor",
-    "headline": "Penn Brewery celebrates Oktoberfest — and a new chapter",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-20",
-    "url": "https://www.post-gazette.com/life/dining/2026/09/20/penn-brewery-pittsburgh-oktoberfest/stories/202609200095",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20260920pittsburgh-flood-watch-1stories20",
-    "headline": "Parts of Western Pa. battered by flooding again as region braces for another wet week",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-20",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/09/20/pittsburgh-flood-watch-1/stories/202609200096",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20260920obamacare-pennsylvania",
-    "headline": "Double-digit increases await Pennsylvania Obamacare enrollees",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-20",
-    "url": "https://www.post-gazette.com/business/healthcare-business/2026/09/20/obamacare-pennsylvania-2027-highmark-upmc/stories/202609200086",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20260920carnegie-mellon-free-speechstories20",
-    "headline": "Carnegie Mellon moves to limit speech as controversial posts test limits of academic freedom",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-09-20",
-    "url": "https://www.post-gazette.com/news/education/2026/09/20/carnegie-mellon-free-speech/stories/202609180065",
-    "summary": null,
-    "geographicTags": [
-      "Oakland",
-      "CARNEGIE",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 45
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337494",
@@ -301,7 +325,7 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 50
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337355",
@@ -314,7 +338,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 51
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337414",
@@ -327,7 +351,7 @@
       "PITTSBURGH"
     ],
     "category": "Health",
-    "id": 52
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337462",
@@ -341,33 +365,6 @@
       "ALLEGHENY"
     ],
     "category": "Infrastructure/Transit",
-    "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1337460",
-    "headline": "As Allegheny County prepares for measles cases, director warns of 21 day quarantines",
-    "source": "PublicSource",
-    "date": "2026-09-16",
-    "url": "https://www.publicsource.org/measles-preparation-allegheny-county-schools/",
-    "summary": "The Health Department director met with school superintendents this week to plan a rapid response if measles cases arrive. The post As Allegheny County prepares for measles cases, director warns of 21 day quarantines appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "ALLEGHENY"
-    ],
-    "category": "Education",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1337448",
-    "headline": "‘Is my son an incel?’ Eradicate Hate panelists address gender-based hate.",
-    "source": "PublicSource",
-    "date": "2026-09-16",
-    "url": "https://www.publicsource.org/eradicate-hate-summit-men-gender-based-violence/",
-    "summary": "Violence is usually committed by men, and women are more likely to seek help for them. Experts at the Pittsburgh-based conference said conversation is the starting point. The post ‘Is my son an incel?’ Eradicate Hate panelists address gender-based hate. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
     "id": 55
   },
   {
