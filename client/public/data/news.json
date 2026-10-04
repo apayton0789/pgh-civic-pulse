@@ -1,5 +1,88 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261004duchenne-muscular-dystrophy-eteplirsens",
+    "headline": "This Pittsburgh man with a rare form of muscular dystrophy is bucking the odds with a clinical trial drug",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-04",
+    "url": "https://www.post-gazette.com/news/health/2026/10/04/duchenne-muscular-dystrophy-eteplirsen/stories/202610040021",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20261004father-drew-morgan-pittsburgh-newma",
+    "headline": "Obituary: Father Drew Morgan, Pittsburgh priest with ‘pastoral spirit,’ played key role in Newman’s canonization",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-04",
+    "url": "https://www.post-gazette.com/news/obituaries/2026/10/04/father-drew-morgan-pittsburgh-newman-duquesne/stories/202610020051",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261004carnegie-mellon-cmu-ken-griffin-miami-wy",
+    "headline": "Brandon McGinley: Did one of Pittsburgh’s crown jewels just get sold to Miami?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-04",
+    "url": "https://www.post-gazette.com/local/city/2026/10/04/carnegie-mellon-cmu-ken-griffin-miami-wynwood/stories/202610040038",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20261004measles-outbreak-western-pennsylvani",
+    "headline": "Here’s how Western Pa. school districts are preparing amid a statewide surge in measles cases",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-04",
+    "url": "https://www.post-gazette.com/news/education/2026/10/04/measles-outbreak-western-pennsylvania-schools/stories/202610010045",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Education",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261003riverview-park-day-allegheny-observatory",
+    "headline": "Riverview Park Day opens a window on the stars — in broad daylight",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-03",
+    "url": "https://www.post-gazette.com/local/city/2026/10/03/riverview-park-day-allegheny-observatory/stories/202610030046",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261003wilmerding-shooting-middle-avesto",
+    "headline": "Man in critical condition after shooting in Wilmerding",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-03",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/03/wilmerding-shooting-middle-ave/stories/202610030039",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20261003hollidaysburg-students-stop-runaway-bus-",
+    "headline": "Pa. students stop runaway school bus after driver goes unconscious",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-03",
+    "url": "https://www.post-gazette.com/news/state/2026/10/03/hollidaysburg-students-stop-runaway-bus-driver-unconscious/stories/202610030037",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Education",
+    "id": 32
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261003lucky-s-strip-district-shootingst",
     "headline": "Man in critical condition after shooting near Lucky's in the Strip District",
     "source": "Pittsburgh Post-Gazette",
@@ -11,7 +94,18 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 26
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261003social-media-rare-disease-community-sti",
+    "headline": "Meet two Pennsylvanians using social media to discuss their own rare diseases",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-03",
+    "url": "https://www.post-gazette.com/news/health/2026/10/03/social-media-rare-disease-community-stigma/stories/202610040023",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261003carnegie-mellon-cmu-griffin-miami-3-",
@@ -26,18 +120,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 27
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261003social-media-rare-disease-community-sti",
-    "headline": "Meet two Pennsylvanians using social media to discuss their own rare diseases",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-03",
-    "url": "https://www.post-gazette.com/news/health/2026/10/03/social-media-rare-disease-community-stigma/stories/202610040023",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 28
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalwashington20261002washington-county-flood-resources-",
@@ -48,7 +131,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261002oconnor-fire-budget-office-cabinet-appoi",
@@ -59,7 +142,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261002pittsburgh-budget-housing-aid-o",
@@ -72,7 +155,7 @@
       "PITTSBURGH"
     ],
     "category": "Development/Housing",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20261002police-bodycam-footage-luigi-mangione-ar",
@@ -83,7 +166,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 32
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspittsburgh-company-news20261002allegiant-air-pitt",
@@ -96,7 +179,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20261002forward-township-residents-data-",
@@ -109,7 +192,7 @@
       "FORWARD"
     ],
     "category": "General",
-    "id": 34
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261002man-stabbed-east-liberty-busway-s",
@@ -124,7 +207,7 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 35
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261002cupples-stadium-shooting-south-si",
@@ -137,11 +220,11 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 36
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeholidays20261002jack-o-lantern-extravaganza-pittsburg",
-    "headline": "How did the Pittsburgh Pumpkin Guy and other artists carve 4,200 jack-o'-lanterns for the Pittsburgh Zoo?",
+    "headline": "How did the Pittsburgh Pumpkin Guy and other artists carve 4,200 jack-o’-lanterns for the Pittsburgh Zoo?",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-10-02",
     "url": "https://www.post-gazette.com/life/holidays/2026/10/02/jack-o-lantern-extravaganza-pittsburgh-zoo/stories/202610010067",
@@ -150,7 +233,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 37
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261002pittsburgh-area-medica",
@@ -163,21 +246,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261002buying-here-wyoming-st-mount-washi",
-    "headline": "Buying Here: 'Eclectic' Mount Washington Victorian with a neon kitchen priced at $499,000",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-02",
-    "url": "https://www.post-gazette.com/life/buying-here/2026/10/02/buying-here-wyoming-st-mount-washington-spatter-pittsburgh/stories/202609180005",
-    "summary": null,
-    "geographicTags": [
-      "Mount Washington",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 39
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338660",
@@ -319,79 +388,6 @@
     ],
     "category": "Development/Housing",
     "id": 55
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261001swissvale-shooting-locust-ststori",
-    "headline": "Man found shot and killed inside Swissvale home",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-01",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/01/swissvale-shooting-locust-st/stories/202610010039",
-    "summary": null,
-    "geographicTags": [
-      "SWISSVALE"
-    ],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261001duquesne-light-union-workers-s",
-    "headline": "Duquesne Light union workers go on strike",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-01",
-    "url": "https://www.post-gazette.com/business/powersource/2026/10/01/duquesne-light-union-workers-strike/stories/202610010037",
-    "summary": null,
-    "geographicTags": [
-      "DUQUESNE"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20261001obituary-roselind-wood-clergy-spous",
-    "headline": "Obituary: Roselind ‘Rosie’ Wood, formed early online support group for clergy spouses",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-01",
-    "url": "https://www.post-gazette.com/news/obituaries/2026/10/01/obituary-roselind-wood-clergy-spouse/stories/202610010026",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewssocial-services20261001roots-north-side-closurestorie",
-    "headline": "Protesters gather as North Side drop-in center shuts its doors after city ended lease",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-01",
-    "url": "https://www.post-gazette.com/news/social-services/2026/10/01/roots-north-side-closure/stories/202609300062",
-    "summary": null,
-    "geographicTags": [
-      "North Side",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifegoodness20261001families-matter-food-pantry-beaver-co",
-    "headline": "Veterans, working families and others rely each week on Beaver County food pantry",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-01",
-    "url": "https://www.post-gazette.com/life/goodness/2026/10/01/families-matter-food-pantry-beaver-county/stories/202610010003",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261001hacp-portland-home-forward-ivory-mathews",
-    "headline": "Brandon McGinley: How new housing authority director can shake off her Oregon scandal",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-01",
-    "url": "https://www.post-gazette.com/local/city/2026/10/01/hacp-portland-home-forward-ivory-mathews-affordable-housing/stories/202609280003",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Development/Housing",
-    "id": 45
   },
   {
     "externalId": "news_1",
