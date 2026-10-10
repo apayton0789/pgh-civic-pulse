@@ -1,5 +1,122 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261010wind-advisory-southwestern-pa-wes",
+    "headline": "Wind advisory posted for southwestern Pa. beginning Saturday night",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-10",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/10/10/wind-advisory-southwestern-pa-west-virginia/stories/202610100038",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261010homewood-pittsburgh-homicidestori",
+    "headline": "Man shot and killed overnight in Homewood",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-10",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/10/homewood-pittsburgh-homicide/stories/202610100034",
+    "summary": null,
+    "geographicTags": [
+      "Homewood",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20261010carnegie-mellon-miami-grand-challeng",
+    "headline": "Explaining CMU Miami's 'grand challenges' model",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-10",
+    "url": "https://www.post-gazette.com/news/education/2026/10/10/carnegie-mellon-miami-grand-challenges/stories/202610090067",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261010midterm-pennsylvania-senate-ward-costast",
+    "headline": "Brandon McGinley: These midterms could change everything for Pittsburgh",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-10",
+    "url": "https://www.post-gazette.com/local/city/2026/10/10/midterm-pennsylvania-senate-ward-costa/stories/202610110052",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261010pittsburgh-teacher-pushups-guinness-wor",
+    "headline": "At 54, a Falk School teacher breaks Guinness World Record for pushups in an hour",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-10",
+    "url": "https://www.post-gazette.com/news/health/2026/10/10/pittsburgh-teacher-pushups-guinness-world-record/stories/202610110004",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Education",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsstate20261009pennsylvania-supreme-court-skill-games-d",
+    "headline": "Pa. Supreme Court rejects efforts to push back critical deadline on skill games",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-09",
+    "url": "https://www.post-gazette.com/news/state/2026/10/09/pennsylvania-supreme-court-skill-games-deadline/stories/202610090070",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalwashington20261009pennsylvania-state-police-shoot-ma",
+    "headline": "Man shot and wounded by Pennsylvania State Police in Washington",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-09",
+    "url": "https://www.post-gazette.com/local/washington/2026/10/09/pennsylvania-state-police-shoot-man-washington/stories/202610090062",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261009allegheny-general-hosp",
+    "headline": "Unionized AGH nurses rally, threaten to strike this month as contract negotiations continue",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-09",
+    "url": "https://www.post-gazette.com/business/healthcare-business/2026/10/09/allegheny-general-hospital-unionized-nurses-rally/stories/202610090061",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewseducation20261009jd-vance-university-of-pittsburgh-vi",
+    "headline": "Pitt is 1 of 9 universities under investigation for potential visa fraud, JD Vance says",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-09",
+    "url": "https://www.post-gazette.com/news/education/2026/10/09/jd-vance-university-of-pittsburgh-visa-fraud-investigation/stories/202610090058",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 34
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261009pennsylvania-turnpike-allegheny",
+    "headline": "After Allegheny Mountain fire, Pa. Turnpike to make changes at all tunnels",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-09",
+    "url": "https://www.post-gazette.com/news/transportation/2026/10/09/pennsylvania-turnpike-allegheny-mountain-tunnel-fire/stories/202610090051",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Public Safety",
+    "id": 35
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261009innamorato-paid-leave-family-valuesstories20",
     "headline": "Letter to the editor: Family values include paid leave",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +125,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifegarden20261009phipps-fall-flower-show-alices-adventur",
@@ -19,7 +136,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 27
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261009buying-here-downtown-pittsburgh-co",
@@ -33,7 +150,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1316546",
@@ -86,7 +203,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 29
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261008paid-parental-leave-allegheny-c",
@@ -99,7 +216,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 30
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261008richard-deshantz-pittsburgh-arres",
@@ -110,7 +227,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 31
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20261008homeland-security-targets-democratic-cam",
@@ -121,7 +238,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 32
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261008alpha-gal-syndrome-ticks-pittsburghstor",
@@ -132,7 +249,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261008hurricane-isaias-pittsburgh-rains",
@@ -145,7 +262,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 34
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261008slippery-rock-pennwest-iup-enrollmen",
@@ -156,79 +273,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 35
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20261008butler-county-forward-township-d",
-    "headline": "As data center backlash grows, residents in Forward Township beg leaders to ‘please, please hear us’",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/10/08/butler-county-forward-township-data-center-backlash/stories/202610020033",
-    "summary": null,
-    "geographicTags": [
-      "FORWARD"
-    ],
-    "category": "General",
-    "id": 36
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20261008allegheny-t-station-esclator-steelers-acrisu",
-    "headline": "Letter to the editor: Fix Allegheny T station escalators",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/local/2026/10/08/allegheny-t-station-esclator-steelers-acrisure-transit-prt/stories/202610080002",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "General",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalwestmoreland20261008burrell-basketball-toilet-fundra",
-    "headline": "This Western Pa. youth basketball team is trying to get flush with cash using a toilet",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/local/westmoreland/2026/10/08/burrell-basketball-toilet-fundraiser/stories/202610060062",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261008oconnor-gainey-budget-fund-reserve-insol",
-    "headline": "Brandon McGinley: The story behind Corey O’Connor’s dire budget",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/local/city/2026/10/08/oconnor-gainey-budget-fund-reserve-insolvent/stories/202610080004",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government/Budget",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifegoodness20261008yinz-are-good-podcast-tressa-gloverst",
-    "headline": "‘Yinz Are Good’ is still going strong — and so is the feel-good podcast’s creator",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/life/goodness/2026/10/08/yinz-are-good-podcast-tressa-glover/stories/202610080005",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifegoodness20261008gold-medal-futsal-tournament-brazil-a",
-    "headline": "10-year-old Plum girl leads U.S. to gold in an international futsal tournament in Brazil",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/life/goodness/2026/10/08/gold-medal-futsal-tournament-brazil-amelia-siemon-plum/stories/202610050018",
-    "summary": null,
-    "geographicTags": [
-      "PLUM"
-    ],
-    "category": "General",
-    "id": 41
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334872",
@@ -284,54 +329,6 @@
     ],
     "category": "General",
     "id": 52
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomsportshighschool20261007cupples-stadium-new-security-prot",
-    "headline": "Chaperones, student IDs to be required for Pittsburgh Public Schools sporting events at Cupples Stadium",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-07",
-    "url": "https://www.post-gazette.com/sports/highschool/2026/10/07/cupples-stadium-new-security-protocols/stories/202610070060",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Education",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261007dlc-strike-duquesne-light-ibew",
-    "headline": "Duquesne Light union negotiations bring guarded hope that strike could soon end",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-07",
-    "url": "https://www.post-gazette.com/business/powersource/2026/10/07/dlc-strike-duquesne-light-ibew-local-29-negotiations/stories/202610070058",
-    "summary": null,
-    "geographicTags": [
-      "DUQUESNE"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261007homophobic-remarks-lawrence-cou",
-    "headline": "GOP lawmaker under fire for purported homophobic remarks loses House committee assignments",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-07",
-    "url": "https://www.post-gazette.com/news/politics-state/2026/10/07/homophobic-remarks-lawrence-county-bernstine-state-rep/stories/202610070049",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261007gold-federal-reserve-investmentsstor",
-    "headline": "Gold surged to a record, then fell hard. What happened?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-07",
-    "url": "https://www.post-gazette.com/business/money/2026/10/07/gold-federal-reserve-investments/stories/202610110039",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338808",
