@@ -1,5 +1,104 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261011somerset-county-homicide-wendy-wo",
+    "headline": "Somerset County woman killed her husband in their Salisbury home, police say",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-11",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/11/somerset-county-homicide-wendy-wolf/stories/202610110092",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Public Safety",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261011flood-warning-pittsburgh-weathers",
+    "headline": "Update: Flood warning extended for parts of region until 4:30 p.m.",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-11",
+    "url": "https://www.post-gazette.com/news/weather-news/2026/10/11/flood-warning-pittsburgh-weather/stories/202610110090",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20261011tick-larval-bombs-allegheny-countysto",
+    "headline": "As longhorned tick populations soar in Allegheny County, 'larval bombs' surprise residents",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-11",
+    "url": "https://www.post-gazette.com/life/outdoors/2026/10/11/tick-larval-bombs-allegheny-county/stories/202610090035",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261011pennsylvania-skill-games-deadli",
+    "headline": "Pennsylvania's skill games industry is about to go dark. What could the fallout be?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-11",
+    "url": "https://www.post-gazette.com/news/politics-state/2026/10/11/pennsylvania-skill-games-deadline-1/stories/202610080069",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261011medicare-advantage-ins",
+    "headline": "In Pittsburgh, Medicare Advantage shopping can be a trial. AI to the rescue?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-11",
+    "url": "https://www.post-gazette.com/business/healthcare-business/2026/10/11/medicare-advantage-insurance-ai-pittsburgh/stories/202610020062",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewssocial-services20261011aging-agencies-elder-abusestor",
+    "headline": "Local aging agencies are responding faster than ever to reports of suspected elder abuse",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-11",
+    "url": "https://www.post-gazette.com/news/social-services/2026/10/11/aging-agencies-elder-abuse/stories/202610060010",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Infrastructure/Transit",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1338908",
+    "headline": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
+    "source": "PublicSource",
+    "date": "2026-10-11",
+    "url": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
+    "summary": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers. The post Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "DUQUESNE",
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalnorth20261010prt-bus-crash-ross-park-mallstories2026",
+    "headline": "More than a dozen injured after Pittsburgh Regional Transit bus crashes in Ross Park Mall parking lot",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-10",
+    "url": "https://www.post-gazette.com/local/north/2026/10/10/prt-bus-crash-ross-park-mall/stories/202610100044",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH",
+      "ROSS"
+    ],
+    "category": "Infrastructure/Transit",
+    "id": 32
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261010wind-advisory-southwestern-pa-wes",
     "headline": "Wind advisory posted for southwestern Pa. beginning Saturday night",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +107,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261010homewood-pittsburgh-homicidestori",
@@ -22,7 +121,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 27
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261010carnegie-mellon-miami-grand-challeng",
@@ -33,7 +132,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 28
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261010midterm-pennsylvania-senate-ward-costast",
@@ -46,7 +145,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261010pittsburgh-teacher-pushups-guinness-wor",
@@ -57,7 +156,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20261009pennsylvania-supreme-court-skill-games-d",
@@ -68,7 +167,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalwashington20261009pennsylvania-state-police-shoot-ma",
@@ -79,7 +178,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 32
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261009allegheny-general-hosp",
@@ -90,7 +189,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261009jd-vance-university-of-pittsburgh-vi",
@@ -101,7 +200,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 34
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261009pennsylvania-turnpike-allegheny",
@@ -114,7 +213,7 @@
       "ALLEGHENY"
     ],
     "category": "Public Safety",
-    "id": 35
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261009innamorato-paid-leave-family-valuesstories20",
@@ -125,7 +224,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifegarden20261009phipps-fall-flower-show-alices-adventur",
@@ -136,7 +235,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 37
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261009buying-here-downtown-pittsburgh-co",
@@ -150,7 +249,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1316546",
@@ -163,7 +262,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338892",
@@ -177,7 +276,7 @@
       "ALLEGHENY"
     ],
     "category": "Education",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338674",
@@ -190,90 +289,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 48
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261008allegheny-county-jail-homicide-ty",
-    "headline": "8 men will go to trial in alleged Allegheny County Jail murder",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/08/allegheny-county-jail-homicide-tyrone-good/stories/202610080078",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261008paid-parental-leave-allegheny-c",
-    "headline": "Allegheny County lawmakers tee up a final vote on the controversial paid parental leave policy",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/news/politics-local/2026/10/08/paid-parental-leave-allegheny-county-council/stories/202610080070",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261008richard-deshantz-pittsburgh-arres",
-    "headline": "Richard DeShantz Restaurant Group founder and CEO arrested on assault charges",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/08/richard-deshantz-pittsburgh-arrest/stories/202610080072",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsstate20261008homeland-security-targets-democratic-cam",
-    "headline": "Homeland Security targets Democratic campaign after ICE arrest in Pennsylvania",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/news/state/2026/10/08/homeland-security-targets-democratic-campaign-ice-arrest-pennsylvania/stories/202610080073",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261008alpha-gal-syndrome-ticks-pittsburghstor",
-    "headline": "Western Pa. woman reportedly diagnosed with alpha-gal syndrome, a tick-borne illness",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/news/health/2026/10/08/alpha-gal-syndrome-ticks-pittsburgh/stories/202610080062",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261008hurricane-isaias-pittsburgh-rains",
-    "headline": "All-day rain expected Sunday in Pittsburgh from the remnants of Hurricane Isaias",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/10/08/hurricane-isaias-pittsburgh-rain/stories/202610080064",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20261008slippery-rock-pennwest-iup-enrollmen",
-    "headline": "Western Pa.'s state-owned universities report stable enrollment as a projected cliff looms",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-08",
-    "url": "https://www.post-gazette.com/news/education/2026/10/08/slippery-rock-pennwest-iup-enrollment-cliff/stories/202610080054",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 45
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334872",
@@ -286,7 +302,7 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338881",
@@ -300,7 +316,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338864",
@@ -314,7 +330,7 @@
       "ALLEGHENY"
     ],
     "category": "Education",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337887",
@@ -328,7 +344,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338808",
@@ -341,7 +357,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338724",
@@ -350,19 +366,6 @@
     "date": "2026-10-07",
     "url": "https://www.publicsource.org/inside-our-newsroom-reader-feedback-coverage/",
     "summary": "People aren’t asking for fluff. They want stories that could leave them feeling good or give them something useful to act on. They also want more attention to what makes this region a good place to live and to people whose contributions are under the radar. The post Inside our newsroom: How your feedback is shaping our journalism appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1338719",
-    "headline": "Pittsburgh’s tech boom isn’t reaching every neighborhood, and many locals are skeptical of the future",
-    "source": "PublicSource",
-    "date": "2026-10-06",
-    "url": "https://www.publicsource.org/pittsburgh-tech-jobs-growth-economy-investment-equity/",
-    "summary": "A new survey of 200 residents surfaced simmering discontent. Leaders say manufacturing jobs, AI training and early VC could boost equitable economic growth. The post Pittsburgh’s tech boom isn’t reaching every neighborhood, and many locals are skeptical of the future appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
     "geographicTags": [
       "PITTSBURGH"
     ],
