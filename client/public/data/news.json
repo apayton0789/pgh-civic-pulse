@@ -1,5 +1,100 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20261013trump-ohio-rally-jon-hustedsto",
+    "headline": "Trump attacks immigrants from Somalia and Haiti while rallying in Ohio for Republican candidates",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-13",
+    "url": "https://www.post-gazette.com/news/politics-nation/2026/10/13/trump-ohio-rally-jon-husted/stories/202610130039",
+    "summary": null,
+    "geographicTags": [
+      "OHIO"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261013arnold-palmer-airport-announces",
+    "headline": "Breeze Airways is coming to Arnold Palmer Regional Airport",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-13",
+    "url": "https://www.post-gazette.com/news/transportation/2026/10/13/arnold-palmer-airport-announces-new-carrier-breeze-airways/stories/202610130044",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261013cupples-stadium-shooting-pittsbur",
+    "headline": "Teenager charged in Oct. 1 shooting after high school football game at Cupples Stadium",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-13",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/13/cupples-stadium-shooting-pittsburgh-charges/stories/202610130038",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Education",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261013autumn-fall-apple-pickingstories20261013",
+    "headline": "Brandon McGinley: The gift of fall",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-13",
+    "url": "https://www.post-gazette.com/local/city/2026/10/13/autumn-fall-apple-picking/stories/202610130001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20261013erie-county-prison-ice-immigra",
+    "headline": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-13",
+    "url": "https://www.post-gazette.com/news/politics-nation/2026/10/13/erie-county-prison-ice-immigration/stories/202610090008",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Government",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomaebooks20261013review-joe-manganiello-bloodlinesstories20",
+    "headline": "Review: Joe Manganiello’s new memoir starts at death's door and ends where he began, in Pittsburgh",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-13",
+    "url": "https://www.post-gazette.com/ae/books/2026/10/13/review-joe-manganiello-bloodlines/stories/202610130002",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomaebooks20261013joe-manganiello-pittsburgh-dungeons-and-dr",
+    "headline": "‘My dream job’: Joe Manganiello is just your friendly, neighborhood wizard",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-13",
+    "url": "https://www.post-gazette.com/ae/books/2026/10/13/joe-manganiello-pittsburgh-dungeons-and-dragons/stories/202610130004",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1338738",
+    "headline": "Voter guide 2026: Where candidates stand on ICE, war and data centers",
+    "source": "PublicSource",
+    "date": "2026-10-13",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/",
+    "summary": "There are 17 contested legislative races in Allegheny County this year. Here’s what the candidates said on the issues you flagged. The post Voter guide 2026: Where candidates stand on ICE, war and data centers appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH",
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 46
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnews20261012washington-shooting-state-police-deafstories2",
     "headline": "Community looking for answers after a man was shot and killed by Pennsylvania State Police in Washington",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +103,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 26
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261012us-steel-nippon-hiring-eventst",
@@ -21,7 +116,7 @@
       "DUQUESNE"
     ],
     "category": "Business",
-    "id": 27
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsstate20261012spanish-language-radio-show-voters-penns",
@@ -32,7 +127,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 28
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20261012people-on-the-move-10-12-",
@@ -43,7 +138,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 29
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261012newborn-drug-withdrawa",
@@ -56,7 +151,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 30
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261012pittsburgh-tattoo-art-museum-nick-ackman",
@@ -69,7 +164,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 31
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338957",
@@ -82,7 +177,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261011duquesne-light-union-contracts",
@@ -95,7 +190,7 @@
       "DUQUESNE"
     ],
     "category": "General",
-    "id": 32
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261011somerset-county-homicide-wendy-wo",
@@ -106,7 +201,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 33
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261011flood-warning-pittsburgh-weathers",
@@ -117,7 +212,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 34
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20261011tick-larval-bombs-allegheny-countysto",
@@ -130,7 +225,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 35
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261011medicare-advantage-ins",
@@ -143,7 +238,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 36
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261011superager-pitt-jim-choykestories2026092",
@@ -154,7 +249,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261011pennsylvania-skill-games-deadli",
@@ -165,18 +260,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewssocial-services20261011aging-agencies-elder-abusestor",
-    "headline": "Local aging agencies are responding faster than ever to reports of suspected elder abuse",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-11",
-    "url": "https://www.post-gazette.com/news/social-services/2026/10/11/aging-agencies-elder-abuse/stories/202610060010",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Infrastructure/Transit",
-    "id": 39
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338908",
@@ -191,81 +275,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 47
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalnorth20261010prt-bus-crash-ross-park-mallstories2026",
-    "headline": "More than a dozen injured after Pittsburgh Regional Transit bus crashes in Ross Park Mall parking lot",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-10",
-    "url": "https://www.post-gazette.com/local/north/2026/10/10/prt-bus-crash-ross-park-mall/stories/202610100044",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH",
-      "ROSS"
-    ],
-    "category": "Infrastructure/Transit",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261010wind-advisory-southwestern-pa-wes",
-    "headline": "Wind advisory posted for southwestern Pa. beginning Saturday night",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-10",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/10/10/wind-advisory-southwestern-pa-west-virginia/stories/202610100038",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261010homewood-pittsburgh-homicidestori",
-    "headline": "Man shot and killed overnight in Homewood",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-10",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/10/homewood-pittsburgh-homicide/stories/202610100034",
-    "summary": null,
-    "geographicTags": [
-      "Homewood",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20261010carnegie-mellon-miami-grand-challeng",
-    "headline": "Explaining CMU Miami’s ‘grand challenges’ model",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-10",
-    "url": "https://www.post-gazette.com/news/education/2026/10/10/carnegie-mellon-miami-grand-challenges/stories/202610090067",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261010midterm-pennsylvania-senate-ward-costast",
-    "headline": "Brandon McGinley: These midterms could change everything for Pittsburgh",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-10",
-    "url": "https://www.post-gazette.com/local/city/2026/10/10/midterm-pennsylvania-senate-ward-costa/stories/202610110052",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261010pittsburgh-teacher-pushups-guinness-wor",
-    "headline": "At 54, a Falk School teacher breaks Guinness World Record for pushups in an hour",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-10",
-    "url": "https://www.post-gazette.com/news/health/2026/10/10/pittsburgh-teacher-pushups-guinness-world-record/stories/202610110004",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Education",
-    "id": 45
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1316546",
@@ -278,7 +288,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338892",
@@ -292,7 +302,7 @@
       "ALLEGHENY"
     ],
     "category": "Education",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338674",
@@ -305,7 +315,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1334872",
@@ -318,7 +328,7 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338881",
@@ -332,7 +342,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338864",
@@ -346,7 +356,7 @@
       "ALLEGHENY"
     ],
     "category": "Education",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1337887",
@@ -357,19 +367,6 @@
     "summary": "Someday the dozens of planned trees will be expansive, hearty and prolific, and the orchard full. As of now, less than half of the planting has been completed; what exists is small and thin. The post An orchard for all is taking root in Pittsburgh’s Highland Park appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
     "geographicTags": [
       "Highland Park",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1338808",
-    "headline": "Minority contractors largely absent from ALCOSAN’s billion-dollar tunnel plan",
-    "source": "PublicSource",
-    "date": "2026-10-07",
-    "url": "https://www.publicsource.org/alcosan-ohio-river-tunnel-minority-contracting/",
-    "summary": "“If Black people get 1%, that would be the highest level they could get, that is not acceptable. That is nothing to be running down the street with pompoms about,” said Tim Stevens, chairman of the Black Political Empowerment Project. The post Minority contractors largely absent from ALCOSAN’s billion-dollar tunnel plan appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
       "PITTSBURGH"
     ],
     "category": "General",
