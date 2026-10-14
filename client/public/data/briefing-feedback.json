@@ -2,6 +2,133 @@
   "items": [
     {
       "id": "news-46",
+      "headline": "What happened to Pennsylvania’s hydrogen hubs?",
+      "governmentLevel": "local",
+      "topicArea": "Government",
+      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
+      "whatChanged": "Backed by the federal government and bipartisan leadership, Pennsylvania’s hydrogen projects were supposed to create jobs and slash emissions. Now, they’re in limbo. The post What happened to Pennsylvania’s hydrogen hubs? appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofi",
+      "urgency": "high",
+      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
+      "keyStakeholders": [
+        "PublicSource",
+        "PITTSBURGH"
+      ],
+      "evidenceBullets": [
+        {
+          "text": "Backed by the federal government and bipartisan leadership, Pennsylvania’s hydrogen projects were supposed to create jobs and slash emissions.",
+          "sourceIds": [
+            "src-news-46"
+          ]
+        },
+        {
+          "text": "Now, they’re in limbo.",
+          "sourceIds": [
+            "src-news-46"
+          ]
+        },
+        {
+          "text": "The post What happened to Pennsylvania’s hydrogen hubs? appeared first on Pittsburgh&#039;s Public Source.",
+          "sourceIds": [
+            "src-news-46"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src-news-46",
+          "title": "What happened to Pennsylvania’s hydrogen hubs?",
+          "url": "https://www.publicsource.org/hydrogen-hubs-fracking-jobs-pennsylvania/",
+          "publishedDate": "2026-10-14",
+          "retrievedDate": "2026-10-14",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium",
+          "quote": "Backed by the federal government and bipartisan leadership, Pennsylvania’s hydrogen projects were supposed to create jobs and slash emissions. Now, they’re in limbo. The post What happened to Pennsylv"
+        }
+      ],
+      "confidenceLevel": "medium",
+      "importanceScore": 7,
+      "urgencyScore": 6,
+      "localRelevance": 6,
+      "influenceability": 5,
+      "displayHeadline": "What happened to Pennsylvania’s hydrogen hubs?",
+      "oneLineSummary": "Backed by the federal government and bipartisan leadership, Pennsylvania’s hydrogen projects were supposed to create job",
+      "categoryTag": "Government",
+      "categoryColor": "#f97316",
+      "keyStatOrQuote": "Backed by the federal government and bipartisan leadership, Pennsylvania’s hydrogen projects were su",
+      "strongestSourceLabel": "PublicSource — 2026-10-14",
+      "strongestSourceUrl": "https://www.publicsource.org/hydrogen-hubs-fracking-jobs-pennsylvania/",
+      "callToAction": "Contact your representative",
+      "infographicCaption": "PublicSource — 2026-10-14",
+      "date": "2026-10-14",
+      "relatedNewsId": 46,
+      "feedbackOpportunity": true
+    },
+    {
+      "id": "news-47",
+      "headline": "Springdale’s data center proposal enters Allegheny County’s public process",
+      "governmentLevel": "local",
+      "topicArea": "Government",
+      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
+      "whatChanged": "A virtual meeting tonight, called a SALDO, will be followed by an in-person hearing and written comment process. Here’s what the county has flagged so far. The post Springdale’s data center proposal enters Allegheny County’s public process appeared first on Pittsburgh&#039;s Public Source . PublicSo",
+      "urgency": "high",
+      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
+      "keyStakeholders": [
+        "PublicSource",
+        "PITTSBURGH",
+        "SPRINGDALE"
+      ],
+      "evidenceBullets": [
+        {
+          "text": "A virtual meeting tonight, called a SALDO, will be followed by an in-person hearing and written comment process.",
+          "sourceIds": [
+            "src-news-47"
+          ]
+        },
+        {
+          "text": "Here’s what the county has flagged so far.",
+          "sourceIds": [
+            "src-news-47"
+          ]
+        },
+        {
+          "text": "The post Springdale’s data center proposal enters Allegheny County’s public process appeared first on Pittsburgh&#039;s Public Source.",
+          "sourceIds": [
+            "src-news-47"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src-news-47",
+          "title": "Springdale’s data center proposal enters Allegheny County’s public process",
+          "url": "https://www.publicsource.org/springdale-data-center-county-saldo-review/",
+          "publishedDate": "2026-10-14",
+          "retrievedDate": "2026-10-14",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium",
+          "quote": "A virtual meeting tonight, called a SALDO, will be followed by an in-person hearing and written comment process. Here’s what the county has flagged so far. The post Springdale’s data center proposal e"
+        }
+      ],
+      "confidenceLevel": "medium",
+      "importanceScore": 7,
+      "urgencyScore": 6,
+      "localRelevance": 6,
+      "influenceability": 5,
+      "displayHeadline": "Springdale’s data center proposal enters Allegheny County’s public process",
+      "oneLineSummary": "A virtual meeting tonight, called a SALDO, will be followed by an in-person hearing and written comment process. Here’s ",
+      "categoryTag": "Government",
+      "categoryColor": "#f97316",
+      "keyStatOrQuote": "A virtual meeting tonight, called a SALDO, will be followed by an in-person hearing and written comm",
+      "strongestSourceLabel": "PublicSource — 2026-10-14",
+      "strongestSourceUrl": "https://www.publicsource.org/springdale-data-center-county-saldo-review/",
+      "callToAction": "Contact your representative",
+      "infographicCaption": "PublicSource — 2026-10-14",
+      "date": "2026-10-14",
+      "relatedNewsId": 47,
+      "feedbackOpportunity": true
+    },
+    {
+      "id": "news-49",
       "headline": "Voter guide 2026: Where candidates stand on ICE, war and data centers",
       "governmentLevel": "local",
       "topicArea": "Government",
@@ -18,29 +145,29 @@
         {
           "text": "There are 17 contested legislative races in Allegheny County this year.",
           "sourceIds": [
-            "src-news-46"
+            "src-news-49"
           ]
         },
         {
           "text": "Here’s what the candidates said on the issues you flagged.",
           "sourceIds": [
-            "src-news-46"
+            "src-news-49"
           ]
         },
         {
           "text": "The post Voter guide 2026: Where candidates stand on ICE, war and data centers appeared first on Pittsburgh&#039;s Public Source.",
           "sourceIds": [
-            "src-news-46"
+            "src-news-49"
           ]
         }
       ],
       "sources": [
         {
-          "id": "src-news-46",
+          "id": "src-news-49",
           "title": "Voter guide 2026: Where candidates stand on ICE, war and data centers",
           "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/",
           "publishedDate": "2026-10-13",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "There are 17 contested legislative races in Allegheny County this year. Here’s what the candidates said on the issues you flagged. The post Voter guide 2026: Where candidates stand on ICE, war and dat"
@@ -61,71 +188,7 @@
       "callToAction": "Contact your representative",
       "infographicCaption": "PublicSource — 2026-10-13",
       "date": "2026-10-13",
-      "relatedNewsId": 46,
-      "feedbackOpportunity": true
-    },
-    {
-      "id": "news-48",
-      "headline": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
-      "governmentLevel": "local",
-      "topicArea": "Government",
-      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-      "whatChanged": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers. The post Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do. appeared first on Pittsb",
-      "urgency": "high",
-      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
-      "keyStakeholders": [
-        "PublicSource",
-        "PITTSBURGH",
-        "DUQUESNE"
-      ],
-      "evidenceBullets": [
-        {
-          "text": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers.",
-          "sourceIds": [
-            "src-news-48"
-          ]
-        },
-        {
-          "text": "The post Blackouts are getting worse.",
-          "sourceIds": [
-            "src-news-48"
-          ]
-        },
-        {
-          "text": "Here’s what Duquesne Light is doing — and what it won’t do.",
-          "sourceIds": [
-            "src-news-48"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "src-news-48",
-          "title": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
-          "url": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
-          "publishedDate": "2026-10-11",
-          "retrievedDate": "2026-10-13",
-          "sourceType": "secondary",
-          "confidenceLevel": "medium",
-          "quote": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers. The post Blackouts are"
-        }
-      ],
-      "confidenceLevel": "medium",
-      "importanceScore": 7,
-      "urgencyScore": 6,
-      "localRelevance": 6,
-      "influenceability": 5,
-      "displayHeadline": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
-      "oneLineSummary": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power o",
-      "categoryTag": "Government",
-      "categoryColor": "#f97316",
-      "keyStatOrQuote": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light w",
-      "strongestSourceLabel": "PublicSource — 2026-10-11",
-      "strongestSourceUrl": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
-      "callToAction": "Contact your representative",
-      "infographicCaption": "PublicSource — 2026-10-11",
-      "date": "2026-10-11",
-      "relatedNewsId": 48,
+      "relatedNewsId": 49,
       "feedbackOpportunity": true
     },
     {
@@ -192,7 +255,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -202,7 +265,7 @@
           "title": "Allegheny County Council Regular Meeting — Passage of ICE Non-Cooperation Ordinance 13809-26",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -284,7 +347,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -294,7 +357,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Banksville Halfway House Opposition, Budget Deficit Backdrop, New Bills Introduced",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -376,7 +439,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -386,7 +449,7 @@
           "title": "Pittsburgh City Council Post-Agenda — Climate Action Plan Update and Progress Review",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Post-Agenda"
@@ -474,7 +537,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -484,7 +547,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Planning Commission Appointment Controversy, Banksville Halfway House Opposition, Safe Streets Bills",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -572,7 +635,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -582,7 +645,7 @@
           "title": "Allegheny County Council Regular Meeting — ICE Ordinance Public Preview, Tenant Protections Introduction, Budget Resolution",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -658,7 +721,7 @@
           "title": "Allegheny County Council TV — Port Authority of Allegheny County (Pittsburgh Regional Transit) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -668,7 +731,7 @@
           "title": "PRT Board — Bus Line Refresh Unveiled, Berry Street Tunnel Contract ($11.7M), University Line All-Door Boarding, and CEO Bonus Approved",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board Meeting"
@@ -690,55 +753,6 @@
       "infographicCaption": "Port Authority of Allegheny County (Pittsburgh Regional Transit) — 2026-02-27",
       "date": "2026-02-27",
       "relatedMeetingId": 12,
-      "feedbackOpportunity": true
-    },
-    {
-      "id": "news-30",
-      "headline": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
-      "governmentLevel": "local",
-      "topicArea": "Government",
-      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-      "whatChanged": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
-      "urgency": "high",
-      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
-      "keyStakeholders": [
-        "Pittsburgh Post-Gazette"
-      ],
-      "evidenceBullets": [
-        {
-          "text": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
-          "sourceIds": [
-            "src-news-30"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "src-news-30",
-          "title": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
-          "url": "https://www.post-gazette.com/news/politics-nation/2026/10/13/erie-county-prison-ice-immigration/stories/202610090008",
-          "publishedDate": "2026-10-13",
-          "retrievedDate": "2026-10-13",
-          "sourceType": "secondary",
-          "confidenceLevel": "medium"
-        }
-      ],
-      "confidenceLevel": "medium",
-      "importanceScore": 7,
-      "urgencyScore": 6,
-      "localRelevance": 6,
-      "influenceability": 5,
-      "displayHeadline": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
-      "oneLineSummary": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
-      "categoryTag": "Government",
-      "categoryColor": "#f97316",
-      "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-13",
-      "strongestSourceUrl": "https://www.post-gazette.com/news/politics-nation/2026/10/13/erie-county-prison-ice-immigration/stories/202610090008",
-      "callToAction": "Contact your representative",
-      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-13",
-      "date": "2026-10-13",
-      "relatedNewsId": 30,
       "feedbackOpportunity": true
     },
     {
@@ -799,7 +813,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-02-25",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -809,7 +823,7 @@
           "title": "Pittsburgh Public Schools Legislative Meeting — Wildflower Montessori Charter Denial, AFSCME Contract, Legislative Consulting Switch",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Legislative Meeting"
@@ -891,7 +905,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -901,7 +915,7 @@
           "title": "Pittsburgh Public Schools Policy Workshop — Six Policies for 30-Day Review: Academic Standards, Exemptions, Athletics, Attendance, Weapons, Public Records",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Policy Workshop"
@@ -983,7 +997,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-02",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -993,7 +1007,7 @@
           "title": "Pittsburgh Public Schools Budget and Finance Committee — 2026 Budget Review and 2027 Planning Framework",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Budget and Finance Committee"
@@ -1069,7 +1083,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -1079,7 +1093,7 @@
           "title": "Zoning Board of Adjustment — CMU Restaurant Special Exception, Subdivision Cases, and Parking Pad Variances",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -1155,7 +1169,7 @@
           "title": "Urban Redevelopment Authority — Urban Redevelopment Authority (URA) Board Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Urban Redevelopment Authority"
@@ -1165,7 +1179,7 @@
           "title": "URA Board — Hazelwood Land Sale, Hill District GHDNRF Grants, CMU Robotics and Hellbender AI RACP Awards, and Lower Hill RFP Announcement",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -1241,7 +1255,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-05",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -1251,7 +1265,7 @@
           "title": "Zoning Board of Adjustment — Salvage Yard Use Classification Appeal, School Playground Variances, and Sign/Dumpster Cases",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -1327,7 +1341,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -1337,7 +1351,7 @@
           "title": "Pittsburgh Public Schools Progress Monitoring — Third Grade ELA Status Update: Mid-Year Literacy Data and Science of Reading Implementation",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Progress Monitoring"
@@ -1413,7 +1427,7 @@
           "title": "City Channel Pittsburgh — Housing Authority of the City of Pittsburgh (HACP) Meeting — 2026-02-26",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -1423,7 +1437,7 @@
           "title": "HACP Board — Northview Heights $5.7M Roof Replacement, Bedford Dwellings Phase 3 $8.7M Grant, Homewood House Acquisition ($5M), and Executive Director Term Extension",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board of Commissioners Meeting"
@@ -1493,7 +1507,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -1503,7 +1517,7 @@
           "title": "Planning Commission — Bluff Townhomes Approved; Lot Consolidations in Polish Hill, East Liberty, and Perry South",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -1573,7 +1587,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-01-30",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -1583,7 +1597,7 @@
           "title": "PWSA Board — Farewell to Chair Alex Shirley; Lead Service Line Progress, ALCOSAN Regionalization Update, Highland Reservoir Safety, and 6 Capital Resolutions",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -1608,7 +1622,56 @@
       "feedbackOpportunity": true
     },
     {
-      "id": "news-35",
+      "id": "news-39",
+      "headline": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
+      "governmentLevel": "local",
+      "topicArea": "Government",
+      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
+      "whatChanged": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
+      "urgency": "high",
+      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
+      "keyStakeholders": [
+        "Pittsburgh Post-Gazette"
+      ],
+      "evidenceBullets": [
+        {
+          "text": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
+          "sourceIds": [
+            "src-news-39"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src-news-39",
+          "title": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
+          "url": "https://www.post-gazette.com/news/politics-nation/2026/10/13/erie-county-prison-ice-immigration/stories/202610090008",
+          "publishedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "confidenceLevel": "medium",
+      "importanceScore": 7,
+      "urgencyScore": 6,
+      "localRelevance": 6,
+      "influenceability": 5,
+      "displayHeadline": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
+      "oneLineSummary": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
+      "categoryTag": "Government",
+      "categoryColor": "#f97316",
+      "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-13",
+      "strongestSourceUrl": "https://www.post-gazette.com/news/politics-nation/2026/10/13/erie-county-prison-ice-immigration/stories/202610090008",
+      "callToAction": "Contact your representative",
+      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-13",
+      "date": "2026-10-13",
+      "relatedNewsId": 39,
+      "feedbackOpportunity": true
+    },
+    {
+      "id": "news-44",
       "headline": "A Spanish-language radio show overflows with voters' frustration in Pennsylvania battleground",
       "governmentLevel": "local",
       "topicArea": "Government",
@@ -1623,17 +1686,17 @@
         {
           "text": "A Spanish-language radio show overflows with voters' frustration in Pennsylvania battleground",
           "sourceIds": [
-            "src-news-35"
+            "src-news-44"
           ]
         }
       ],
       "sources": [
         {
-          "id": "src-news-35",
+          "id": "src-news-44",
           "title": "A Spanish-language radio show overflows with voters' frustration in Pennsylvania battleground",
           "url": "https://www.post-gazette.com/news/state/2026/10/12/spanish-language-radio-show-voters-pennsylvania-allentown/stories/202610120026",
           "publishedDate": "2026-10-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium"
         }
@@ -1653,39 +1716,53 @@
       "callToAction": "Contact your representative",
       "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-12",
       "date": "2026-10-12",
-      "relatedNewsId": 35,
+      "relatedNewsId": 44,
       "feedbackOpportunity": true
     },
     {
-      "id": "news-42",
-      "headline": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
+      "id": "news-51",
+      "headline": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
       "governmentLevel": "local",
       "topicArea": "Government",
       "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-      "whatChanged": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
+      "whatChanged": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers. The post Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do. appeared first on Pittsb",
       "urgency": "high",
       "actionNeeded": "Contact your elected officials if this policy affects you directly.",
       "keyStakeholders": [
-        "Pittsburgh Post-Gazette",
-        "ALLEGHENY"
+        "PublicSource",
+        "PITTSBURGH",
+        "DUQUESNE"
       ],
       "evidenceBullets": [
         {
-          "text": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
+          "text": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers.",
           "sourceIds": [
-            "src-news-42"
+            "src-news-51"
+          ]
+        },
+        {
+          "text": "The post Blackouts are getting worse.",
+          "sourceIds": [
+            "src-news-51"
+          ]
+        },
+        {
+          "text": "Here’s what Duquesne Light is doing — and what it won’t do.",
+          "sourceIds": [
+            "src-news-51"
           ]
         }
       ],
       "sources": [
         {
-          "id": "src-news-42",
-          "title": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
-          "url": "https://www.post-gazette.com/life/outdoors/2026/10/11/tick-larval-bombs-allegheny-county/stories/202610090035",
+          "id": "src-news-51",
+          "title": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
+          "url": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
           "publishedDate": "2026-10-11",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
-          "confidenceLevel": "medium"
+          "confidenceLevel": "medium",
+          "quote": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers. The post Blackouts are"
         }
       ],
       "confidenceLevel": "medium",
@@ -1693,17 +1770,17 @@
       "urgencyScore": 6,
       "localRelevance": 6,
       "influenceability": 5,
-      "displayHeadline": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
-      "oneLineSummary": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
+      "displayHeadline": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
+      "oneLineSummary": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power o",
       "categoryTag": "Government",
       "categoryColor": "#f97316",
-      "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-11",
-      "strongestSourceUrl": "https://www.post-gazette.com/life/outdoors/2026/10/11/tick-larval-bombs-allegheny-county/stories/202610090035",
+      "keyStatOrQuote": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light w",
+      "strongestSourceLabel": "PublicSource — 2026-10-11",
+      "strongestSourceUrl": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
       "callToAction": "Contact your representative",
-      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-11",
+      "infographicCaption": "PublicSource — 2026-10-11",
       "date": "2026-10-11",
-      "relatedNewsId": 42,
+      "relatedNewsId": 51,
       "feedbackOpportunity": true
     },
     {
@@ -1752,7 +1829,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -1762,7 +1839,7 @@
           "title": "PWSA Annual Board Meeting — Rate Increases Effective March 8, 2026; Officer Elections; South Side Park Stormwater and Capital Project Updates",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Annual and Regular Board Meeting"
@@ -1832,7 +1909,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-01-27",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -1842,7 +1919,7 @@
           "title": "Planning Commission — Duquesne University Academic Building Approved; Squirrel Hill Subdivision",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -1864,64 +1941,6 @@
       "infographicCaption": "Pittsburgh Planning Commission — 2026-01-27",
       "date": "2026-01-27",
       "relatedMeetingId": 18,
-      "feedbackOpportunity": true
-    },
-    {
-      "id": "news-53",
-      "headline": "City, county leaders want more diverse contracting from ALCOSAN",
-      "governmentLevel": "local",
-      "topicArea": "Government",
-      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-      "whatChanged": "Pittsburgh Mayor O’Connor and Allegheny County Executive Innamorato called for improvement following a Pittsburgh’s Public Source report on the diversity numbers in a $1 billion sewer tunnel contract. Neither got specific. The post City, county leaders want more diverse contracting from ALCOSAN appe",
-      "urgency": "high",
-      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
-      "keyStakeholders": [
-        "PublicSource",
-        "PITTSBURGH",
-        "ALLEGHENY"
-      ],
-      "evidenceBullets": [
-        {
-          "text": "Pittsburgh Mayor O’Connor and Allegheny County Executive Innamorato called for improvement following a Pittsburgh’s Public Source report on the diversity numbers in a $1 billion sewer tunnel contract.",
-          "sourceIds": [
-            "src-news-53"
-          ]
-        },
-        {
-          "text": "The post City, county leaders want more diverse contracting from ALCOSAN appeared first on Pittsburgh&#039;s Public Source.",
-          "sourceIds": [
-            "src-news-53"
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "id": "src-news-53",
-          "title": "City, county leaders want more diverse contracting from ALCOSAN",
-          "url": "https://www.publicsource.org/oconnor-innamorato-alcosan-tunnel-minority-contracting/",
-          "publishedDate": "2026-10-08",
-          "retrievedDate": "2026-10-13",
-          "sourceType": "secondary",
-          "confidenceLevel": "medium",
-          "quote": "Pittsburgh Mayor O’Connor and Allegheny County Executive Innamorato called for improvement following a Pittsburgh’s Public Source report on the diversity numbers in a $1 billion sewer tunnel contract."
-        }
-      ],
-      "confidenceLevel": "medium",
-      "importanceScore": 7,
-      "urgencyScore": 6,
-      "localRelevance": 6,
-      "influenceability": 5,
-      "displayHeadline": "City, county leaders want more diverse contracting from ALCOSAN",
-      "oneLineSummary": "Pittsburgh Mayor O’Connor and Allegheny County Executive Innamorato called for improvement following a Pittsburgh’s Publ",
-      "categoryTag": "Government",
-      "categoryColor": "#f97316",
-      "keyStatOrQuote": "Pittsburgh Mayor O’Connor and Allegheny County Executive Innamorato called for improvement following",
-      "strongestSourceLabel": "PublicSource — 2026-10-08",
-      "strongestSourceUrl": "https://www.publicsource.org/oconnor-innamorato-alcosan-tunnel-minority-contracting/",
-      "callToAction": "Contact your representative",
-      "infographicCaption": "PublicSource — 2026-10-08",
-      "date": "2026-10-08",
-      "relatedNewsId": 53,
       "feedbackOpportunity": true
     },
     {
@@ -1964,7 +1983,7 @@
           "title": "O'Connor says Pittsburgh budget short some $30 million in key areas",
           "url": "https://www.publicsource.org/pittsburgh-budget-deficit-overhaul-mayor/",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Pittsburgh Mayor Corey O'Connor announced that the city's 2026 budget requires an immediate overhaul after his team identified $30–$40 million in underestimated costs since taking office in January, i"
@@ -2028,7 +2047,7 @@
           "title": "Pittsburgh will reopen its 2026 budget to 'address serious concerns'",
           "url": "https://www.post-gazette.com/news/politics-local/2026/03/12/pittsburgh-budget-corey-oconnor/stories/202603120088",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Mayor Corey O'Connor announced Thursday that he will reopen the city's already-adopted 2026 budget to address serious concerns, a rare move typically reserved for contract adjustments. The decision fo"
@@ -2092,7 +2111,7 @@
           "title": "Bill to bar Allegheny County cooperation with ICE advances to council vote",
           "url": "https://triblive.com/local/bill-to-bar-allegheny-county-cooperation-with-ice-advances-to-council-vote/",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Allegheny County Council's public safety committee voted 4-3 to advance a bill that would prohibit county employees from cooperating with U.S. Immigration and Customs Enforcement, bar ICE from housing"
@@ -2142,7 +2161,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -2152,7 +2171,7 @@
           "title": "Zoning Board of Adjustment — CMU Restaurant Special Exception, Subdivision Cases, and Parking Pad Variances",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -2182,7 +2201,7 @@
           "title": "Urban Redevelopment Authority — Urban Redevelopment Authority (URA) Board Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Urban Redevelopment Authority"
@@ -2192,7 +2211,7 @@
           "title": "URA Board — Hazelwood Land Sale, Hill District GHDNRF Grants, CMU Robotics and Hellbender AI RACP Awards, and Lower Hill RFP Announcement",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -2220,7 +2239,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -2230,7 +2249,7 @@
           "title": "Allegheny County Council Regular Meeting — Passage of ICE Non-Cooperation Ordinance 13809-26",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2257,7 +2276,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2267,7 +2286,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Banksville Halfway House Opposition, Budget Deficit Backdrop, New Bills Introduced",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2297,7 +2316,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2307,7 +2326,7 @@
           "title": "Pittsburgh City Council Post-Agenda — Climate Action Plan Update and Progress Review",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Post-Agenda"
@@ -2333,7 +2352,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2343,7 +2362,7 @@
           "title": "Pittsburgh Public Schools Policy Workshop — Six Policies for 30-Day Review: Academic Standards, Exemptions, Athletics, Attendance, Weapons, Public Records",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Policy Workshop"
@@ -2375,7 +2394,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-05",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -2385,7 +2404,7 @@
           "title": "Zoning Board of Adjustment — Salvage Yard Use Classification Appeal, School Playground Variances, and Sign/Dumpster Cases",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -2412,7 +2431,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2422,7 +2441,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Planning Commission Appointment Controversy, Banksville Halfway House Opposition, Safe Streets Bills",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2452,7 +2471,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2462,7 +2481,7 @@
           "title": "Pittsburgh Public Schools Progress Monitoring — Third Grade ELA Status Update: Mid-Year Literacy Data and Science of Reading Implementation",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Progress Monitoring"
@@ -2488,7 +2507,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-02",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2498,7 +2517,7 @@
           "title": "Pittsburgh Public Schools Budget and Finance Committee — 2026 Budget Review and 2027 Planning Framework",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Budget and Finance Committee"
@@ -2526,7 +2545,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -2536,7 +2555,7 @@
           "title": "PWSA Annual Board Meeting — Rate Increases Effective March 8, 2026; Officer Elections; South Side Park Stormwater and Capital Project Updates",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Annual and Regular Board Meeting"
@@ -2568,7 +2587,7 @@
           "title": "Allegheny County Council TV — Port Authority of Allegheny County (Pittsburgh Regional Transit) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -2578,7 +2597,7 @@
           "title": "PRT Board — Bus Line Refresh Unveiled, Berry Street Tunnel Contract ($11.7M), University Line All-Door Boarding, and CEO Bonus Approved",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board Meeting"
@@ -2606,7 +2625,7 @@
           "title": "City Channel Pittsburgh — Housing Authority of the City of Pittsburgh (HACP) Meeting — 2026-02-26",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2616,7 +2635,7 @@
           "title": "HACP Board — Northview Heights $5.7M Roof Replacement, Bedford Dwellings Phase 3 $8.7M Grant, Homewood House Acquisition ($5M), and Executive Director Term Extension",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board of Commissioners Meeting"
@@ -2645,7 +2664,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-02-25",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2655,7 +2674,7 @@
           "title": "Pittsburgh Public Schools Legislative Meeting — Wildflower Montessori Charter Denial, AFSCME Contract, Legislative Consulting Switch",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Legislative Meeting"
@@ -2683,7 +2702,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -2693,7 +2712,7 @@
           "title": "Allegheny County Council Regular Meeting — ICE Ordinance Public Preview, Tenant Protections Introduction, Budget Resolution",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2720,7 +2739,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -2730,7 +2749,7 @@
           "title": "Planning Commission — Bluff Townhomes Approved; Lot Consolidations in Polish Hill, East Liberty, and Perry South",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2761,7 +2780,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-01-30",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -2771,7 +2790,7 @@
           "title": "PWSA Board — Farewell to Chair Alex Shirley; Lead Service Line Progress, ALCOSAN Regionalization Update, Highland Reservoir Safety, and 6 Capital Resolutions",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -2799,7 +2818,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-01-27",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -2809,7 +2828,7 @@
           "title": "Planning Commission — Duquesne University Academic Building Approved; Squirrel Hill Subdivision",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2817,8 +2836,62 @@
       ]
     },
     {
-      "id": "feedback-news-30",
-      "briefingItemId": "news-30",
+      "id": "feedback-news-46",
+      "briefingItemId": "news-46",
+      "issue": "What happened to Pennsylvania’s hydrogen hubs?",
+      "receivingBody": "Pittsburgh City Council / Allegheny County",
+      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
+      "whoAffected": [
+        "PITTSBURGH"
+      ],
+      "likelyConsequences": "Backed by the federal government and bipartisan leadership, Pennsylvania’s hydrogen projects were supposed to create jobs and slash emissions. Now, they’re in limbo. The post What happened to Pennsylvania’s hydrogen hubs? appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+      "deadline": "2026-10-14",
+      "submissionMethod": "email or public testimony",
+      "submissionUrl": "https://www.publicsource.org/hydrogen-hubs-fracking-jobs-pennsylvania/",
+      "sources": [
+        {
+          "id": "src-news-46",
+          "title": "What happened to Pennsylvania’s hydrogen hubs?",
+          "url": "https://www.publicsource.org/hydrogen-hubs-fracking-jobs-pennsylvania/",
+          "publishedDate": "2026-10-14",
+          "retrievedDate": "2026-10-14",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium",
+          "quote": "Backed by the federal government and bipartisan leadership, Pennsylvania’s hydrogen projects were supposed to create jobs and slash emissions. Now, they’re in limbo. The post What happened to Pennsylv"
+        }
+      ]
+    },
+    {
+      "id": "feedback-news-47",
+      "briefingItemId": "news-47",
+      "issue": "Springdale’s data center proposal enters Allegheny County’s public process",
+      "receivingBody": "Pittsburgh City Council / Allegheny County",
+      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
+      "whoAffected": [
+        "PITTSBURGH",
+        "SPRINGDALE",
+        "ALLEGHENY"
+      ],
+      "likelyConsequences": "A virtual meeting tonight, called a SALDO, will be followed by an in-person hearing and written comment process. Here’s what the county has flagged so far. The post Springdale’s data center proposal enters Allegheny County’s public process appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+      "deadline": "2026-10-14",
+      "submissionMethod": "email or public testimony",
+      "submissionUrl": "https://www.publicsource.org/springdale-data-center-county-saldo-review/",
+      "sources": [
+        {
+          "id": "src-news-47",
+          "title": "Springdale’s data center proposal enters Allegheny County’s public process",
+          "url": "https://www.publicsource.org/springdale-data-center-county-saldo-review/",
+          "publishedDate": "2026-10-14",
+          "retrievedDate": "2026-10-14",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium",
+          "quote": "A virtual meeting tonight, called a SALDO, will be followed by an in-person hearing and written comment process. Here’s what the county has flagged so far. The post Springdale’s data center proposal e"
+        }
+      ]
+    },
+    {
+      "id": "feedback-news-39",
+      "briefingItemId": "news-39",
       "issue": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
       "receivingBody": "Pittsburgh City Council / Allegheny County",
       "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
@@ -2829,19 +2902,19 @@
       "submissionUrl": "https://www.post-gazette.com/news/politics-nation/2026/10/13/erie-county-prison-ice-immigration/stories/202610090008",
       "sources": [
         {
-          "id": "src-news-30",
+          "id": "src-news-39",
           "title": "A Pennsylvania county scaled back cooperation with ICE. Some say it made things worse for detainees.",
           "url": "https://www.post-gazette.com/news/politics-nation/2026/10/13/erie-county-prison-ice-immigration/stories/202610090008",
           "publishedDate": "2026-10-13",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium"
         }
       ]
     },
     {
-      "id": "feedback-news-46",
-      "briefingItemId": "news-46",
+      "id": "feedback-news-49",
+      "briefingItemId": "news-49",
       "issue": "Voter guide 2026: Where candidates stand on ICE, war and data centers",
       "receivingBody": "Pittsburgh City Council / Allegheny County",
       "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
@@ -2855,11 +2928,11 @@
       "submissionUrl": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/",
       "sources": [
         {
-          "id": "src-news-46",
+          "id": "src-news-49",
           "title": "Voter guide 2026: Where candidates stand on ICE, war and data centers",
           "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/",
           "publishedDate": "2026-10-13",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "There are 17 contested legislative races in Allegheny County this year. Here’s what the candidates said on the issues you flagged. The post Voter guide 2026: Where candidates stand on ICE, war and dat"
@@ -2867,8 +2940,8 @@
       ]
     },
     {
-      "id": "feedback-news-35",
-      "briefingItemId": "news-35",
+      "id": "feedback-news-44",
+      "briefingItemId": "news-44",
       "issue": "A Spanish-language radio show overflows with voters' frustration in Pennsylvania battleground",
       "receivingBody": "Pittsburgh City Council / Allegheny County",
       "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
@@ -2879,44 +2952,19 @@
       "submissionUrl": "https://www.post-gazette.com/news/state/2026/10/12/spanish-language-radio-show-voters-pennsylvania-allentown/stories/202610120026",
       "sources": [
         {
-          "id": "src-news-35",
+          "id": "src-news-44",
           "title": "A Spanish-language radio show overflows with voters' frustration in Pennsylvania battleground",
           "url": "https://www.post-gazette.com/news/state/2026/10/12/spanish-language-radio-show-voters-pennsylvania-allentown/stories/202610120026",
           "publishedDate": "2026-10-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium"
         }
       ]
     },
     {
-      "id": "feedback-news-42",
-      "briefingItemId": "news-42",
-      "issue": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
-      "receivingBody": "Pittsburgh City Council / Allegheny County",
-      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
-      "whoAffected": [
-        "ALLEGHENY"
-      ],
-      "likelyConsequences": "Policy changes may affect city services and resident quality of life.",
-      "deadline": "2026-10-11",
-      "submissionMethod": "email or public testimony",
-      "submissionUrl": "https://www.post-gazette.com/life/outdoors/2026/10/11/tick-larval-bombs-allegheny-county/stories/202610090035",
-      "sources": [
-        {
-          "id": "src-news-42",
-          "title": "As longhorned tick populations soar in Allegheny County, ‘larval bombs’ surprise residents",
-          "url": "https://www.post-gazette.com/life/outdoors/2026/10/11/tick-larval-bombs-allegheny-county/stories/202610090035",
-          "publishedDate": "2026-10-11",
-          "retrievedDate": "2026-10-13",
-          "sourceType": "secondary",
-          "confidenceLevel": "medium"
-        }
-      ]
-    },
-    {
-      "id": "feedback-news-48",
-      "briefingItemId": "news-48",
+      "id": "feedback-news-51",
+      "briefingItemId": "news-51",
       "issue": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
       "receivingBody": "Pittsburgh City Council / Allegheny County",
       "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
@@ -2931,41 +2979,14 @@
       "submissionUrl": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
       "sources": [
         {
-          "id": "src-news-48",
+          "id": "src-news-51",
           "title": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
           "url": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
           "publishedDate": "2026-10-11",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers. The post Blackouts are"
-        }
-      ]
-    },
-    {
-      "id": "feedback-news-53",
-      "briefingItemId": "news-53",
-      "issue": "City, county leaders want more diverse contracting from ALCOSAN",
-      "receivingBody": "Pittsburgh City Council / Allegheny County",
-      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
-      "whoAffected": [
-        "PITTSBURGH",
-        "ALLEGHENY"
-      ],
-      "likelyConsequences": "Pittsburgh Mayor O’Connor and Allegheny County Executive Innamorato called for improvement following a Pittsburgh’s Public Source report on the diversity numbers in a $1 billion sewer tunnel contract. Neither got specific. The post City, county leaders want more diverse contracting from ALCOSAN appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-      "deadline": "2026-10-08",
-      "submissionMethod": "email or public testimony",
-      "submissionUrl": "https://www.publicsource.org/oconnor-innamorato-alcosan-tunnel-minority-contracting/",
-      "sources": [
-        {
-          "id": "src-news-53",
-          "title": "City, county leaders want more diverse contracting from ALCOSAN",
-          "url": "https://www.publicsource.org/oconnor-innamorato-alcosan-tunnel-minority-contracting/",
-          "publishedDate": "2026-10-08",
-          "retrievedDate": "2026-10-13",
-          "sourceType": "secondary",
-          "confidenceLevel": "medium",
-          "quote": "Pittsburgh Mayor O’Connor and Allegheny County Executive Innamorato called for improvement following a Pittsburgh’s Public Source report on the diversity numbers in a $1 billion sewer tunnel contract."
         }
       ]
     },
@@ -2989,7 +3010,7 @@
           "title": "O'Connor says Pittsburgh budget short some $30 million in key areas",
           "url": "https://www.publicsource.org/pittsburgh-budget-deficit-overhaul-mayor/",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Pittsburgh Mayor Corey O'Connor announced that the city's 2026 budget requires an immediate overhaul after his team identified $30–$40 million in underestimated costs since taking office in January, i"
@@ -3016,7 +3037,7 @@
           "title": "Pittsburgh will reopen its 2026 budget to 'address serious concerns'",
           "url": "https://www.post-gazette.com/news/politics-local/2026/03/12/pittsburgh-budget-corey-oconnor/stories/202603120088",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Mayor Corey O'Connor announced Thursday that he will reopen the city's already-adopted 2026 budget to address serious concerns, a rare move typically reserved for contract adjustments. The decision fo"
@@ -3044,7 +3065,7 @@
           "title": "Bill to bar Allegheny County cooperation with ICE advances to council vote",
           "url": "https://triblive.com/local/bill-to-bar-allegheny-county-cooperation-with-ice-advances-to-council-vote/",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-13",
+          "retrievedDate": "2026-10-14",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Allegheny County Council's public safety committee voted 4-3 to advance a bill that would prohibit county employees from cooperating with U.S. Immigration and Customs Enforcement, bar ICE from housing"
