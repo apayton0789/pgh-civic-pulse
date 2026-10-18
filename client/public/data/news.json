@@ -1,5 +1,73 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20261018connected-vehicle-security-act-chinese-cars-",
+    "headline": "Letter to the editor: No Chinese cars in America",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-18",
+    "url": "https://www.post-gazette.com/local/2026/10/18/connected-vehicle-security-act-chinese-cars-fetterman/stories/202610180027",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261018firstenergy-pa-power-switch-el",
+    "headline": "What best serves electric consumers? FirstEnergy's case raises the question",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-18",
+    "url": "https://www.post-gazette.com/business/powersource/2026/10/18/firstenergy-pa-power-switch-electric-bill/stories/202610180049",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Government",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20261018summer-lee-voting-rights-midte",
+    "headline": "Rep. Summer Lee and others see themselves fighting a civil rights battle an earlier generation thought it won",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-18",
+    "url": "https://www.post-gazette.com/news/politics-nation/2026/10/18/summer-lee-voting-rights-midterms-callais/stories/202610090075",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261017stacy-garrity-rally-in-greentre",
+    "headline": "Garrity, Shapiro make pitches to voters",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-17",
+    "url": "https://www.post-gazette.com/news/politics-local/2026/10/17/stacy-garrity-rally-in-greentree-pa-centers-on-skill-games/stories/202610170046",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Government",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalregion20261017dead-injured-great-allegheny-passage-f",
+    "headline": "One dead, another injured in GAP trail rock slide",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-17",
+    "url": "https://www.post-gazette.com/local/region/2026/10/17/dead-injured-great-allegheny-passage-fayette-county/stories/202610170045",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261017pittsburgh-zoo-pelicans-escapestories202",
+    "headline": "Escaped pelicans are rescued and brought back to the Pittsburgh zoo",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-17",
+    "url": "https://www.post-gazette.com/local/city/2026/10/17/pittsburgh-zoo-pelicans-escape/stories/202610170036",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 31
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocalnorth20261017ross-township-mcknight-road-fatal-car-c",
     "headline": "One person dead in rollover crash in Ross",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +78,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 26
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261017pennsylvania-dep-environmental-protection-fo",
@@ -21,7 +89,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261017pittsburgh-north-hills-homesstories2",
+    "headline": "2 North Hills men accused of selling homes they didn't own, leaving buyers facing foreclosure",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-17",
+    "url": "https://www.post-gazette.com/business/money/2026/10/17/pittsburgh-north-hills-homes/stories/202610170009",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaeart-architecture20261017allegheny-county-jail-art-exhib",
@@ -34,18 +113,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 28
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261017pittsburgh-north-hills-homesstories2",
-    "headline": "2 North Hills men accused of selling homes they didn't own, leaving buyers facing foreclosure",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-17",
-    "url": "https://www.post-gazette.com/business/money/2026/10/17/pittsburgh-north-hills-homes/stories/202610170009",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 29
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261017skill-games-harrisburg-casino-slots-supr",
@@ -56,7 +124,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 30
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261016braddock-new-strip-mill-edgar-thomsonst",
@@ -69,7 +137,7 @@
       "BRADDOCK"
     ],
     "category": "General",
-    "id": 31
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261016blue-envelope-program-disabilitie",
@@ -80,7 +148,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 32
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261016greene-county-pa-da-david-russo-c",
@@ -91,7 +159,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 33
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261016allegheny-county-property-reass",
@@ -104,7 +172,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 34
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261016democrats-trump-perry-pennsylva",
@@ -115,7 +183,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 35
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261016youngstown-butler-cocaine-ringsto",
@@ -126,7 +194,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 36
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261016savannah-bananas-return-pittsburgh-pnc-p",
@@ -139,7 +207,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 37
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomfrontpage20261016wind-thunderstorms-cold-front-pittsburgh",
@@ -152,7 +220,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 38
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261016guillain-barre-umpc-mercystories2026101",
@@ -164,78 +232,6 @@
     "geographicTags": [
       "Strip District",
       "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20261016agh-nurses-strike-authori",
-    "headline": "Allegheny General Hospital nurses vote to authorize a strike",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/business/career-workplace/2026/10/16/agh-nurses-strike-authorization-vote-ahn-union-pittsburgh-seiu/stories/202610160031",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261016casa-san-jose-beechview-latino-community",
-    "headline": "Casa San Jose opens new Latino community center amid growing ICE presence in Western Pa.",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/local/city/2026/10/16/casa-san-jose-beechview-latino-community-center/stories/202610150070",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20261016fishing-animal-crueltystories202610160002",
-    "headline": "Letter to the editor: Fish are friends, not food (or sport)",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/local/2026/10/16/fishing-animal-cruelty/stories/202610160002",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20261016tiktok-dorm-tour-decor-collegestorie",
-    "headline": "Pittsburgh-area students hop on TikTok dorm décor trend",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/news/education/2026/10/16/tiktok-dorm-tour-decor-college/stories/202610150057",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusiness20261016misty-hollow-data-center-connoquenessing-",
-    "headline": "A massive data center could be built in this Butler County town. Its neighbors want a say.",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/business/2026/10/16/misty-hollow-data-center-connoquenessing-forward/stories/202610150064",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261016buying-here-edgewood-lincoln-ave-r",
-    "headline": "Buying Here: Edgewood home ‘Restored by the Fords’ on HGTV priced at $445,000",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/life/buying-here/2026/10/16/buying-here-edgewood-lincoln-ave-restored-by-fords/stories/202610160003",
-    "summary": null,
-    "geographicTags": [
-      "EDGEWOOD"
     ],
     "category": "General",
     "id": 45
@@ -361,21 +357,6 @@
     ],
     "category": "General",
     "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1338908",
-    "headline": "Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do.",
-    "source": "PublicSource",
-    "date": "2026-10-11",
-    "url": "https://www.publicsource.org/duquesne-light-power-outages-storm-response/",
-    "summary": "On Sunday morning, as remnants of Tropical Rainstorm Isaias moved through the area, Duquesne Light was reporting power outages affecting around 4,000 Allegheny County customers. The post Blackouts are getting worse. Here’s what Duquesne Light is doing — and what it won’t do. appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH",
-      "DUQUESNE",
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 55
   },
   {
     "externalId": "news_1",
