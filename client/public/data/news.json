@@ -1,5 +1,77 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomlocalregion20261019ohiopyle-bicyclist-landslide-great-all",
+    "headline": "Wisconsin woman identified as the bicyclist killed in Ohiopyle landslide",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-19",
+    "url": "https://www.post-gazette.com/local/region/2026/10/19/ohiopyle-bicyclist-landslide-great-allegheny-passage/stories/202610190031",
+    "summary": null,
+    "geographicTags": [
+      "OHIO"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20261019mcginley-column-playdate-cops-daycarestories",
+    "headline": "Letter to the editor: Playing kids should be normal",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-19",
+    "url": "https://www.post-gazette.com/local/2026/10/19/mcginley-column-playdate-cops-daycare/stories/202610190001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261019winter-road-conditions-penndots",
+    "headline": "PennDOT adds warning messages, other safety items to winter road maintenance",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-19",
+    "url": "https://www.post-gazette.com/news/transportation/2026/10/19/winter-road-conditions-penndot/stories/202610180074",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261019prt-union-workers-contract-wage",
+    "headline": "Union workers approve new contract with Pittsburgh Regional Transit",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-19",
+    "url": "https://www.post-gazette.com/news/transportation/2026/10/19/prt-union-workers-contract-wage-increase/stories/202610180090",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Infrastructure/Transit",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261019charitable-donations-tax-timestories",
+    "headline": "Donating to charity? Your generosity could pay off at tax time this year",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-19",
+    "url": "https://www.post-gazette.com/business/money/2026/10/19/charitable-donations-tax-time/stories/202610180024",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Government/Budget",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1339030",
+    "headline": "Why more Pittsburgh-area librarians are becoming ‘steelworkers’",
+    "source": "PublicSource",
+    "date": "2026-10-19",
+    "url": "https://www.publicsource.org/allegheny-county-library-workers-unionize-low-wages/",
+    "summary": "“I think for a long time unions and libraries didn't seem to make sense together in people's heads. ... I think library workers are beginning to remember that they, too, have the right to representation.” The post Why more Pittsburgh-area librarians are becoming ‘steelworkers’ appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 46
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261018connected-vehicle-security-act-chinese-cars-",
     "headline": "Letter to the editor: No Chinese cars in America",
     "source": "Pittsburgh Post-Gazette",
@@ -8,18 +80,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 26
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261018firstenergy-pa-power-switch-el",
-    "headline": "What best serves electric consumers? FirstEnergy's case raises the question",
+    "headline": "What best serves electric consumers? FirstEnergy’s case raises the question",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-10-18",
     "url": "https://www.post-gazette.com/business/powersource/2026/10/18/firstenergy-pa-power-switch-electric-bill/stories/202610180049",
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 27
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-nation20261018summer-lee-voting-rights-midte",
@@ -30,7 +102,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 28
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261017stacy-garrity-rally-in-greentre",
@@ -41,7 +113,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 29
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalregion20261017dead-injured-great-allegheny-passage-f",
@@ -52,7 +124,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261017pittsburgh-zoo-pelicans-escapestories202",
@@ -65,7 +137,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 31
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalnorth20261017ross-township-mcknight-road-fatal-car-c",
@@ -78,7 +150,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 32
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261017pennsylvania-dep-environmental-protection-fo",
@@ -89,7 +161,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261017pittsburgh-north-hills-homesstories2",
@@ -100,7 +172,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 34
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaeart-architecture20261017allegheny-county-jail-art-exhib",
@@ -113,7 +185,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 35
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261017skill-games-harrisburg-casino-slots-supr",
@@ -124,7 +196,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "State/Regional",
-    "id": 36
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261016braddock-new-strip-mill-edgar-thomsonst",
@@ -137,7 +209,7 @@
       "BRADDOCK"
     ],
     "category": "General",
-    "id": 37
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261016blue-envelope-program-disabilitie",
@@ -148,7 +220,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 38
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261016greene-county-pa-da-david-russo-c",
@@ -159,7 +231,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 39
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261016allegheny-county-property-reass",
@@ -172,68 +244,6 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261016democrats-trump-perry-pennsylva",
-    "headline": "Democrats hope a rematch can dislodge Trump loyalist Perry in Pennsylvania",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/news/politics-state/2026/10/16/democrats-trump-perry-pennsylvania-harrisburg-congress/stories/202610160051",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261016youngstown-butler-cocaine-ringsto",
-    "headline": "13 charged by state AG in alleged Youngstown to Butler cocaine ring",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/16/youngstown-butler-cocaine-ring/stories/202610160043",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261016savannah-bananas-return-pittsburgh-pnc-p",
-    "headline": "The Savannah Bananas are returning to Pittsburgh in 2027. Here’s what to expect.",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/local/city/2026/10/16/savannah-bananas-return-pittsburgh-pnc-park-baseball/stories/202610160042",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomfrontpage20261016wind-thunderstorms-cold-front-pittsburgh",
-    "headline": "First wind, then thunderstorms, then a cold front for the Pittsburgh region",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/frontpage/2026/10/16/wind-thunderstorms-cold-front-pittsburgh-region-weather/stories/202610160039",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261016guillain-barre-umpc-mercystories2026101",
-    "headline": "A Strip District man woke up, then collapsed. His doctors attribute what he did next as key",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-16",
-    "url": "https://www.post-gazette.com/news/health/2026/10/16/guillain-barre-umpc-mercy/stories/202610180025",
-    "summary": null,
-    "geographicTags": [
-      "Strip District",
-      "PITTSBURGH"
-    ],
-    "category": "General",
     "id": 45
   },
   {
@@ -248,7 +258,7 @@
       "BRADDOCK"
     ],
     "category": "General",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339040",
@@ -261,7 +271,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339072",
@@ -274,7 +284,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338937",
@@ -287,7 +297,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338999",
@@ -300,7 +310,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338998",
@@ -315,7 +325,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339011",
@@ -329,7 +339,7 @@
       "ELIZABETH"
     ],
     "category": "General",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338738",
@@ -343,7 +353,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1338957",
@@ -356,7 +366,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 54
+    "id": 55
   },
   {
     "externalId": "news_1",
