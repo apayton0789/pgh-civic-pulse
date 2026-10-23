@@ -1,7 +1,71 @@
 {
   "items": [
     {
-      "id": "news-46",
+      "id": "news-47",
+      "headline": "Sewer bills to surge 14% next year in most of Allegheny County",
+      "governmentLevel": "local",
+      "topicArea": "Government",
+      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
+      "whatChanged": "The increase approved by the ALCOSAN board will be the first of three sharp annual hikes that will inflate sewer bills by nearly 50% by 2029. Officials said they’re needed to cover a multibillion-dollar plan to keep sewage out of Pittsburgh’s rivers. The post Sewer bills to surge 14% next year in mo",
+      "urgency": "high",
+      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
+      "keyStakeholders": [
+        "PublicSource",
+        "PITTSBURGH",
+        "ALLEGHENY"
+      ],
+      "evidenceBullets": [
+        {
+          "text": "The increase approved by the ALCOSAN board will be the first of three sharp annual hikes that will inflate sewer bills by nearly 50% by 2029.",
+          "sourceIds": [
+            "src-news-47"
+          ]
+        },
+        {
+          "text": "Officials said they’re needed to cover a multibillion-dollar plan to keep sewage out of Pittsburgh’s rivers.",
+          "sourceIds": [
+            "src-news-47"
+          ]
+        },
+        {
+          "text": "The post Sewer bills to surge 14% next year in most of Allegheny County appeared first on Pittsburgh&#039;s Public Source.",
+          "sourceIds": [
+            "src-news-47"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src-news-47",
+          "title": "Sewer bills to surge 14% next year in most of Allegheny County",
+          "url": "https://www.publicsource.org/alcosan-sewer-bill-rate-hikes/",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium",
+          "quote": "The increase approved by the ALCOSAN board will be the first of three sharp annual hikes that will inflate sewer bills by nearly 50% by 2029. Officials said they’re needed to cover a multibillion-doll"
+        }
+      ],
+      "confidenceLevel": "medium",
+      "importanceScore": 7,
+      "urgencyScore": 6,
+      "localRelevance": 6,
+      "influenceability": 5,
+      "displayHeadline": "Sewer bills to surge 14% next year in most of Allegheny County",
+      "oneLineSummary": "The increase approved by the ALCOSAN board will be the first of three sharp annual hikes that will inflate sewer bills b",
+      "categoryTag": "Government",
+      "categoryColor": "#f97316",
+      "keyStatOrQuote": "The increase approved by the ALCOSAN board will be the first of three sharp annual hikes that will i",
+      "strongestSourceLabel": "PublicSource — 2026-10-22",
+      "strongestSourceUrl": "https://www.publicsource.org/alcosan-sewer-bill-rate-hikes/",
+      "callToAction": "Contact your representative",
+      "infographicCaption": "PublicSource — 2026-10-22",
+      "date": "2026-10-22",
+      "relatedNewsId": 47,
+      "feedbackOpportunity": true
+    },
+    {
+      "id": "news-48",
       "headline": "CCAC faculty weigh walkout amid push for wage hike",
       "governmentLevel": "local",
       "topicArea": "Government",
@@ -17,29 +81,29 @@
         {
           "text": "A strike would also be almost unprecedented on campus.",
           "sourceIds": [
-            "src-news-46"
+            "src-news-48"
           ]
         },
         {
           "text": "Union leaders said they’re not aware of any strikes or authorization votes at CCAC since one in 1972, a year after the union was formed.",
           "sourceIds": [
-            "src-news-46"
+            "src-news-48"
           ]
         },
         {
           "text": "The post CCAC faculty weigh walkout amid push for wage hike appeared first on Pittsburgh&#039;s Public Source.",
           "sourceIds": [
-            "src-news-46"
+            "src-news-48"
           ]
         }
       ],
       "sources": [
         {
-          "id": "src-news-46",
+          "id": "src-news-48",
           "title": "CCAC faculty weigh walkout amid push for wage hike",
           "url": "https://www.publicsource.org/ccac-faculty-contract-negotiations-strike/",
           "publishedDate": "2026-10-22",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "A strike would also be almost unprecedented on campus. Union leaders said they’re not aware of any strikes or authorization votes at CCAC since one in 1972, a year after the union was formed. The post"
@@ -60,11 +124,11 @@
       "callToAction": "Contact your representative",
       "infographicCaption": "PublicSource — 2026-10-22",
       "date": "2026-10-22",
-      "relatedNewsId": 46,
+      "relatedNewsId": 48,
       "feedbackOpportunity": true
     },
     {
-      "id": "news-47",
+      "id": "news-49",
       "headline": "Lookback: The path to a novel paid parental leave law in Allegheny County",
       "governmentLevel": "local",
       "topicArea": "Government",
@@ -81,29 +145,29 @@
         {
           "text": "What led to the historic vote? Let’s rewind through Pittsburgh’s Public Source’s coverage of the process by which the county embarked on the nation’s first local-level paid parental leave ordinance.",
           "sourceIds": [
-            "src-news-47"
+            "src-news-49"
           ]
         },
         {
           "text": "The post Lookback: The path to a novel paid parental leave law in Allegheny County appeared first on Pittsburgh&#039;s Public Source.",
           "sourceIds": [
-            "src-news-47"
+            "src-news-49"
           ]
         },
         {
           "text": "PublicSource is a nonprofit news organization serving the Pittsburgh region.",
           "sourceIds": [
-            "src-news-47"
+            "src-news-49"
           ]
         }
       ],
       "sources": [
         {
-          "id": "src-news-47",
+          "id": "src-news-49",
           "title": "Lookback: The path to a novel paid parental leave law in Allegheny County",
           "url": "https://www.publicsource.org/allegheny-county-paid-parental-leave-timeline/",
           "publishedDate": "2026-10-21",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "What led to the historic vote? Let’s rewind through Pittsburgh’s Public Source’s coverage of the process by which the county embarked on the nation’s first local-level paid parental leave ordinance. T"
@@ -124,7 +188,7 @@
       "callToAction": "Contact your representative",
       "infographicCaption": "PublicSource — 2026-10-21",
       "date": "2026-10-21",
-      "relatedNewsId": 47,
+      "relatedNewsId": 49,
       "feedbackOpportunity": true
     },
     {
@@ -191,7 +255,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -201,7 +265,7 @@
           "title": "Allegheny County Council Regular Meeting — Passage of ICE Non-Cooperation Ordinance 13809-26",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -283,7 +347,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -293,7 +357,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Banksville Halfway House Opposition, Budget Deficit Backdrop, New Bills Introduced",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -375,7 +439,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -385,7 +449,7 @@
           "title": "Pittsburgh City Council Post-Agenda — Climate Action Plan Update and Progress Review",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Post-Agenda"
@@ -473,7 +537,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -483,7 +547,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Planning Commission Appointment Controversy, Banksville Halfway House Opposition, Safe Streets Bills",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -571,7 +635,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -581,7 +645,7 @@
           "title": "Allegheny County Council Regular Meeting — ICE Ordinance Public Preview, Tenant Protections Introduction, Budget Resolution",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -657,7 +721,7 @@
           "title": "Allegheny County Council TV — Port Authority of Allegheny County (Pittsburgh Regional Transit) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -667,7 +731,7 @@
           "title": "PRT Board — Bus Line Refresh Unveiled, Berry Street Tunnel Contract ($11.7M), University Line All-Door Boarding, and CEO Bonus Approved",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board Meeting"
@@ -749,7 +813,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-02-25",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -759,7 +823,7 @@
           "title": "Pittsburgh Public Schools Legislative Meeting — Wildflower Montessori Charter Denial, AFSCME Contract, Legislative Consulting Switch",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Legislative Meeting"
@@ -841,7 +905,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -851,7 +915,7 @@
           "title": "Pittsburgh Public Schools Policy Workshop — Six Policies for 30-Day Review: Academic Standards, Exemptions, Athletics, Attendance, Weapons, Public Records",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Policy Workshop"
@@ -933,7 +997,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-02",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -943,7 +1007,7 @@
           "title": "Pittsburgh Public Schools Budget and Finance Committee — 2026 Budget Review and 2027 Planning Framework",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Budget and Finance Committee"
@@ -1019,7 +1083,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -1029,7 +1093,7 @@
           "title": "Zoning Board of Adjustment — CMU Restaurant Special Exception, Subdivision Cases, and Parking Pad Variances",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -1105,7 +1169,7 @@
           "title": "Urban Redevelopment Authority — Urban Redevelopment Authority (URA) Board Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Urban Redevelopment Authority"
@@ -1115,7 +1179,7 @@
           "title": "URA Board — Hazelwood Land Sale, Hill District GHDNRF Grants, CMU Robotics and Hellbender AI RACP Awards, and Lower Hill RFP Announcement",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -1191,7 +1255,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-05",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -1201,7 +1265,7 @@
           "title": "Zoning Board of Adjustment — Salvage Yard Use Classification Appeal, School Playground Variances, and Sign/Dumpster Cases",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -1277,7 +1341,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -1287,7 +1351,7 @@
           "title": "Pittsburgh Public Schools Progress Monitoring — Third Grade ELA Status Update: Mid-Year Literacy Data and Science of Reading Implementation",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Progress Monitoring"
@@ -1363,7 +1427,7 @@
           "title": "City Channel Pittsburgh — Housing Authority of the City of Pittsburgh (HACP) Meeting — 2026-02-26",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -1373,7 +1437,7 @@
           "title": "HACP Board — Northview Heights $5.7M Roof Replacement, Bedford Dwellings Phase 3 $8.7M Grant, Homewood House Acquisition ($5M), and Executive Director Term Extension",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board of Commissioners Meeting"
@@ -1443,7 +1507,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -1453,7 +1517,7 @@
           "title": "Planning Commission — Bluff Townhomes Approved; Lot Consolidations in Polish Hill, East Liberty, and Perry South",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -1523,7 +1587,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-01-30",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -1533,7 +1597,7 @@
           "title": "PWSA Board — Farewell to Chair Alex Shirley; Lead Service Line Progress, ALCOSAN Regionalization Update, Highland Reservoir Safety, and 6 Capital Resolutions",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -1558,12 +1622,61 @@
       "feedbackOpportunity": true
     },
     {
-      "id": "news-41",
-      "headline": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
+      "id": "news-32",
+      "headline": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
       "governmentLevel": "local",
       "topicArea": "Government",
       "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-      "whatChanged": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
+      "whatChanged": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
+      "urgency": "high",
+      "actionNeeded": "Contact your elected officials if this policy affects you directly.",
+      "keyStakeholders": [
+        "Pittsburgh Post-Gazette"
+      ],
+      "evidenceBullets": [
+        {
+          "text": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
+          "sourceIds": [
+            "src-news-32"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "src-news-32",
+          "title": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
+          "url": "https://www.post-gazette.com/business/powersource/2026/10/22/firstenergy-electric-bills-shopping/stories/202610220077",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium"
+        }
+      ],
+      "confidenceLevel": "medium",
+      "importanceScore": 7,
+      "urgencyScore": 6,
+      "localRelevance": 6,
+      "influenceability": 5,
+      "displayHeadline": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
+      "oneLineSummary": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
+      "categoryTag": "Government",
+      "categoryColor": "#f97316",
+      "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
+      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-22",
+      "strongestSourceUrl": "https://www.post-gazette.com/business/powersource/2026/10/22/firstenergy-electric-bills-shopping/stories/202610220077",
+      "callToAction": "Contact your representative",
+      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-22",
+      "date": "2026-10-22",
+      "relatedNewsId": 32,
+      "feedbackOpportunity": true
+    },
+    {
+      "id": "news-37",
+      "headline": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
+      "governmentLevel": "local",
+      "topicArea": "Government",
+      "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
+      "whatChanged": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
       "urgency": "high",
       "actionNeeded": "Contact your elected officials if this policy affects you directly.",
       "keyStakeholders": [
@@ -1572,19 +1685,19 @@
       ],
       "evidenceBullets": [
         {
-          "text": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
+          "text": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
           "sourceIds": [
-            "src-news-41"
+            "src-news-37"
           ]
         }
       ],
       "sources": [
         {
-          "id": "src-news-41",
-          "title": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
-          "url": "https://www.post-gazette.com/news/politics-local/2026/10/21/allegheny-county-council-emergency-housing-cost/stories/202610200046",
-          "publishedDate": "2026-10-21",
-          "retrievedDate": "2026-10-22",
+          "id": "src-news-37",
+          "title": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
+          "url": "https://www.post-gazette.com/news/politics-local/2026/10/22/allegheny-county-paid-parental-leave-update/stories/202610220066",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium"
         }
@@ -1594,26 +1707,26 @@
       "urgencyScore": 6,
       "localRelevance": 6,
       "influenceability": 5,
-      "displayHeadline": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
-      "oneLineSummary": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
+      "displayHeadline": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
+      "oneLineSummary": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
       "categoryTag": "Government",
       "categoryColor": "#f97316",
       "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-21",
-      "strongestSourceUrl": "https://www.post-gazette.com/news/politics-local/2026/10/21/allegheny-county-council-emergency-housing-cost/stories/202610200046",
+      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-22",
+      "strongestSourceUrl": "https://www.post-gazette.com/news/politics-local/2026/10/22/allegheny-county-paid-parental-leave-update/stories/202610220066",
       "callToAction": "Contact your representative",
-      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-21",
-      "date": "2026-10-21",
-      "relatedNewsId": 41,
+      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-22",
+      "date": "2026-10-22",
+      "relatedNewsId": 37,
       "feedbackOpportunity": true
     },
     {
-      "id": "news-44",
-      "headline": "Letter to the editor: No to raised county sales tax",
+      "id": "news-38",
+      "headline": "Letter to the editor: County must defend air quality",
       "governmentLevel": "local",
-      "topicArea": "Government/Budget",
+      "topicArea": "Government",
       "whyItMatters": "Government decisions reported here directly affect Pittsburgh residents' services and policies.",
-      "whatChanged": "Letter to the editor: No to raised county sales tax",
+      "whatChanged": "Letter to the editor: County must defend air quality",
       "urgency": "high",
       "actionNeeded": "Contact your elected officials if this policy affects you directly.",
       "keyStakeholders": [
@@ -1621,19 +1734,19 @@
       ],
       "evidenceBullets": [
         {
-          "text": "Letter to the editor: No to raised county sales tax",
+          "text": "Letter to the editor: County must defend air quality",
           "sourceIds": [
-            "src-news-44"
+            "src-news-38"
           ]
         }
       ],
       "sources": [
         {
-          "id": "src-news-44",
-          "title": "Letter to the editor: No to raised county sales tax",
-          "url": "https://www.post-gazette.com/local/2026/10/21/allegheny-county-pension-sales-tax-innamorato/stories/202610210001",
-          "publishedDate": "2026-10-21",
-          "retrievedDate": "2026-10-22",
+          "id": "src-news-38",
+          "title": "Letter to the editor: County must defend air quality",
+          "url": "https://www.post-gazette.com/local/2026/10/22/us-steel-braddock-strip-mill-pollution/stories/202610150043",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium"
         }
@@ -1643,17 +1756,17 @@
       "urgencyScore": 6,
       "localRelevance": 6,
       "influenceability": 5,
-      "displayHeadline": "Letter to the editor: No to raised county sales tax",
-      "oneLineSummary": "Letter to the editor: No to raised county sales tax",
-      "categoryTag": "Government/Budget",
+      "displayHeadline": "Letter to the editor: County must defend air quality",
+      "oneLineSummary": "Letter to the editor: County must defend air quality",
+      "categoryTag": "Government",
       "categoryColor": "#f97316",
       "keyStatOrQuote": "Source: Pittsburgh Post-Gazette",
-      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-21",
-      "strongestSourceUrl": "https://www.post-gazette.com/local/2026/10/21/allegheny-county-pension-sales-tax-innamorato/stories/202610210001",
+      "strongestSourceLabel": "Pittsburgh Post-Gazette — 2026-10-22",
+      "strongestSourceUrl": "https://www.post-gazette.com/local/2026/10/22/us-steel-braddock-strip-mill-pollution/stories/202610150043",
       "callToAction": "Contact your representative",
-      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-21",
-      "date": "2026-10-21",
-      "relatedNewsId": 44,
+      "infographicCaption": "Pittsburgh Post-Gazette — 2026-10-22",
+      "date": "2026-10-22",
+      "relatedNewsId": 38,
       "feedbackOpportunity": true
     },
     {
@@ -1702,7 +1815,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -1712,7 +1825,7 @@
           "title": "PWSA Annual Board Meeting — Rate Increases Effective March 8, 2026; Officer Elections; South Side Park Stormwater and Capital Project Updates",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Annual and Regular Board Meeting"
@@ -1782,7 +1895,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-01-27",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -1792,7 +1905,7 @@
           "title": "Planning Commission — Duquesne University Academic Building Approved; Squirrel Hill Subdivision",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -1856,7 +1969,7 @@
           "title": "O'Connor says Pittsburgh budget short some $30 million in key areas",
           "url": "https://www.publicsource.org/pittsburgh-budget-deficit-overhaul-mayor/",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Pittsburgh Mayor Corey O'Connor announced that the city's 2026 budget requires an immediate overhaul after his team identified $30–$40 million in underestimated costs since taking office in January, i"
@@ -1920,7 +2033,7 @@
           "title": "Pittsburgh will reopen its 2026 budget to 'address serious concerns'",
           "url": "https://www.post-gazette.com/news/politics-local/2026/03/12/pittsburgh-budget-corey-oconnor/stories/202603120088",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Mayor Corey O'Connor announced Thursday that he will reopen the city's already-adopted 2026 budget to address serious concerns, a rare move typically reserved for contract adjustments. The decision fo"
@@ -1984,7 +2097,7 @@
           "title": "Bill to bar Allegheny County cooperation with ICE advances to council vote",
           "url": "https://triblive.com/local/bill-to-bar-allegheny-county-cooperation-with-ice-advances-to-council-vote/",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Allegheny County Council's public safety committee voted 4-3 to advance a bill that would prohibit county employees from cooperating with U.S. Immigration and Customs Enforcement, bar ICE from housing"
@@ -2034,7 +2147,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -2044,7 +2157,7 @@
           "title": "Zoning Board of Adjustment — CMU Restaurant Special Exception, Subdivision Cases, and Parking Pad Variances",
           "url": "https://www.youtube.com/watch?v=1uNDtYHeiCs",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -2074,7 +2187,7 @@
           "title": "Urban Redevelopment Authority — Urban Redevelopment Authority (URA) Board Meeting — 2026-03-12",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Urban Redevelopment Authority"
@@ -2084,7 +2197,7 @@
           "title": "URA Board — Hazelwood Land Sale, Hill District GHDNRF Grants, CMU Robotics and Hellbender AI RACP Awards, and Lower Hill RFP Announcement",
           "url": "https://www.youtube.com/watch?v=M1K2ChNIcN4",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -2112,7 +2225,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -2122,7 +2235,7 @@
           "title": "Allegheny County Council Regular Meeting — Passage of ICE Non-Cooperation Ordinance 13809-26",
           "url": "https://www.youtube.com/watch?v=eIz58TbO5WI",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2149,7 +2262,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2159,7 +2272,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Banksville Halfway House Opposition, Budget Deficit Backdrop, New Bills Introduced",
           "url": "https://www.youtube.com/watch?v=S5GztUg6ghc",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2189,7 +2302,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2199,7 +2312,7 @@
           "title": "Pittsburgh City Council Post-Agenda — Climate Action Plan Update and Progress Review",
           "url": "https://www.youtube.com/watch?v=qGbNLvOJRRY",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Post-Agenda"
@@ -2225,7 +2338,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-10",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2235,7 +2348,7 @@
           "title": "Pittsburgh Public Schools Policy Workshop — Six Policies for 30-Day Review: Academic Standards, Exemptions, Athletics, Attendance, Weapons, Public Records",
           "url": "https://www.youtube.com/watch?v=TWp0R4Rsyqk",
           "publishedDate": "2026-03-10",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Policy Workshop"
@@ -2267,7 +2380,7 @@
           "title": "City Channel Pittsburgh — Zoning — Pittsburgh Zoning Board of Adjustment Meeting — 2026-03-05",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Zoning"
@@ -2277,7 +2390,7 @@
           "title": "Zoning Board of Adjustment — Salvage Yard Use Classification Appeal, School Playground Variances, and Sign/Dumpster Cases",
           "url": "https://www.youtube.com/watch?v=SCGQYyoIoX4",
           "publishedDate": "2026-03-05",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Public Hearing"
@@ -2304,7 +2417,7 @@
           "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2314,7 +2427,7 @@
           "title": "Pittsburgh City Council Regular Meeting — Planning Commission Appointment Controversy, Banksville Halfway House Opposition, Safe Streets Bills",
           "url": "https://www.youtube.com/watch?v=r8fNPw0uS10",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2344,7 +2457,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-03",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2354,7 +2467,7 @@
           "title": "Pittsburgh Public Schools Progress Monitoring — Third Grade ELA Status Update: Mid-Year Literacy Data and Science of Reading Implementation",
           "url": "https://www.youtube.com/watch?v=S1ByAKIi8bQ",
           "publishedDate": "2026-03-03",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Progress Monitoring"
@@ -2380,7 +2493,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-03-02",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2390,7 +2503,7 @@
           "title": "Pittsburgh Public Schools Budget and Finance Committee — 2026 Budget Review and 2027 Planning Framework",
           "url": "https://www.youtube.com/watch?v=BCUhslhw6sw",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Budget and Finance Committee"
@@ -2418,7 +2531,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -2428,7 +2541,7 @@
           "title": "PWSA Annual Board Meeting — Rate Increases Effective March 8, 2026; Officer Elections; South Side Park Stormwater and Capital Project Updates",
           "url": "https://www.youtube.com/watch?v=TDg3pdpMACU",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Annual and Regular Board Meeting"
@@ -2460,7 +2573,7 @@
           "title": "Allegheny County Council TV — Port Authority of Allegheny County (Pittsburgh Regional Transit) Meeting — 2026-02-27",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -2470,7 +2583,7 @@
           "title": "PRT Board — Bus Line Refresh Unveiled, Berry Street Tunnel Contract ($11.7M), University Line All-Door Boarding, and CEO Bonus Approved",
           "url": "https://www.youtube.com/watch?v=UmY2KGtSS94",
           "publishedDate": "2026-02-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board Meeting"
@@ -2498,7 +2611,7 @@
           "title": "City Channel Pittsburgh — Housing Authority of the City of Pittsburgh (HACP) Meeting — 2026-02-26",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh"
@@ -2508,7 +2621,7 @@
           "title": "HACP Board — Northview Heights $5.7M Roof Replacement, Bedford Dwellings Phase 3 $8.7M Grant, Homewood House Acquisition ($5M), and Executive Director Term Extension",
           "url": "https://www.youtube.com/watch?v=ddcuvtnlfXI",
           "publishedDate": "2026-02-26",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Board of Commissioners Meeting"
@@ -2537,7 +2650,7 @@
           "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board of Directors Meeting — 2026-02-25",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Pittsburgh Public Schools"
@@ -2547,7 +2660,7 @@
           "title": "Pittsburgh Public Schools Legislative Meeting — Wildflower Montessori Charter Denial, AFSCME Contract, Legislative Consulting Switch",
           "url": "https://www.youtube.com/watch?v=f18TltSr9Kc",
           "publishedDate": "2026-02-25",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Legislative Meeting"
@@ -2575,7 +2688,7 @@
           "title": "Allegheny County Council TV — Allegheny County Council Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "Allegheny County Council TV"
@@ -2585,7 +2698,7 @@
           "title": "Allegheny County Council Regular Meeting — ICE Ordinance Public Preview, Tenant Protections Introduction, Budget Resolution",
           "url": "https://www.youtube.com/watch?v=UZQqMTiByvo",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2612,7 +2725,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-02-24",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -2622,7 +2735,7 @@
           "title": "Planning Commission — Bluff Townhomes Approved; Lot Consolidations in Polish Hill, East Liberty, and Perry South",
           "url": "https://www.youtube.com/watch?v=j9uClx8o0E4",
           "publishedDate": "2026-02-24",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2653,7 +2766,7 @@
           "title": "PWSA Board — Pittsburgh Water and Sewer Authority (PWSA) Meeting — 2026-01-30",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "PWSA Board"
@@ -2663,7 +2776,7 @@
           "title": "PWSA Board — Farewell to Chair Alex Shirley; Lead Service Line Progress, ALCOSAN Regionalization Update, Highland Reservoir Safety, and 6 Capital Resolutions",
           "url": "https://www.youtube.com/watch?v=1_xJiD3-4O0",
           "publishedDate": "2026-01-30",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Board Meeting"
@@ -2691,7 +2804,7 @@
           "title": "City Channel Pittsburgh — Planning — Pittsburgh Planning Commission Meeting — 2026-01-27",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "video",
           "confidenceLevel": "high",
           "speaker": "City Channel Pittsburgh — Planning"
@@ -2701,7 +2814,7 @@
           "title": "Planning Commission — Duquesne University Academic Building Approved; Squirrel Hill Subdivision",
           "url": "https://www.youtube.com/watch?v=pWgOr2gPjp4",
           "publishedDate": "2026-01-27",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "meeting_record",
           "confidenceLevel": "high",
           "agendaItem": "Regular Meeting"
@@ -2709,8 +2822,106 @@
       ]
     },
     {
-      "id": "feedback-news-46",
-      "briefingItemId": "news-46",
+      "id": "feedback-news-32",
+      "briefingItemId": "news-32",
+      "issue": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
+      "receivingBody": "Pittsburgh City Council / Allegheny County",
+      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
+      "whoAffected": [],
+      "likelyConsequences": "Policy changes may affect city services and resident quality of life.",
+      "deadline": "2026-10-22",
+      "submissionMethod": "email or public testimony",
+      "submissionUrl": "https://www.post-gazette.com/business/powersource/2026/10/22/firstenergy-electric-bills-shopping/stories/202610220077",
+      "sources": [
+        {
+          "id": "src-news-32",
+          "title": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
+          "url": "https://www.post-gazette.com/business/powersource/2026/10/22/firstenergy-electric-bills-shopping/stories/202610220077",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium"
+        }
+      ]
+    },
+    {
+      "id": "feedback-news-37",
+      "briefingItemId": "news-37",
+      "issue": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
+      "receivingBody": "Pittsburgh City Council / Allegheny County",
+      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
+      "whoAffected": [
+        "ALLEGHENY"
+      ],
+      "likelyConsequences": "Policy changes may affect city services and resident quality of life.",
+      "deadline": "2026-10-22",
+      "submissionMethod": "email or public testimony",
+      "submissionUrl": "https://www.post-gazette.com/news/politics-local/2026/10/22/allegheny-county-paid-parental-leave-update/stories/202610220066",
+      "sources": [
+        {
+          "id": "src-news-37",
+          "title": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
+          "url": "https://www.post-gazette.com/news/politics-local/2026/10/22/allegheny-county-paid-parental-leave-update/stories/202610220066",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium"
+        }
+      ]
+    },
+    {
+      "id": "feedback-news-38",
+      "briefingItemId": "news-38",
+      "issue": "Letter to the editor: County must defend air quality",
+      "receivingBody": "Pittsburgh City Council / Allegheny County",
+      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
+      "whoAffected": [],
+      "likelyConsequences": "Policy changes may affect city services and resident quality of life.",
+      "deadline": "2026-10-22",
+      "submissionMethod": "email or public testimony",
+      "submissionUrl": "https://www.post-gazette.com/local/2026/10/22/us-steel-braddock-strip-mill-pollution/stories/202610150043",
+      "sources": [
+        {
+          "id": "src-news-38",
+          "title": "Letter to the editor: County must defend air quality",
+          "url": "https://www.post-gazette.com/local/2026/10/22/us-steel-braddock-strip-mill-pollution/stories/202610150043",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium"
+        }
+      ]
+    },
+    {
+      "id": "feedback-news-47",
+      "briefingItemId": "news-47",
+      "issue": "Sewer bills to surge 14% next year in most of Allegheny County",
+      "receivingBody": "Pittsburgh City Council / Allegheny County",
+      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
+      "whoAffected": [
+        "PITTSBURGH",
+        "ALLEGHENY"
+      ],
+      "likelyConsequences": "The increase approved by the ALCOSAN board will be the first of three sharp annual hikes that will inflate sewer bills by nearly 50% by 2029. Officials said they’re needed to cover a multibillion-dollar plan to keep sewage out of Pittsburgh’s rivers. The post Sewer bills to surge 14% next year in most of Allegheny County appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+      "deadline": "2026-10-22",
+      "submissionMethod": "email or public testimony",
+      "submissionUrl": "https://www.publicsource.org/alcosan-sewer-bill-rate-hikes/",
+      "sources": [
+        {
+          "id": "src-news-47",
+          "title": "Sewer bills to surge 14% next year in most of Allegheny County",
+          "url": "https://www.publicsource.org/alcosan-sewer-bill-rate-hikes/",
+          "publishedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
+          "sourceType": "secondary",
+          "confidenceLevel": "medium",
+          "quote": "The increase approved by the ALCOSAN board will be the first of three sharp annual hikes that will inflate sewer bills by nearly 50% by 2029. Officials said they’re needed to cover a multibillion-doll"
+        }
+      ]
+    },
+    {
+      "id": "feedback-news-48",
+      "briefingItemId": "news-48",
       "issue": "CCAC faculty weigh walkout amid push for wage hike",
       "receivingBody": "Pittsburgh City Council / Allegheny County",
       "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
@@ -2723,11 +2934,11 @@
       "submissionUrl": "https://www.publicsource.org/ccac-faculty-contract-negotiations-strike/",
       "sources": [
         {
-          "id": "src-news-46",
+          "id": "src-news-48",
           "title": "CCAC faculty weigh walkout amid push for wage hike",
           "url": "https://www.publicsource.org/ccac-faculty-contract-negotiations-strike/",
           "publishedDate": "2026-10-22",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "A strike would also be almost unprecedented on campus. Union leaders said they’re not aware of any strikes or authorization votes at CCAC since one in 1972, a year after the union was formed. The post"
@@ -2735,56 +2946,8 @@
       ]
     },
     {
-      "id": "feedback-news-41",
-      "briefingItemId": "news-41",
-      "issue": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
-      "receivingBody": "Pittsburgh City Council / Allegheny County",
-      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
-      "whoAffected": [
-        "ALLEGHENY"
-      ],
-      "likelyConsequences": "Policy changes may affect city services and resident quality of life.",
-      "deadline": "2026-10-21",
-      "submissionMethod": "email or public testimony",
-      "submissionUrl": "https://www.post-gazette.com/news/politics-local/2026/10/21/allegheny-county-council-emergency-housing-cost/stories/202610200046",
-      "sources": [
-        {
-          "id": "src-news-41",
-          "title": "New tenant relocation rule will help Allegheny County crack down on negligent landlords",
-          "url": "https://www.post-gazette.com/news/politics-local/2026/10/21/allegheny-county-council-emergency-housing-cost/stories/202610200046",
-          "publishedDate": "2026-10-21",
-          "retrievedDate": "2026-10-22",
-          "sourceType": "secondary",
-          "confidenceLevel": "medium"
-        }
-      ]
-    },
-    {
-      "id": "feedback-news-44",
-      "briefingItemId": "news-44",
-      "issue": "Letter to the editor: No to raised county sales tax",
-      "receivingBody": "Pittsburgh City Council / Allegheny County",
-      "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
-      "whoAffected": [],
-      "likelyConsequences": "Policy changes may affect city services and resident quality of life.",
-      "deadline": "2026-10-21",
-      "submissionMethod": "email or public testimony",
-      "submissionUrl": "https://www.post-gazette.com/local/2026/10/21/allegheny-county-pension-sales-tax-innamorato/stories/202610210001",
-      "sources": [
-        {
-          "id": "src-news-44",
-          "title": "Letter to the editor: No to raised county sales tax",
-          "url": "https://www.post-gazette.com/local/2026/10/21/allegheny-county-pension-sales-tax-innamorato/stories/202610210001",
-          "publishedDate": "2026-10-21",
-          "retrievedDate": "2026-10-22",
-          "sourceType": "secondary",
-          "confidenceLevel": "medium"
-        }
-      ]
-    },
-    {
-      "id": "feedback-news-47",
-      "briefingItemId": "news-47",
+      "id": "feedback-news-49",
+      "briefingItemId": "news-49",
       "issue": "Lookback: The path to a novel paid parental leave law in Allegheny County",
       "receivingBody": "Pittsburgh City Council / Allegheny County",
       "bodyPower": "Legislative authority over city budget, zoning, public services, and policy.",
@@ -2798,11 +2961,11 @@
       "submissionUrl": "https://www.publicsource.org/allegheny-county-paid-parental-leave-timeline/",
       "sources": [
         {
-          "id": "src-news-47",
+          "id": "src-news-49",
           "title": "Lookback: The path to a novel paid parental leave law in Allegheny County",
           "url": "https://www.publicsource.org/allegheny-county-paid-parental-leave-timeline/",
           "publishedDate": "2026-10-21",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "What led to the historic vote? Let’s rewind through Pittsburgh’s Public Source’s coverage of the process by which the county embarked on the nation’s first local-level paid parental leave ordinance. T"
@@ -2829,7 +2992,7 @@
           "title": "O'Connor says Pittsburgh budget short some $30 million in key areas",
           "url": "https://www.publicsource.org/pittsburgh-budget-deficit-overhaul-mayor/",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Pittsburgh Mayor Corey O'Connor announced that the city's 2026 budget requires an immediate overhaul after his team identified $30–$40 million in underestimated costs since taking office in January, i"
@@ -2856,7 +3019,7 @@
           "title": "Pittsburgh will reopen its 2026 budget to 'address serious concerns'",
           "url": "https://www.post-gazette.com/news/politics-local/2026/03/12/pittsburgh-budget-corey-oconnor/stories/202603120088",
           "publishedDate": "2026-03-12",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Mayor Corey O'Connor announced Thursday that he will reopen the city's already-adopted 2026 budget to address serious concerns, a rare move typically reserved for contract adjustments. The decision fo"
@@ -2884,7 +3047,7 @@
           "title": "Bill to bar Allegheny County cooperation with ICE advances to council vote",
           "url": "https://triblive.com/local/bill-to-bar-allegheny-county-cooperation-with-ice-advances-to-council-vote/",
           "publishedDate": "2026-03-02",
-          "retrievedDate": "2026-10-22",
+          "retrievedDate": "2026-10-23",
           "sourceType": "secondary",
           "confidenceLevel": "medium",
           "quote": "Allegheny County Council's public safety committee voted 4-3 to advance a bill that would prohibit county employees from cooperating with U.S. Immigration and Customs Enforcement, bar ICE from housing"
