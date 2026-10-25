@@ -1,5 +1,83 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomaeart-architecture20261025carnegie-museum-heinz-architect",
+    "headline": "Carnegie Museum of Art plans a major redesign of the Heinz Architectural Center",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-25",
+    "url": "https://www.post-gazette.com/ae/art-architecture/2026/10/25/carnegie-museum-heinz-architectural-center/stories/202610220075",
+    "summary": null,
+    "geographicTags": [
+      "CARNEGIE"
+    ],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalregion20261025gap-trail-landslide-connellsvillestori",
+    "headline": "Deadly landslide on Great Allegheny Passage raises safety and economic concerns in Fayette County",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-25",
+    "url": "https://www.post-gazette.com/local/region/2026/10/25/gap-trail-landslide-connellsville/stories/202610220059",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261025pittsburgh-housing-market-mortgage-r",
+    "headline": "Pittsburgh has homes for sale — but not a lot of buyers",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-25",
+    "url": "https://www.post-gazette.com/business/money/2026/10/25/pittsburgh-housing-market-mortgage-rates/stories/202610250038",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261025upmc-cardiology-fellow-world-marathonss",
+    "headline": "Running target: UPMC cardiology fellow is chasing six marathons while studying the hearts of athletes",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-25",
+    "url": "https://www.post-gazette.com/news/health/2026/10/25/upmc-cardiology-fellow-world-marathons/stories/202610250031",
+    "summary": null,
+    "geographicTags": [
+      "Oakland",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261024pittsburgh-homewood-votingstori",
+    "headline": "Food, music and voter information help double votes cast at Homewood CCAC",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-24",
+    "url": "https://www.post-gazette.com/news/politics-local/2026/10/24/pittsburgh-homewood-voting/stories/202610240067",
+    "summary": null,
+    "geographicTags": [
+      "Homewood",
+      "PITTSBURGH"
+    ],
+    "category": "Government",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261024wabash-tunnel-closurestories202",
+    "headline": "PRT board makes it official: Wabash Tunnel will close on Dec. 1",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-24",
+    "url": "https://www.post-gazette.com/news/transportation/2026/10/24/wabash-tunnel-closure/stories/202610240042",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Infrastructure/Transit",
+    "id": 31
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20261024obituary-nancy-duckrey-washingtonst",
     "headline": "Obituary: Nancy Washington had lasting impact on Pittsburgh education, arts and healthcare",
     "source": "Pittsburgh Post-Gazette",
@@ -10,7 +88,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 26
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaemusic20261024night-of-the-singing-dead-pittsburgh-city-",
@@ -21,7 +99,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaemovies20261024hollywood-theater-dormontstories202610140",
@@ -34,7 +112,7 @@
       "DORMONT"
     ],
     "category": "General",
-    "id": 28
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339334",
@@ -61,7 +139,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 29
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261023pitt-porch-roof-collapse-lawsuits",
@@ -72,7 +150,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaetv-radio20261023the-pitt-pittsburgh-filming-1stories202",
@@ -85,7 +163,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 31
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261023pennsylvanian-amtrak-second-train-allegh",
@@ -98,7 +176,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 32
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261023pittsburgh-regional-transit-uni",
@@ -111,7 +189,7 @@
       "PITTSBURGH"
     ],
     "category": "Infrastructure/Transit",
-    "id": 33
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261023pittsburgh-house-fire-spring-garden-resc",
@@ -122,7 +200,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 34
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261023inbound-liberty-tunnel-closures",
@@ -135,7 +213,7 @@
       "LIBERTY"
     ],
     "category": "General",
-    "id": 35
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261023kroger-giant-eagle-cage-free-eggsstories2026",
@@ -146,7 +224,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261023living-herestories202610210042",
@@ -160,7 +238,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 37
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339233",
@@ -184,7 +262,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 38
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261022b-is-for-books-chelsea-clinton-readi",
@@ -197,81 +275,6 @@
       "HOMESTEAD"
     ],
     "category": "State/Regional",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifeoutdoors20261022pa-record-channel-catfishstories20261",
-    "headline": "How a Munhall angler caught a record-setting catfish on the Allegheny River near Sixmile Island",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/life/outdoors/2026/10/22/pa-record-channel-catfish/stories/202610220070",
-    "summary": null,
-    "geographicTags": [
-      "MUNHALL",
-      "ALLEGHENY"
-    ],
-    "category": "General",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261022low-cost-prescription-",
-    "headline": "Low-cost prescription drug window now open until January after Trump policy reversal",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/business/healthcare-business/2026/10/22/low-cost-prescription-drug-window-trump/stories/202610220072",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261022gillece-costly-repairs-attorney-gene",
-    "headline": "Gillece used plumbing specials and scare tactics to sell costly repairs, attorney general says",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/business/money/2026/10/22/gillece-costly-repairs-attorney-general/stories/202610230008",
-    "summary": null,
-    "geographicTags": [
-      "PLUM"
-    ],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261022allegheny-county-paid-parental-",
-    "headline": "Allegheny County Executive Sara Innamorato signs historic paid family leave bill into law",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/news/politics-local/2026/10/22/allegheny-county-paid-parental-leave-update/stories/202610220066",
-    "summary": null,
-    "geographicTags": [
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20261022us-steel-braddock-strip-mill-pollutionstorie",
-    "headline": "Letter to the editor: County must defend air quality",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/local/2026/10/22/us-steel-braddock-strip-mill-pollution/stories/202610150043",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261022patrick-vereb-eternity-pet-update",
-    "headline": "Former Pittsburgh pet crematory owner pleads guilty, sent to jail pending sentencing",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/22/patrick-vereb-eternity-pet-update/stories/202610220056",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
     "id": 45
   },
   {
