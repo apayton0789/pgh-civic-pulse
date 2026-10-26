@@ -1,29 +1,130 @@
 [
   {
-    "externalId": "rss-httpswwwpost-gazettecomaeart-architecture20261025carnegie-museum-heinz-architect",
-    "headline": "Carnegie Museum of Art plans a major redesign of the Heinz Architectural Center",
+    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261026pennsylvania-state-senate-money",
+    "headline": "Democratic-leaning dark money groups flooding Western Pa. state Senate race in a deep-red district",
     "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-25",
-    "url": "https://www.post-gazette.com/ae/art-architecture/2026/10/25/carnegie-museum-heinz-architectural-center/stories/202610220075",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/news/politics-state/2026/10/26/pennsylvania-state-senate-money-district-46/stories/202610230032",
     "summary": null,
-    "geographicTags": [
-      "CARNEGIE"
-    ],
-    "category": "General",
+    "geographicTags": [],
+    "category": "State/Regional",
     "id": 26
   },
   {
-    "externalId": "rss-httpswwwpost-gazettecomlocalregion20261025gap-trail-landslide-connellsvillestori",
-    "headline": "Deadly landslide on Great Allegheny Passage raises safety and economic concerns in Fayette County",
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261026north-shore-bank-robberystories20",
+    "headline": "Man accused of robbing North Shore bank days after federal bank robbery sentence ended",
     "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-25",
-    "url": "https://www.post-gazette.com/local/region/2026/10/25/gap-trail-landslide-connellsville/stories/202610220059",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/26/north-shore-bank-robbery/stories/202610260028",
+    "summary": null,
+    "geographicTags": [
+      "North Side",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnews20261026doj-election-monitors-four-pennsylvania-count",
+    "headline": "DOJ sending election monitors to polls in 4 Pennsylvania counties, including Allegheny",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/news/2026/10/26/doj-election-monitors-four-pennsylvania-counties-allegheny/stories/202610260023",
     "summary": null,
     "geographicTags": [
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 27
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261026eqt-range-resources-acquisitio",
+    "headline": "EQT to buy Range Resources in all-stock Appalachian blockbuster deal",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/business/powersource/2026/10/26/eqt-range-resources-acquisition/stories/202610260022",
+    "summary": null,
+    "geographicTags": [],
+    "category": "Infrastructure/Transit",
+    "id": 29
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20261026skill-games-social-clubs-vfw-shapirostories2",
+    "headline": "Letter to the editor: Don’t take away my skill games",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/local/2026/10/26/skill-games-social-clubs-vfw-shapiro/stories/202610260001",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 30
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocal20261026a-court-of-splintered-harmony-acotar-romanta",
+    "headline": "How Pittsburgh bookstores, businesses are preparing for release of Sarah J. Maas’ latest book",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/local/2026/10/26/a-court-of-splintered-harmony-acotar-romantasy-sarah-j-maas-book-release/stories/202610250097",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Infrastructure/Transit",
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261026phone-scams-allegheny-county-atm-",
+    "headline": "Allegheny County sheriff warns of latest phone scam tactics",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/26/phone-scams-allegheny-county-atm-crypto-kiosk/stories/202610220073",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 32
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifedining20261026spork-island-downtownstories20261022005",
+    "headline": "Denied a South Side volcano, Spork Island erupts Downtown",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/life/dining/2026/10/26/spork-island-downtown/stories/202610220053",
+    "summary": null,
+    "geographicTags": [
+      "Downtown",
+      "South Side",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 33
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomaetheater-dance20261026pittsburgh-cultural-trust-downtown",
+    "headline": "Analysis: Is the Pittsburgh Cultural Trust an arts organization or not?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-26",
+    "url": "https://www.post-gazette.com/ae/theater-dance/2026/10/26/pittsburgh-cultural-trust-downtown/stories/202610150051",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 34
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1339297",
+    "headline": "Three local races to watch on Election Day in the Pittsburgh region",
+    "source": "PublicSource",
+    "date": "2026-10-26",
+    "url": "https://www.publicsource.org/pittsburgh-area-state-house-races-to-watch-2026/",
+    "summary": "Democrats are on the offensive in Pennsylvania and a handful of local state House seats could change hands this year, but Republicans are hopeful they can engineer at least one comeback. The post Three local races to watch on Election Day in the Pittsburgh region appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "State/Regional",
+    "id": 46
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261025pittsburgh-housing-market-mortgage-r",
@@ -36,7 +137,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 28
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261025upmc-cardiology-fellow-world-marathonss",
@@ -50,7 +151,33 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 29
+    "id": 36
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomaeart-architecture20261025carnegie-museum-heinz-architect",
+    "headline": "Carnegie Museum of Art plans a major redesign of the Heinz Architectural Center",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-25",
+    "url": "https://www.post-gazette.com/ae/art-architecture/2026/10/25/carnegie-museum-heinz-architectural-center/stories/202610220075",
+    "summary": null,
+    "geographicTags": [
+      "CARNEGIE"
+    ],
+    "category": "General",
+    "id": 37
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalregion20261025gap-trail-landslide-connellsvillestori",
+    "headline": "Deadly landslide on Great Allegheny Passage raises safety and economic concerns in Fayette County",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-25",
+    "url": "https://www.post-gazette.com/local/region/2026/10/25/gap-trail-landslide-connellsville/stories/202610220059",
+    "summary": null,
+    "geographicTags": [
+      "ALLEGHENY"
+    ],
+    "category": "Government",
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261024pittsburgh-homewood-votingstori",
@@ -64,7 +191,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 30
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261024wabash-tunnel-closurestories202",
@@ -75,7 +202,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Infrastructure/Transit",
-    "id": 31
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsobituaries20261024obituary-nancy-duckrey-washingtonst",
@@ -88,7 +215,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 32
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaemusic20261024night-of-the-singing-dead-pittsburgh-city-",
@@ -99,11 +226,11 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 33
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaemovies20261024hollywood-theater-dormontstories202610140",
-    "headline": "Row House Hollywood in Dormont looks to the past for a community movie theater's future",
+    "headline": "Row House Hollywood in Dormont looks to the past for a community movie theater’s future",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-10-24",
     "url": "https://www.post-gazette.com/ae/movies/2026/10/24/hollywood-theater-dormont/stories/202610140064",
@@ -112,7 +239,7 @@
       "DORMONT"
     ],
     "category": "General",
-    "id": 34
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339334",
@@ -125,7 +252,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261023upmc-aviation-health-s",
@@ -139,7 +266,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 35
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261023pitt-porch-roof-collapse-lawsuits",
@@ -150,95 +277,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomaetv-radio20261023the-pitt-pittsburgh-filming-1stories202",
-    "headline": "Tens of thousands want to be extras when 'The Pitt' films in Pittsburgh next week",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-23",
-    "url": "https://www.post-gazette.com/ae/tv-radio/2026/10/23/the-pitt-pittsburgh-filming-1/stories/202610230037",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 37
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261023pennsylvanian-amtrak-second-train-allegh",
-    "headline": "Brandon McGinley: Trains and terrain: The future of passenger rail in Pittsburgh",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-23",
-    "url": "https://www.post-gazette.com/local/city/2026/10/23/pennsylvanian-amtrak-second-train-allegheny-portage/stories/202610230004",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 38
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261023pittsburgh-regional-transit-uni",
-    "headline": "Pittsburgh Regional Transit approves new 4-year union contract",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-23",
-    "url": "https://www.post-gazette.com/news/transportation/2026/10/23/pittsburgh-regional-transit-union-contract/stories/202610230036",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Infrastructure/Transit",
-    "id": 39
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261023pittsburgh-house-fire-spring-garden-resc",
-    "headline": "Man rescued from second floor window of Spring Garden house fire",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-23",
-    "url": "https://www.post-gazette.com/local/city/2026/10/23/pittsburgh-house-fire-spring-garden-rescue/stories/202610230033",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Public Safety",
-    "id": 40
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261023inbound-liberty-tunnel-closures",
-    "headline": "Inbound Liberty Tunnel to close for repairs next week",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-23",
-    "url": "https://www.post-gazette.com/news/transportation/2026/10/23/inbound-liberty-tunnel-closure/stories/202610230031",
-    "summary": null,
-    "geographicTags": [
-      "LIBERTY"
-    ],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocal20261023kroger-giant-eagle-cage-free-eggsstories2026",
-    "headline": "Letter to the editor: Kroger can’t be trusted",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-23",
-    "url": "https://www.post-gazette.com/local/2026/10/23/kroger-giant-eagle-cage-free-eggs/stories/202610230001",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261023living-herestories202610210042",
-    "headline": "Living Here: 2 new apartment buildings in the Bluff neighborhood are anchored in affordability",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-23",
-    "url": "https://www.post-gazette.com/life/buying-here/2026/10/23/living-here/stories/202610210042",
-    "summary": null,
-    "geographicTags": [
-      "Bluff",
-      "PITTSBURGH"
-    ],
-    "category": "Development",
-    "id": 43
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339233",
@@ -251,31 +290,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 47
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261022firstenergy-electric-bills-sho",
-    "headline": "Regulators deny FirstEnergy's idea for controlling electric bills among shopping customers",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/business/powersource/2026/10/22/firstenergy-electric-bills-shopping/stories/202610220077",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Government",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewseducation20261022b-is-for-books-chelsea-clinton-readi",
-    "headline": "Chelsea Clinton and Lori Shapiro shine spotlight on free children’s bookstore in Homestead",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-22",
-    "url": "https://www.post-gazette.com/news/education/2026/10/22/b-is-for-books-chelsea-clinton-reading-ready-bookstore-literacy/stories/202610220071",
-    "summary": null,
-    "geographicTags": [
-      "HOMESTEAD"
-    ],
-    "category": "State/Regional",
-    "id": 45
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339310",
@@ -289,7 +304,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339062",
@@ -302,7 +317,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339212",
@@ -316,7 +331,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339179",
@@ -330,7 +345,7 @@
       "ALLEGHENY"
     ],
     "category": "Infrastructure/Transit",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339143",
@@ -343,7 +358,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339169",
@@ -357,7 +372,7 @@
       "ALLEGHENY"
     ],
     "category": "Infrastructure/Transit",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339125",
@@ -370,19 +385,6 @@
       "PITTSBURGH"
     ],
     "category": "Health",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1339030",
-    "headline": "Why more Pittsburgh-area librarians are becoming ‘steelworkers’",
-    "source": "PublicSource",
-    "date": "2026-10-19",
-    "url": "https://www.publicsource.org/allegheny-county-library-workers-unionize-low-wages/",
-    "summary": "“I think for a long time unions and libraries didn't seem to make sense together in people's heads. ... I think library workers are beginning to remember that they, too, have the right to representation.” The post Why more Pittsburgh-area librarians are becoming ‘steelworkers’ appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
     "id": 55
   },
   {
