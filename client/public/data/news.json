@@ -1,7 +1,56 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecombusinesspowersource20261101data-centers-zoning-pennsylvan",
+    "headline": "Many Pennsylvania communities are wary of data centers — and some concerns are existential",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-01",
+    "url": "https://www.post-gazette.com/business/powersource/2026/11/01/data-centers-zoning-pennsylvania/stories/202610300063",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomaemusic20261101louder-than-odds-mr-smalls-documentary-mil",
+    "headline": "'Anything was possible': Documentary captures the chaos and the couple behind Mr. Smalls",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-01",
+    "url": "https://www.post-gazette.com/ae/music/2026/11/01/louder-than-odds-mr-smalls-documentary-millvale-three-rivers-film-festival/stories/202611010081",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1339535",
+    "headline": "Gifts to Pittsburgh’s Public Source are now matched",
+    "source": "PublicSource",
+    "date": "2026-11-01",
+    "url": "https://www.publicsource.org/journalism-pittsburgh-support-26/",
+    "summary": "For a limited time, your support of independent, nonprofit Pittsburgh journalism goes up to 12x as far. The post Gifts to Pittsburgh’s Public Source are now matched appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 46
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261031day-of-the-dead-pittsburgh-ofrendastorie",
+    "headline": "Pittsburghers honor deceased loved ones with ‘Day of the Dead’ ofrenda Downtown",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-10-31",
+    "url": "https://www.post-gazette.com/local/city/2026/10/31/day-of-the-dead-pittsburgh-ofrenda/stories/202610310046",
+    "summary": null,
+    "geographicTags": [
+      "Downtown",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 28
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261031capos-bar-south-side-stabbingstor",
-    "headline": "Police: 1 critically wounded in stabbing after fight in Capo’s bar on the South Side",
+    "headline": "South Side community groups call for immediate shutdown of Capo's bar",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-10-31",
     "url": "https://www.post-gazette.com/news/crime-courts/2026/10/31/capos-bar-south-side-stabbing/stories/202610310042",
@@ -10,8 +59,8 @@
       "South Side",
       "PITTSBURGH"
     ],
-    "category": "Public Safety",
-    "id": 26
+    "category": "General",
+    "id": 29
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261031washington-county-janis-bulger-strabane-zedi",
@@ -22,7 +71,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Development",
-    "id": 27
+    "id": 30
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261031forbes-hospital-monroeville-int",
@@ -35,7 +84,7 @@
       "MONROEVILLE"
     ],
     "category": "General",
-    "id": 28
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20261031beaver-supermarket-giant-",
@@ -46,7 +95,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 29
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261030woodland-hills-superintendent-joe-ma",
@@ -57,7 +106,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Public Safety",
-    "id": 30
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261030fayette-county-mail-in-ballot-i",
@@ -68,7 +117,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 31
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnews20261030mount-washington-transit-tunnel-detoursstorie",
@@ -79,7 +128,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Infrastructure/Transit",
-    "id": 32
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocal20261030epa-fossil-fuel-greenhouse-gas-pollution-gas",
@@ -90,7 +139,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Development/Housing",
-    "id": 33
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261030pa-house-district-12-dukes-timk",
@@ -101,7 +150,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government",
-    "id": 34
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261030pittsburgh-population-declinestories2026",
@@ -114,7 +163,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 35
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261030buying-here-judge-paul-simmons-mea",
@@ -125,7 +174,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 36
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339283",
@@ -139,7 +188,7 @@
       "ROSS"
     ],
     "category": "General",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261029east-hills-murder-sentencestories",
@@ -153,7 +202,7 @@
       "VERSAILLES"
     ],
     "category": "General",
-    "id": 37
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesshealthcare-business20261029sharon-regional-medica",
@@ -164,7 +213,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government/Budget",
-    "id": 38
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261029east-busway-weekend-delays-negl",
@@ -175,7 +224,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Development",
-    "id": 39
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20261029wegmans-galleria-grocery-mt-le",
@@ -186,7 +235,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 40
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspittsburgh-company-news20261029larrimors-downtown",
@@ -200,7 +249,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 41
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20261029howard-hanna-alabama-arc-realt",
@@ -211,47 +260,6 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261029homicide-arrests-mt-washingtonsto",
-    "headline": "2 charged in 2024 homicide and robbery in Mount Washington",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-29",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/10/29/homicide-arrests-mt-washington/stories/202610290049",
-    "summary": null,
-    "geographicTags": [
-      "Mount Washington",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20261029springdale-data-center-allegheny",
-    "headline": "In last-ditch effort, residents plead with Allegheny County to vote against Springdale data center",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-29",
-    "url": "https://www.post-gazette.com/business/tech-news/2026/10/29/springdale-data-center-allegheny-dc-propco-opposition/stories/202610280037",
-    "summary": null,
-    "geographicTags": [
-      "SPRINGDALE",
-      "ALLEGHENY"
-    ],
-    "category": "Government",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261029warwick-keystone-research-city-budget-un",
-    "headline": "Brandon McGinley: Is Pittsburgh allowed to tax unearned income?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-10-29",
-    "url": "https://www.post-gazette.com/local/city/2026/10/29/warwick-keystone-research-city-budget-unearned-income-tax/stories/202610290006",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Government/Budget",
     "id": 45
   },
   {
@@ -267,7 +275,7 @@
       "ALLEGHENY"
     ],
     "category": "State/Regional",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339464",
@@ -281,7 +289,7 @@
       "ALLEGHENY"
     ],
     "category": "Government/Budget",
-    "id": 48
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339431",
@@ -296,7 +304,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339473",
@@ -309,7 +317,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339419",
@@ -324,7 +332,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339368",
@@ -338,7 +346,7 @@
       "ROSS"
     ],
     "category": "Education",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339400",
@@ -351,7 +359,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339297",
@@ -364,7 +372,7 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 54
+    "id": 55
   },
   {
     "externalId": "news_1",
