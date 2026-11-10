@@ -1,5 +1,61 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261110pittsburgh-south-side-bars-update",
+    "headline": "Another South Side bar faces closure by Allegheny County’s district attorney",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-10",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/11/10/pittsburgh-south-side-bars-update-linx-capos/stories/202611100037",
+    "summary": null,
+    "geographicTags": [
+      "South Side",
+      "ALLEGHENY",
+      "PITTSBURGH"
+    ],
+    "category": "Government",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlifedining20261110dicarlos-pizza-brooklinestories20261110",
+    "headline": "DiCarlo’s Pizza plots return to Pittsburgh with a Brookline location",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-10",
+    "url": "https://www.post-gazette.com/life/dining/2026/11/10/dicarlos-pizza-brookline/stories/202611100038",
+    "summary": null,
+    "geographicTags": [
+      "Brookline",
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261110pa-midterm-election-jay-costastories2026",
+    "headline": "Brandon McGinley: Handicapping Pittsburgh’s pull in the new Harrisburg",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-10",
+    "url": "https://www.post-gazette.com/local/city/2026/11/10/pa-midterm-election-jay-costa/stories/202611100006",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "State/Regional",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpublicsourceorgp1339844",
+    "headline": "CMU, Pitt embrace AI as region debates data centers",
+    "source": "PublicSource",
+    "date": "2026-11-10",
+    "url": "https://www.publicsource.org/cmu-pitt-ai-data-centers/",
+    "summary": "“You’ve got all sorts of companies here that spun out of CMU that could do really fantastic things if they had access to the compute and if that compute was readily available within the community,” said Brian Regli, a consultant for the firm proposing a data center in Springdale Borough. The post CMU, Pitt embrace AI as region debates data centers appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsourc",
+    "geographicTags": [
+      "PITTSBURGH",
+      "SPRINGDALE"
+    ],
+    "category": "General",
+    "id": 46
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261109penn-state-budget-shortfall-124-mill",
     "headline": "Penn State has $124 million budget shortfall, leaders say",
     "source": "Pittsburgh Post-Gazette",
@@ -8,7 +64,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Government/Budget",
-    "id": 26
+    "id": 29
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesspittsburgh-company-news20261109sheetz-new-preside",
@@ -19,22 +75,22 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 27
+    "id": 30
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261109pittsburgh-mayor-oconnor-budget",
-    "headline": "Facing dire financial straits, Mayor Corey O'Connor sounds an optimistic note in his first budget address",
+    "headline": "Facing dire financial straits, Mayor Corey O’Connor sounds an optimistic note in his first budget address",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-11-09",
     "url": "https://www.post-gazette.com/news/politics-local/2026/11/09/pittsburgh-mayor-oconnor-budget-address/stories/202611090034",
     "summary": null,
     "geographicTags": [],
     "category": "Government/Budget",
-    "id": 28
+    "id": 31
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261109sean-sluganski-johnathan-morris-h",
-    "headline": "Trial begins in the case against accused McKeesport cop-killer",
+    "headline": "Witnesses describe harrowing moments when McKeesport officer was killed in 2023 as trial begins",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-11-09",
     "url": "https://www.post-gazette.com/news/crime-courts/2026/11/09/sean-sluganski-johnathan-morris-homicide-trial/stories/202611090036",
@@ -43,7 +99,7 @@
       "MCKEESPORT"
     ],
     "category": "General",
-    "id": 29
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261109pittsburgh-tunnels-lane-closure",
@@ -58,7 +114,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 30
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinesstech-news20261109duolingo-pittsburgh-hedquarters-",
@@ -73,7 +129,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 31
+    "id": 34
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20261109people-on-the-move-11-09-26sto",
@@ -84,7 +140,18 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 32
+    "id": 35
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecombusinesscareer-workplace20261109diesel-prices-truckers-co",
+    "headline": "As diesel prices soar, truckers in Pennsylvania struggle while keeping America moving",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-09",
+    "url": "https://www.post-gazette.com/business/career-workplace/2026/11/09/diesel-prices-truckers-costs-breezewood/stories/202610310054",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifeholidays20261109hindu-new-year-diwali-worshippers-pit",
@@ -97,7 +164,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 33
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifedining20261109ippa-lily-whitney-lindsey-pittman-resta",
@@ -108,7 +175,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 34
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339859",
@@ -122,7 +189,7 @@
       "RESERVE"
     ],
     "category": "Government/Budget",
-    "id": 46
+    "id": 47
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339350",
@@ -136,7 +203,7 @@
       "ELIZABETH"
     ],
     "category": "General",
-    "id": 47
+    "id": 48
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261108pittsburgh-eqt-10-miler-2026-race-result",
@@ -149,7 +216,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 35
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlocalcity20261108troy-hill-war-monument-damagestories2026",
@@ -163,7 +230,7 @@
       "PITTSBURGH"
     ],
     "category": "Public Safety",
-    "id": 36
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261108weather-pittsburgh-snow-novembers",
@@ -174,7 +241,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 37
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261108pittsburgh-schools-digital-hall-pass",
@@ -187,7 +254,7 @@
       "PITTSBURGH"
     ],
     "category": "Education",
-    "id": 38
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261108breastfeeding-center-of-pittsburghstori",
@@ -200,7 +267,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 39
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewseducation20261108carnegie-mellon-miami-campus-wynwood",
@@ -215,7 +282,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 40
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaemovies20261108jimmy-stewart-biopic-indiana-pastories202",
@@ -226,7 +293,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 41
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339714",
@@ -239,54 +306,7 @@
       "PITTSBURGH"
     ],
     "category": "Development",
-    "id": 48
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261107homewood-accident-frankstown-wash",
-    "headline": "Man found shot after three-vehicle accident in Homewood",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-07",
-    "url": "https://www.post-gazette.com/news/crime-courts/2026/11/07/homewood-accident-frankstown-washington-driver-shot/stories/202611070040",
-    "summary": null,
-    "geographicTags": [
-      "Homewood",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261107pennsylvania-turnpike-beaver-ri",
-    "headline": "The rare construction method used by the Pa. Turnpike to replace a Western Pa. bridge",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-07",
-    "url": "https://www.post-gazette.com/news/transportation/2026/11/07/pennsylvania-turnpike-beaver-river-bridge/stories/202611060070",
-    "summary": null,
-    "geographicTags": [],
-    "category": "Development",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261107camera-bartolotta-pa-election-r",
-    "headline": "How state Sen. Camera Bartolotta, besieged from all sides, survived a grueling year in American politics",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-07",
-    "url": "https://www.post-gazette.com/news/politics-state/2026/11/07/camera-bartolotta-pa-election-results/stories/202611060043",
-    "summary": null,
-    "geographicTags": [],
-    "category": "State/Regional",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261107cell-phone-ban-pennsylvaniastories20261",
-    "headline": "How Pennsylvania’s bell-to-bell phone ban pans out depends on implementation, experts say",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-07",
-    "url": "https://www.post-gazette.com/news/health/2026/11/07/cell-phone-ban-pennsylvania/stories/202611080032",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 45
+    "id": 49
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339787",
@@ -299,7 +319,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 49
+    "id": 50
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339814",
@@ -312,7 +332,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 50
+    "id": 51
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339782",
@@ -326,7 +346,7 @@
       "WILKINSBURG"
     ],
     "category": "Government/Budget",
-    "id": 51
+    "id": 52
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339747",
@@ -340,7 +360,7 @@
       "PITTSBURGH"
     ],
     "category": "Development/Housing",
-    "id": 52
+    "id": 53
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339756",
@@ -353,7 +373,7 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 53
+    "id": 54
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339744",
@@ -368,19 +388,6 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 54
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1339694",
-    "headline": "Gov. Shapiro and Democrats clinch control of Pa. House, Senate, governor&#8217;s mansion",
-    "source": "PublicSource",
-    "date": "2026-11-04",
-    "url": "https://www.publicsource.org/pennsylvania-politics-trifecta-democrats-win/",
-    "summary": "Having control of both chambers could shore up Shapiro’s credentials if he decides to run for president in 2028, allowing him to potentially pass his top priorities without having to negotiate with Republicans. The post Gov. Shapiro and Democrats clinch control of Pa. House, Senate, governor&#8217;s mansion appeared first on Pittsburgh&#039;s Public Source . PublicSource is a nonprofit news organization serving the Pittsburgh region. Visit www.publicsource.org to read more.",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "State/Regional",
     "id": 55
   },
   {
