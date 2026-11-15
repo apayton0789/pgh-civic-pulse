@@ -1,5 +1,53 @@
 [
   {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261115washington-pennsylvania-shooting-",
+    "headline": "Man shot several times on Washington, Pa., street: authorities",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-15",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/11/15/washington-pennsylvania-shooting-hall-avenue/stories/202611150089",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 26
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261115new-pittsburgh-international-ai",
+    "headline": "One year in: Was the new Pittsburgh International Airport terminal worth building?",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-15",
+    "url": "https://www.post-gazette.com/news/transportation/2026/11/15/new-pittsburgh-international-airport-terminal-was-it-worth-building-1-7-billion/stories/202611130051",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "Development",
+    "id": 27
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261114william-spencer-youth-football-em",
+    "headline": "Former director of Washington youth football league sentenced for defrauding money",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-14",
+    "url": "https://www.post-gazette.com/news/crime-courts/2026/11/14/william-spencer-youth-football-embezzlement/stories/202611140061",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 28
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261114faa-flights-grounded-planes-sto",
+    "headline": "Travelers return to Pittsburgh International Airport to re-book flights as ground stoppage winds down",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-14",
+    "url": "https://www.post-gazette.com/news/transportation/2026/11/14/faa-flights-grounded-planes-stop/stories/202611140054",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 29
+  },
+  {
     "externalId": "rss-httpswwwpost-gazettecomlocalregion20261114two-students-two-others-outside-the-u-",
     "headline": "Two students, two others outside the U.S., arrested in rash of Freedom High School bomb threats",
     "source": "Pittsburgh Post-Gazette",
@@ -8,18 +56,7 @@
     "summary": null,
     "geographicTags": [],
     "category": "Education",
-    "id": 26
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261114ai-apocalypse-cs-lewis-pope-leostories20",
-    "headline": "Brandon McGinley: Let the AI doomsday find you doing well",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-14",
-    "url": "https://www.post-gazette.com/local/city/2026/11/14/ai-apocalypse-cs-lewis-pope-leo/stories/202611150034",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 27
+    "id": 30
   },
   {
     "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261114pittsburgh-donahue-family-florida-es",
@@ -32,7 +69,18 @@
       "PITTSBURGH"
     ],
     "category": "State/Regional",
-    "id": 28
+    "id": 31
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261114ai-apocalypse-cs-lewis-pope-leostories20",
+    "headline": "Brandon McGinley: Let the AI doomsday find you doing well",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-14",
+    "url": "https://www.post-gazette.com/local/city/2026/11/14/ai-apocalypse-cs-lewis-pope-leo/stories/202611150034",
+    "summary": null,
+    "geographicTags": [],
+    "category": "General",
+    "id": 32
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261113sean-sluganski-chuck-thomas-homic",
@@ -45,7 +93,7 @@
       "MCKEESPORT"
     ],
     "category": "Public Safety",
-    "id": 29
+    "id": 33
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewsnation20261113rocky-balboa-movie-philadelphia-world-r",
@@ -56,7 +104,20 @@
     "summary": null,
     "geographicTags": [],
     "category": "General",
-    "id": 30
+    "id": 34
+  },
+  {
+    "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261113faa-ground-stopstories202611130",
+    "headline": "A ‘very strange’ night at Pittsburgh International Airport amid an hourslong nationwide ground stop",
+    "source": "Pittsburgh Post-Gazette",
+    "date": "2026-11-13",
+    "url": "https://www.post-gazette.com/news/transportation/2026/11/13/faa-ground-stop/stories/202611130094",
+    "summary": null,
+    "geographicTags": [
+      "PITTSBURGH"
+    ],
+    "category": "General",
+    "id": 35
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-state20261113pennsylvania-democrats-jay-cost",
@@ -69,7 +130,7 @@
       "ALLEGHENY"
     ],
     "category": "Government",
-    "id": 31
+    "id": 36
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewstransportation20261113allegheny-river-lock-dam-natron",
@@ -82,11 +143,11 @@
       "ALLEGHENY"
     ],
     "category": "General",
-    "id": 32
+    "id": 37
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomaemovies20261113pittsburgh-how-to-rob-a-bank-moviestories",
-    "headline": "In 'How to Rob a Bank,' Pittsburgh plays a starring role",
+    "headline": "In ‘How to Rob a Bank,’ Pittsburgh plays a starring role",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-11-13",
     "url": "https://www.post-gazette.com/ae/movies/2026/11/13/pittsburgh-how-to-rob-a-bank-movie/stories/202611130078",
@@ -95,7 +156,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 33
+    "id": 38
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewssocial-services20261113polish-hill-proposed-homeless-",
@@ -109,7 +170,7 @@
       "PITTSBURGH"
     ],
     "category": "Development/Housing",
-    "id": 34
+    "id": 39
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewspolitics-local20261113pittsburgh-city-council-races-2",
@@ -122,7 +183,7 @@
       "PITTSBURGH"
     ],
     "category": "Government",
-    "id": 35
+    "id": 40
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewshealth20261113tully-tube-paper-pill-bottlesstories202",
@@ -136,11 +197,11 @@
       "PITTSBURGH"
     ],
     "category": "Business",
-    "id": 36
+    "id": 41
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifebuying-here20261113buying-here-kentucky-ave-shadyside",
-    "headline": "Buying Here: Interior designer's Shadyside triplex priced at $1.347 million",
+    "headline": "Buying Here: Interior designer’s Shadyside triplex priced at $1.347 million",
     "source": "Pittsburgh Post-Gazette",
     "date": "2026-11-13",
     "url": "https://www.post-gazette.com/life/buying-here/2026/11/13/buying-here-kentucky-ave-shadyside-triplex-designer-sara-woodside/stories/202611130002",
@@ -150,7 +211,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 37
+    "id": 42
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifehomes20261113pittsburgh-symphony-splendor-holiday-hou",
@@ -163,7 +224,7 @@
       "CRANBERRY"
     ],
     "category": "General",
-    "id": 38
+    "id": 43
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomlifedining20261113mad-mex-sol-shadysidestories20261112007",
@@ -177,7 +238,7 @@
       "PITTSBURGH"
     ],
     "category": "General",
-    "id": 39
+    "id": 44
   },
   {
     "externalId": "rss-httpswwwpost-gazettecomnewscrime-courts20261112sean-sluganski-chuck-thomas-homic",
@@ -190,7 +251,7 @@
       "MCKEESPORT"
     ],
     "category": "General",
-    "id": 40
+    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339871",
@@ -204,66 +265,6 @@
     ],
     "category": "State/Regional",
     "id": 46
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomlocalcity20261112starbucks-union-strike-pitt-pittsburghst",
-    "headline": "Union leaders demand Pitt cut ties with Starbucks",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-12",
-    "url": "https://www.post-gazette.com/local/city/2026/11/12/starbucks-union-strike-pitt-pittsburgh/stories/202611120090",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 41
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessmoney20261112family-dollar-settlement-lawsuitstor",
-    "headline": "Family Dollar settlement reached in pricing discrepancies lawsuit",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-12",
-    "url": "https://www.post-gazette.com/business/money/2026/11/12/family-dollar-settlement-lawsuit/stories/202611120076",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 42
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewsweather-news20261112pittsburgh-weather-first-potentia",
-    "headline": "Will Pittsburgh see its first snowfall of the season this weekend?",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-12",
-    "url": "https://www.post-gazette.com/news/weather-news/2026/11/12/pittsburgh-weather-first-potential-snowfall/stories/202611120072",
-    "summary": null,
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 43
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecomnewshealth20261112ahn-cancer-center-james-fitterlingstori",
-    "headline": "AHN Cancer Center receives 'historic' $25 million donation from Dow board chair — a onetime patient",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-12",
-    "url": "https://www.post-gazette.com/news/health/2026/11/12/ahn-cancer-center-james-fitterling/stories/202611120061",
-    "summary": null,
-    "geographicTags": [],
-    "category": "General",
-    "id": 44
-  },
-  {
-    "externalId": "rss-httpswwwpost-gazettecombusinessdevelopment20261112downtown-office-residential-gu",
-    "headline": "Balancing Downtown Pittsburgh's office market with residential conversions reveals a money gap",
-    "source": "Pittsburgh Post-Gazette",
-    "date": "2026-11-12",
-    "url": "https://www.post-gazette.com/business/development/2026/11/12/downtown-office-residential-gulf-tower-pdp-waldrup/stories/202611120013",
-    "summary": null,
-    "geographicTags": [
-      "Downtown",
-      "PITTSBURGH"
-    ],
-    "category": "General",
-    "id": 45
   },
   {
     "externalId": "rss-httpswwwpublicsourceorgp1339933",
@@ -361,19 +362,6 @@
     ],
     "category": "General",
     "id": 53
-  },
-  {
-    "externalId": "rss-httpswwwpublicsourceorgp1339714",
-    "headline": "Investing in electrification: DLC helps Pittsburgh-area properties add EV charging",
-    "source": "PublicSource",
-    "date": "2026-11-08",
-    "url": "https://www.publicsource.org/dlc-duquesne-light-company-ev-charging-pittsburgh-rental-utilities/",
-    "summary": "From luxury apartments to senior living communities, Hudson Companies has been building and investing in the Pittsburgh region for decades. Part of its long-term success depends on staying current on evolving residential needs.&#160; Not too long ago, high-speed internet became a standard amenity that factored into renters’ choices. Then came package rooms for secure, convenient [&#8230;] The post Investing in electrification: DLC helps Pittsburgh-area properties add EV charging appeared first o",
-    "geographicTags": [
-      "PITTSBURGH"
-    ],
-    "category": "Development",
-    "id": 54
   },
   {
     "externalId": "news_1",
