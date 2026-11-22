@@ -5,7 +5,7 @@
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-11-21.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-11-22.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -28,10 +28,10 @@
     "sources": [
       {
         "id": "src-meeting-33-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-21",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-22",
         "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
@@ -40,8 +40,8 @@
         "id": "src-meeting-33-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
         "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -53,209 +53,16 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-11-21.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-11-22.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-21",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-22",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=LI15b2g2qWI",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-11-21",
-    "date": "2026-11-21",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-11-22",
+    "date": "2026-11-22",
     "relatedMeetingId": 33,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-19",
-    "headline": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/20/26",
-    "governmentLevel": "local",
-    "topicArea": "City Governance",
-    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Budget Hearing on 2026-11-20.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh City Council"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Topics from title: Budget. Full discussion available in the video recording.",
-        "sourceIds": [
-          "src-meeting-19-video"
-        ]
-      },
-      {
-        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
-        "sourceIds": [
-          "src-meeting-19-video"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-meeting-19-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-20",
-        "url": "https://www.youtube.com/watch?v=yEbAKPsjUTs",
-        "publishedDate": "2026-11-20",
-        "retrievedDate": "2026-11-21",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "City Channel Pittsburgh"
-      },
-      {
-        "id": "src-meeting-19-record",
-        "title": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/20/26",
-        "url": "https://www.youtube.com/watch?v=yEbAKPsjUTs",
-        "publishedDate": "2026-11-20",
-        "retrievedDate": "2026-11-21",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Budget Hearing"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/20/26",
-    "oneLineSummary": "Pittsburgh City Council Budget Hearing on 2026-11-20.",
-    "categoryTag": "City Governance",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-20",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=yEbAKPsjUTs",
-    "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-11-20",
-    "date": "2026-11-20",
-    "relatedMeetingId": 19,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-26",
-    "headline": "PRT board says yes to bus route refresh",
-    "governmentLevel": "local",
-    "topicArea": "Infrastructure/Transit",
-    "whyItMatters": "This development affects the Infrastructure/Transit sector in Pittsburgh.",
-    "whatChanged": "“Folks deserve better than getting on in Cranberry and riding all the way into Downtown and then transferring to go back to Ross,” PRT CEO Katharine Kelleman said. “It’s time for ‘yes and.’ Bus line refresh is a first step in that direction.” The post PRT board says yes to bus route refresh appeared",
-    "urgency": "medium",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "Downtown",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "“Folks deserve better than getting on in Cranberry and riding all the way into Downtown and then transferring to go back to Ross,” PRT CEO Katharine Kelleman said.",
-        "sourceIds": [
-          "src-news-26"
-        ]
-      },
-      {
-        "text": "“It’s time for ‘yes and.’ Bus line refresh is a first step in that direction.” The post PRT board says yes to bus route refresh appeared first on Pittsburgh&#039;s Public Source.",
-        "sourceIds": [
-          "src-news-26"
-        ]
-      },
-      {
-        "text": "PublicSource is a nonprofit news organization serving the Pittsburgh region.",
-        "sourceIds": [
-          "src-news-26"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-26",
-        "title": "PRT board says yes to bus route refresh",
-        "url": "https://www.publicsource.org/prt-bus-line-refresh-vote-passes/",
-        "publishedDate": "2026-11-20",
-        "retrievedDate": "2026-11-21",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "“Folks deserve better than getting on in Cranberry and riding all the way into Downtown and then transferring to go back to Ross,” PRT CEO Katharine Kelleman said. “It’s time for ‘yes and.’ Bus line r"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 6,
-    "urgencyScore": 5,
-    "localRelevance": 6,
-    "influenceability": 5,
-    "displayHeadline": "PRT board says yes to bus route refresh",
-    "oneLineSummary": "“Folks deserve better than getting on in Cranberry and riding all the way into Downtown and then transferring to go back",
-    "categoryTag": "Infrastructure/Transit",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "“Folks deserve better than getting on in Cranberry and riding all the way into Downtown and then tra",
-    "strongestSourceLabel": "PublicSource — 2026-11-20",
-    "strongestSourceUrl": "https://www.publicsource.org/prt-bus-line-refresh-vote-passes/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-11-20",
-    "date": "2026-11-20",
-    "relatedNewsId": 26,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-27",
-    "headline": "Tree of Life memories, detention center realities and a new take on community",
-    "governmentLevel": "local",
-    "topicArea": "Development/Housing",
-    "whyItMatters": "This development affects the Development/Housing sector in Pittsburgh.",
-    "whatChanged": "\"My grandparents survived the Holocaust, and I inherited a conviction that remembering what happened to Jews carried responsibilities toward other people facing persecution.\" The post Tree of Life memories, detention center realities and a new take on community appeared first on Pittsburgh&#039;s Pu",
-    "urgency": "medium",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "\"My grandparents survived the Holocaust, and I inherited a conviction that remembering what happened to Jews carried responsibilities toward other people facing persecution.\" The post Tree of Life memories, detention center realities and a new take on community appeared first on Pittsburgh&#039;s Public Source.",
-        "sourceIds": [
-          "src-news-27"
-        ]
-      },
-      {
-        "text": "PublicSource is a nonprofit news organization serving the Pittsburgh region.",
-        "sourceIds": [
-          "src-news-27"
-        ]
-      },
-      {
-        "text": "Visit www.publicsource.org to read more..",
-        "sourceIds": [
-          "src-news-27"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-27",
-        "title": "Tree of Life memories, detention center realities and a new take on community",
-        "url": "https://www.publicsource.org/tree-of-life-never-again-immigrant-detention/",
-        "publishedDate": "2026-11-20",
-        "retrievedDate": "2026-11-21",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "\"My grandparents survived the Holocaust, and I inherited a conviction that remembering what happened to Jews carried responsibilities toward other people facing persecution.\" The post Tree of Life mem"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 7,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 6,
-    "displayHeadline": "Tree of Life memories, detention center realities and a new take on community",
-    "oneLineSummary": "\"My grandparents survived the Holocaust, and I inherited a conviction that remembering what happened to Jews carried res",
-    "categoryTag": "Development/Housing",
-    "categoryColor": "#eab308",
-    "keyStatOrQuote": "\"My grandparents survived the Holocaust, and I inherited a conviction that remembering what happened",
-    "strongestSourceLabel": "PublicSource — 2026-11-20",
-    "strongestSourceUrl": "https://www.publicsource.org/tree-of-life-never-again-immigrant-detention/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-11-20",
-    "date": "2026-11-20",
-    "relatedNewsId": 27,
     "feedbackOpportunity": false
   },
   {
@@ -291,8 +98,8 @@
         "id": "src-dev-1",
         "title": "Kelly Street Rezoning",
         "url": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Proposed by URA; rezoning from R1D-L to UI; future multiunit residential building planned; requires Planning Commission and City Council hearings; Development Activities Meeting held with Homewood Com"
@@ -312,7 +119,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Kelly Street / Formosa Way (parcels 125-G-18 area)",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -349,8 +156,8 @@
         "id": "src-dev-2",
         "title": "Lower Hill District Housing RFP",
         "url": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "6.82 acres URA-owned land; public comment period open March 12 – April 7, 2026; URA Board vote on April 9, 2026; also includes Bedford Dwellings/Hill District mixed-income housing project (Trek Develo"
@@ -370,7 +177,7 @@
     "strongestSourceUrl": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
     "callToAction": "Stay informed",
     "infographicCaption": "Open for Comment — Lower Hill District, Block A and Block C",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-04-07"
   },
@@ -406,8 +213,8 @@
         "id": "src-dev-3",
         "title": "Pittsburgh Comprehensive Plan",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Two-year planning process; community-led engagement with consultant team; guided by 'Just Transition' and climate justice principles; covers 8 themes: welcoming community, safe city, youth, economic o"
@@ -427,7 +234,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -462,8 +269,8 @@
         "id": "src-dev-4",
         "title": "Implementing the Housing Needs Assessment – Zoning Reforms",
         "url": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Minimum lot size legislation 2025-1579 passed and in effect citywide; future phases include comprehensive residential zoning code overhaul; inclusionary zoning (IZ) overlay currently active in Lawrenc"
@@ -483,7 +290,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -518,8 +325,8 @@
         "id": "src-dev-5",
         "title": "Mayor O'Connor Permitting Process Reform & Zoning Code Overhaul",
         "url": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Announced March 9, 2026; executive order issued on mayor's first day requiring 60-day departmental review; first comprehensive zoning code rewrite in decades; Phase 1 actions being implemented Q1-Q2 2"
@@ -539,7 +346,7 @@
     "strongestSourceUrl": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -575,8 +382,8 @@
         "id": "src-dev-6",
         "title": "California Ave. Bridge Rehabilitation Project",
         "url": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Bridge built 1928; eligible for National Register of Historic Places (Criterion C); community meeting held July 24, 2025; federal FHWA and PennDOT District 11-0 cooperation; consultants: MS Consultant"
@@ -596,7 +403,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — California Avenue (Robert McAfee Bridge)",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -632,8 +439,8 @@
         "id": "src-dev-7",
         "title": "Frankstown Avenue Signal Improvements",
         "url": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Federal CMAQ grant of ~$4.3 million; construction began January 2026; 9 intersections in scope; part of 2022 Homewood Mobility Plan; DOMI lead; signal replacements at Murtland, Lang, Homewood, Collier"
@@ -653,7 +460,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Frankstown Avenue, Murtland Ave to Blackadore St",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -689,8 +496,8 @@
         "id": "src-dev-8",
         "title": "Liberty Avenue Highway Safety Improvement Project",
         "url": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "HSIP (Federal Highway Safety Improvement Program) funded; full signal replacement at 6 intersections; new signal at 27th St; RRFB conversion at 17th St; part of Strip District Mobility Plan; also coor"
@@ -710,7 +517,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Liberty Avenue, Strip District (17th St to 32nd St)",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -746,8 +553,8 @@
         "id": "src-dev-9",
         "title": "Brighton Heights, California & Termon Intersection Improvement",
         "url": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "9 crashes 2020-2024 (4 serious injury, 1 pedestrian injury); PRT Route 13 serves this intersection (~32 boardings/weekday); dominant crash type: 'angle' (turning/yielding behavior); project will produ"
@@ -767,7 +574,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Brighton Heights Blvd / California Ave / Termon Ave",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -803,8 +610,8 @@
         "id": "src-dev-10",
         "title": "Penn Plaza Block B (Pennley Park South)",
         "url": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Developer: LG Realty Advisors, Inc.; privately-owned development (City role is zoning compliance review and engagement facilitation); Block A (Whole Foods) completed 2022; Block C (Enright Park renova"
@@ -824,7 +631,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Penn Plaza site, East Liberty",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -860,8 +667,8 @@
         "id": "src-dev-11",
         "title": "Bloomfield Bridge Rehabilitation",
         "url": "https://engage.pittsburghpa.gov/bloomfield-bridge",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Largest deck-area bridge in Pittsburgh; spans East Busway and railroad lines; emergency maintenance (expansion joint seals) completed fall 2025; full rehabilitation in planning phase; DOMI lead; work "
@@ -881,7 +688,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/bloomfield-bridge",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Bloomfield Bridge (Bloomfield neighborhood)",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -917,8 +724,8 @@
         "id": "src-dev-12",
         "title": "Serpentine Drive Wall Repair & Access Conversion",
         "url": "https://engage.pittsburghpa.gov/serpentine-drive",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Wall collapsed in 2019; ~265 feet of masonry wall replacement/repair; architectural treatment to replicate original stone masonry aesthetics; proposes closure to motor vehicles permanently; 60-day pub"
@@ -938,7 +745,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/serpentine-drive",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Serpentine Drive, Schenley Park",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -974,8 +781,8 @@
         "id": "src-dev-13",
         "title": "Warrington Recreation Center Renovation",
         "url": "https://engage.pittsburghpa.gov/warrington-recreation-center",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Funded by Redevelopment Assistance Capital Program (RACP) grants and local dollars; key features: recording studio, elevator (ADA), new playground, outdoor basketball court; Department of Public Works"
@@ -995,7 +802,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/warrington-recreation-center",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Warrington Recreation Center",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1030,8 +837,8 @@
         "id": "src-dev-14",
         "title": "Vision Zero – Traffic Safety Program",
         "url": "https://engage.pittsburghpa.gov/vision-zero",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Formally adopted 2024; Mayor Gainey's 2024 budget nearly doubled traffic safety capital investment; sub-programs include: Neighborhood Traffic Calming, Safe Routes to School, Automated Red Light Enfor"
@@ -1051,7 +858,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vision-zero",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1087,8 +894,8 @@
         "id": "src-dev-15",
         "title": "Vending Program Rules & Regulations",
         "url": "https://engage.pittsburghpa.gov/vending-program",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Legislation passed November 18, 2025; signed by Mayor Gainey November 19, 2025; Ordinances 34 and 35; amended Zoning Code and Chapter 719 (Vendors and Peddlers); final rules/regulations publication ta"
@@ -1108,7 +915,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vending-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Citywide",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-03-12"
   },
@@ -1144,8 +951,8 @@
         "id": "src-dev-16",
         "title": "Historic Preservation Program",
         "url": "https://engage.pittsburghpa.gov/historic-preservation-program",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Guided by PreservePGH (2012); ongoing Architectural Inventory Project (surveys since 2014); new design guidelines contract approved March 2026 for Mexican War Streets and Manchester Historic Districts"
@@ -1165,7 +972,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/historic-preservation-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1201,8 +1008,8 @@
         "id": "src-dev-17",
         "title": "South Side Park Project",
         "url": "https://engage.pittsburghpa.gov/south-side-park-project",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Phase 1 ongoing; stormwater r-tanks installed in coordination with Pittsburgh Water (PWSA); public art project funded by Percent for Art program; City Council Resolution 2026-0177 authorized Pittsburg"
@@ -1222,7 +1029,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/south-side-park-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — South Side Park",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1257,8 +1064,8 @@
         "id": "src-dev-18",
         "title": "Safe Routes to School Program",
         "url": "https://engage.pittsburghpa.gov/safe-routes-to-school",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Ongoing annual program; DOMI lead; combines engineering improvements (crosswalks, signage, sidewalks) with education and encouragement; part of Vision Zero safe systems approach; updated January 2026"
@@ -1278,7 +1085,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/safe-routes-to-school",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide (school corridors)",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1313,8 +1120,8 @@
         "id": "src-dev-19",
         "title": "Pittsburgh Regional Disparity Study",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Citywide procurement disparity analysis; examines race, ethnicity, and gender-based disparities in city contracting; will inform MBE/WBE program policies; findings will guide equitable contracting req"
@@ -1334,7 +1141,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1370,8 +1177,8 @@
         "id": "src-dev-20",
         "title": "Allegheny Riverfront Park Restoration",
         "url": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Total project cost: $6.3 million; partners: Riverlife, City of Pittsburgh, Pittsburgh Cultural Trust; designer: Michael Van Valkenburgh Associates + LaQuatra Bonci Associates; construction anticipated"
@@ -1391,7 +1198,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Allegheny Riverfront Park (between 6th, 7th, and 9th Street Bridges)",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1427,8 +1234,8 @@
         "id": "src-dev-21",
         "title": "Westinghouse Park Master Plan",
         "url": "https://engage.pittsburghpa.gov/westinghouse-park",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "10.2-acre park; partnership between Westinghouse Park 2nd Century Coalition and Point Breeze North Development Corporation; funded by URA Neighborhood Initiative program grant and private funder; fina"
@@ -1448,7 +1255,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/westinghouse-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Westinghouse Park",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   },
   {
@@ -1477,9 +1284,9 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#acd6c3c2c5c2cbecdcc5d8d8dfced9decbc4dccd82cbc3da",
-        "publishedDate": "2026-11-21",
-        "retrievedDate": "2026-11-21",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#87fde8e9eee9e0c7f7eef3f3f4e5f2f5e0eff7e6a9e0e8f1",
+        "publishedDate": "2026-11-22",
+        "retrievedDate": "2026-11-22",
         "sourceType": "government_document",
         "confidenceLevel": "high"
       }
@@ -1495,10 +1302,10 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing a proposal for a new mixed-use building in the Central ",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#acd6c3c2c5c2cbecdcc5d8d8dfced9decbc4dccd82cbc3da",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#87fde8e9eee9e0c7f7eef3f3f4e5f2f5e0eff7e6a9e0e8f1",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "feedbackOpportunity": false
   }
 ]
