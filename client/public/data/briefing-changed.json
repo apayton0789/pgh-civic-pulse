@@ -1,11 +1,11 @@
 [
   {
-    "id": "meeting-19",
+    "id": "meeting-20",
     "headline": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
     "governmentLevel": "local",
     "topicArea": "City Governance",
     "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-11-23.",
+    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-11-24.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -15,33 +15,33 @@
       {
         "text": "Topics from title: Budget. Full discussion available in the video recording.",
         "sourceIds": [
-          "src-meeting-19-video"
+          "src-meeting-20-video"
         ]
       },
       {
         "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
         "sourceIds": [
-          "src-meeting-19-video"
+          "src-meeting-20-video"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-meeting-19-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-23",
+        "id": "src-meeting-20-video",
+        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
         "url": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "City Channel Pittsburgh"
       },
       {
-        "id": "src-meeting-19-record",
+        "id": "src-meeting-20-record",
         "title": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
         "url": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Regular Meeting"
@@ -53,25 +53,25 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
-    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-11-23.",
+    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-11-24.",
     "categoryTag": "City Governance",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-23",
+    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
     "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-11-23",
-    "date": "2026-11-23",
-    "relatedMeetingId": 19,
+    "infographicCaption": "Pittsburgh City Council — 2026-11-24",
+    "date": "2026-11-24",
+    "relatedMeetingId": 20,
     "feedbackOpportunity": false
   },
   {
-    "id": "meeting-32",
+    "id": "meeting-33",
     "headline": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
     "governmentLevel": "local",
     "topicArea": "Education",
     "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-11-23.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-11-24.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -81,33 +81,33 @@
       {
         "text": "Topics from title: Education. Full discussion available in the video recording.",
         "sourceIds": [
-          "src-meeting-32-video"
+          "src-meeting-33-video"
         ]
       },
       {
         "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
         "sourceIds": [
-          "src-meeting-32-video"
+          "src-meeting-33-video"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-meeting-32-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-23",
+        "id": "src-meeting-33-video",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-24",
         "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "Pittsburgh Public Schools"
       },
       {
-        "id": "src-meeting-32-record",
+        "id": "src-meeting-33-record",
         "title": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
         "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Board Meeting"
@@ -119,20 +119,213 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-11-23.",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-11-24.",
+    "categoryTag": "Education",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Pittsburgh Public Schools Board",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-24",
+    "strongestSourceUrl": "https://www.youtube.com/watch?v=LI15b2g2qWI",
+    "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-11-24",
+    "date": "2026-11-24",
+    "relatedMeetingId": 33,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "meeting-29",
+    "headline": "Pittsburgh Public Schools Board Public Hearing — Public Hearing - November 23, 2026",
+    "governmentLevel": "local",
+    "topicArea": "Education",
+    "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
+    "whatChanged": "Pittsburgh Public Schools Board held Public Hearing on 2026-11-23.",
+    "urgency": "low",
+    "actionNeeded": "Watch recording for full proceedings.",
+    "keyStakeholders": [
+      "Pittsburgh Public Schools Board"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Topics from title: Public Input. Full discussion available in the video recording.",
+        "sourceIds": [
+          "src-meeting-29-video"
+        ]
+      },
+      {
+        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
+        "sourceIds": [
+          "src-meeting-29-video"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-meeting-29-video",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-23",
+        "url": "https://www.youtube.com/watch?v=YqA7OGWLBkU",
+        "publishedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
+        "sourceType": "video",
+        "confidenceLevel": "high",
+        "speaker": "Pittsburgh Public Schools"
+      },
+      {
+        "id": "src-meeting-29-record",
+        "title": "Pittsburgh Public Schools Board Public Hearing — Public Hearing - November 23, 2026",
+        "url": "https://www.youtube.com/watch?v=YqA7OGWLBkU",
+        "publishedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
+        "sourceType": "meeting_record",
+        "confidenceLevel": "high",
+        "agendaItem": "Public Hearing"
+      }
+    ],
+    "confidenceLevel": "low",
+    "importanceScore": 5,
+    "urgencyScore": 2,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Pittsburgh Public Schools Board Public Hearing — Public Hearing - November 23, 2026",
+    "oneLineSummary": "Pittsburgh Public Schools Board Public Hearing on 2026-11-23.",
     "categoryTag": "Education",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh Public Schools Board",
     "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-23",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=LI15b2g2qWI",
+    "strongestSourceUrl": "https://www.youtube.com/watch?v=YqA7OGWLBkU",
     "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
     "infographicCaption": "Pittsburgh Public Schools Board — 2026-11-23",
     "date": "2026-11-23",
-    "relatedMeetingId": 32,
+    "relatedMeetingId": 29,
     "feedbackOpportunity": false
   },
   {
     "id": "news-26",
+    "headline": "‘Blue Wave’ could bring Pittsburgh colleges more money",
+    "governmentLevel": "state",
+    "topicArea": "State/Regional",
+    "whyItMatters": "This development affects the State/Regional sector in Pittsburgh.",
+    "whatChanged": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community colleges,\" said state Sen. Jay Costa, \"… [but] what it looks like, what it might be, remains to be seen — if it happens at all, because, again, we have a lot of requests.” The post ‘",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "PublicSource",
+      "PITTSBURGH"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community colleges,\" said state Sen.",
+        "sourceIds": [
+          "src-news-26"
+        ]
+      },
+      {
+        "text": "Jay Costa, \"… [but] what it looks like, what it might be, remains to be seen — if it happens at all, because, again, we have a lot of requests.” The post ‘Blue Wave’ could bring Pittsburgh colleges more money appeared first on Pittsburgh&#039;s Public Source.",
+        "sourceIds": [
+          "src-news-26"
+        ]
+      },
+      {
+        "text": "PublicSource is a nonprofit news organization serving the Pittsburgh region.",
+        "sourceIds": [
+          "src-news-26"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-26",
+        "title": "‘Blue Wave’ could bring Pittsburgh colleges more money",
+        "url": "https://www.publicsource.org/pennsylvania-higher-ed-funding-democratic-majority/",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium",
+        "quote": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community colleges,\" said state Sen. Jay Costa, \"… [but] what it looks like, what it might b"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "‘Blue Wave’ could bring Pittsburgh colleges more money",
+    "oneLineSummary": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community co",
+    "categoryTag": "State/Regional",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state sys",
+    "strongestSourceLabel": "PublicSource — 2026-11-24",
+    "strongestSourceUrl": "https://www.publicsource.org/pennsylvania-higher-ed-funding-democratic-majority/",
+    "callToAction": "Read the full report",
+    "infographicCaption": "PublicSource — 2026-11-24",
+    "date": "2026-11-24",
+    "relatedNewsId": 26,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-27",
+    "headline": "A word, a neighborhood, a mission — and 47 zines",
+    "governmentLevel": "local",
+    "topicArea": "General",
+    "whyItMatters": "This development affects the General sector in Pittsburgh.",
+    "whatChanged": "Public Source invited people across the region to make zines about people, places and experiences they were curious about. A CMU design class turned zines into an exploration. “How does one come to encounter a place that’s new in a way that allows for this letting in of love, letting in care?” The p",
+    "urgency": "low",
+    "actionNeeded": "Stay informed about this development.",
+    "keyStakeholders": [
+      "PublicSource",
+      "PITTSBURGH",
+      "ROSS"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Public Source invited people across the region to make zines about people, places and experiences they were curious about.",
+        "sourceIds": [
+          "src-news-27"
+        ]
+      },
+      {
+        "text": "A CMU design class turned zines into an exploration.",
+        "sourceIds": [
+          "src-news-27"
+        ]
+      },
+      {
+        "text": "“How does one come to encounter a place that’s new in a way that allows for this letting in of love, letting in care?” The post A word, a neighborhood, a mission — and 47 zines appeared first on Pittsburgh&#039;s Public Source.",
+        "sourceIds": [
+          "src-news-27"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-news-27",
+        "title": "A word, a neighborhood, a mission — and 47 zines",
+        "url": "https://www.publicsource.org/cmu-students-east-liberty-zines/",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
+        "sourceType": "secondary",
+        "confidenceLevel": "medium",
+        "quote": "Public Source invited people across the region to make zines about people, places and experiences they were curious about. A CMU design class turned zines into an exploration. “How does one come to en"
+      }
+    ],
+    "confidenceLevel": "medium",
+    "importanceScore": 4,
+    "urgencyScore": 3,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "A word, a neighborhood, a mission — and 47 zines",
+    "oneLineSummary": "Public Source invited people across the region to make zines about people, places and experiences they were curious abou",
+    "categoryTag": "General",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Public Source invited people across the region to make zines about people, places and experiences th",
+    "strongestSourceLabel": "PublicSource — 2026-11-24",
+    "strongestSourceUrl": "https://www.publicsource.org/cmu-students-east-liberty-zines/",
+    "callToAction": "Read the full report",
+    "infographicCaption": "PublicSource — 2026-11-24",
+    "date": "2026-11-24",
+    "relatedNewsId": 27,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "news-28",
     "headline": "Denis Theatre owners say it could reopen in two years — or go up for sale",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -148,29 +341,29 @@
       {
         "text": "“I’ve always felt that Mt.",
         "sourceIds": [
-          "src-news-26"
+          "src-news-28"
         ]
       },
       {
         "text": "Lebanon deserves a performing arts center of some sort, and I think there’s an economic value to the community,” said Jon Delano.",
         "sourceIds": [
-          "src-news-26"
+          "src-news-28"
         ]
       },
       {
         "text": "“I thought that if there was a chance at saving the Denis, we’d give it every effort we possibly could.” The post Denis Theatre owners say it could reopen in two years — or go up for sale appeared first on Pittsburgh&#039;s Public Source.",
         "sourceIds": [
-          "src-news-26"
+          "src-news-28"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-26",
+        "id": "src-news-28",
         "title": "Denis Theatre owners say it could reopen in two years — or go up for sale",
         "url": "https://www.publicsource.org/denis-theatre-mt-lebanon-reopening-plan/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "“I’ve always felt that Mt. Lebanon deserves a performing arts center of some sort, and I think there’s an economic value to the community,” said Jon Delano. “I thought that if there was a chance at sa"
@@ -191,11 +384,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
-    "relatedNewsId": 26,
+    "relatedNewsId": 28,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "headline": "$15ish meal: Burritos bigger than your head for $12 at Chicken Latino",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -212,29 +405,29 @@
       {
         "text": "&#x1f37d;&#xfe0f; Restaurant: Chicken Latino&#x1f4cd; Location: 2100 Broadway Ave., Pittsburgh&#x23f1;&#xfe0f; Hours: 11 a.m.-9 p.m.",
         "sourceIds": [
-          "src-news-28"
+          "src-news-30"
         ]
       },
       {
         "text": "Tues-Sat &#124; 11 a.m.-6 p.m.",
         "sourceIds": [
-          "src-news-28"
+          "src-news-30"
         ]
       },
       {
         "text": "Fri-Sat &#124; Closed Mon&#x1f310; Links: chickenlatino.net, Facebook, Instagram &#x2764;&#xfe0f; Best $15ish meal(s): Soft chicken burrito, Peruvian-style rotisserie chicken and Naked Veggie burrito bowl Why go? The Beechview-based restaurant populated with round, wooden counters and ladder-back chairs feels [&#8230;] The post $15ish.",
         "sourceIds": [
-          "src-news-28"
+          "src-news-30"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-28",
+        "id": "src-news-30",
         "title": "$15ish meal: Burritos bigger than your head for $12 at Chicken Latino",
         "url": "https://www.publicsource.org/pittsburgh-meal-map-chicken-latino-beechview/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "&#x1f37d;&#xfe0f; Restaurant: Chicken Latino&#x1f4cd; Location: 2100 Broadway Ave., Pittsburgh&#x23f1;&#xfe0f; Hours: 11 a.m.-9 p.m. Tues-Sat &#124; 11 a.m.-6 p.m. Fri-Sat &#124; Closed Mon&#x1f310; L"
@@ -255,11 +448,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
-    "relatedNewsId": 28,
+    "relatedNewsId": 30,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-30",
+    "id": "news-32",
     "headline": "$15ish meal: $5 empanadas and other Venezuelan street food delights",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -276,29 +469,29 @@
       {
         "text": "&#x1f37d;&#xfe0f; Restaurant: Cilantro &#38; Ajo&#x1f4cd; Location: 901 East Carson St., South Side&#x23f1;&#xfe0f; Hours: 11:30 a.m.-8 p.m.",
         "sourceIds": [
-          "src-news-30"
+          "src-news-32"
         ]
       },
       {
         "text": "Tue-Thu &#124; 11:30 p.m.-9 a.m.",
         "sourceIds": [
-          "src-news-30"
+          "src-news-32"
         ]
       },
       {
         "text": "Fri-Sat &#124; 11:30 a.m.-6 p.m.",
         "sourceIds": [
-          "src-news-30"
+          "src-news-32"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-30",
+        "id": "src-news-32",
         "title": "$15ish meal: $5 empanadas and other Venezuelan street food delights",
         "url": "https://www.publicsource.org/pittsburgh-meal-map-cilantro-ajo-south-side/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "&#x1f37d;&#xfe0f; Restaurant: Cilantro &#38; Ajo&#x1f4cd; Location: 901 East Carson St., South Side&#x23f1;&#xfe0f; Hours: 11:30 a.m.-8 p.m. Tue-Thu &#124; 11:30 p.m.-9 a.m. Fri-Sat &#124; 11:30 a.m.-"
@@ -319,11 +512,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
-    "relatedNewsId": 30,
+    "relatedNewsId": 32,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-31",
+    "id": "news-33",
     "headline": "$15ish meal: Crispy falafel, fries and a drink for under $15 at Salem’s Grill",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -340,29 +533,29 @@
       {
         "text": "&#x1f37d;&#xfe0f; Restaurant: Salem’s Market &#38; Grill&#x1f4cd; Location: 2923 Penn Ave., Strip District&#x23f1;&#xfe0f; Hours: Website says 11 a.m.-8 p.m.",
         "sourceIds": [
-          "src-news-31"
+          "src-news-33"
         ]
       },
       {
         "text": "Sun-Thurs &#124; 11 a.m.-9 p.m.",
         "sourceIds": [
-          "src-news-31"
+          "src-news-33"
         ]
       },
       {
         "text": "Fri-Sat, except 1-2 p.m.",
         "sourceIds": [
-          "src-news-31"
+          "src-news-33"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-31",
+        "id": "src-news-33",
         "title": "$15ish meal: Crispy falafel, fries and a drink for under $15 at Salem’s Grill",
         "url": "https://www.publicsource.org/pittsburgh-meal-map-salems-market-grill-strip-district/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "&#x1f37d;&#xfe0f; Restaurant: Salem’s Market &#38; Grill&#x1f4cd; Location: 2923 Penn Ave., Strip District&#x23f1;&#xfe0f; Hours: Website says 11 a.m.-8 p.m. Sun-Thurs &#124; 11 a.m.-9 p.m. Fri-Sat, e"
@@ -383,11 +576,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
-    "relatedNewsId": 31,
+    "relatedNewsId": 33,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-32",
+    "id": "news-34",
     "headline": "$15ish meal: A feast of Taiwanese flavors with leftovers to spare at Taiwanese Bistro Cafe 33",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -404,29 +597,29 @@
       {
         "text": "&#x1f37d;&#xfe0f; Restaurant: Taiwanese Bistro Cafe 33&#x1f4cd; Location: 1711 Shady Ave., Squirrel Hill&#x23f1;&#xfe0f; Hours: 11 a.m.-9 p.m.",
         "sourceIds": [
-          "src-news-32"
+          "src-news-34"
         ]
       },
       {
         "text": "Sun-Thurs &#124; 11 a.m.-10 p.m.",
         "sourceIds": [
-          "src-news-32"
+          "src-news-34"
         ]
       },
       {
         "text": "Fri-Sat&#x1f310; Links: Website &#124; Facebook &#x2764;&#xfe0f; Best $15ish meal(s): Chinese hot pepper over rice or pan-fried noodles Why go? Cafe 33 has an extensive menu of familiar favorites and lesser-known Taiwanese dishes, generous portions [&#8230;] The post $15ish meal: A feast of Taiwanese flavors with leftovers.",
         "sourceIds": [
-          "src-news-32"
+          "src-news-34"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-32",
+        "id": "src-news-34",
         "title": "$15ish meal: A feast of Taiwanese flavors with leftovers to spare at Taiwanese Bistro Cafe 33",
         "url": "https://www.publicsource.org/pittsburgh-meal-map-cafe-33-squirrel-hill/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "&#x1f37d;&#xfe0f; Restaurant: Taiwanese Bistro Cafe 33&#x1f4cd; Location: 1711 Shady Ave., Squirrel Hill&#x23f1;&#xfe0f; Hours: 11 a.m.-9 p.m. Sun-Thurs &#124; 11 a.m.-10 p.m. Fri-Sat&#x1f310; Links: "
@@ -447,11 +640,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
-    "relatedNewsId": 32,
+    "relatedNewsId": 34,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-33",
+    "id": "news-35",
     "headline": "$15ish meal: $12 döners, smashburgers and tasty German bites at Golden Age Beer",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -468,29 +661,29 @@
       {
         "text": "&#x1f37d;&#xfe0f; Restaurant: Golden Age Beer Co.&#x1f4cd; Location: 337 E.",
         "sourceIds": [
-          "src-news-33"
+          "src-news-35"
         ]
       },
       {
         "text": "8th Ave., Homestead&#x23f1;&#xfe0f; Hours: 4-10 p.m.",
         "sourceIds": [
-          "src-news-33"
+          "src-news-35"
         ]
       },
       {
         "text": "Wed-Fri &#124; 11:30 a.m.-10 p.m.",
         "sourceIds": [
-          "src-news-33"
+          "src-news-35"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-33",
+        "id": "src-news-35",
         "title": "$15ish meal: $12 döners, smashburgers and tasty German bites at Golden Age Beer",
         "url": "https://www.publicsource.org/pittsburgh-meal-map-golden-age-beer-homestead/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "&#x1f37d;&#xfe0f; Restaurant: Golden Age Beer Co.&#x1f4cd; Location: 337 E. 8th Ave., Homestead&#x23f1;&#xfe0f; Hours: 4-10 p.m. Wed-Fri &#124; 11:30 a.m.-10 p.m. Sat &#124; 11:30 a.m.-7 p.m. Sun&#160"
@@ -508,134 +701,6 @@
     "keyStatOrQuote": "&#x1f37d;&#xfe0f; Restaurant: Golden Age Beer Co.&#x1f4cd; Location: 337 E. 8th Ave., Homestead&#x23",
     "strongestSourceLabel": "PublicSource — 2026-11-23",
     "strongestSourceUrl": "https://www.publicsource.org/pittsburgh-meal-map-golden-age-beer-homestead/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-11-23",
-    "date": "2026-11-23",
-    "relatedNewsId": 33,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-34",
-    "headline": "$15ish meal: Applewood Smoked Burger Company is a hidden gem in Highland Park",
-    "governmentLevel": "local",
-    "topicArea": "Development",
-    "whyItMatters": "This development affects the Development sector in Pittsburgh.",
-    "whatChanged": "&#x1f37d;&#xfe0f; Restaurant: Applewood Smoked Burger Company&#x1f4cd; Location: 5721 Bryant St., Highland Park&#x23f1;&#xfe0f; Hours: 4-9 p.m. Tues-Sat &#124; 1-8 p.m. Sun &#124; Closed Mon&#x1f310; Links: Website &#124; Facebook &#x2764;&#xfe0f; Best $15ish meal(s): Applewood chicken, Highland Par",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "Highland Park",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "&#x1f37d;&#xfe0f; Restaurant: Applewood Smoked Burger Company&#x1f4cd; Location: 5721 Bryant St., Highland Park&#x23f1;&#xfe0f; Hours: 4-9 p.m.",
-        "sourceIds": [
-          "src-news-34"
-        ]
-      },
-      {
-        "text": "Tues-Sat &#124; 1-8 p.m.",
-        "sourceIds": [
-          "src-news-34"
-        ]
-      },
-      {
-        "text": "Sun &#124; Closed Mon&#x1f310; Links: Website &#124; Facebook &#x2764;&#xfe0f; Best $15ish meal(s): Applewood chicken, Highland Park Veggie or build-your-own.",
-        "sourceIds": [
-          "src-news-34"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-34",
-        "title": "$15ish meal: Applewood Smoked Burger Company is a hidden gem in Highland Park",
-        "url": "https://www.publicsource.org/pittsburgh-meal-map-applewood-smoked-burger-highland-park/",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "&#x1f37d;&#xfe0f; Restaurant: Applewood Smoked Burger Company&#x1f4cd; Location: 5721 Bryant St., Highland Park&#x23f1;&#xfe0f; Hours: 4-9 p.m. Tues-Sat &#124; 1-8 p.m. Sun &#124; Closed Mon&#x1f310; "
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "$15ish meal: Applewood Smoked Burger Company is a hidden gem in Highland Park",
-    "oneLineSummary": "&#x1f37d;&#xfe0f; Restaurant: Applewood Smoked Burger Company&#x1f4cd; Location: 5721 Bryant St., Highland Park&#x23f1;&",
-    "categoryTag": "Development",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "&#x1f37d;&#xfe0f; Restaurant: Applewood Smoked Burger Company&#x1f4cd; Location: 5721 Bryant St., Hi",
-    "strongestSourceLabel": "PublicSource — 2026-11-23",
-    "strongestSourceUrl": "https://www.publicsource.org/pittsburgh-meal-map-applewood-smoked-burger-highland-park/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-11-23",
-    "date": "2026-11-23",
-    "relatedNewsId": 34,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-35",
-    "headline": "$15ish meal: Weekday lunch specials for $14 at Alihan’s in Downtown",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "&#x1f37d;&#xfe0f; Restaurant: Alihan’s Mediterranean Cuisine&#x1f4cd; Location: 124 Sixth St., Pittsburgh&#x23f1;&#xfe0f; Hours: 11:30 a.m.-9 p.m. Mon, Wed, Thurs, Sun &#124; 11:30 a.m.-11 p.m. Fri-Sat &#124; Closed Tues&#x1f310; Links: Website &#124; Instagram &#124; Facebook &#x2764;&#xfe0f; Best ",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "Downtown",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "&#x1f37d;&#xfe0f; Restaurant: Alihan’s Mediterranean Cuisine&#x1f4cd; Location: 124 Sixth St., Pittsburgh&#x23f1;&#xfe0f; Hours: 11:30 a.m.-9 p.m.",
-        "sourceIds": [
-          "src-news-35"
-        ]
-      },
-      {
-        "text": "Mon, Wed, Thurs, Sun &#124; 11:30 a.m.-11 p.m.",
-        "sourceIds": [
-          "src-news-35"
-        ]
-      },
-      {
-        "text": "Fri-Sat &#124; Closed Tues&#x1f310; Links: Website &#124; Instagram &#124; Facebook &#x2764;&#xfe0f; Best $15ish meal(s): Come hungry for the Ora King salmon, a generous portion of tender, beautifully seasoned fish served with rice pilaf [&#8230;] The post $15ish meal: Weekday lunch specials for $14 at Al.",
-        "sourceIds": [
-          "src-news-35"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-35",
-        "title": "$15ish meal: Weekday lunch specials for $14 at Alihan’s in Downtown",
-        "url": "https://www.publicsource.org/pittsburgh-meal-map-alihans-mediterranean-downtown/",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "&#x1f37d;&#xfe0f; Restaurant: Alihan’s Mediterranean Cuisine&#x1f4cd; Location: 124 Sixth St., Pittsburgh&#x23f1;&#xfe0f; Hours: 11:30 a.m.-9 p.m. Mon, Wed, Thurs, Sun &#124; 11:30 a.m.-11 p.m. Fri-Sa"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "$15ish meal: Weekday lunch specials for $14 at Alihan’s in Downtown",
-    "oneLineSummary": "&#x1f37d;&#xfe0f; Restaurant: Alihan’s Mediterranean Cuisine&#x1f4cd; Location: 124 Sixth St., Pittsburgh&#x23f1;&#xfe0f",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "&#x1f37d;&#xfe0f; Restaurant: Alihan’s Mediterranean Cuisine&#x1f4cd; Location: 124 Sixth St., Pitts",
-    "strongestSourceLabel": "PublicSource — 2026-11-23",
-    "strongestSourceUrl": "https://www.publicsource.org/pittsburgh-meal-map-alihans-mediterranean-downtown/",
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
@@ -675,8 +740,8 @@
         "id": "src-dev-1",
         "title": "Kelly Street Rezoning",
         "url": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Proposed by URA; rezoning from R1D-L to UI; future multiunit residential building planned; requires Planning Commission and City Council hearings; Development Activities Meeting held with Homewood Com"
@@ -696,7 +761,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Kelly Street / Formosa Way (parcels 125-G-18 area)",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -733,8 +798,8 @@
         "id": "src-dev-2",
         "title": "Lower Hill District Housing RFP",
         "url": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "6.82 acres URA-owned land; public comment period open March 12 – April 7, 2026; URA Board vote on April 9, 2026; also includes Bedford Dwellings/Hill District mixed-income housing project (Trek Develo"
@@ -754,7 +819,7 @@
     "strongestSourceUrl": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
     "callToAction": "Stay informed",
     "infographicCaption": "Open for Comment — Lower Hill District, Block A and Block C",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-04-07"
   },
@@ -790,8 +855,8 @@
         "id": "src-dev-3",
         "title": "Pittsburgh Comprehensive Plan",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Two-year planning process; community-led engagement with consultant team; guided by 'Just Transition' and climate justice principles; covers 8 themes: welcoming community, safe city, youth, economic o"
@@ -811,7 +876,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -846,8 +911,8 @@
         "id": "src-dev-4",
         "title": "Implementing the Housing Needs Assessment – Zoning Reforms",
         "url": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Minimum lot size legislation 2025-1579 passed and in effect citywide; future phases include comprehensive residential zoning code overhaul; inclusionary zoning (IZ) overlay currently active in Lawrenc"
@@ -867,7 +932,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -902,8 +967,8 @@
         "id": "src-dev-5",
         "title": "Mayor O'Connor Permitting Process Reform & Zoning Code Overhaul",
         "url": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Announced March 9, 2026; executive order issued on mayor's first day requiring 60-day departmental review; first comprehensive zoning code rewrite in decades; Phase 1 actions being implemented Q1-Q2 2"
@@ -923,7 +988,7 @@
     "strongestSourceUrl": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -959,8 +1024,8 @@
         "id": "src-dev-6",
         "title": "California Ave. Bridge Rehabilitation Project",
         "url": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Bridge built 1928; eligible for National Register of Historic Places (Criterion C); community meeting held July 24, 2025; federal FHWA and PennDOT District 11-0 cooperation; consultants: MS Consultant"
@@ -980,7 +1045,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — California Avenue (Robert McAfee Bridge)",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1016,8 +1081,8 @@
         "id": "src-dev-7",
         "title": "Frankstown Avenue Signal Improvements",
         "url": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Federal CMAQ grant of ~$4.3 million; construction began January 2026; 9 intersections in scope; part of 2022 Homewood Mobility Plan; DOMI lead; signal replacements at Murtland, Lang, Homewood, Collier"
@@ -1037,7 +1102,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Frankstown Avenue, Murtland Ave to Blackadore St",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1073,8 +1138,8 @@
         "id": "src-dev-8",
         "title": "Liberty Avenue Highway Safety Improvement Project",
         "url": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "HSIP (Federal Highway Safety Improvement Program) funded; full signal replacement at 6 intersections; new signal at 27th St; RRFB conversion at 17th St; part of Strip District Mobility Plan; also coor"
@@ -1094,7 +1159,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Liberty Avenue, Strip District (17th St to 32nd St)",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1130,8 +1195,8 @@
         "id": "src-dev-9",
         "title": "Brighton Heights, California & Termon Intersection Improvement",
         "url": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "9 crashes 2020-2024 (4 serious injury, 1 pedestrian injury); PRT Route 13 serves this intersection (~32 boardings/weekday); dominant crash type: 'angle' (turning/yielding behavior); project will produ"
@@ -1151,7 +1216,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Brighton Heights Blvd / California Ave / Termon Ave",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1187,8 +1252,8 @@
         "id": "src-dev-10",
         "title": "Penn Plaza Block B (Pennley Park South)",
         "url": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Developer: LG Realty Advisors, Inc.; privately-owned development (City role is zoning compliance review and engagement facilitation); Block A (Whole Foods) completed 2022; Block C (Enright Park renova"
@@ -1208,7 +1273,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Penn Plaza site, East Liberty",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1244,8 +1309,8 @@
         "id": "src-dev-11",
         "title": "Bloomfield Bridge Rehabilitation",
         "url": "https://engage.pittsburghpa.gov/bloomfield-bridge",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Largest deck-area bridge in Pittsburgh; spans East Busway and railroad lines; emergency maintenance (expansion joint seals) completed fall 2025; full rehabilitation in planning phase; DOMI lead; work "
@@ -1265,7 +1330,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/bloomfield-bridge",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Bloomfield Bridge (Bloomfield neighborhood)",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1301,8 +1366,8 @@
         "id": "src-dev-12",
         "title": "Serpentine Drive Wall Repair & Access Conversion",
         "url": "https://engage.pittsburghpa.gov/serpentine-drive",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Wall collapsed in 2019; ~265 feet of masonry wall replacement/repair; architectural treatment to replicate original stone masonry aesthetics; proposes closure to motor vehicles permanently; 60-day pub"
@@ -1322,7 +1387,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/serpentine-drive",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Serpentine Drive, Schenley Park",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1358,8 +1423,8 @@
         "id": "src-dev-13",
         "title": "Warrington Recreation Center Renovation",
         "url": "https://engage.pittsburghpa.gov/warrington-recreation-center",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Funded by Redevelopment Assistance Capital Program (RACP) grants and local dollars; key features: recording studio, elevator (ADA), new playground, outdoor basketball court; Department of Public Works"
@@ -1379,7 +1444,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/warrington-recreation-center",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Warrington Recreation Center",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1414,8 +1479,8 @@
         "id": "src-dev-14",
         "title": "Vision Zero – Traffic Safety Program",
         "url": "https://engage.pittsburghpa.gov/vision-zero",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Formally adopted 2024; Mayor Gainey's 2024 budget nearly doubled traffic safety capital investment; sub-programs include: Neighborhood Traffic Calming, Safe Routes to School, Automated Red Light Enfor"
@@ -1435,7 +1500,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vision-zero",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1471,8 +1536,8 @@
         "id": "src-dev-15",
         "title": "Vending Program Rules & Regulations",
         "url": "https://engage.pittsburghpa.gov/vending-program",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Legislation passed November 18, 2025; signed by Mayor Gainey November 19, 2025; Ordinances 34 and 35; amended Zoning Code and Chapter 719 (Vendors and Peddlers); final rules/regulations publication ta"
@@ -1492,7 +1557,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vending-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Citywide",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-03-12"
   },
@@ -1528,8 +1593,8 @@
         "id": "src-dev-16",
         "title": "Historic Preservation Program",
         "url": "https://engage.pittsburghpa.gov/historic-preservation-program",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Guided by PreservePGH (2012); ongoing Architectural Inventory Project (surveys since 2014); new design guidelines contract approved March 2026 for Mexican War Streets and Manchester Historic Districts"
@@ -1549,7 +1614,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/historic-preservation-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1585,8 +1650,8 @@
         "id": "src-dev-17",
         "title": "South Side Park Project",
         "url": "https://engage.pittsburghpa.gov/south-side-park-project",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Phase 1 ongoing; stormwater r-tanks installed in coordination with Pittsburgh Water (PWSA); public art project funded by Percent for Art program; City Council Resolution 2026-0177 authorized Pittsburg"
@@ -1606,7 +1671,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/south-side-park-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — South Side Park",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1641,8 +1706,8 @@
         "id": "src-dev-18",
         "title": "Safe Routes to School Program",
         "url": "https://engage.pittsburghpa.gov/safe-routes-to-school",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Ongoing annual program; DOMI lead; combines engineering improvements (crosswalks, signage, sidewalks) with education and encouragement; part of Vision Zero safe systems approach; updated January 2026"
@@ -1662,7 +1727,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/safe-routes-to-school",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide (school corridors)",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1697,8 +1762,8 @@
         "id": "src-dev-19",
         "title": "Pittsburgh Regional Disparity Study",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Citywide procurement disparity analysis; examines race, ethnicity, and gender-based disparities in city contracting; will inform MBE/WBE program policies; findings will guide equitable contracting req"
@@ -1718,7 +1783,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1754,8 +1819,8 @@
         "id": "src-dev-20",
         "title": "Allegheny Riverfront Park Restoration",
         "url": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Total project cost: $6.3 million; partners: Riverlife, City of Pittsburgh, Pittsburgh Cultural Trust; designer: Michael Van Valkenburgh Associates + LaQuatra Bonci Associates; construction anticipated"
@@ -1775,7 +1840,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Allegheny Riverfront Park (between 6th, 7th, and 9th Street Bridges)",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1811,8 +1876,8 @@
         "id": "src-dev-21",
         "title": "Westinghouse Park Master Plan",
         "url": "https://engage.pittsburghpa.gov/westinghouse-park",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "10.2-acre park; partnership between Westinghouse Park 2nd Century Coalition and Point Breeze North Development Corporation; funded by URA Neighborhood Initiative program grant and private funder; fina"
@@ -1832,7 +1897,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/westinghouse-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Westinghouse Park",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
@@ -1861,9 +1926,9 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#6e1401000700092e1e071a1a1d0c1b1c09061e0f40090118",
-        "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#c0baafaea9aea780b0a9b4b4b3a2b5b2a7a8b0a1eea7afb6",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
         "sourceType": "government_document",
         "confidenceLevel": "high"
       }
@@ -1879,14 +1944,14 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing a proposal for a new mixed-use building in the Central ",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#6e1401000700092e1e071a1a1d0c1b1c09061e0f40090118",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#c0baafaea9aea780b0a9b4b4b3a2b5b2a7a8b0a1eea7afb6",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "feedbackOpportunity": false
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "headline": "$15ish meal: Order a massive, juicy reuben at one of Pittsburgh’s hidden gems, Marshall’s Ltd. in Spring Garden",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1903,23 +1968,23 @@
       {
         "text": "&#x1f37d;&#xfe0f; Restaurant: Marshall’s Ltd.&#x1f4cd; Location: 1520 Spring Garden Ave., Spring Garden&#x23f1;&#xfe0f; Hours: 6 a.m.-2 p.m.",
         "sourceIds": [
-          "src-news-27"
+          "src-news-29"
         ]
       },
       {
         "text": "Mon-Fri (breakfast available until 11 a.m.) &#124; Closed Sat-Sun&#x1f310; Links: Website &#x2764;&#xfe0f; Best $15ish meal(s): Half reuben ($7.99), whole reuben ($14.49), house-made sausage, egg &#38; cheese on Mancini’s Italian bread ($4.99) Why go? Everyone loves a hidden gem because it [&#8230;] The post $15ish meal: Order a massive, juicy reuben at one.",
         "sourceIds": [
-          "src-news-27"
+          "src-news-29"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-27",
+        "id": "src-news-29",
         "title": "$15ish meal: Order a massive, juicy reuben at one of Pittsburgh’s hidden gems, Marshall’s Ltd. in Spring Garden",
         "url": "https://www.publicsource.org/pittsburgh-meal-map-marshalls-troy-hill/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "&#x1f37d;&#xfe0f; Restaurant: Marshall’s Ltd.&#x1f4cd; Location: 1520 Spring Garden Ave., Spring Garden&#x23f1;&#xfe0f; Hours: 6 a.m.-2 p.m. Mon-Fri (breakfast available until 11 a.m.) &#124; Closed S"
@@ -1940,11 +2005,11 @@
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
-    "relatedNewsId": 27,
+    "relatedNewsId": 29,
     "feedbackOpportunity": false
   },
   {
-    "id": "news-29",
+    "id": "news-31",
     "headline": "$15ish meal map: Big Himalayan flavors, $12 momos and comforting curries at Taste of the Himalayas",
     "governmentLevel": "local",
     "topicArea": "General",
@@ -1961,23 +2026,23 @@
       {
         "text": "&#x1f37d;&#xfe0f; Restaurant: Taste of the Himalayas&#x1f4cd; Location: 5134 Clairton Blvd., Baldwin&#x23f1;&#xfe0f; Hours: 2-11.30 p.m.",
         "sourceIds": [
-          "src-news-29"
+          "src-news-31"
         ]
       },
       {
         "text": "Tues-Sun &#124; Closed Mon&#x1f310; Links: tasteofthehimalayaspa.com &#124; Instagram &#x2764;&#xfe0f; Best $15ish meal(s): Lamb vindaloo ($15.99), Palak paneer Why go? Taste of the Himalayas is worth a trip deep into the South Hills for a menu spanning Nepali thali to Indian favorites like [&#8230;] The post $15ish meal map: Big Himalayan flavors, $12 momos an.",
         "sourceIds": [
-          "src-news-29"
+          "src-news-31"
         ]
       }
     ],
     "sources": [
       {
-        "id": "src-news-29",
+        "id": "src-news-31",
         "title": "$15ish meal map: Big Himalayan flavors, $12 momos and comforting curries at Taste of the Himalayas",
         "url": "https://www.publicsource.org/pittsburgh-meal-map-taste-of-the-himalayas-baldwin/",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "&#x1f37d;&#xfe0f; Restaurant: Taste of the Himalayas&#x1f4cd; Location: 5134 Clairton Blvd., Baldwin&#x23f1;&#xfe0f; Hours: 2-11.30 p.m. Tues-Sun &#124; Closed Mon&#x1f310; Links: tasteofthehimalayasp"
@@ -1998,11 +2063,64 @@
     "callToAction": "Read the full report",
     "infographicCaption": "PublicSource — 2026-11-23",
     "date": "2026-11-23",
-    "relatedNewsId": 29,
+    "relatedNewsId": 31,
     "feedbackOpportunity": false
   },
   {
-    "id": "meeting-20",
+    "id": "meeting-19",
+    "headline": "Pittsburgh City Council Regular Meeting — The 2026 City of Pittsburgh Gingerbread Display",
+    "governmentLevel": "local",
+    "topicArea": "City Governance",
+    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
+    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-11-24.",
+    "urgency": "low",
+    "actionNeeded": "Watch recording for full proceedings.",
+    "keyStakeholders": [
+      "Pittsburgh City Council"
+    ],
+    "evidenceBullets": [],
+    "sources": [
+      {
+        "id": "src-meeting-19-video",
+        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
+        "url": "https://www.youtube.com/watch?v=aD7pADufySA",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
+        "sourceType": "video",
+        "confidenceLevel": "high",
+        "speaker": "City Channel Pittsburgh"
+      },
+      {
+        "id": "src-meeting-19-record",
+        "title": "Pittsburgh City Council Regular Meeting — The 2026 City of Pittsburgh Gingerbread Display",
+        "url": "https://www.youtube.com/watch?v=aD7pADufySA",
+        "publishedDate": "2026-11-24",
+        "retrievedDate": "2026-11-24",
+        "sourceType": "meeting_record",
+        "confidenceLevel": "high",
+        "agendaItem": "Regular Meeting"
+      }
+    ],
+    "confidenceLevel": "low",
+    "importanceScore": 5,
+    "urgencyScore": 2,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Pittsburgh City Council Regular Meeting — The 2026 City of Pittsburgh Gingerbread Display",
+    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-11-24.",
+    "categoryTag": "City Governance",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Pittsburgh City Council",
+    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
+    "strongestSourceUrl": "https://www.youtube.com/watch?v=aD7pADufySA",
+    "callToAction": "Attend next Pittsburgh City Council meeting",
+    "infographicCaption": "Pittsburgh City Council — 2026-11-24",
+    "date": "2026-11-24",
+    "relatedMeetingId": 19,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "meeting-21",
     "headline": "Pittsburgh City Council Regular Meeting — Pittsburgh City Council Standing Committees - 11/23/26",
     "governmentLevel": "local",
     "topicArea": "City Governance",
@@ -2016,21 +2134,21 @@
     "evidenceBullets": [],
     "sources": [
       {
-        "id": "src-meeting-20-video",
+        "id": "src-meeting-21-video",
         "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-23",
         "url": "https://www.youtube.com/watch?v=o7wePbqF3jk",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "City Channel Pittsburgh"
       },
       {
-        "id": "src-meeting-20-record",
+        "id": "src-meeting-21-record",
         "title": "Pittsburgh City Council Regular Meeting — Pittsburgh City Council Standing Committees - 11/23/26",
         "url": "https://www.youtube.com/watch?v=o7wePbqF3jk",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Regular Meeting"
@@ -2051,11 +2169,11 @@
     "callToAction": "Attend next Pittsburgh City Council meeting",
     "infographicCaption": "Pittsburgh City Council — 2026-11-23",
     "date": "2026-11-23",
-    "relatedMeetingId": 20,
+    "relatedMeetingId": 21,
     "feedbackOpportunity": false
   },
   {
-    "id": "meeting-21",
+    "id": "meeting-22",
     "headline": "Pittsburgh City Council Regular Meeting — Pittsburgh City Council Regular Meeting - 11/23/26",
     "governmentLevel": "local",
     "topicArea": "City Governance",
@@ -2069,21 +2187,21 @@
     "evidenceBullets": [],
     "sources": [
       {
-        "id": "src-meeting-21-video",
+        "id": "src-meeting-22-video",
         "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-23",
         "url": "https://www.youtube.com/watch?v=SHrNor98_fw",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "City Channel Pittsburgh"
       },
       {
-        "id": "src-meeting-21-record",
+        "id": "src-meeting-22-record",
         "title": "Pittsburgh City Council Regular Meeting — Pittsburgh City Council Regular Meeting - 11/23/26",
         "url": "https://www.youtube.com/watch?v=SHrNor98_fw",
         "publishedDate": "2026-11-23",
-        "retrievedDate": "2026-11-23",
+        "retrievedDate": "2026-11-24",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Regular Meeting"
@@ -2104,7 +2222,7 @@
     "callToAction": "Attend next Pittsburgh City Council meeting",
     "infographicCaption": "Pittsburgh City Council — 2026-11-23",
     "date": "2026-11-23",
-    "relatedMeetingId": 21,
+    "relatedMeetingId": 22,
     "feedbackOpportunity": false
   }
 ]
