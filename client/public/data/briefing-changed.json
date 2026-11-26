@@ -1,5 +1,137 @@
 [
   {
+    "id": "meeting-23",
+    "headline": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
+    "governmentLevel": "local",
+    "topicArea": "City Governance",
+    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
+    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-11-26.",
+    "urgency": "low",
+    "actionNeeded": "Watch recording for full proceedings.",
+    "keyStakeholders": [
+      "Pittsburgh City Council"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Topics from title: Budget. Full discussion available in the video recording.",
+        "sourceIds": [
+          "src-meeting-23-video"
+        ]
+      },
+      {
+        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
+        "sourceIds": [
+          "src-meeting-23-video"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-meeting-23-video",
+        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-26",
+        "url": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
+        "sourceType": "video",
+        "confidenceLevel": "high",
+        "speaker": "City Channel Pittsburgh"
+      },
+      {
+        "id": "src-meeting-23-record",
+        "title": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
+        "url": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
+        "sourceType": "meeting_record",
+        "confidenceLevel": "high",
+        "agendaItem": "Regular Meeting"
+      }
+    ],
+    "confidenceLevel": "low",
+    "importanceScore": 5,
+    "urgencyScore": 2,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
+    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-11-26.",
+    "categoryTag": "City Governance",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Pittsburgh City Council",
+    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-26",
+    "strongestSourceUrl": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
+    "callToAction": "Attend next Pittsburgh City Council meeting",
+    "infographicCaption": "Pittsburgh City Council — 2026-11-26",
+    "date": "2026-11-26",
+    "relatedMeetingId": 23,
+    "feedbackOpportunity": false
+  },
+  {
+    "id": "meeting-33",
+    "headline": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
+    "governmentLevel": "local",
+    "topicArea": "Education",
+    "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
+    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-11-26.",
+    "urgency": "low",
+    "actionNeeded": "Watch recording for full proceedings.",
+    "keyStakeholders": [
+      "Pittsburgh Public Schools Board"
+    ],
+    "evidenceBullets": [
+      {
+        "text": "Topics from title: Education. Full discussion available in the video recording.",
+        "sourceIds": [
+          "src-meeting-33-video"
+        ]
+      },
+      {
+        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
+        "sourceIds": [
+          "src-meeting-33-video"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src-meeting-33-video",
+        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-26",
+        "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
+        "sourceType": "video",
+        "confidenceLevel": "high",
+        "speaker": "Pittsburgh Public Schools"
+      },
+      {
+        "id": "src-meeting-33-record",
+        "title": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
+        "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
+        "sourceType": "meeting_record",
+        "confidenceLevel": "high",
+        "agendaItem": "Board Meeting"
+      }
+    ],
+    "confidenceLevel": "low",
+    "importanceScore": 5,
+    "urgencyScore": 2,
+    "localRelevance": 6,
+    "influenceability": 3,
+    "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
+    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-11-26.",
+    "categoryTag": "Education",
+    "categoryColor": "#6b7280",
+    "keyStatOrQuote": "Pittsburgh Public Schools Board",
+    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-26",
+    "strongestSourceUrl": "https://www.youtube.com/watch?v=LI15b2g2qWI",
+    "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
+    "infographicCaption": "Pittsburgh Public Schools Board — 2026-11-26",
+    "date": "2026-11-26",
+    "relatedMeetingId": 33,
+    "feedbackOpportunity": false
+  },
+  {
     "id": "meeting-19",
     "headline": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 11/25/26",
     "governmentLevel": "local",
@@ -31,7 +163,7 @@
         "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-25",
         "url": "https://www.youtube.com/watch?v=m579WijUtSg",
         "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "retrievedDate": "2026-11-26",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "City Channel Pittsburgh"
@@ -41,7 +173,7 @@
         "title": "Pittsburgh City Council Public Hearing — Pittsburgh City Council Public Hearing - 11/25/26",
         "url": "https://www.youtube.com/watch?v=m579WijUtSg",
         "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "retrievedDate": "2026-11-26",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Public Hearing"
@@ -63,138 +195,6 @@
     "infographicCaption": "Pittsburgh City Council — 2026-11-25",
     "date": "2026-11-25",
     "relatedMeetingId": 19,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-23",
-    "headline": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
-    "governmentLevel": "local",
-    "topicArea": "City Governance",
-    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-11-25.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh City Council"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Topics from title: Budget. Full discussion available in the video recording.",
-        "sourceIds": [
-          "src-meeting-23-video"
-        ]
-      },
-      {
-        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
-        "sourceIds": [
-          "src-meeting-23-video"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-meeting-23-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-25",
-        "url": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "City Channel Pittsburgh"
-      },
-      {
-        "id": "src-meeting-23-record",
-        "title": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
-        "url": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Regular Meeting"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh City Council Regular Meeting — Pittsburgh's Budget, an Explainer",
-    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-11-25.",
-    "categoryTag": "City Governance",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-25",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=GeOfUoeRdMI",
-    "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-11-25",
-    "date": "2026-11-25",
-    "relatedMeetingId": 23,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-33",
-    "headline": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
-    "governmentLevel": "local",
-    "topicArea": "Education",
-    "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-11-25.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh Public Schools Board"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Topics from title: Education. Full discussion available in the video recording.",
-        "sourceIds": [
-          "src-meeting-33-video"
-        ]
-      },
-      {
-        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
-        "sourceIds": [
-          "src-meeting-33-video"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-meeting-33-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-25",
-        "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "Pittsburgh Public Schools"
-      },
-      {
-        "id": "src-meeting-33-record",
-        "title": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
-        "url": "https://www.youtube.com/watch?v=LI15b2g2qWI",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Board Meeting"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Find My School: Discover Your Assigned School for the 2027–2028 School Year",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-11-25.",
-    "categoryTag": "Education",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-25",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=LI15b2g2qWI",
-    "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-11-25",
-    "date": "2026-11-25",
-    "relatedMeetingId": 33,
     "feedbackOpportunity": false
   },
   {
@@ -236,7 +236,7 @@
         "title": "Councilor looks to save Pittsburgh Land Bank from budget cuts",
         "url": "https://www.publicsource.org/pittsburgh-land-bank-cuts-debated-council/",
         "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "retrievedDate": "2026-11-26",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "“If we picked up a third of the trash that got set out every week, imagine how angry people would be,” land bank Executive Director Sally Stadelman said. “And that’s how we’re running our tax foreclos"
@@ -300,7 +300,7 @@
         "title": "Federal food assistance is tightening, but local resources are on hand",
         "url": "https://www.publicsource.org/allegheny-county-snap-changes-food-pantries/",
         "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "retrievedDate": "2026-11-26",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "Allegheny County’s SNAP enrollment is down about 19,000 since new work requirements took effect. Here’s what changed and where to find food help near you. The post Federal food assistance is tightenin"
@@ -364,7 +364,7 @@
         "title": "Teachers welcome parental leave; districts brace for sub shortages",
         "url": "https://www.publicsource.org/allegheny-county-paid-parental-leave-schools/",
         "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "retrievedDate": "2026-11-26",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "Paid parental leave could help schools attract and retain teachers in Allegheny County. Districts, though, note the new mandate will layer onto FMLA, creating the potential for long absences. The post"
@@ -386,138 +386,6 @@
     "infographicCaption": "PublicSource — 2026-11-25",
     "date": "2026-11-25",
     "relatedNewsId": 28,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-20",
-    "headline": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/24/26",
-    "governmentLevel": "local",
-    "topicArea": "City Governance",
-    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Budget Hearing on 2026-11-24.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh City Council"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Topics from title: Budget. Full discussion available in the video recording.",
-        "sourceIds": [
-          "src-meeting-20-video"
-        ]
-      },
-      {
-        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
-        "sourceIds": [
-          "src-meeting-20-video"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-meeting-20-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
-        "url": "https://www.youtube.com/watch?v=5D6vBPA_POw",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "City Channel Pittsburgh"
-      },
-      {
-        "id": "src-meeting-20-record",
-        "title": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/24/26",
-        "url": "https://www.youtube.com/watch?v=5D6vBPA_POw",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Budget Hearing"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/24/26",
-    "oneLineSummary": "Pittsburgh City Council Budget Hearing on 2026-11-24.",
-    "categoryTag": "City Governance",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=5D6vBPA_POw",
-    "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-11-24",
-    "date": "2026-11-24",
-    "relatedMeetingId": 20,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-21",
-    "headline": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/24/26",
-    "governmentLevel": "local",
-    "topicArea": "City Governance",
-    "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Budget Hearing on 2026-11-24.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh City Council"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Topics from title: Budget. Full discussion available in the video recording.",
-        "sourceIds": [
-          "src-meeting-21-video"
-        ]
-      },
-      {
-        "text": "To read the full transcript: open the video on YouTube, then click “Show transcript” in the description panel.",
-        "sourceIds": [
-          "src-meeting-21-video"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-meeting-21-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
-        "url": "https://www.youtube.com/watch?v=BHQqvBE_4ac",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "City Channel Pittsburgh"
-      },
-      {
-        "id": "src-meeting-21-record",
-        "title": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/24/26",
-        "url": "https://www.youtube.com/watch?v=BHQqvBE_4ac",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Budget Hearing"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh City Council Budget Hearing — Pittsburgh City Council Budget Hearing - 11/24/26",
-    "oneLineSummary": "Pittsburgh City Council Budget Hearing on 2026-11-24.",
-    "categoryTag": "City Governance",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-24",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=BHQqvBE_4ac",
-    "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-11-24",
-    "date": "2026-11-24",
-    "relatedMeetingId": 21,
     "feedbackOpportunity": false
   },
   {
@@ -559,7 +427,7 @@
         "title": "Pitt students come and go. Their community impact shouldn’t.",
         "url": "https://www.publicsource.org/pitt-student-community-engagement-universities/",
         "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "retrievedDate": "2026-11-26",
         "sourceType": "secondary",
         "confidenceLevel": "medium",
         "quote": "The problem, clearly, isn’t a lack of goodwill but a lack of structure. Community engagement has become a campus buzzword, with young people’s interest in “doing good” hitting a 50-year high. The post"
@@ -581,133 +449,6 @@
     "infographicCaption": "PublicSource — 2026-11-25",
     "date": "2026-11-25",
     "relatedNewsId": 27,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-30",
-    "headline": "‘Blue Wave’ could bring Pittsburgh colleges more money",
-    "governmentLevel": "state",
-    "topicArea": "State/Regional",
-    "whyItMatters": "This development affects the State/Regional sector in Pittsburgh.",
-    "whatChanged": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community colleges,\" said state Sen. Jay Costa, \"… [but] what it looks like, what it might be, remains to be seen — if it happens at all, because, again, we have a lot of requests.” The post ‘",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "PITTSBURGH"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community colleges,\" said state Sen.",
-        "sourceIds": [
-          "src-news-30"
-        ]
-      },
-      {
-        "text": "Jay Costa, \"… [but] what it looks like, what it might be, remains to be seen — if it happens at all, because, again, we have a lot of requests.” The post ‘Blue Wave’ could bring Pittsburgh colleges more money appeared first on Pittsburgh&#039;s Public Source.",
-        "sourceIds": [
-          "src-news-30"
-        ]
-      },
-      {
-        "text": "PublicSource is a nonprofit news organization serving the Pittsburgh region.",
-        "sourceIds": [
-          "src-news-30"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-30",
-        "title": "‘Blue Wave’ could bring Pittsburgh colleges more money",
-        "url": "https://www.publicsource.org/pennsylvania-higher-ed-funding-democratic-majority/",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community colleges,\" said state Sen. Jay Costa, \"… [but] what it looks like, what it might b"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "‘Blue Wave’ could bring Pittsburgh colleges more money",
-    "oneLineSummary": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state system and community co",
-    "categoryTag": "State/Regional",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "“There’s a greater receptiveness to wanting to increase the funding for the state-related, state sys",
-    "strongestSourceLabel": "PublicSource — 2026-11-24",
-    "strongestSourceUrl": "https://www.publicsource.org/pennsylvania-higher-ed-funding-democratic-majority/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-11-24",
-    "date": "2026-11-24",
-    "relatedNewsId": 30,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "news-31",
-    "headline": "A word, a neighborhood, a mission — and 47 zines",
-    "governmentLevel": "local",
-    "topicArea": "General",
-    "whyItMatters": "This development affects the General sector in Pittsburgh.",
-    "whatChanged": "Public Source invited people across the region to make zines about people, places and experiences they were curious about. A CMU design class turned zines into an exploration. “How does one come to encounter a place that’s new in a way that allows for this letting in of love, letting in care?” The p",
-    "urgency": "low",
-    "actionNeeded": "Stay informed about this development.",
-    "keyStakeholders": [
-      "PublicSource",
-      "PITTSBURGH",
-      "ROSS"
-    ],
-    "evidenceBullets": [
-      {
-        "text": "Public Source invited people across the region to make zines about people, places and experiences they were curious about.",
-        "sourceIds": [
-          "src-news-31"
-        ]
-      },
-      {
-        "text": "A CMU design class turned zines into an exploration.",
-        "sourceIds": [
-          "src-news-31"
-        ]
-      },
-      {
-        "text": "“How does one come to encounter a place that’s new in a way that allows for this letting in of love, letting in care?” The post A word, a neighborhood, a mission — and 47 zines appeared first on Pittsburgh&#039;s Public Source.",
-        "sourceIds": [
-          "src-news-31"
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "id": "src-news-31",
-        "title": "A word, a neighborhood, a mission — and 47 zines",
-        "url": "https://www.publicsource.org/cmu-students-east-liberty-zines/",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "secondary",
-        "confidenceLevel": "medium",
-        "quote": "Public Source invited people across the region to make zines about people, places and experiences they were curious about. A CMU design class turned zines into an exploration. “How does one come to en"
-      }
-    ],
-    "confidenceLevel": "medium",
-    "importanceScore": 4,
-    "urgencyScore": 3,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "A word, a neighborhood, a mission — and 47 zines",
-    "oneLineSummary": "Public Source invited people across the region to make zines about people, places and experiences they were curious abou",
-    "categoryTag": "General",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Public Source invited people across the region to make zines about people, places and experiences th",
-    "strongestSourceLabel": "PublicSource — 2026-11-24",
-    "strongestSourceUrl": "https://www.publicsource.org/cmu-students-east-liberty-zines/",
-    "callToAction": "Read the full report",
-    "infographicCaption": "PublicSource — 2026-11-24",
-    "date": "2026-11-24",
-    "relatedNewsId": 31,
     "feedbackOpportunity": false
   },
   {
@@ -743,8 +484,8 @@
         "id": "src-dev-1",
         "title": "Kelly Street Rezoning",
         "url": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Proposed by URA; rezoning from R1D-L to UI; future multiunit residential building planned; requires Planning Commission and City Council hearings; Development Activities Meeting held with Homewood Com"
@@ -764,7 +505,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/kelly-street-rezoning",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Kelly Street / Formosa Way (parcels 125-G-18 area)",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -801,8 +542,8 @@
         "id": "src-dev-2",
         "title": "Lower Hill District Housing RFP",
         "url": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "6.82 acres URA-owned land; public comment period open March 12 – April 7, 2026; URA Board vote on April 9, 2026; also includes Bedford Dwellings/Hill District mixed-income housing project (Trek Develo"
@@ -822,7 +563,7 @@
     "strongestSourceUrl": "https://www.ura.org/news/ura-to-advance-lower-hill-redevelopment-process",
     "callToAction": "Stay informed",
     "infographicCaption": "Open for Comment — Lower Hill District, Block A and Block C",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-04-07"
   },
@@ -858,8 +599,8 @@
         "id": "src-dev-3",
         "title": "Pittsburgh Comprehensive Plan",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Two-year planning process; community-led engagement with consultant team; guided by 'Just Transition' and climate justice principles; covers 8 themes: welcoming community, safe city, youth, economic o"
@@ -879,7 +620,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-comprehensive-plan",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -914,8 +655,8 @@
         "id": "src-dev-4",
         "title": "Implementing the Housing Needs Assessment – Zoning Reforms",
         "url": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Minimum lot size legislation 2025-1579 passed and in effect citywide; future phases include comprehensive residential zoning code overhaul; inclusionary zoning (IZ) overlay currently active in Lawrenc"
@@ -935,7 +676,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/implementing-housing-needs-assessment",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -970,8 +711,8 @@
         "id": "src-dev-5",
         "title": "Mayor O'Connor Permitting Process Reform & Zoning Code Overhaul",
         "url": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Announced March 9, 2026; executive order issued on mayor's first day requiring 60-day departmental review; first comprehensive zoning code rewrite in decades; Phase 1 actions being implemented Q1-Q2 2"
@@ -991,7 +732,7 @@
     "strongestSourceUrl": "https://www.pittsburghpa.gov/News-articles/Homepage/Mayor-O%E2%80%99Connor-Announces-Plans-for-City-Permitting-Process-Reform",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1027,8 +768,8 @@
         "id": "src-dev-6",
         "title": "California Ave. Bridge Rehabilitation Project",
         "url": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Bridge built 1928; eligible for National Register of Historic Places (Criterion C); community meeting held July 24, 2025; federal FHWA and PennDOT District 11-0 cooperation; consultants: MS Consultant"
@@ -1048,7 +789,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/california-ave-bridge-rehabilitation-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — California Avenue (Robert McAfee Bridge)",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1084,8 +825,8 @@
         "id": "src-dev-7",
         "title": "Frankstown Avenue Signal Improvements",
         "url": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Federal CMAQ grant of ~$4.3 million; construction began January 2026; 9 intersections in scope; part of 2022 Homewood Mobility Plan; DOMI lead; signal replacements at Murtland, Lang, Homewood, Collier"
@@ -1105,7 +846,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/frankstown-avenue-signal-improvements",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Frankstown Avenue, Murtland Ave to Blackadore St",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1141,8 +882,8 @@
         "id": "src-dev-8",
         "title": "Liberty Avenue Highway Safety Improvement Project",
         "url": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "HSIP (Federal Highway Safety Improvement Program) funded; full signal replacement at 6 intersections; new signal at 27th St; RRFB conversion at 17th St; part of Strip District Mobility Plan; also coor"
@@ -1162,7 +903,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/liberty-avenue-highway-safety-improvement-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Liberty Avenue, Strip District (17th St to 32nd St)",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1198,8 +939,8 @@
         "id": "src-dev-9",
         "title": "Brighton Heights, California & Termon Intersection Improvement",
         "url": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "9 crashes 2020-2024 (4 serious injury, 1 pedestrian injury); PRT Route 13 serves this intersection (~32 boardings/weekday); dominant crash type: 'angle' (turning/yielding behavior); project will produ"
@@ -1219,7 +960,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/brighton-heights-california-termon-intersection-improvement",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Brighton Heights Blvd / California Ave / Termon Ave",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1255,8 +996,8 @@
         "id": "src-dev-10",
         "title": "Penn Plaza Block B (Pennley Park South)",
         "url": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Developer: LG Realty Advisors, Inc.; privately-owned development (City role is zoning compliance review and engagement facilitation); Block A (Whole Foods) completed 2022; Block C (Enright Park renova"
@@ -1276,7 +1017,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/penn-plaza-block-b",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Penn Plaza site, East Liberty",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1312,8 +1053,8 @@
         "id": "src-dev-11",
         "title": "Bloomfield Bridge Rehabilitation",
         "url": "https://engage.pittsburghpa.gov/bloomfield-bridge",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Largest deck-area bridge in Pittsburgh; spans East Busway and railroad lines; emergency maintenance (expansion joint seals) completed fall 2025; full rehabilitation in planning phase; DOMI lead; work "
@@ -1333,7 +1074,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/bloomfield-bridge",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Bloomfield Bridge (Bloomfield neighborhood)",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1369,8 +1110,8 @@
         "id": "src-dev-12",
         "title": "Serpentine Drive Wall Repair & Access Conversion",
         "url": "https://engage.pittsburghpa.gov/serpentine-drive",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Wall collapsed in 2019; ~265 feet of masonry wall replacement/repair; architectural treatment to replicate original stone masonry aesthetics; proposes closure to motor vehicles permanently; 60-day pub"
@@ -1390,7 +1131,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/serpentine-drive",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Serpentine Drive, Schenley Park",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1426,8 +1167,8 @@
         "id": "src-dev-13",
         "title": "Warrington Recreation Center Renovation",
         "url": "https://engage.pittsburghpa.gov/warrington-recreation-center",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Funded by Redevelopment Assistance Capital Program (RACP) grants and local dollars; key features: recording studio, elevator (ADA), new playground, outdoor basketball court; Department of Public Works"
@@ -1447,7 +1188,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/warrington-recreation-center",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Warrington Recreation Center",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1482,8 +1223,8 @@
         "id": "src-dev-14",
         "title": "Vision Zero – Traffic Safety Program",
         "url": "https://engage.pittsburghpa.gov/vision-zero",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Formally adopted 2024; Mayor Gainey's 2024 budget nearly doubled traffic safety capital investment; sub-programs include: Neighborhood Traffic Calming, Safe Routes to School, Automated Red Light Enfor"
@@ -1503,7 +1244,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vision-zero",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1539,8 +1280,8 @@
         "id": "src-dev-15",
         "title": "Vending Program Rules & Regulations",
         "url": "https://engage.pittsburghpa.gov/vending-program",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Legislation passed November 18, 2025; signed by Mayor Gainey November 19, 2025; Ordinances 34 and 35; amended Zoning Code and Chapter 719 (Vendors and Peddlers); final rules/regulations publication ta"
@@ -1560,7 +1301,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/vending-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Open Projects (Seeking Feedback) — Citywide",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false,
     "feedbackDeadline": "2026-03-12"
   },
@@ -1596,8 +1337,8 @@
         "id": "src-dev-16",
         "title": "Historic Preservation Program",
         "url": "https://engage.pittsburghpa.gov/historic-preservation-program",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Guided by PreservePGH (2012); ongoing Architectural Inventory Project (surveys since 2014); new design guidelines contract approved March 2026 for Mexican War Streets and Manchester Historic Districts"
@@ -1617,7 +1358,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/historic-preservation-program",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1653,8 +1394,8 @@
         "id": "src-dev-17",
         "title": "South Side Park Project",
         "url": "https://engage.pittsburghpa.gov/south-side-park-project",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Phase 1 ongoing; stormwater r-tanks installed in coordination with Pittsburgh Water (PWSA); public art project funded by Percent for Art program; City Council Resolution 2026-0177 authorized Pittsburg"
@@ -1674,7 +1415,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/south-side-park-project",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — South Side Park",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1709,8 +1450,8 @@
         "id": "src-dev-18",
         "title": "Safe Routes to School Program",
         "url": "https://engage.pittsburghpa.gov/safe-routes-to-school",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Ongoing annual program; DOMI lead; combines engineering improvements (crosswalks, signage, sidewalks) with education and encouragement; part of Vision Zero safe systems approach; updated January 2026"
@@ -1730,7 +1471,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/safe-routes-to-school",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide (school corridors)",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1765,8 +1506,8 @@
         "id": "src-dev-19",
         "title": "Pittsburgh Regional Disparity Study",
         "url": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Citywide procurement disparity analysis; examines race, ethnicity, and gender-based disparities in city contracting; will inform MBE/WBE program policies; findings will guide equitable contracting req"
@@ -1786,7 +1527,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/pittsburgh-regional-disparity-study",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Citywide",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1822,8 +1563,8 @@
         "id": "src-dev-20",
         "title": "Allegheny Riverfront Park Restoration",
         "url": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "Total project cost: $6.3 million; partners: Riverlife, City of Pittsburgh, Pittsburgh Cultural Trust; designer: Michael Van Valkenburgh Associates + LaQuatra Bonci Associates; construction anticipated"
@@ -1843,7 +1584,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/allegheny-riverfront-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Allegheny Riverfront Park (between 6th, 7th, and 9th Street Bridges)",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1879,8 +1620,8 @@
         "id": "src-dev-21",
         "title": "Westinghouse Park Master Plan",
         "url": "https://engage.pittsburghpa.gov/westinghouse-park",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high",
         "quote": "10.2-acre park; partnership between Westinghouse Park 2nd Century Coalition and Point Breeze North Development Corporation; funded by URA Neighborhood Initiative program grant and private funder; fina"
@@ -1900,7 +1641,7 @@
     "strongestSourceUrl": "https://engage.pittsburghpa.gov/westinghouse-park",
     "callToAction": "Stay informed",
     "infographicCaption": "Active — Westinghouse Park",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1929,9 +1670,9 @@
       {
         "id": "src-dev-22",
         "title": "In Progress",
-        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#b5cfdadbdcdbd2f5c5dcc1c1c6d7c0c7d2ddc5d49bd2dac3",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "url": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#502a3f3e393e37102039242423322522373820317e373f26",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "government_document",
         "confidenceLevel": "high"
       }
@@ -1947,10 +1688,10 @@
     "categoryColor": "#eab308",
     "keyStatOrQuote": "The Department of City Planning is reviewing a proposal for a new mixed-use building in the Central ",
     "strongestSourceLabel": "EngagePGH",
-    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#b5cfdadbdcdbd2f5c5dcc1c1c6d7c0c7d2ddc5d49bd2dac3",
+    "strongestSourceUrl": "https://engage.pittsburghpa.gov/cdn-cgi/l/email-protection#502a3f3e393e37102039242423322522373820317e373f26",
     "callToAction": "Stay informed",
     "infographicCaption": "Under Review — Pittsburgh",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "feedbackOpportunity": false
   },
   {
@@ -1959,7 +1700,7 @@
     "governmentLevel": "local",
     "topicArea": "City Governance",
     "whyItMatters": "Decisions by Pittsburgh City Council affect city services and policy.",
-    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-11-25.",
+    "whatChanged": "Pittsburgh City Council held Regular Meeting on 2026-11-26.",
     "urgency": "low",
     "actionNeeded": "Watch recording for full proceedings.",
     "keyStakeholders": [
@@ -1969,10 +1710,10 @@
     "sources": [
       {
         "id": "src-meeting-22-video",
-        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-25",
+        "title": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-26",
         "url": "https://www.youtube.com/watch?v=aD7pADufySA",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "video",
         "confidenceLevel": "high",
         "speaker": "City Channel Pittsburgh"
@@ -1981,8 +1722,8 @@
         "id": "src-meeting-22-record",
         "title": "Pittsburgh City Council Regular Meeting — The 2026 City of Pittsburgh Gingerbread Display",
         "url": "https://www.youtube.com/watch?v=aD7pADufySA",
-        "publishedDate": "2026-11-25",
-        "retrievedDate": "2026-11-25",
+        "publishedDate": "2026-11-26",
+        "retrievedDate": "2026-11-26",
         "sourceType": "meeting_record",
         "confidenceLevel": "high",
         "agendaItem": "Regular Meeting"
@@ -1994,69 +1735,16 @@
     "localRelevance": 6,
     "influenceability": 3,
     "displayHeadline": "Pittsburgh City Council Regular Meeting — The 2026 City of Pittsburgh Gingerbread Display",
-    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-11-25.",
+    "oneLineSummary": "Pittsburgh City Council Regular Meeting on 2026-11-26.",
     "categoryTag": "City Governance",
     "categoryColor": "#6b7280",
     "keyStatOrQuote": "Pittsburgh City Council",
-    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-25",
+    "strongestSourceLabel": "City Channel Pittsburgh — Pittsburgh City Council Meeting — 2026-11-26",
     "strongestSourceUrl": "https://www.youtube.com/watch?v=aD7pADufySA",
     "callToAction": "Attend next Pittsburgh City Council meeting",
-    "infographicCaption": "Pittsburgh City Council — 2026-11-25",
-    "date": "2026-11-25",
+    "infographicCaption": "Pittsburgh City Council — 2026-11-26",
+    "date": "2026-11-26",
     "relatedMeetingId": 22,
-    "feedbackOpportunity": false
-  },
-  {
-    "id": "meeting-29",
-    "headline": "Pittsburgh Public Schools Board Board Meeting — Legislative Meeting - November 24, 2026",
-    "governmentLevel": "local",
-    "topicArea": "Education",
-    "whyItMatters": "Decisions by Pittsburgh Public Schools Board affect city services and policy.",
-    "whatChanged": "Pittsburgh Public Schools Board held Board Meeting on 2026-11-24.",
-    "urgency": "low",
-    "actionNeeded": "Watch recording for full proceedings.",
-    "keyStakeholders": [
-      "Pittsburgh Public Schools Board"
-    ],
-    "evidenceBullets": [],
-    "sources": [
-      {
-        "id": "src-meeting-29-video",
-        "title": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-24",
-        "url": "https://www.youtube.com/watch?v=qpW2PCwkW1g",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "video",
-        "confidenceLevel": "high",
-        "speaker": "Pittsburgh Public Schools"
-      },
-      {
-        "id": "src-meeting-29-record",
-        "title": "Pittsburgh Public Schools Board Board Meeting — Legislative Meeting - November 24, 2026",
-        "url": "https://www.youtube.com/watch?v=qpW2PCwkW1g",
-        "publishedDate": "2026-11-24",
-        "retrievedDate": "2026-11-25",
-        "sourceType": "meeting_record",
-        "confidenceLevel": "high",
-        "agendaItem": "Board Meeting"
-      }
-    ],
-    "confidenceLevel": "low",
-    "importanceScore": 5,
-    "urgencyScore": 2,
-    "localRelevance": 6,
-    "influenceability": 3,
-    "displayHeadline": "Pittsburgh Public Schools Board Board Meeting — Legislative Meeting - November 24, 2026",
-    "oneLineSummary": "Pittsburgh Public Schools Board Board Meeting on 2026-11-24.",
-    "categoryTag": "Education",
-    "categoryColor": "#6b7280",
-    "keyStatOrQuote": "Pittsburgh Public Schools Board",
-    "strongestSourceLabel": "Pittsburgh Public Schools — Pittsburgh Public Schools Board Meeting — 2026-11-24",
-    "strongestSourceUrl": "https://www.youtube.com/watch?v=qpW2PCwkW1g",
-    "callToAction": "Attend next Pittsburgh Public Schools Board meeting",
-    "infographicCaption": "Pittsburgh Public Schools Board — 2026-11-24",
-    "date": "2026-11-24",
-    "relatedMeetingId": 29,
     "feedbackOpportunity": false
   }
 ]
